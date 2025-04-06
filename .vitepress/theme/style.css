@@ -44,6 +44,12 @@
  * -------------------------------------------------------------------------- */
 
 :root {
+  --vp-c-indigo-1: #007aff;
+  --vp-c-indigo-2: #0071e3;
+  --vp-c-indigo-3: #0065d3;
+}
+
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
