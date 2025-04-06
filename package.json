@@ -5,6 +5,9 @@
   "type": "module",
   "description": "Health Art Documentation",
   "main": "index.js",
+  "packages": [
+    "."
+  ],
   "devDependencies": {
     "@types/node": "^20.0.0",
     "@types/vue": "^2.0.0",
