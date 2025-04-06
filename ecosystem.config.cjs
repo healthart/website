@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   apps: [{
     name: 'health-art',
     script: 'pnpm',
