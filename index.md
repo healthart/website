@@ -12,11 +12,11 @@ hero:
       link: /hubermanlab/healthy_breathing_techniques
     - theme: alt
       text: "了解更多"
-      link: /peterattiamd/
+      link: /about
 
 features:
   - title: "Huberman Lab 健康行动指南"
-    details: "深度总结Huberman Lab播客内容精华，提取科学支持的实用建议，帮助您改善睡眠、减轻压力、提高认知能力与整体健康水平。"
+    details: "深度总结Huberman Lab播客精华，提取科学支持的实用建议，帮您改善睡眠、减轻压力、提高认知能力与健康水平。"
     link: /hubermanlab/healthy_breathing_techniques
     icon: ⚡
   - title: "Peter Attia 健康行动指南"

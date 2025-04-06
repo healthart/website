@@ -138,6 +138,10 @@
 }
 
 :root {
+  --vp-sidebar-bg-color: var(--vp-c-bg);
+}
+
+:root {
   --vp-button-brand-bg: #007aff;
   --vp-button-brand-hover-bg: #0071e3;
   --vp-button-brand-active-bg: #0071e3;
@@ -242,10 +246,6 @@
   font-size: 16px;
 }
 
-.VPFeatures .items > .item {
-  /* padding: 24px; */
-}
-
 .VPFeatures .items > .item:nth-child(1) .box::before {
   background: var(--huberman-gradient);
 }
@@ -267,7 +267,7 @@
 .VPFeature > .box {
   position: relative;
   align-items: center;
-  height: 320px;
+  height: 340px;
   border-radius: 20px;
   overflow: hidden;
   box-shadow: var(--card-shadow);
@@ -286,6 +286,8 @@
 }
 
 .VPFeature > .box > .icon {
+  flex-grow: 0;
+  flex-shrink: 0;
   margin-bottom: 3rem;
   width: 120px;
   height: 120px;
@@ -298,11 +300,20 @@
   font-size: 1.5rem;
 }
 
+@media (max-width: 640px) {
+  .Layout .VPContent {
+    padding: 0 12px;
+  }
+  
+  .VPFeature > .box > .title {
+    font-size: 1.35rem;
+  }
+}
+
 .VPFeature > .box > .details {
   font-size: 1rem;
   font-weight: 300;
 }
-
 
 .Layout .VPContent {
   background-color: var(--vp-c-brand-soft);
@@ -331,4 +342,28 @@
   .tagline {
     max-width: 720px !important;
   }
+}
+
+.VPPage {
+  display: flex;
+  flex-direction: column;
+  margin: 12px auto 0;
+  padding: 24px;
+  max-width: 960px;
+  width: 100%;
+  line-height: 1.85;
+  border-radius: 12px;
+  background-color: var(--vp-c-bg);
+}
+
+.VPPage h1 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.VPPage h2 {
+  margin: .5rem 0;
+  font-size: 1.15rem;
+  font-weight: bold;
 }
