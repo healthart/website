@@ -13,6 +13,10 @@ export default defineConfig({
       { text: '关于我们', link: '/about' }
     ],
 
+    search: {
+      provider: 'local'
+    },
+
     socialLinks: [
       { icon: 'twitter', link: 'https://github.com/vuejs/vitepress' }
     ],

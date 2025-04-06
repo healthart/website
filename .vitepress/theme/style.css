@@ -198,16 +198,14 @@
   letter-spacing: -0.5px;
 }
 
-.VPNavBar.has-sidebar .divider {
+.VPNavBar .divider {
   display: none;
 }
 
 .VPNavBar.has-sidebar .title {
-  /* display: none; */
   height: 64px;
   background-color: none;
   border-bottom: none;
-  /* background-color: #c32; */
 }
 
 
@@ -369,7 +367,7 @@
 }
 
 .VPPage h2 {
-  margin: .5rem 0;
+  margin: 2rem 0 .5rem;
   font-size: 1.15rem;
   font-weight: bold;
 }
