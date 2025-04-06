@@ -2,7 +2,7 @@ module.exports = {
   apps: [{
     name: 'health-art',
     script: 'pnpm',
-    args: 'preview',
+    args: 'dev',
     interpreter: 'none',
     env: {
       NODE_ENV: 'production'
