@@ -1,7 +1,8 @@
 # 时间限制饮食指南：改善健康与代谢的实用方案
 
-原始文件：Effects of Fasting & Time Restricted Eating on Fat Loss & Health.md
-原文链接：https://podwise.ai/dashboard/episodes/46028
+原文标题：Effects of Fasting & Time Restricted Eating on Fat Loss & Health
+
+原文链接：https://www.hubermanlab.com/episode/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health
 
 ## 确定行动指南
 

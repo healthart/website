@@ -1,7 +1,8 @@
 # 睡眠科学实用指南：改善记忆、情绪和健康
 
-原始文件：Dr. Gina Poe- Use Sleep to Enhance Learning, Memory & Emotional State.md
-原文链接：https://podwise.ai/dashboard/episodes/71340
+原文标题：Dr. Gina Poe- Use Sleep to Enhance Learning, Memory & Emotional State
+
+原文链接：https://www.hubermanlab.com/episode/dr-gina-poe-use-sleep-to-enhance-learning-memory-and-emotional-state
 
 本期播客中，神经科学家Gina Poe博士详细探讨了睡眠科学，特别关注睡眠如何影响学习、记忆和情绪处理。以下是基于强有力证据的关键行动建议：
 

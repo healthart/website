@@ -1,7 +1,8 @@
 # 身心实践的关键行动指南：聆听身体的智慧，培养自我照顾
 
-原始文件：Dr. Martha Beck- Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination.md
-原文链接：https://podwise.ai/dashboard/episodes/1615492
+原文标题：Dr. Martha Beck- Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination
+
+原文链接：https://www.hubermanlab.com/episode/dr-martha-beck-accessing-your-best-self-with-mind-body-practices-belief-testing-imagination
 
 以下是根据医学内容提炼的高实用性行动建议，将帮助您连接自我本质、减轻焦虑并改善身心健康：
 

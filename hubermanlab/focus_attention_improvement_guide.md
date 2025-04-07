@@ -1,7 +1,8 @@
 # 专注力与注意力提升指南：确定行动建议
 
-原始文件：ADHD & How Anyone Can Improve Their Focus.md
-原文链接：https://podwise.ai/dashboard/episodes/46032
+原文标题：ADHD & How Anyone Can Improve Their Focus
+
+原文链接：https://www.hubermanlab.com/episode/adhd-and-how-anyone-can-improve-their-focus
 
 ## 立即可行的行动策略（强证据支持）
 

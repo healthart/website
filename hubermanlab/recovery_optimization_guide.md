@@ -1,7 +1,8 @@
 # 恢复优化指南：将科学转化为实际行动
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- Maximize Recovery to Achieve Fitness & Performance Goals.md
-原文链接：https://podwise.ai/dashboard/episodes/3171
+原文标题：GUEST SERIES - Dr. Andy Galpin- Maximize Recovery to Achieve Fitness & Performance Goals
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals
 
 ## 确定行动指南
 

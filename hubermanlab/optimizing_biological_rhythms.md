@@ -1,7 +1,8 @@
 # 时间感知精准指南：利用生物节律与神经递质优化健康与表现
 
-原始文件：Time Perception & Entrainment by Dopamine, Serotonin & Hormones.md
-原文链接：https://podwise.ai/dashboard/episodes/71416
+原文标题：Time Perception & Entrainment by Dopamine, Serotonin & Hormones
+
+原文链接：https://www.hubermanlab.com/episode/time-perception-and-entrainment-by-dopamine-serotonin-and-hormones
 
 ## 确定行动指南
 

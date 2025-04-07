@@ -1,7 +1,8 @@
 # 大脑管理与人生导航：从神经科学角度提升自我
 
-原始文件：Dr. Jordan Peterson- How to Best Guide Your Life Decisions & Path.md
-原文链接：https://podwise.ai/dashboard/episodes/2604743
+原文标题：Dr. Jordan Peterson- How to Best Guide Your Life Decisions & Path
+
+原文链接：https://www.hubermanlab.com/episode/dr-jordan-peterson-how-to-best-guide-your-life-decisions-path
 
 这场对话展示了如何将神经科学和心理学知识转化为实用工具，帮助我们更好地管理自己的心理状态、行为和人际关系。以下是最具实用价值的见解和策略：
 

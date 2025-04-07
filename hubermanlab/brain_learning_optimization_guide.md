@@ -1,7 +1,8 @@
 # 优化大脑学习与认知功能的实用指南
 
-原始文件：Dr. Terry Sejnowski- How to Improve at Learning Using Neuroscience & AI.md
-原文链接：https://podwise.ai/dashboard/episodes/2317427
+原文标题：Dr. Terry Sejnowski- How to Improve at Learning Using Neuroscience & AI
+
+原文链接：https://www.hubermanlab.com/episode/dr-terry-sejnowski-how-to-improve-at-learning-using-neuroscience-ai
 
 ## 确定行动指南
 

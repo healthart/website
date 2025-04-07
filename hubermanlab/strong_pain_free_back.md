@@ -1,7 +1,8 @@
 # 强壮无痛的背部：循证实践指南
 
-原始文件：Dr. Stuart McGill- Build a Strong, Pain-Proof Back.md
-原文链接：https://podwise.ai/dashboard/episodes/1521816
+原文标题：Dr. Stuart McGill- Build a Strong, Pain-Proof Back
+
+原文链接：https://www.hubermanlab.com/episode/dr-stuart-mcgill-build-a-strong-pain-proof-back
 
 ## 确定行动指南
 

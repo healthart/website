@@ -1,7 +1,8 @@
 # 【实用行动指南】力量训练与耐力发展的科学方法
 
-原始文件：Pavel Tsatsouline- The Correct Way to Build Strength, Endurance & Flexibility at Any Age.md
-原文链接：https://podwise.ai/dashboard/episodes/2939423
+原文标题：Pavel Tsatsouline- The Correct Way to Build Strength, Endurance & Flexibility at Any Age
+
+原文链接：https://www.hubermanlab.com/episode/pavel-tsatsouline-build-strength-endurance-flexibility-at-any-age
 
 在这期播客中，力量训练专家Pavel Tsatsouline分享了基于几十年研究和实践的训练方法，重点关注力量、耐力和灵活性的发展。以下是最具实用价值的行动建议：
 

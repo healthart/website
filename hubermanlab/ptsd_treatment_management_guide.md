@@ -1,7 +1,8 @@
 # PTSD治疗与管理：实用指南
 
-原始文件：Dr. Victor Carrión- How to Heal From Post-Traumatic Stress Disorder (PTSD).md
-原文链接：https://podwise.ai/dashboard/episodes/1939894
+原文标题：Dr. Victor Carrión- How to Heal From Post-Traumatic Stress Disorder (PTSD)
+
+原文链接：https://www.hubermanlab.com/episode/dr-victor-carrion-how-to-heal-from-post-traumatic-stress-disorder
 
 ## 确定行动指南
 

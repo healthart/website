@@ -1,7 +1,8 @@
 # 革命性细胞科学研究：医学突破与健康应用实用指南
 
-原始文件：Mark Zuckerberg & Dr. Priscilla Chan- Curing All Human Diseases & the Future of Health & Technology.md
-原文链接：https://podwise.ai/dashboard/episodes/42925
+原文标题：Mark Zuckerberg & Dr. Priscilla Chan- Curing All Human Diseases & the Future of Health & Technology
+
+原文链接：https://www.hubermanlab.com/episode/mark-zuckerberg-dr-priscilla-chan-curing-all-human-diseases-future-of-health-technology
 
 从哈伯曼实验室与扎克伯格和陈慧娴博士的对话中，我提取了最具实用价值的医学见解和行动建议，帮助你了解细胞研究如何改变疾病治疗和健康管理。
 

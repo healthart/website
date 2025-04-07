@@ -1,7 +1,8 @@
 # 学习与神经可塑性：错误、平衡与动作的关键作用
 
-原始文件：How to Learn Faster by Using Failures, Movement & Balance.md
-原文链接：https://podwise.ai/dashboard/episodes/46062
+原文标题：How to Learn Faster by Using Failures, Movement & Balance
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-learn-faster-by-using-failures-movement-balance
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 科学化脂肪燃烧指南：从神经系统到实用策略
 
-原始文件：How to Lose Fat With Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/46048
+原文标题：How to Lose Fat With Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/how-to-lose-fat-with-science-based-tools
 
 ## 核心行动指南
 

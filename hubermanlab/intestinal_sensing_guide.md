@@ -1,7 +1,8 @@
 # 肠道感知系统：实用指南
 
-原始文件：Dr. Diego Bohórquez- The Science of Your Gut Sense & the Gut-Brain Axis.md
-原文链接：https://podwise.ai/dashboard/episodes/1268500
+原文标题：Dr. Diego Bohórquez- The Science of Your Gut Sense & the Gut-Brain Axis
+
+原文链接：https://www.hubermanlab.com/episode/dr-diego-bohorquez-the-science-of-your-gut-sense-the-gut-brain-axis
 
 ## 确定行动指南
 

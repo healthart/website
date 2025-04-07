@@ -1,7 +1,8 @@
 # 医学内容实用指南：冷疗、皮肤健康与睡眠优化
 
-原始文件：AMA #18- Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More.md
-原文链接：https://podwise.ai/dashboard/episodes/1608843
+原文标题：AMA #18- Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more
 
 ## 确定行动指南
 

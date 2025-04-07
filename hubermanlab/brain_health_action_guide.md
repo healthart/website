@@ -1,7 +1,8 @@
 # 大脑健康实用指南：从 Huberman Lab 播客提炼的行动策略
 
-原始文件：LIVE EVENT Q&A- Dr. Andrew Huberman at Plenary in Melbourne.md
-原文链接：https://podwise.ai/dashboard/episodes/838112
+原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at Plenary in Melbourne
+
+原文链接：https://www.youtube.com/watch?app=desktop&v=ttNxNbqNQK4
 
 ## 确定行动指南
 

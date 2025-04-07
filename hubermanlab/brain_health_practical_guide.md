@@ -1,7 +1,8 @@
 # 优化认知功能与大脑健康：实用指南
 
-原始文件：Dr. Mark D'Esposito- How to Optimize Cognitive Function & Brain Health.md
-原文链接：https://podwise.ai/dashboard/episodes/333700
+原文标题：Dr. Mark D'Esposito- How to Optimize Cognitive Function & Brain Health
+
+原文链接：https://www.hubermanlab.com/episode/dr-mark-desposito-how-to-optimize-cognitive-function-brain-health
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 女性荷尔蒙健康优化指南：从科学到实践
 
-原始文件：Dr. Sara Gottfried- How to Optimize Female Hormone Health for Vitality & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/71344
+原文标题：Dr. Sara Gottfried- How to Optimize Female Hormone Health for Vitality & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-sara-gottfried-how-to-optimize-female-hormone-health-for-vitality-and-longevity
 
 ## 确定行动指南
 

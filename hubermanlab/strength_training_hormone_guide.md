@@ -1,7 +1,8 @@
 # 力量训练与激素优化实用指南
 
-原始文件：Dr. Duncan French- How to Exercise for Strength Gains & Hormone Optimization.md
-原文链接：https://podwise.ai/dashboard/episodes/71417
+原文标题：Dr. Duncan French- How to Exercise for Strength Gains & Hormone Optimization
+
+原文链接：https://www.hubermanlab.com/episode/dr-duncan-french-how-to-exercise-for-strength-gains-and-hormone-optimization
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 多巴胺与持续动力：科学行动指南
 
-原始文件：AMA #4- Maintain Motivation, Improve REM Sleep, Set Goals, Manage Anxiety & More.md
-原文链接：https://podwise.ai/dashboard/episodes/2364
+原文标题：AMA #4- Maintain Motivation, Improve REM Sleep, Set Goals, Manage Anxiety & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-4-maintain-motivation-improve-rem-sleep-set-goals-manage-anxiety-more
 
 ## 确定行动指南
 

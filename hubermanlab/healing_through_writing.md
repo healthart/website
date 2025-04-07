@@ -1,7 +1,8 @@
 # 创伤日记疗法：改善心理和身体健康的实证方案
 
-原始文件：A Science-Supported Journaling Protocol to Improve Mental & Physical Health.md
-原文链接：https://podwise.ai/dashboard/episodes/70823
+原文标题：A Science-Supported Journaling Protocol to Improve Mental & Physical Health
+
+原文链接：https://www.hubermanlab.com/episode/a-science-supported-journaling-protocol-to-improve-mental-physical-health
 
 ## 确定行动指南
 

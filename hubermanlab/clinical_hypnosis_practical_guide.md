@@ -1,7 +1,8 @@
 # 临床催眠术：医学健康管理的实用指南
 
-原始文件：Dr. David Spiegel- Using Hypnosis to Enhance Mental & Physical Health & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/71402
+原文标题：Dr. David Spiegel- Using Hypnosis to Enhance Mental & Physical Health & Performance
+
+原文链接：https://www.hubermanlab.com/episode/dr-david-spiegel-using-hypnosis-to-enhance-mental-and-physical-health-and-performance
 
 ## 核心行动指南
 

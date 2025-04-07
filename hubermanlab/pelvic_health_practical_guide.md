@@ -1,7 +1,8 @@
 # 性健康与盆底功能的实用指南
 
-原始文件：Dr. Rena Malik- Improving Sexual & Urological Health in Males and Females.md
-原文链接：https://podwise.ai/dashboard/episodes/1543
+原文标题：Dr. Rena Malik- Improving Sexual & Urological Health in Males and Females
+
+原文链接：https://www.hubermanlab.com/episode/dr-rena-improving-sexual-and-urological-health-in-males-and-females
 
 ## 确定行动指南
 

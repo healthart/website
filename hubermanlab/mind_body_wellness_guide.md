@@ -1,7 +1,8 @@
 # 实用行动指南：神经科学视角下的身心健康
 
-原始文件：Dr. David Linden- Life, Death & the Neuroscience of Your Unique Experience.md
-原文链接：https://podwise.ai/dashboard/episodes/4557
+原文标题：Dr. David Linden- Life, Death & the Neuroscience of Your Unique Experience
+
+原文链接：https://www.hubermanlab.com/episode/dr-david-linden-life-death-and-the-neuroscience-of-your-unique-experience
 
 ## 确定行动指南
 

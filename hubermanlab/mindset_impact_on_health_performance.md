@@ -1,7 +1,8 @@
 # 思维模式对健康和表现的影响：实用指南
 
-原始文件：Dr. Alia Crum- Science of Mindsets for Health & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/71406
+原文标题：Dr. Alia Crum- Science of Mindsets for Health & Performance
+
+原文链接：https://www.hubermanlab.com/episode/dr-alia-crum-science-of-mindsets-for-health-performance
 
 ## 确定行动指南
 

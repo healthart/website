@@ -1,7 +1,8 @@
 # 皮肤健康与保护实用指南
 
-原始文件：Dr. Teo Soleymani- How to Improve & Protect Your Skin Health & Appearance.md
-原文链接：https://podwise.ai/dashboard/episodes/1665371
+原文标题：Dr. Teo Soleymani- How to Improve & Protect Your Skin Health & Appearance
+
+原文链接：https://www.hubermanlab.com/episode/dr-teo-soleymani-how-to-improve-protect-your-skin-health-appearance
 
 ## 确定行动指南
 

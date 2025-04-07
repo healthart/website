@@ -1,7 +1,8 @@
 # 成人玩耍指南：从科学证据到实用行动
 
-原始文件：Using Play to Rewire & Improve Your Brain.md
-原文链接：https://podwise.ai/dashboard/episodes/71404
+原文标题：Using Play to Rewire & Improve Your Brain
+
+原文链接：https://www.hubermanlab.com/episode/using-play-to-rewire-and-improve-your-brain
 
 ## 核心行动建议
 

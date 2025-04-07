@@ -1,7 +1,8 @@
 # 性激素优化实用指南：基于证据的行动建议
 
-原始文件：Essentials- How to Optimize Testosterone & Estrogen.md
-原文链接：https://podwise.ai/dashboard/episodes/3026409
+原文标题：Essentials- How to Optimize Testosterone & Estrogen
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-optimize-testosterone-estrogen
 
 ## 确定行动指南
 

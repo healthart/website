@@ -1,7 +1,8 @@
 # 肌肉健康与训练的实用指南
 
-原始文件：Perform with Dr. Andy Galpin- Why Muscle Matters & How to Build It.md
-原文链接：https://podwise.ai/dashboard/episodes/1407596
+原文标题：Perform with Dr. Andy Galpin- Why Muscle Matters & How to Build It
+
+原文链接：https://www.youtube.com/watch?v=TtBocZjflqg
 
 ## 确定行动指南
 

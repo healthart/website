@@ -1,7 +1,8 @@
 # MDMA治疗PTSD：实用指南与机制解析
 
-原始文件：The Science of MDMA & Its Therapeutic Uses- Benefits & Risks.md
-原文链接：https://podwise.ai/dashboard/episodes/1184
+原文标题：The Science of MDMA & Its Therapeutic Uses- Benefits & Risks
+
+原文链接：https://www.hubermanlab.com/episode/the-science-of-mdma-and-its-therapeutic-applications
 
 ## 确定行动指南
 

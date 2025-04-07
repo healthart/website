@@ -1,7 +1,8 @@
 # 实用医学指南：从Huberman's Lab播客中获取优质行动建议
 
-原始文件：LIVE EVENT Q&A- Dr. Andrew Huberman at the Brisbane Convention & Exhibition Centre.md
-原文链接：https://podwise.ai/dashboard/episodes/1339489
+原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at the Brisbane Convention & Exhibition Centre
+
+原文链接：https://www.youtube.com/watch?v=-e9ErUozQo4
 
 ## 确定行动指南
 

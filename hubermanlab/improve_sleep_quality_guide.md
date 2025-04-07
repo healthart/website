@@ -1,7 +1,8 @@
 # 提升睡眠质量与梦境体验的实用指南
 
-原始文件：GUEST SERIES - Dr. Matt Walker- The Science of Dreams, Nightmares & Lucid Dreaming.md
-原文链接：https://podwise.ai/dashboard/episodes/1187124
+原文标题：GUEST SERIES - Dr. Matt Walker- The Science of Dreams, Nightmares & Lucid Dreaming
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming
 
 ## 确定行动指南
 

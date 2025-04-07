@@ -1,7 +1,8 @@
 # 管理内心对话的实用指南：从想法到行动
 
-原始文件：Dr. Ethan Kross- How to Control Your Inner Voice & Increase Your Resilience.md
-原文链接：https://podwise.ai/dashboard/episodes/2365395
+原文标题：Dr. Ethan Kross- How to Control Your Inner Voice & Increase Your Resilience
+
+原文链接：https://www.hubermanlab.com/episode/dr-ethan-kross-how-to-control-your-inner-voice-increase-your-resilience
 
 ## 确定行动指南
 

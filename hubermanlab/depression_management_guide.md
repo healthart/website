@@ -1,7 +1,8 @@
 # 抑郁症管理：实用指南
 
-原始文件：Understanding & Conquering Depression.md
-原文链接：https://podwise.ai/dashboard/episodes/46035
+原文标题：Understanding & Conquering Depression
+
+原文链接：https://www.hubermanlab.com/episode/understanding-and-conquering-depression
 
 ## 确定行动指南
 

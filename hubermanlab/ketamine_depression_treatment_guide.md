@@ -1,7 +1,8 @@
 # 氯胺酮治疗抑郁症：循证实用指南
 
-原始文件：Ketamine- Benefits and Risks for Depression, PTSD & Neuroplasticity.md
-原文链接：https://podwise.ai/dashboard/episodes/361
+原文标题：Ketamine- Benefits and Risks for Depression, PTSD & Neuroplasticity
+
+原文链接：https://www.hubermanlab.com/episode/ketamine-benefits-and-risks-for-depression-ptsd-and-neuroplasticity
 
 ## 核心行动建议
 

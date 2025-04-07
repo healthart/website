@@ -1,7 +1,8 @@
 # 情绪理解与管理实用指南：从神经科学角度看情绪
 
-原始文件：Dr. Lisa Feldman Barrett- How to Understand Emotions.md
-原文链接：https://podwise.ai/dashboard/episodes/31983
+原文标题：Dr. Lisa Feldman Barrett- How to Understand Emotions
+
+原文链接：https://www.hubermanlab.com/episode/dr-lisa-feldman-barrett-how-to-understand-emotions
 
 在这期播客中，神经科学家Andrew Huberman与心理学专家Lisa Feldman Barrett博士深入探讨了情绪的本质。以下是基于强有力证据的实用指南，帮助您更好地理解和管理情绪。
 

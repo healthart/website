@@ -1,7 +1,8 @@
 # 大麻对大脑和身体的影响：实用指南
 
-原始文件：The Effects of Cannabis (Marijuana) on the Brain & Body.md
-原文链接：https://podwise.ai/dashboard/episodes/64193
+原文标题：The Effects of Cannabis (Marijuana) on the Brain & Body
+
+原文链接：https://www.hubermanlab.com/episode/the-effects-of-cannabis-marijuana-on-the-brain-and-body
 
 ## 确定行动指南
 

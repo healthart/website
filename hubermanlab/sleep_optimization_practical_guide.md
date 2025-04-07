@@ -1,7 +1,8 @@
 # 睡眠优化实用指南：强证据支持的行动建议
 
-原始文件：GUEST SERIES - Dr. Matt Walker- Protocols to Improve Your Sleep.md
-原文链接：https://podwise.ai/dashboard/episodes/1075140
+原文标题：GUEST SERIES - Dr. Matt Walker- Protocols to Improve Your Sleep
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matthew-walker-protocols-to-improve-your-sleep
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 金钱心理学：实用指南
 
-原始文件：Morgan Housel- Understand & Apply the Psychology of Money to Gain Greater Happiness.md
-原文链接：https://podwise.ai/dashboard/episodes/2420488
+原文标题：Morgan Housel- Understand & Apply the Psychology of Money to Gain Greater Happiness
+
+原文链接：https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness
 
 ## 确定行动指南
 

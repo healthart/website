@@ -1,7 +1,8 @@
 # 情绪智能提升实用指南：从认知到行动
 
-原始文件：Dr. Marc Brackett- How to Increase Your Emotional Intelligence.md
-原文链接：https://podwise.ai/dashboard/episodes/1790857
+原文标题：Dr. Marc Brackett- How to Increase Your Emotional Intelligence
+
+原文链接：https://www.hubermanlab.com/episode/dr-marc-brackett-how-to-increase-your-emotional-intelligence
 
 ## 核心行动建议
 

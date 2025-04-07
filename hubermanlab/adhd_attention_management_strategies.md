@@ -1,7 +1,8 @@
 # ADHD管理实用指南：强化注意力的关键策略
 
-原始文件：Improve Focus with Behavioral Tools & Medication for ADHD - Dr. John Kruse.md
-原文链接：https://podwise.ai/dashboard/episodes/3258776
+原文标题：Improve Focus with Behavioral Tools & Medication for ADHD - Dr. John Kruse
+
+原文链接：https://www.hubermanlab.com/episode/improve-focus-with-behavioral-tools-medication-for-adhd-john-kruse
 
 ## 确定行动指南
 

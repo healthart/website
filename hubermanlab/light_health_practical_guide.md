@@ -1,7 +1,8 @@
 # 光照对健康的强效影响：从视力保护到荷尔蒙平衡的实用指南
 
-原始文件：Using Light (Sunlight, Blue Light & Red Light) to Optimize Health.md
-原文链接：https://podwise.ai/dashboard/episodes/71394
+原文标题：Using Light (Sunlight, Blue Light & Red Light) to Optimize Health
+
+原文链接：https://www.hubermanlab.com/episode/using-light-sunlight-blue-light-and-red-light-to-optimize-health
 
 ## 确定行动指南
 

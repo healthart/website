@@ -1,7 +1,8 @@
 # 情绪与关系的科学：行动指南
 
-原始文件：Essentials- The Science of Emotions & Relationships.md
-原文链接：https://podwise.ai/dashboard/episodes/2867521
+原文标题：Essentials- The Science of Emotions & Relationships
+
+原文链接：https://www.hubermanlab.com/episode/essentials-the-science-of-emotions-relationships
 
 ## 确定行动指南
 

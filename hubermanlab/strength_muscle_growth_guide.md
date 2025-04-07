@@ -1,7 +1,8 @@
 # 力量与肌肉增长训练：实用指南
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- Optimal Protocols to Build Strength & Grow Muscles.md
-原文链接：https://podwise.ai/dashboard/episodes/71345
+原文标题：GUEST SERIES - Dr. Andy Galpin- Optimal Protocols to Build Strength & Grow Muscles
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-protocols-to-build-strength-and-grow-muscles
 
 这篇播客提供了关于力量训练和肌肉增长(肌肥大)的科学依据和实用建议。以下是关键要点和实用策略，帮助你优化训练效果。
 

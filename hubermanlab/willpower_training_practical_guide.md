@@ -1,7 +1,8 @@
 # 锻炼意志力：来自神经科学和超级耐力运动员的实用指南
 
-原始文件：David Goggins- How to Build Immense Inner Strength.md
-原文链接：https://podwise.ai/dashboard/episodes/151378
+原文标题：David Goggins- How to Build Immense Inner Strength
+
+原文链接：https://www.hubermanlab.com/episode/david-goggins-how-to-build-immense-inner-strength
 
 ## 确定行动指南
 

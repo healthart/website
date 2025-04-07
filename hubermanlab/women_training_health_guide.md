@@ -1,7 +1,8 @@
 # 女性健康与训练实用指南：营养、力量与荷尔蒙平衡
 
-原始文件：Dr. Stacy Sims- Female-Specific Exercise & Nutrition for Health, Performance & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/1546908
+原文标题：Dr. Stacy Sims- Female-Specific Exercise & Nutrition for Health, Performance & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-stacy-sims-female-specific-exercise-nutrition-for-health-performance-longevity
 
 ## 确定行动指南
 

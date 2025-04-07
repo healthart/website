@@ -1,7 +1,8 @@
 # 提升耐力与促进脂肪燃烧的实用指南
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- How to Build Physical Endurance & Lose Fat.md
-原文链接：https://podwise.ai/dashboard/episodes/71343
+原文标题：GUEST SERIES - Dr. Andy Galpin- How to Build Physical Endurance & Lose Fat
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-build-physical-endurance-and-lose-fat
 
 在这期播客中，运动生理学专家Andy Galpin博士深入探讨了耐力训练与脂肪燃烧的科学原理，并提供了实用的训练策略。以下是核心内容的实用总结：
 

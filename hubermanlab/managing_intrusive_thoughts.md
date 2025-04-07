@@ -1,7 +1,8 @@
 # 管理侵入性思维的实用指南
 
-原始文件：AMA #5- Intrusive Thoughts, CGMs, Behavioral Change, Naps & NSDR.md
-原文链接：https://podwise.ai/dashboard/episodes/271
+原文标题：AMA #5- Intrusive Thoughts, CGMs, Behavioral Change, Naps & NSDR
+
+原文链接：https://www.hubermanlab.com/episode/ama-5-intrusive-thoughts-cgms-behavioral-change-naps-nsdr
 
 ## 确定行动指南
 

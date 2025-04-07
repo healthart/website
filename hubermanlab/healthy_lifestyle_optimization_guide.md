@@ -1,7 +1,8 @@
 # 身体健康与生活质量优化指南：从睡眠到训练的实用行动
 
-原始文件：AMA #14- 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More.md
-原文链接：https://podwise.ai/dashboard/episodes/150519
+原文标题：AMA #14- 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more
 
 ## 确定行动指南
 

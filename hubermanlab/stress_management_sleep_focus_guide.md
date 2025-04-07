@@ -1,7 +1,8 @@
 # 有效管理压力、优化睡眠与提升专注力的科学指南
 
-原始文件：LIVE EVENT Q&A- Dr. Andrew Huberman at the Sydney Opera House.md
-原文链接：https://podwise.ai/dashboard/episodes/1110967
+原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at the Sydney Opera House
+
+原文链接：https://www.youtube.com/watch?v=GA89kjVY6Ik&t=4s
 
 ## 确定行动指南
 

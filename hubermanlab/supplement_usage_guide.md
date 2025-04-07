@@ -1,7 +1,8 @@
 # 补充剂合理使用指南：从科学到实践
 
-原始文件：Developing a Rational Approach to Supplementation for Health & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/71350
+原文标题：Developing a Rational Approach to Supplementation for Health & Performance
+
+原文链接：https://www.hubermanlab.com/episode/developing-a-rational-approach-to-supplementation-for-health-and-performance
 
 ## 确定行动指南
 

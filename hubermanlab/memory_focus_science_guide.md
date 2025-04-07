@@ -1,7 +1,8 @@
 # 提升记忆力与专注力的科学行动指南
 
-原始文件：Dr. Charan Ranganath- How to Improve Memory & Focus Using Science Protocols.md
-原文链接：https://podwise.ai/dashboard/episodes/2001842
+原文标题：Dr. Charan Ranganath- How to Improve Memory & Focus Using Science Protocols
+
+原文链接：https://www.hubermanlab.com/episode/dr-charan-ranganath-how-to-improve-memory-focus-using-science-protocols
 
 ## 确定行动指南
 

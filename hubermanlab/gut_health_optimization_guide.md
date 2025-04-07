@@ -1,7 +1,8 @@
 # 肠道健康优化实用指南：发酵食品与膳食纤维的力量
 
-原始文件：Dr. Justin Sonnenburg- How to Build, Maintain & Repair Gut Health.md
-原文链接：https://podwise.ai/dashboard/episodes/71400
+原文标题：Dr. Justin Sonnenburg- How to Build, Maintain & Repair Gut Health
+
+原文链接：https://www.hubermanlab.com/episode/dr-justin-sonnenburg-how-to-build-maintain-and-repair-gut-health
 
 ## 确定行动指南
 

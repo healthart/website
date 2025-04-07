@@ -1,7 +1,8 @@
 # 医学实用指南：从播客研究中提取关键行动建议
 
-原始文件：Journal Club With Dr. Peter Attia - Metformin for Longevity & the Power of Belief Effects.md
-原文链接：https://podwise.ai/dashboard/episodes/7853
+原文标题：Journal Club With Dr. Peter Attia - Metformin for Longevity & the Power of Belief Effects
+
+原文链接：https://www.hubermanlab.com/episode/journal-club-with-dr-peter-attia-metformin-for-longevity-and-the-power-of-belief-effects
 
 ## 确定行动指南
 

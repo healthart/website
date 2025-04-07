@@ -1,7 +1,8 @@
 # 智能手机对青少年心理健康的影响：行动指南
 
-原始文件：Dr. Jonathan Haidt- How Smartphones & Social Media Impact Mental Health & the Realistic Solutions.md
-原文链接：https://podwise.ai/dashboard/episodes/1347664
+原文标题：Dr. Jonathan Haidt- How Smartphones & Social Media Impact Mental Health & the Realistic Solutions
+
+原文链接：https://www.hubermanlab.com/episode/dr-jonathan-haidt-how-smartphones-social-media-impact-mental-health-the-realistic-solutions
 
 ## 确定行动指南
 

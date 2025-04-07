@@ -1,7 +1,8 @@
 # 冷热暴露的实用指南：改善代谢和健康
 
-原始文件：Dr. Susanna Søberg- How to Use Cold & Heat Exposure to Improve Your Health.md
-原文链接：https://podwise.ai/dashboard/episodes/3780
+原文标题：Dr. Susanna Søberg- How to Use Cold & Heat Exposure to Improve Your Health
+
+原文链接：https://www.hubermanlab.com/episode/dr-susanna-soberg-how-to-use-cold-and-heat-exposure-to-improve-your-health
 
 ## 确定行动指南
 

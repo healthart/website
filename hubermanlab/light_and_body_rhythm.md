@@ -1,7 +1,8 @@
 # 光照与身体节律：优化日常生活的实用指南
 
-原始文件：Dr. David Berson- Understanding Your Brain's Logic & Function.md
-原文链接：https://podwise.ai/dashboard/episodes/71412
+原文标题：Dr. David Berson- Understanding Your Brain's Logic & Function
+
+原文链接：https://www.hubermanlab.com/episode/dr-david-berson-your-brains-logic-and-function
 
 ## 确定行动指南
 

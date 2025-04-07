@@ -1,7 +1,8 @@
 # 提升意志力与坚韧性的实用指南
 
-原始文件：How to Increase Your Willpower & Tenacity.md
-原文链接：https://podwise.ai/dashboard/episodes/24934
+原文标题：How to Increase Your Willpower & Tenacity
+
+原文链接：https://www.hubermanlab.com/episode/how-to-increase-your-willpower-and-tenacity
 
 ## 确定行动指南
 

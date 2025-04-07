@@ -1,7 +1,8 @@
 # 血管加压素与自闭症：社交功能的新视角
 
-原始文件：Dr. Karen Parker- The Causes & Treatments for Autism.md
-原文链接：https://podwise.ai/dashboard/episodes/122719
+原文标题：Dr. Karen Parker- The Causes & Treatments for Autism
+
+原文链接：https://www.hubermanlab.com/episode/dr-karen-parker-the-causes-treatments-for-autism
 
 根据播客内容，我为您提供关于自闭症及其可能治疗方法的最新研究见解，特别是关于血管加压素（vasopressin）的关键发现。
 

@@ -1,7 +1,8 @@
 # 肠道-大脑健康优化指南：基于哈伯曼实验室播客的实用建议
 
-原始文件：How to Enhance Your Gut Microbiome for Brain & Overall Health.md
-原文链接：https://podwise.ai/dashboard/episodes/71401
+原文标题：How to Enhance Your Gut Microbiome for Brain & Overall Health
+
+原文链接：https://www.hubermanlab.com/episode/how-to-enhance-your-gut-microbiome-for-brain-and-overall-health
 
 ## 【确定行动指南】：强证据支持的核心建议
 

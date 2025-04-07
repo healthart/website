@@ -1,7 +1,8 @@
 # 多巴胺与动机管理：从理论到实践指南
 
-原始文件：How to Increase Motivation & Drive.md
-原文链接：https://podwise.ai/dashboard/episodes/46057
+原文标题：How to Increase Motivation & Drive
+
+原文链接：https://www.hubermanlab.com/episode/how-to-increase-motivation-and-drive
 
 ## 确定行动指南
 

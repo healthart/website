@@ -1,7 +1,8 @@
 # 🔍 NAD 与长寿：实用指南
 
-原始文件：Dr. Peter Attia- Supplements for Longevity & Their Efficacy.md
-原文链接：https://podwise.ai/dashboard/episodes/1589266
+原文标题：Dr. Peter Attia- Supplements for Longevity & Their Efficacy
+
+原文链接：https://www.hubermanlab.com/episode/dr-peter-attia-supplements-for-longevity-their-efficacy
 
 ## 确定行动指南
 

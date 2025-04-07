@@ -1,7 +1,8 @@
 # 从生活幸福到健康长寿：实用指南
 
-原始文件：Dr. Bernardo Huberman- How to Use Curiosity & Focus to Create a Joyful & Meaningful Life.md
-原文链接：https://podwise.ai/dashboard/episodes/2518795
+原文标题：Dr. Bernardo Huberman- How to Use Curiosity & Focus to Create a Joyful & Meaningful Life
+
+原文链接：https://www.hubermanlab.com/episode/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life
 
 从这场深度对话中，我提取了关于生活质量、心理健康和长寿的实用见解，将理论转化为可行动的建议。
 

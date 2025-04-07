@@ -1,7 +1,8 @@
 # 科学验证的幸福行动指南：从情绪体验到生活满足感
 
-原始文件：Dr. Laurie Santos- How to Achieve True Happiness Using Science-Based Protocols.md
-原文链接：https://podwise.ai/dashboard/episodes/2559960
+原文标题：Dr. Laurie Santos- How to Achieve True Happiness Using Science-Based Protocols
+
+原文链接：https://www.hubermanlab.com/episode/dr-laurie-santos-how-to-achieve-true-happiness-using-science-based-protocols
 
 从耶鲁大学幸福专家劳里·桑托斯博士的研究中，我们得到了一系列基于科学的幸福策略，可以帮助你获得更持久的快乐和满足感。这些不是空洞的励志语录，而是经过严格研究验证的实用方法。
 

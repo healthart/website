@@ -1,7 +1,8 @@
 # 受伤与疼痛管理实用指南：大脑如何加速恢复
 
-原始文件：Essentials- Control Pain & Heal Faster With Your Brain.md
-原文链接：https://podwise.ai/dashboard/episodes/2668657
+原文标题：Essentials- Control Pain & Heal Faster With Your Brain
+
+原文链接：https://www.hubermanlab.com/episode/essentials-control-pain-heal-faster-with-your-brain
 
 ## 确定行动指南
 

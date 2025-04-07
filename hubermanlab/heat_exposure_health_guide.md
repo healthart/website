@@ -1,7 +1,8 @@
 # 热暴露的健康实用指南：从科学到实践
 
-原始文件：The Science & Health Benefits of Deliberate Heat Exposure.md
-原文链接：https://podwise.ai/dashboard/episodes/71393
+原文标题：The Science & Health Benefits of Deliberate Heat Exposure
+
+原文链接：https://www.hubermanlab.com/episode/the-science-and-health-benefits-of-deliberate-heat-exposure
 
 ## 确定行动指南
 

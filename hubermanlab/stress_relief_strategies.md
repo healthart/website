@@ -1,7 +1,8 @@
 # 适应原实用指南：科学支持的减压策略
 
-原始文件：AMA #3- Adaptogens, Fasting & Fertility, Bluetooth-EMF Risks, Cognitive Load Limits & More.md
-原文链接：https://podwise.ai/dashboard/episodes/71349
+原文标题：AMA #3- Adaptogens, Fasting & Fertility, Bluetooth-EMF Risks, Cognitive Load Limits & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-3-adaptogens-fasting-fertility-bluetooth-emf-risks-cognitive-load-limits-more
 
 ## 确定行动指南
 

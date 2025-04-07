@@ -1,7 +1,8 @@
 # 注意力缺陷多动障碍(ADHD)药物治疗实用指南
 
-原始文件：Adderall, Stimulants & Modafinil for ADHD- Short- & Long-Term Effects.md
-原文链接：https://podwise.ai/dashboard/episodes/2926
+原文标题：Adderall, Stimulants & Modafinil for ADHD- Short- & Long-Term Effects
+
+原文链接：https://www.hubermanlab.com/episode/adderall-stimulants-and-modafinil-for-adhd-short-and-long-term-effects
 
 ## 确定行动指南
 

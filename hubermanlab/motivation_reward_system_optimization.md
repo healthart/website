@@ -1,7 +1,8 @@
 # 动机与奖励系统优化指南：提升驱动力的实用策略
 
-原始文件：Essentials- How to Increase Motivation & Drive.md
-原文链接：https://podwise.ai/dashboard/episodes/2836799
+原文标题：Essentials- How to Increase Motivation & Drive
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-increase-motivation-drive
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 应对压力：实用指南与科学工具
 
-原始文件：Master Stress- Tools for Managing Stress & Anxiety.md
-原文链接：https://podwise.ai/dashboard/episodes/46059
+原文标题：Master Stress- Tools for Managing Stress & Anxiety
+
+原文链接：https://www.hubermanlab.com/episode/tools-for-managing-stress-and-anxiety
 
 ## 核心行动指南
 

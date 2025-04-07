@@ -1,7 +1,8 @@
 # 改善运动能力与姿势的实用指南
 
-原始文件：Dr. Kelly Starrett- How to Improve Your Mobility, Posture & Flexibility.md
-原文链接：https://podwise.ai/dashboard/episodes/2483572
+原文标题：Dr. Kelly Starrett- How to Improve Your Mobility, Posture & Flexibility
+
+原文链接：https://www.hubermanlab.com/episode/dr-kelly-starrett-how-to-improve-your-mobility-posture-flexibility
 
 以下是基于骨科医师凯利·斯塔雷特（Kelly Starrett）专业建议的核心行动指南，帮助你提高移动性、姿势和灵活性。
 

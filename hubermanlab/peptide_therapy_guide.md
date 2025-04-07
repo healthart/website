@@ -1,7 +1,8 @@
 # 肽类治疗：实用指南与科学解析
 
-原始文件：Benefits & Risks of Peptide Therapeutics for Physical & Mental Health.md
-原文链接：https://podwise.ai/dashboard/episodes/1038131
+原文标题：Benefits & Risks of Peptide Therapeutics for Physical & Mental Health
+
+原文链接：https://www.hubermanlab.com/episode/benefits-risks-of-peptide-therapeutics-for-physical-mental-health
 
 ## 核心行动建议
 

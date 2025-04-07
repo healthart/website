@@ -1,7 +1,8 @@
 # 精神健康与心灵探索：精神活性物质治疗的科学指南
 
-原始文件：Dr. Robin Carhart-Harris- The Science of Psychedelics for Mental Health.md
-原文链接：https://podwise.ai/dashboard/episodes/3817
+原文标题：Dr. Robin Carhart-Harris- The Science of Psychedelics for Mental Health
+
+原文链接：https://www.hubermanlab.com/episode/dr-robin-carhart-harris-the-science-of-psychedelics-for-mental-health
 
 ## 确定行动指南
 

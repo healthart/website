@@ -1,7 +1,8 @@
 # 多巴胺系统优化指南：提升动机、专注力与满足感
 
-原始文件：Controlling Your Dopamine For Motivation, Focus & Satisfaction.md
-原文链接：https://podwise.ai/dashboard/episodes/46030
+原文标题：Controlling Your Dopamine For Motivation, Focus & Satisfaction
+
+原文链接：https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction
 
 ## 一、核心实用建议
 

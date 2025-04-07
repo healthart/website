@@ -1,7 +1,8 @@
 # 实用行动指南：《艺术学习与生活》的核心洞见
 
-原始文件：Josh Waitzkin- The Art of Learning & Living Life.md
-原文链接：https://podwise.ai/dashboard/episodes/2814509
+原文标题：Josh Waitzkin- The Art of Learning & Living Life
+
+原文链接：https://www.hubermanlab.com/episode/josh-waitzkin-the-art-of-learning-living-life
 
 通过这场精彩对话，Josh Waitzkin分享了他跨越国际象棋、武术和教练领域的独特洞察。以下是经过整理的实用行动指南，帮助你将这些高水平理念转化为日常生活中的具体实践。
 

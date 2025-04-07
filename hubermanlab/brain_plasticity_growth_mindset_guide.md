@@ -1,7 +1,8 @@
 # 大脑可塑性与成长型思维：提升表现的实用指南
 
-原始文件：How to Enhance Performance & Learning by Applying a Growth Mindset.md
-原文链接：https://podwise.ai/dashboard/episodes/2581
+原文标题：How to Enhance Performance & Learning by Applying a Growth Mindset
+
+原文链接：https://www.hubermanlab.com/episode/how-to-enhance-performance-and-learning-by-applying-a-growth-mindset
 
 ## 确定行动指南
 

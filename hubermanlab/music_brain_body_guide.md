@@ -1,7 +1,8 @@
 # 音乐对大脑与身体的实用指南
 
-原始文件：How to Use Music to Boost Motivation, Mood & Improve Learning.md
-原文链接：https://podwise.ai/dashboard/episodes/9980
+原文标题：How to Use Music to Boost Motivation, Mood & Improve Learning
+
+原文链接：https://www.hubermanlab.com/episode/how-to-use-music-to-boost-motivation-mood-and-improve-learning
 
 ## 确定行动指南
 

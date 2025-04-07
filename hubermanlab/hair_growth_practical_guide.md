@@ -1,7 +1,8 @@
 # 健康头发维持与再生实用指南：循证方法
 
-原始文件：The Science of Healthy Hair, Hair Loss and How to Regrow Hair.md
-原文链接：https://podwise.ai/dashboard/episodes/2527
+原文标题：The Science of Healthy Hair, Hair Loss and How to Regrow Hair
+
+原文链接：https://www.hubermanlab.com/episode/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair
 
 基于 Huberman Lab 播客关于头发生物学和头发脱落的专题，以下是循证有效的头发维持与再生方法。
 

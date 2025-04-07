@@ -1,7 +1,8 @@
 # 实用健康指南：从里克·鲁宾的习惯中获取最大收益
 
-原始文件：Rick Rubin- Protocols to Access Creative Energy and Process.md
-原文链接：https://podwise.ai/dashboard/episodes/141223
+原文标题：Rick Rubin- Protocols to Access Creative Energy and Process
+
+原文链接：https://www.hubermanlab.com/episode/rick-rubin-protocols-to-access-creative-energy-and-process
 
 ## 【确定行动指南】
 

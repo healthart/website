@@ -1,7 +1,8 @@
 # 营养与补充剂优化指南：从播客深度解析到行动策略
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- Optimal Nutrition & Supplementation for Fitness.md
-原文链接：https://podwise.ai/dashboard/episodes/1425
+原文标题：GUEST SERIES - Dr. Andy Galpin- Optimal Nutrition & Supplementation for Fitness
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness
 
 ## 🔍 核心建议：优先采取的行动
 

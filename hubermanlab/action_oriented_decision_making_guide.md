@@ -1,7 +1,8 @@
 # 行动导向的决策与社交指南：从激素与状态研究中获得的实用洞见
 
-原始文件：How Hormones & Status Shape Our Values & Decisions - Dr. Michael Platt.md
-原文链接：https://podwise.ai/dashboard/episodes/3004050
+原文标题：How Hormones & Status Shape Our Values & Decisions - Dr. Michael Platt
+
+原文链接：https://www.hubermanlab.com/episode/how-hormones-status-shape-our-values-decisions-dr-michael-platt
 
 这份播客对话涵盖了决策过程的神经科学基础，揭示了激素水平、社交地位和注意力分配如何影响我们的选择。以下是基于强有力证据的实用指南，帮助您在日常生活中做出更明智的决策并优化社交互动。
 

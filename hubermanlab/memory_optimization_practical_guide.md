@@ -1,7 +1,8 @@
 # 优化记忆的实用指南：科学证实的记忆增强方法
 
-原始文件：Understand & Improve Memory Using Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/71390
+原文标题：Understand & Improve Memory Using Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/understand-and-improve-memory-using-science-based-tools
 
 ## 确定行动指南
 

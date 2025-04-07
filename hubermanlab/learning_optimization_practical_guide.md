@@ -1,7 +1,8 @@
 # 用脑科学优化学习和创造力：实用行动指南
 
-原始文件：Optimize Your Learning & Creativity With Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/46061
+原文标题：Optimize Your Learning & Creativity With Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/optimize-your-learning-and-creativity-with-science-based-tools
 
 ## 确定行动指南
 

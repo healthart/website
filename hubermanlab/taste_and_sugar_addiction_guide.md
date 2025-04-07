@@ -1,7 +1,8 @@
 # 味觉和糖瘾的科学：实用行动指南
 
-原始文件：Dr. Charles Zuker- The Biology of Taste Perception & Sugar Craving.md
-原文链接：https://podwise.ai/dashboard/episodes/71381
+原文标题：Dr. Charles Zuker- The Biology of Taste Perception & Sugar Craving
+
+原文链接：https://www.hubermanlab.com/episode/dr-charles-zuker-the-biology-of-taste-perception-and-sugar-craving
 
 ## 确定行动指南
 

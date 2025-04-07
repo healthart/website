@@ -1,7 +1,8 @@
 # 健康饮食与进食障碍的实用指南
 
-原始文件：Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging.md
-原文链接：https://podwise.ai/dashboard/episodes/46033
+原文标题：Healthy Eating & Eating Disorders - Anorexia, Bulimia, Binging
+
+原文链接：https://www.hubermanlab.com/episode/healthy-eating-and-eating-disorders-anorexia-bulimia-binging
 
 ## 确定行动指南
 

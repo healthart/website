@@ -1,7 +1,8 @@
 # 【确定行动指南】
 
-原始文件：Tim Ferriss- How to Learn Better & Create Your Best Future.md
-原文链接：https://podwise.ai/dashboard/episodes/724
+原文标题：Tim Ferriss- How to Learn Better & Create Your Best Future
+
+原文链接：https://www.hubermanlab.com/episode/tim-ferriss-how-to-learn-better-and-create-your-best-future
 
 ## 核心建议
 

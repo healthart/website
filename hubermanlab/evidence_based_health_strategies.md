@@ -1,7 +1,8 @@
 # 确定行动指南：循证健康营养与训练策略
 
-原始文件：Dr. Layne Norton- Tools for Nutrition & Fitness.md
-原文链接：https://podwise.ai/dashboard/episodes/1641211
+原文标题：Dr. Layne Norton- Tools for Nutrition & Fitness
+
+原文链接：https://www.hubermanlab.com/episode/dr-layne-norton-tools-for-nutrition-fitness
 
 ## 核心建议
 1. **摄入充足蛋白质**：每磅体重摄入约1克优质蛋白质，这适用于所有人群，不仅对增肌有益，也对整体健康和衰老过程至关重要。

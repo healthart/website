@@ -1,7 +1,8 @@
 # 科学咖啡指南：优化摄入，最大化益处
 
-原始文件：AMA #8- Balancing Caffeine, Decision Fatigue & Social Isolation.md
-原文链接：https://podwise.ai/dashboard/episodes/915
+原文标题：AMA #8- Balancing Caffeine, Decision Fatigue & Social Isolation
+
+原文链接：https://www.hubermanlab.com/episode/ama-8-balancing-caffeine-decision-fatigue-social-isolation
 
 ## 确定行动指南
 

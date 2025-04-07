@@ -1,7 +1,8 @@
 # 酒精对健康的影响：实用行动指南
 
-原始文件：What Alcohol Does to Your Body, Brain & Health.md
-原文链接：https://podwise.ai/dashboard/episodes/64192
+原文标题：What Alcohol Does to Your Body, Brain & Health
+
+原文链接：https://www.hubermanlab.com/episode/what-alcohol-does-to-your-body-brain-health
 
 ## 确定行动指南
 

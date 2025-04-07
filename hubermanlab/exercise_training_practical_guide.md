@@ -1,7 +1,8 @@
 # 运动训练实用指南：强化肌肉、预防伤害与长期健康
 
-原始文件：Jeff Cavaliere- Optimize Your Exercise Program with Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/71383
+原文标题：Jeff Cavaliere- Optimize Your Exercise Program with Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/jeff-cavaliere-optimize-your-exercise-program-with-science-based-tools
 
 这篇播客访谈中，物理治疗专家Jeff Cavaliere分享了丰富的健身知识，我将提取最实用、证据最强的内容，转化为您可立即采取的行动建议。
 

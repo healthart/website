@@ -1,7 +1,8 @@
 # 提升心肺健康与最大摄氧量(VO2 max)的实用指南
 
-原始文件：Perform with Dr. Andy Galpin- How & Why to Strengthen Your Heart & Cardiovascular Fitness.md
-原文链接：https://podwise.ai/dashboard/episodes/1355358
+原文标题：Perform with Dr. Andy Galpin- How & Why to Strengthen Your Heart & Cardiovascular Fitness
+
+原文链接：https://www.youtube.com/watch?v=A8HbppXMDWY
 
 ## 【确定行动指南】
 

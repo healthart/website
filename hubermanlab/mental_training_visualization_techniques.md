@@ -1,7 +1,8 @@
 # 实用行动指南：科学证实的心理训练与可视化技术
 
-原始文件：Science-Based Mental Training & Visualization for Improved Learning.md
-原文链接：https://podwise.ai/dashboard/episodes/2284
+原文标题：Science-Based Mental Training & Visualization for Improved Learning
+
+原文链接：https://www.hubermanlab.com/episode/science-based-mental-training-and-visualization-for-improved-learning
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 深度工作的科学：提升专注力与生产力的实用指南
 
-原始文件：Dr. Cal Newport- How to Enhance Focus and Improve Productivity.md
-原文链接：https://podwise.ai/dashboard/episodes/669236
+原文标题：Dr. Cal Newport- How to Enhance Focus and Improve Productivity
+
+原文链接：https://www.hubermanlab.com/episode/dr-cal-newport-how-to-enhance-focus-and-improve-productivity
 
 研究表明，专注的工作环境和有意识的注意力管理对于认知表现至关重要。本次播客提供了一系列证据支持的策略，帮助你提升专注力和工作效率。
 

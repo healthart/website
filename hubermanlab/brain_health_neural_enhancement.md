@@ -1,7 +1,8 @@
 # 大脑健康与神经增强：从神经外科手术到脑机接口的实用见解
 
-原始文件：Dr. Matthew MacDougall- Neuralink & Technologies to Enhance Human Brains.md
-原文链接：https://podwise.ai/dashboard/episodes/2287
+原文标题：Dr. Matthew MacDougall- Neuralink & Technologies to Enhance Human Brains
+
+原文链接：https://www.hubermanlab.com/episode/dr-matthew-macdougall-neuralink-and-technologies-to-enhance-human-brains
 
 基于《Huberman Lab播客》对Neuralink首席神经外科医生Matthew MacDougall博士的访谈，我整理了关于大脑健康和神经技术的关键实用信息。
 

@@ -1,7 +1,8 @@
 # 技能快速掌握：医学视角下的行动指南
 
-原始文件：How to Learn Skills Faster.md
-原文链接：https://podwise.ai/dashboard/episodes/46049
+原文标题：How to Learn Skills Faster
+
+原文链接：https://www.hubermanlab.com/episode/how-to-learn-skills-faster
 
 ## 确定行动指南
 

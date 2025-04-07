@@ -1,7 +1,8 @@
 # 提高专注力的实用指南：科学证实的方法
 
-原始文件：Focus Toolkit- Tools to Improve Your Focus & Concentration.md
-原文链接：https://podwise.ai/dashboard/episodes/71372
+原文标题：Focus Toolkit- Tools to Improve Your Focus & Concentration
+
+原文链接：https://www.hubermanlab.com/episode/focus-toolkit-tools-to-improve-your-focus-and-concentration
 
 ## 确定行动指南
 

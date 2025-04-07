@@ -1,7 +1,8 @@
 # 微塑料与健康：科学证据与实用对策
 
-原始文件：The Effects of Microplastics on Your Health & How to Reduce Them.md
-原文链接：https://podwise.ai/dashboard/episodes/2168028
+原文标题：The Effects of Microplastics on Your Health & How to Reduce Them
+
+原文链接：https://www.hubermanlab.com/episode/the-effects-of-microplastics-on-your-health-how-to-reduce-them
 
 通过对Huberman博士讨论微塑料与健康关系播客的分析，我提取了关键科学发现和实用建议，帮助您了解和减少微塑料对健康的潜在影响。
 

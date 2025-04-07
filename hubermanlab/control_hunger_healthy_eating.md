@@ -1,7 +1,8 @@
 # 科学指南：控制饥饿感与健康饮食的实用策略
 
-原始文件：Dr. Zachary Knight- The Science of Hunger & Medications to Combat Obesity.md
-原文链接：https://podwise.ai/dashboard/episodes/1400475
+原文标题：Dr. Zachary Knight- The Science of Hunger & Medications to Combat Obesity
+
+原文链接：https://www.hubermanlab.com/episode/dr-zachary-knight-the-science-of-hunger-medications-to-combat-obesity
 
 ## 确定行动指南
 

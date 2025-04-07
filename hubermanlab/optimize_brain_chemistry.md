@@ -1,7 +1,8 @@
 # 优化大脑化学物质：提升健康与表现的实用指南
 
-原始文件：Optimize & Control Your Brain Chemistry to Improve Health & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/71382
+原文标题：Optimize & Control Your Brain Chemistry to Improve Health & Performance
+
+原文链接：https://www.hubermanlab.com/episode/optimize-and-control-your-brain-chemistry-to-improve-health-and-performance
 
 在复杂的神经化学中，四种关键调节物质对我们的情绪、动机、专注力和整体健康有着决定性的影响。本指南提供了科学支持的方法来优化这些神经调节物，帮助你改善健康和表现。
 

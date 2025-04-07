@@ -1,7 +1,8 @@
 # 如何正确呼吸，提升健康和表现
 
-原始文件：How to Breathe Correctly for Optimal Health, Mood, Learning & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/811
+原文标题：How to Breathe Correctly for Optimal Health, Mood, Learning & Performance
+
+原文链接：https://www.hubermanlab.com/episode/how-to-breathe-correctly-for-optimal-health-mood-learning-and-performance
 
 根据这期呼吸科学播客，我为您整理了最有效、研究支持度最高的呼吸技巧及其实际应用。
 

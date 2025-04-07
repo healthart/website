@@ -1,7 +1,8 @@
 # 科学支持的幸福增强策略：强证据行动指南
 
-原始文件：Science-Based Tools for Increasing Happiness.md
-原文链接：https://podwise.ai/dashboard/episodes/71360
+原文标题：Science-Based Tools for Increasing Happiness
+
+原文链接：https://www.hubermanlab.com/episode/science-based-tools-for-increasing-happiness
 
 ## 【确定行动指南】
 

@@ -1,7 +1,8 @@
 # 安慰剂效应的力量：如何利用信念改善健康
 
-原始文件：How Placebo Effects Work to Change Our Biology & Psychology.md
-原文链接：https://podwise.ai/dashboard/episodes/558678
+原文标题：How Placebo Effects Work to Change Our Biology & Psychology
+
+原文链接：https://www.hubermanlab.com/episode/how-placebo-effects-work-to-change-our-biology-psychology
 
 ## 确定行动指南
 

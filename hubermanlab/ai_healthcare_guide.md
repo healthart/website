@@ -1,7 +1,8 @@
 # 人工智能与医疗保健的实用指南
 
-原始文件：Marc Andreessen- How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience.md
-原文链接：https://podwise.ai/dashboard/episodes/6126
+原文标题：Marc Andreessen- How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience
+
+原文链接：https://www.hubermanlab.com/episode/marc-andreessen-how-risk-taking-innovation-and-artificial-intelligence-transform-human-experience
 
 ## 确定行动指南
 

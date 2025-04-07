@@ -1,7 +1,8 @@
 # 运动增强大脑健康与认知表现：实用指南
 
-原始文件：How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/2644091
+原文标题：How to Use Exercise to Improve Your Brain’s Health, Longevity & Performance
+
+原文链接：https://www.hubermanlab.com/episode/how-to-use-exercise-to-improve-your-brains-health-longevity-performance
 
 ## 确定行动指南
 

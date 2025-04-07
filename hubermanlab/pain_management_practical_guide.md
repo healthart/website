@@ -1,7 +1,8 @@
 # 疼痛管理实用指南：从医学专家角度解读
 
-原始文件：Dr. Sean Mackey- Tools to Reduce & Manage Pain.md
-原文链接：https://podwise.ai/dashboard/episodes/176501
+原文标题：Dr. Sean Mackey- Tools to Reduce & Manage Pain
+
+原文链接：https://www.hubermanlab.com/episode/dr-sean-mackey-tools-to-reduce-manage-pain
 
 ## 【确定行动指南】
 

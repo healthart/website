@@ -1,7 +1,8 @@
 # 任务切换与效率提升的实用指南
 
-原始文件：AMA #11- Improve Task Switching & Productivity and Reduce Brain Fog.md
-原文链接：https://podwise.ai/dashboard/episodes/16984
+原文标题：AMA #11- Improve Task Switching & Productivity and Reduce Brain Fog
+
+原文链接：https://www.hubermanlab.com/episode/ama-11-improve-task-switching-productivity-and-brain-fog
 
 ## 确定行动指南
 

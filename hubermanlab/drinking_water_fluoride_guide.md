@@ -1,7 +1,8 @@
 # 饮用水中的氟化物：科学事实与实用建议
 
-原始文件：AMA #15- Fluoride Benefits-Risks & Vagus Nerve Stimulation.md
-原文链接：https://podwise.ai/dashboard/episodes/235388
+原文标题：AMA #15- Fluoride Benefits-Risks & Vagus Nerve Stimulation
+
+原文链接：https://www.hubermanlab.com/episode/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 优化多巴胺，战胜拖延症
 
-原始文件：Leverage Dopamine to Overcome Procrastination & Optimize Effort.md
-原文链接：https://podwise.ai/dashboard/episodes/1169
+原文标题：Leverage Dopamine to Overcome Procrastination & Optimize Effort
+
+原文链接：https://www.hubermanlab.com/episode/leverage-dopamine-to-overcome-procrastination-and-optimize-effort
 
 这期播客介绍了多巴胺如何影响我们的动机、专注力和拖延行为，并提供了实用策略来利用多巴胺系统优化努力和成就感。以下是关键见解和行动建议：
 

@@ -1,7 +1,8 @@
 # 实用指南：改善心理健康与身体健康的行动策略
 
-原始文件：LIVE EVENT Q&A- Dr. Andrew Huberman at Meridian Hall in Toronto.md
-原文链接：https://podwise.ai/dashboard/episodes/66491
+原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at Meridian Hall in Toronto
+
+原文链接：https://www.youtube.com/watch?v=eC9fiJBdMG0
 
 ## 确定行动指南
 

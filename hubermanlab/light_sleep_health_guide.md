@@ -1,7 +1,8 @@
 # 光照、作息与健康：优化睡眠、能量和情绪的实用指南
 
-原始文件：Dr. Samer Hattar- Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood.md
-原文链接：https://podwise.ai/dashboard/episodes/71419
+原文标题：Dr. Samer Hattar- Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood
+
+原文链接：https://www.hubermanlab.com/episode/dr-samer-hattar-timing-light-food-exercise-for-better-sleep-energy-mood
 
 ## 确定行动指南
 

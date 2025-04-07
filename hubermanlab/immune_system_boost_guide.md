@@ -1,7 +1,8 @@
 # 增强免疫系统的实用行动指南
 
-原始文件：Using Your Nervous System to Enhance Your Immune System.md
-原文链接：https://podwise.ai/dashboard/episodes/71418
+原文标题：Using Your Nervous System to Enhance Your Immune System
+
+原文链接：https://www.hubermanlab.com/episode/using-your-nervous-system-to-enhance-your-immune-system
 
 ## 确定行动指南
 

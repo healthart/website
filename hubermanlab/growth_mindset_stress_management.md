@@ -1,7 +1,8 @@
 # 成长思维与压力增强策略：实用行动指南
 
-原始文件：Dr. David Yeager- How to Master Growth Mindset to Improve Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/1092739
+原文标题：Dr. David Yeager- How to Master Growth Mindset to Improve Performance
+
+原文链接：https://www.hubermanlab.com/episode/dr-david-yeager-how-to-master-growth-mindset-to-improve-performance
 
 ## 确定行动指南
 

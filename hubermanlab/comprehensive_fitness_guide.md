@@ -1,7 +1,8 @@
 # 全面健身基础：行动导向的实用指南
 
-原始文件：Fitness Toolkit- Protocol & Tools to Optimize Physical Health.md
-原文链接：https://podwise.ai/dashboard/episodes/71366
+原文标题：Fitness Toolkit- Protocol & Tools to Optimize Physical Health
+
+原文链接：https://www.hubermanlab.com/episode/fitness-toolkit-protocol-and-tools-to-optimize-physical-health
 
 ## 确定行动指南
 

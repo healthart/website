@@ -1,7 +1,8 @@
 # 社交互动与大脑健康：实用指南
 
-原始文件：Dr. Kay Tye- The Biology of Social Interactions and Emotions.md
-原文链接：https://podwise.ai/dashboard/episodes/251932
+原文标题：Dr. Kay Tye- The Biology of Social Interactions and Emotions
+
+原文链接：https://www.hubermanlab.com/episode/dr-kay-tye-the-biology-of-social-interactions-and-emotions
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 提升男性性健康的实用指南
 
-原始文件：Dr. Michael Eisenberg- Improving Male Sexual Health, Function & Fertility.md
-原文链接：https://podwise.ai/dashboard/episodes/57626
+原文标题：Dr. Michael Eisenberg- Improving Male Sexual Health, Function & Fertility
+
+原文链接：https://www.hubermanlab.com/episode/dr-michael-eisenberg-improving-male-sexual-health-function-fertility
 
 ## 确定行动指南
 

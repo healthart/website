@@ -1,7 +1,8 @@
 # 健康关系的基础：从自我了解到有效链接
 
-原始文件：GUEST SERIES - Dr. Paul Conti- How to Build and Maintain Healthy Relationships.md
-原文链接：https://podwise.ai/dashboard/episodes/11192
+原文标题：GUEST SERIES - Dr. Paul Conti- How to Build and Maintain Healthy Relationships
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships
 
 从这场深入讨论中，我提取了关于建立和维护健康关系的核心要点，并将其转化为具体可行的指南。
 

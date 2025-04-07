@@ -1,7 +1,8 @@
 # 如何培养心理韧性与能量管理的实用指南
 
-原始文件：Jocko Willink- How to Become Resilient, Forge Your Identity & Lead Others.md
-原文链接：https://podwise.ai/dashboard/episodes/64195
+原文标题：Jocko Willink- How to Become Resilient, Forge Your Identity & Lead Others
+
+原文链接：https://www.hubermanlab.com/episode/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others
 
 ## 确定行动指南
 

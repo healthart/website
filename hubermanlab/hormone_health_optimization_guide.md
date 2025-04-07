@@ -1,7 +1,8 @@
 # 激素健康优化实用指南：从生活方式到补充剂
 
-原始文件：Dr. Kyle Gillett- How to Optimize Your Hormones for Health & Vitality.md
-原文链接：https://podwise.ai/dashboard/episodes/71395
+原文标题：Dr. Kyle Gillett- How to Optimize Your Hormones for Health & Vitality
+
+原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-hormones-for-health-and-vitality
 
 ## 【确定行动指南】
 

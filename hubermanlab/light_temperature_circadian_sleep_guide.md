@@ -1,7 +1,8 @@
 # 光照、温度与昼夜节律：优化睡眠、学习与代谢的实用指南
 
-原始文件：Using Science to Optimize Sleep, Learning & Metabolism.md
-原文链接：https://podwise.ai/dashboard/episodes/46066
+原文标题：Using Science to Optimize Sleep, Learning & Metabolism
+
+原文链接：https://www.hubermanlab.com/episode/using-science-to-optimize-sleep-learning-and-metabolism
 
 ## 确定行动指南
 

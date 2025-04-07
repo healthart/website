@@ -1,7 +1,8 @@
 # 实用指南：肌肉增长、力量提升与耐力训练的科学方法
 
-原始文件：Dr. Andy Galpin- How to Build Strength, Muscle Size & Endurance.md
-原文链接：https://podwise.ai/dashboard/episodes/64191
+原文标题：Dr. Andy Galpin- How to Build Strength, Muscle Size & Endurance
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-build-strength-muscle-size-and-endurance
 
 ## 【确定行动指南】
 

@@ -1,7 +1,8 @@
 # 培养健康亲子关系的实用指南
 
-原始文件：Dr. Becky Kennedy- Protocols for Excellent Parenting & Improving Relationships of All Kinds.md
-原文链接：https://podwise.ai/dashboard/episodes/445107
+原文标题：Dr. Becky Kennedy- Protocols for Excellent Parenting & Improving Relationships of All Kinds
+
+原文链接：https://www.hubermanlab.com/episode/dr-becky-kennedy-protocols-for-excellent-parenting-improving-relationships-of-all-kinds
 
 ## 确定行动指南
 

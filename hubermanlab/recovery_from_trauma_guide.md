@@ -1,7 +1,8 @@
 # 创伤恢复与心理健康实用指南：从军人经验中汲取的洞见
 
-原始文件：Coleman Ruiz- Overcoming Physical & Emotional Challenges.md
-原文链接：https://podwise.ai/dashboard/episodes/1070733
+原文标题：Coleman Ruiz- Overcoming Physical & Emotional Challenges
+
+原文链接：https://www.hubermanlab.com/episode/coleman-ruiz-overcoming-physical-emotional-challenges
 
 在这段深入的对话中，前特种部队成员Coleman Ruiz分享了他从童年到军事生涯再到平民生活的旅程，特别聚焦于如何应对创伤后应激障碍(PTSD)、抑郁和情绪困扰。基于这些宝贵分享和现有研究证据，我提取了以下实用指南。
 

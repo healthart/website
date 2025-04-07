@@ -1,7 +1,8 @@
 # 目标设定与执行的神经科学实战指南
 
-原始文件：The Science of Setting & Achieving Goals.md
-原文链接：https://podwise.ai/dashboard/episodes/71407
+原文标题：The Science of Setting & Achieving Goals
+
+原文链接：https://www.hubermanlab.com/episode/the-science-of-setting-and-achieving-goals
 
 ## 确定行动指南
 

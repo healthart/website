@@ -1,7 +1,8 @@
 # 跑动与跳跃的实用指南：提升速度、灵活性与长寿
 
-原始文件：How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting - Stuart McMillan.md
-原文链接：https://podwise.ai/dashboard/episodes/3361424
+原文标题：How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting - Stuart McMillan
+
+原文链接：https://www.hubermanlab.com/episode/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan
 
 基于这期播客内容，我整理出几个关键的行动指南，帮助你通过跳跃和跑动提升整体健康与运动表现。
 

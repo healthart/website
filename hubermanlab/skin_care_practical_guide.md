@@ -1,7 +1,8 @@
 # 皮肤健康与护理实用指南：从科学到行动
 
-原始文件：How to Improve Skin Health & Appearance.md
-原文链接：https://podwise.ai/dashboard/episodes/1466053
+原文标题：How to Improve Skin Health & Appearance
+
+原文链接：https://www.hubermanlab.com/episode/how-to-improve-skin-health-appearance
 
 ## 确定行动指南：专家共识的核心建议
 

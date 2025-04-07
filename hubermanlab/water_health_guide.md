@@ -1,7 +1,8 @@
 # 饮水健康全指南：确定行动与核心解析
 
-原始文件：How to Optimize Your Water Quality & Intake for Health.md
-原文链接：https://podwise.ai/dashboard/episodes/2921
+原文标题：How to Optimize Your Water Quality & Intake for Health
+
+原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-water-quality-and-intake-for-health
 
 ## 确定行动指南
 

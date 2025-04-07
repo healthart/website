@@ -1,7 +1,8 @@
 # 内心家庭系统疗法（IFS）的实用指南：从情绪困扰到内在和谐
 
-原始文件：How to Achieve Inner Peace & Healing - Dr. Richard Schwartz.md
-原文链接：https://podwise.ai/dashboard/episodes/3170708
+原文标题：How to Achieve Inner Peace & Healing - Dr. Richard Schwartz
+
+原文链接：https://www.hubermanlab.com/episode/how-to-achieve-inner-peace-healing-dr-richard-schwartz
 
 根据Huberman Lab播客与IFS创始人Richard Schwartz博士的对话，我为您提供一份实用指南，帮助您理解并应用这种强大的心理疗法方法。
 

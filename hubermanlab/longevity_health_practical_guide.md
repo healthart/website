@@ -1,7 +1,8 @@
 # 长寿与健康生活实用指南：从医学对话到行动方案
 
-原始文件：Dr. Peter Attia- Improve Vitality, Emotional & Physical Health & Lifespan.md
-原文链接：https://podwise.ai/dashboard/episodes/2145
+原文标题：Dr. Peter Attia- Improve Vitality, Emotional & Physical Health & Lifespan
+
+原文链接：https://www.hubermanlab.com/episode/dr-peter-attia-improve-vitality-emotional-and-physical-health-and-lifespan
 
 ## 确定行动指南：优先采取的健康措施
 

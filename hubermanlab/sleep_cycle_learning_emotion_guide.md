@@ -1,7 +1,8 @@
 # 睡眠周期与学习情绪调节指南
 
-原始文件：Essentials- Understand and Use Dreams to Learn and Forget.md
-原文链接：https://podwise.ai/dashboard/episodes/2500961
+原文标题：Essentials- Understand and Use Dreams to Learn and Forget
+
+原文链接：https://www.hubermanlab.com/episode/essentials-understanding-and-using-dreams-to-learn-and-to-forget
 
 ## 确定行动指南
 

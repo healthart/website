@@ -1,7 +1,8 @@
 # 科学优化大脑功能的实用指南
 
-原始文件：Essentials- Optimize Your Learning & Creativity With Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/2628828
+原文标题：Essentials- Optimize Your Learning & Creativity With Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/essentials-optimize-your-learning-creativity-with-science-based-tools
 
 ## 确定行动指南
 

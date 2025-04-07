@@ -1,7 +1,8 @@
 # 神经可塑性优化指南：大脑变化的科学与实践
 
-原始文件：How Your Brain Works & Changes.md
-原文链接：https://podwise.ai/dashboard/episodes/46068
+原文标题：How Your Brain Works & Changes
+
+原文链接：https://www.hubermanlab.com/episode/how-your-nervous-system-works-and-changes
 
 ## 确定行动指南
 

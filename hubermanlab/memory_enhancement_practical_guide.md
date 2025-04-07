@@ -1,7 +1,8 @@
 # 大脑记忆与认知增强的实用指南
 
-原始文件：Asi Wind- What Magic & Mind Reading Reveal About the Brain.md
-原文链接：https://podwise.ai/dashboard/episodes/904246
+原文标题：Asi Wind- What Magic & Mind Reading Reveal About the Brain
+
+原文链接：https://www.hubermanlab.com/episode/asi-wind-what-magic-mind-reading-reveal-about-the-brain
 
 ## 确定行动指南
 

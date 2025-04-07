@@ -1,7 +1,8 @@
 # 大脑潜能激发指南：从神经科学到行动策略
 
-原始文件：Robert Greene- A Process for Finding & Achieving Your Unique Purpose.md
-原文链接：https://podwise.ai/dashboard/episodes/105110
+原文标题：Robert Greene- A Process for Finding & Achieving Your Unique Purpose
+
+原文链接：https://www.hubermanlab.com/episode/robert-greene-a-process-for-finding-achieving-your-unique-purpose
 
 ## 核心行动指南
 

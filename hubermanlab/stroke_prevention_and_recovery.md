@@ -1,7 +1,8 @@
 # 中风的行动指南：预防、康复和大脑健康
 
-原始文件：Dr. Gary Steinberg- How to Improve Brain Health & Offset Neurodegeneration.md
-原文链接：https://podwise.ai/dashboard/episodes/1235242
+原文标题：Dr. Gary Steinberg- How to Improve Brain Health & Offset Neurodegeneration
+
+原文链接：https://www.hubermanlab.com/episode/dr-gary-steinberg-how-to-improve-brain-health-offset-neurodegeneration
 
 ## 确定行动指南（强证据支持）
 

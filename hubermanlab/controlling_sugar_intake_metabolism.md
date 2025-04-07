@@ -1,7 +1,8 @@
 # 科学方法控制糖分摄入与代谢：实用指南
 
-原始文件：Controlling Sugar Cravings & Metabolism with Science-Based Tools.md
-原文链接：https://podwise.ai/dashboard/episodes/71398
+原文标题：Controlling Sugar Cravings & Metabolism with Science-Based Tools
+
+原文链接：https://www.hubermanlab.com/episode/controlling-sugar-cravings-and-metabolism-with-science-based-tools
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 肽疗法与激素疗法实用指南：健康、表现与长寿
 
-原始文件：Dr. Craig Koniver- Peptide & Hormone Therapies for Health, Performance & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/2058722
+原文标题：Dr. Craig Koniver- Peptide & Hormone Therapies for Health, Performance & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-craig-koniver-peptide-hormone-therapies-for-health-performance-longevity
 
 基于Dr. Craig Koniver与Andrew Huberman的对话，我整理了这份实用指南，帮助您了解肽类和激素疗法的核心知识与应用方式。
 

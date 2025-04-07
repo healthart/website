@@ -1,7 +1,8 @@
 # 控制压力，改善饮食、代谢与衰老：实用指南
 
-原始文件：Dr. Elissa Epel- Control Stress for Healthy Eating, Metabolism & Aging.md
-原文链接：https://podwise.ai/dashboard/episodes/2154
+原文标题：Dr. Elissa Epel- Control Stress for Healthy Eating, Metabolism & Aging
+
+原文链接：https://www.hubermanlab.com/episode/dr-elissa-epel-control-stress-for-healthy-eating-metabolism-and-aging
 
 ## 确定行动指南
 

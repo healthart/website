@@ -1,7 +1,8 @@
 # 大脑可塑性实践指南：科学提升注意力与学习效率
 
-原始文件：Essentials- How to Focus to Change Your Brain.md
-原文链接：https://podwise.ai/dashboard/episodes/2533098
+原文标题：Essentials- How to Focus to Change Your Brain
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-focus-to-change-your-brain
 
 ## 确定行动指南
 

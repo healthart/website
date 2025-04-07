@@ -1,7 +1,8 @@
 # 科学实证方法缓解头痛：行动指南
 
-原始文件：How to Stop Headaches Using Science-Based Approaches.md
-原文链接：https://podwise.ai/dashboard/episodes/71342
+原文标题：How to Stop Headaches Using Science-Based Approaches
+
+原文链接：https://www.hubermanlab.com/episode/how-to-stop-headaches-using-science-based-approaches
 
 ## 首要行动建议
 

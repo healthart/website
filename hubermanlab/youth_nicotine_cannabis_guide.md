@@ -1,7 +1,8 @@
 # 青少年尼古丁和大麻使用：行动指南
 
-原始文件：Dr. Bonnie Halpern-Felsher- Vaping, Alcohol Use & Other Risky Youth Behaviors.md
-原文链接：https://podwise.ai/dashboard/episodes/1124169
+原文标题：Dr. Bonnie Halpern-Felsher- Vaping, Alcohol Use & Other Risky Youth Behaviors
+
+原文链接：https://www.hubermanlab.com/episode/dr-bonnie-halpern-felsher-vaping-alcohol-use-other-risky-youth-behaviors
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 冥想与意识探索：实用指南
 
-原始文件：Dr. Sam Harris- Using Meditation to Focus, View Consciousness & Expand Your Mind.md
-原文链接：https://podwise.ai/dashboard/episodes/71351
+原文标题：Dr. Sam Harris- Using Meditation to Focus, View Consciousness & Expand Your Mind
+
+原文链接：https://www.hubermanlab.com/episode/dr-sam-harris-using-meditation-to-focus-view-consciousness-and-expand-your-mind
 
 ## 确定行动指南
 

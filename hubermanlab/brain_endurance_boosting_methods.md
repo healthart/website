@@ -1,7 +1,8 @@
 # 科学指南：提升身体与大脑耐力的4种方法
 
-原始文件：How to Build Endurance in Your Brain & Body.md
-原文链接：https://podwise.ai/dashboard/episodes/46046
+原文标题：How to Build Endurance in Your Brain & Body
+
+原文链接：https://www.hubermanlab.com/episode/how-to-build-endurance-in-your-brain-and-body
 
 根据这期播客内容，我整理出了一套基于强有力证据的行动指南，帮助你提升耐力表现和长期健康。
 

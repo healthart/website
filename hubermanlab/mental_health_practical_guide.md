@@ -1,7 +1,8 @@
 # 构建心理健康实用指南：了解驱动力与自我觉察
 
-原始文件：GUEST SERIES - Dr. Paul Conti- How to Improve Your Mental Health.md
-原文链接：https://podwise.ai/dashboard/episodes/8023
+原文标题：GUEST SERIES - Dr. Paul Conti- How to Improve Your Mental Health
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-how-to-improve-your-mental-health
 
 ## 确定行动指南
 

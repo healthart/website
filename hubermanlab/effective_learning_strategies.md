@@ -1,7 +1,8 @@
 # 有效学习的实用指南：科学支持的学习策略
 
-原始文件：Optimal Protocols for Studying & Learning.md
-原文链接：https://podwise.ai/dashboard/episodes/1697823
+原文标题：Optimal Protocols for Studying & Learning
+
+原文链接：https://www.hubermanlab.com/episode/optimal-protocols-for-studying-learning
 
 ## 【确定行动指南】
 

@@ -1,7 +1,8 @@
 # 思维拓展：医学视角下的思维与身体健康
 
-原始文件：Dr. Ellen Langer- Using Your Mind to Control Your Physical Health & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/2855084
+原文标题：Dr. Ellen Langer- Using Your Mind to Control Your Physical Health & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-ellen-langer-using-your-mind-to-control-your-physical-health-longevity
 
 ## 确定行动指南
 

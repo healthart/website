@@ -1,7 +1,8 @@
 # 激素与性发育：实用行动指南
 
-原始文件：Essentials- How Hormones Shape Sexual Development.md
-原文链接：https://podwise.ai/dashboard/episodes/2977701
+原文标题：Essentials- How Hormones Shape Sexual Development
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-hormones-shape-sexual-development
 
 ## 确定行动指南
 

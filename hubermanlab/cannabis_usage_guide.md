@@ -1,7 +1,8 @@
 # 大麻的实用指南：科学、风险和使用建议
 
-原始文件：Dr. Matthew Hill- How Cannabis Impacts Health & the Potential Risks.md
-原文链接：https://podwise.ai/dashboard/episodes/1488892
+原文标题：Dr. Matthew Hill- How Cannabis Impacts Health & the Potential Risks
+
+原文链接：https://www.hubermanlab.com/episode/dr-matthew-hill-how-cannabis-impacts-health-the-potential-risks
 
 ## 确定行动指南
 

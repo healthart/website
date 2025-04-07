@@ -1,7 +1,8 @@
 # 强证据支持的健康行动指南：改善肠道，大脑和身体健康
 
-原始文件：How to Optimize Your Brain-Body Function & Health.md
-原文链接：https://podwise.ai/dashboard/episodes/46039
+原文标题：How to Optimize Your Brain-Body Function & Health
+
+原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-brain-body-function-and-health
 
 ## 确定行动指南
 

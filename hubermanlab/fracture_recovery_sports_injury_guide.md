@@ -1,7 +1,8 @@
 # 骨折恢复与运动伤病管理实用指南
 
-原始文件：Tony Hawk- Harnessing Passion, Drive & Persistence for Lifelong Success.md
-原文链接：https://podwise.ai/dashboard/episodes/1087
+原文标题：Tony Hawk- Harnessing Passion, Drive & Persistence for Lifelong Success
+
+原文链接：https://www.hubermanlab.com/episode/tony-hawk-harnessing-passion-drive-and-persistence-for-lifelong-success
 
 ## 确定行动指南
 

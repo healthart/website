@@ -1,7 +1,8 @@
 # 强化免疫系统实用指南：阳光、温度与生活方式干预
 
-原始文件：How to Enhance Your Immune System - Dr. Roger Seheult.md
-原文链接：https://podwise.ai/dashboard/episodes/3055141
+原文标题：How to Enhance Your Immune System - Dr. Roger Seheult
+
+原文链接：https://www.hubermanlab.com/episode/how-to-prevent-treat-colds-flu?timestamp=5692
 
 ## 确定行动指南
 

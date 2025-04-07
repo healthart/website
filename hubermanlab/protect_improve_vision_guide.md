@@ -1,7 +1,8 @@
 # 保护视力与改善视力的实用指南
 
-原始文件：AMA #6- Eye Health, Why We Yawn & Increasing Motivation.md
-原文链接：https://podwise.ai/dashboard/episodes/3075
+原文标题：AMA #6- Eye Health, Why We Yawn & Increasing Motivation
+
+原文链接：https://www.hubermanlab.com/episode/ama-6-eye-health-why-we-yawn-increasing-motivation
 
 ## 确定行动指南
 

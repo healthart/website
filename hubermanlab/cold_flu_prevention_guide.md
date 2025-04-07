@@ -1,7 +1,8 @@
 # 预防和应对感冒流感的行动指南
 
-原始文件：How to Prevent & Treat Colds & Flu.md
-原文链接：https://podwise.ai/dashboard/episodes/162765
+原文标题：How to Prevent & Treat Colds & Flu
+
+原文链接：https://www.hubermanlab.com/episode/how-to-prevent-treat-colds-flu
 
 ## 确定行动指南（强证据支持）
 

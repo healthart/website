@@ -1,7 +1,8 @@
 # 【确定行动指南】：大脑和身体健康优化策略
 
-原始文件：LIVE EVENT Q&A- Dr. Andrew Huberman at the Chicago Theatre.md
-原文链接：https://podwise.ai/dashboard/episodes/125296
+原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at the Chicago Theatre
+
+原文链接：https://www.youtube.com/watch?app=desktop&v=LRM5LutB538
 
 ## 核心建议
 

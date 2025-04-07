@@ -1,7 +1,8 @@
 # 情绪与营养关系：实用行动指南
 
-原始文件：Essentials- How Foods & Nutrients Control Our Moods.md
-原文链接：https://podwise.ai/dashboard/episodes/2768343
+原文标题：Essentials- How Foods & Nutrients Control Our Moods
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-foods-nutrients-control-our-moods
 
 ## 确定行动指南
 

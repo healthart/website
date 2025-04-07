@@ -1,7 +1,8 @@
 # 气味与健康的实用指南：嗅觉如何影响我们的生活
 
-原始文件：Dr. Noam Sobel- How Smells Influence Our Hormones, Health & Behavior.md
-原文链接：https://podwise.ai/dashboard/episodes/4271
+原文标题：Dr. Noam Sobel- How Smells Influence Our Hormones, Health & Behavior
+
+原文链接：https://www.hubermanlab.com/episode/dr-noam-sobel-how-smells-influence-our-hormones-health-and-behavior
 
 ## 确定行动指南
 

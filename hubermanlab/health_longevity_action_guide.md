@@ -1,7 +1,8 @@
 # 最有效延长寿命和提升生活质量的行动指南
 
-原始文件：Dr. Peter Attia- Exercise, Nutrition, Hormones for Vitality & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/71377
+原文标题：Dr. Peter Attia- Exercise, Nutrition, Hormones for Vitality & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-peter-attia-exercise-nutrition-hormones-for-vitality-and-longevity
 
 根据与Peter Attia医生的深入对话，以下是基于强有力证据的健康优化建议，从最重要的行动开始，并附带解释其工作原理的核心见解。
 

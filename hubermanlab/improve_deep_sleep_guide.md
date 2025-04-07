@@ -1,7 +1,8 @@
 # 如何优化深度睡眠：循证行动指南
 
-原始文件：AMA #2- Improve Sleep, Reduce Sugar Cravings, Optimal Protein Intake, Stretching Frequency & More.md
-原文链接：https://podwise.ai/dashboard/episodes/71356
+原文标题：AMA #2- Improve Sleep, Reduce Sugar Cravings, Optimal Protein Intake, Stretching Frequency & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-2-improve-sleep-reduce-sugar-cravings-optimal-protein-intake-stretching-frequency-more
 
 ## 确定行动指南
 

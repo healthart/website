@@ -1,7 +1,8 @@
 # 对抗生活中的愤世嫉俗：从信任到健康的实用指南
 
-原始文件：Dr. Jamil Zaki- How to Cultivate a Positive, Growth-Oriented Mindset.md
-原文链接：https://podwise.ai/dashboard/episodes/1753548
+原文标题：Dr. Jamil Zaki- How to Cultivate a Positive, Growth-Oriented Mindset
+
+原文链接：https://www.hubermanlab.com/episode/dr-jamil-zaki-how-to-cultivate-a-positive-growth-oriented-mindset
 
 ## 确定行动指南
 

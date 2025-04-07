@@ -1,7 +1,8 @@
 # 冥想的科学与实践：行动指南
 
-原始文件：How Meditation Works & Science-Based Effective Meditations.md
-原文链接：https://podwise.ai/dashboard/episodes/71364
+原文标题：How Meditation Works & Science-Based Effective Meditations
+
+原文链接：https://www.hubermanlab.com/episode/how-meditation-works-and-science-based-effective-meditations
 
 ## 确定行动指南
 

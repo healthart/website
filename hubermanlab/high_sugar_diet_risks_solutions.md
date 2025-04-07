@@ -1,7 +1,8 @@
 # 【高糖饮食的健康风险与实用改善方案】
 
-原始文件：Dr. Robert Lustig- How Sugar & Processed Foods Impact Your Health.md
-原文链接：https://podwise.ai/dashboard/episodes/133153
+原文标题：Dr. Robert Lustig- How Sugar & Processed Foods Impact Your Health
+
+原文链接：https://www.hubermanlab.com/episode/dr-robert-lustig-how-sugar-processed-foods-impact-your-health
 
 ## 核心建议：保护肝脏、滋养肠道、支持大脑
 

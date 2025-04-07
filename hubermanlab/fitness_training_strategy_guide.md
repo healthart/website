@@ -1,7 +1,8 @@
 # 实用健身方案设计指南：针对不同目标的训练策略
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- Optimize Your Training Program for Fitness & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/71341
+原文标题：GUEST SERIES - Dr. Andy Galpin- Optimize Your Training Program for Fitness & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimize-your-training-program-for-fitness-and-longevity
 
 ## 立即可执行的核心行动建议
 

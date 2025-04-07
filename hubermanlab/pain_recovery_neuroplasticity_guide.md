@@ -1,7 +1,8 @@
 # 伤痛康复与神经可塑性实用指南
 
-原始文件：Control Pain & Heal Faster With Your Brain.md
-原文链接：https://podwise.ai/dashboard/episodes/46060
+原文标题：Control Pain & Heal Faster With Your Brain
+
+原文链接：https://www.hubermanlab.com/episode/essentials-control-pain-heal-faster-with-your-brain
 
 ## 确定行动指南
 

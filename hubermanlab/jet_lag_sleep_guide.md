@@ -1,7 +1,8 @@
 # 时差倒时差与睡眠调整实用指南
 
-原始文件：Essentials- How to Defeat Jet Lag, Shift Work & Sleeplessness.md
-原文链接：https://podwise.ai/dashboard/episodes/2463475
+原文标题：Essentials- How to Defeat Jet Lag, Shift Work & Sleeplessness
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness
 
 ## 确定行动指南
 

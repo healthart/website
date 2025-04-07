@@ -1,7 +1,8 @@
 # 男性激素优化实用指南
 
-原始文件：Dr. Kyle Gillett- Tools for Hormone Optimization in Males.md
-原文链接：https://podwise.ai/dashboard/episodes/71355
+原文标题：Dr. Kyle Gillett- Tools for Hormone Optimization in Males
+
+原文链接：https://www.hubermanlab.com/episode/dr-kyle-gillett-tools-for-hormone-optimization-in-males
 
 ## 首要行动建议
 

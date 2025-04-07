@@ -1,7 +1,8 @@
 # 衰老放缓与逆转：科学支持的行动指南
 
-原始文件：Dr. David Sinclair- The Biology of Slowing & Reversing Aging.md
-原文链接：https://podwise.ai/dashboard/episodes/71410
+原文标题：Dr. David Sinclair- The Biology of Slowing & Reversing Aging
+
+原文链接：https://www.hubermanlab.com/episode/dr-david-sinclair-the-biology-of-slowing-and-reversing-aging
 
 ## 核心行动指南（高确定性建议）
 

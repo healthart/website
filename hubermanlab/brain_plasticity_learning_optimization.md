@@ -1,7 +1,8 @@
 # 优化大脑可塑性：通过错误、动作和平衡加速学习
 
-原始文件：Essentials- How to Learn Faster by Using Failures, Movement & Balance.md
-原文链接：https://podwise.ai/dashboard/episodes/2578359
+原文标题：Essentials- How to Learn Faster by Using Failures, Movement & Balance
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-learn-faster-by-using-failures-movement-balance
 
 ## 确定行动指南
 

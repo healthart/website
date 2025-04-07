@@ -1,7 +1,8 @@
 # 更年期实用指南：最大化健康与活力的行动方案
 
-原始文件：Dr. Mary Claire Haver- How to Navigate Menopause & Perimenopause for Maximum Health & Vitality.md
-原文链接：https://podwise.ai/dashboard/episodes/1305777
+原文标题：Dr. Mary Claire Haver- How to Navigate Menopause & Perimenopause for Maximum Health & Vitality
+
+原文链接：https://www.hubermanlab.com/episode/dr-mary-claire-haver-how-to-navigate-menopause-perimenopause-for-maximum-health-vitality
 
 ## 核心行动建议
 

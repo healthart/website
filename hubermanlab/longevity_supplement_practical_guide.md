@@ -1,7 +1,8 @@
 # 长寿补充剂实用指南：科学证据与实际建议
 
-原始文件：AMA #12- Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory.md
-原文链接：https://podwise.ai/dashboard/episodes/54131
+原文标题：AMA #12- Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory
+
+原文链接：https://www.hubermanlab.com/episode/ama-12-thoughts-on-longevity-supplements-how-to-improve-memory
 
 ## 确定行动指南
 

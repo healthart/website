@@ -1,7 +1,8 @@
 # 寒冷暴露的实用行动指南：改善健康与提升表现
 
-原始文件：Using Deliberate Cold Exposure for Health and Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/71396
+原文标题：Using Deliberate Cold Exposure for Health and Performance
+
+原文链接：https://www.hubermanlab.com/episode/using-deliberate-cold-exposure-for-health-and-performance
 
 ## 核心行动建议
 

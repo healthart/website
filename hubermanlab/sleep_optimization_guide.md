@@ -1,7 +1,8 @@
 # 睡眠优化实用指南：调整时间与节律
 
-原始文件：GUEST SERIES - Dr. Matt Walker- How to Structure Your Sleep, Use Naps & Time Caffeine.md
-原文链接：https://podwise.ai/dashboard/episodes/1100964
+原文标题：GUEST SERIES - Dr. Matt Walker- How to Structure Your Sleep, Use Naps & Time Caffeine
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine
 
 本文基于最新睡眠科学研究，提供了明确的行动建议来优化您的睡眠质量、提升白天精力，并合理使用咖啡因与午睡。
 

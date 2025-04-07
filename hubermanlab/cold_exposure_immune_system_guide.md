@@ -1,7 +1,8 @@
 # 冷暴露对免疫系统的影响：实用指南
 
-原始文件：AMA #7- Cold Exposure, Maximizing REM Sleep & My Next Scientific Studies.md
-原文链接：https://podwise.ai/dashboard/episodes/3366
+原文标题：AMA #7- Cold Exposure, Maximizing REM Sleep & My Next Scientific Studies
+
+原文链接：https://www.hubermanlab.com/episode/ama-7-cold-exposure-maximizing-rem-sleep-my-next-scientific-studies
 
 ## 确定行动指南
 

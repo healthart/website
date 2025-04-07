@@ -1,7 +1,8 @@
 # 语言学习和语言障碍实用指南
 
-原始文件：Dr. Eddie Chang- The Science of Learning & Speaking Languages.md
-原文链接：https://podwise.ai/dashboard/episodes/71365
+原文标题：Dr. Eddie Chang- The Science of Learning & Speaking Languages
+
+原文链接：https://www.hubermanlab.com/episode/dr-eddie-chang-the-science-of-learning-and-speaking-languages
 
 从医学角度来看，大脑如何处理语言以及我们如何优化语言学习和解决语言障碍是极其复杂的课题。基于Chang博士的研究，以下是帮助您理解和应用这些见解的关键行动建议。
 

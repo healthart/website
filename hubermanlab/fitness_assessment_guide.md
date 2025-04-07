@@ -1,7 +1,8 @@
 # 健身全面评估指南：如何判断你的真实健康水平
 
-原始文件：GUEST SERIES - Dr. Andy Galpin- How to Assess & Improve All Aspects of Your Fitness.md
-原文链接：https://podwise.ai/dashboard/episodes/71347
+原文标题：GUEST SERIES - Dr. Andy Galpin- How to Assess & Improve All Aspects of Your Fitness
+
+原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness
 
 根据 Huberman Lab 与健身生理学专家 Andy Galpin 博士的对话，我整理了一套实用的健身评估系统，帮助你客观了解自己的真实健康状况并找出需要改进的关键领域。
 

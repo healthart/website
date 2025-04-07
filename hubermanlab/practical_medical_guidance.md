@@ -1,7 +1,8 @@
 # 实用医学指南：哈伯曼实验室播客关键行动要点
 
-原始文件：AMA #16- Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More.md
-原文链接：https://podwise.ai/dashboard/episodes/501368
+原文标题：AMA #16- Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More
+
+原文链接：https://www.hubermanlab.com/episode/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more
 
 ## 确定行动指南
 

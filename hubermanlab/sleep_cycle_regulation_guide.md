@@ -1,7 +1,8 @@
 # 时差、轮班与失眠：睡眠周期调节实战指南
 
-原始文件：How to Defeat Jet Lag, Shift Work & Sleeplessness.md
-原文链接：https://podwise.ai/dashboard/episodes/46065
+原文标题：How to Defeat Jet Lag, Shift Work & Sleeplessness
+
+原文链接：https://www.hubermanlab.com/episode/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness
 
 ## 确定行动指南
 

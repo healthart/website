@@ -1,7 +1,8 @@
 # 科学饮食指南：健康、减脂与增肌的实用策略
 
-原始文件：Dr. Layne Norton- The Science of Eating for Health, Fat Loss & Lean Muscle.md
-原文链接：https://podwise.ai/dashboard/episodes/71362
+原文标题：Dr. Layne Norton- The Science of Eating for Health, Fat Loss & Lean Muscle
+
+原文链接：https://www.hubermanlab.com/episode/dr-layne-norton-the-science-of-eating-for-health-fat-loss-and-lean-muscle
 
 ## 确定行动指南
 

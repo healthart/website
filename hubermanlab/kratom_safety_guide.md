@@ -1,7 +1,8 @@
 # 阿片类物质卡痛（Kratom）安全指南：证据与行动建议
 
-原始文件：AMA #9- Kratom Risks, Does Infrared Sauna Work & Journaling Benefits.md
-原文链接：https://podwise.ai/dashboard/episodes/1845
+原文标题：AMA #9- Kratom Risks, Does Infrared Sauna Work & Journaling Benefits
+
+原文链接：https://www.hubermanlab.com/episode/ama-9-kratom-risks-does-infrared-sauna-work-journaling-benefits
 
 ## 确定行动指南
 

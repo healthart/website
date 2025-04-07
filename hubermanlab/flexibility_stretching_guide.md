@@ -1,7 +1,8 @@
 # 提高灵活性的实用指南：基于研究的有效拉伸方法
 
-原始文件：Improve Flexibility with Research-Supported Stretching Protocols.md
-原文链接：https://podwise.ai/dashboard/episodes/71386
+原文标题：Improve Flexibility with Research-Supported Stretching Protocols
+
+原文链接：https://www.hubermanlab.com/episode/improve-flexibility-with-research-supported-stretching-protocols
 
 ## 【确定行动指南】
 

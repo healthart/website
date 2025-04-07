@@ -1,7 +1,8 @@
 # 皮质醇与肾上腺素：优化能量和免疫系统的实用指南
 
-原始文件：Essentials- Boost Your Energy & Immune System with Cortisol & Adrenaline.md
-原文链接：https://podwise.ai/dashboard/episodes/3303923
+原文标题：Essentials- Boost Your Energy & Immune System with Cortisol & Adrenaline
+
+原文链接：https://www.hubermanlab.com/episode/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline
 
 ## 确定行动指南
 

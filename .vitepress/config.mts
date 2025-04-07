@@ -24,1038 +24,1038 @@ export default defineConfig({
     sidebar: {
       '/hubermanlab/': [
         {
-          text: "第1章：神经系统快速调节",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第1章：神经系统快速调节",
+          "items": [
             {
-              text: "1. 如何正确呼吸，提升健康和表现",
-              link: "/hubermanlab/healthy_breathing_techniques"
+              "text": "1. 如何正确呼吸，提升健康和表现",
+              "link": "/hubermanlab/healthy_breathing_techniques"
             },
             {
-              text: "2. 控制压力，改善饮食、代谢与衰老：实用指南",
-              link: "/hubermanlab/stress_diet_aging_guide"
+              "text": "2. 控制压力，改善饮食、代谢与衰老：实用指南",
+              "link": "/hubermanlab/stress_diet_aging_guide"
             },
             {
-              text: "3. 压力管理实用指南：从即时缓解到长期健康",
-              link: "/hubermanlab/stress_relief_guide"
+              "text": "3. 压力管理实用指南：从即时缓解到长期健康",
+              "link": "/hubermanlab/stress_relief_guide"
             },
             {
-              text: "4. 应对压力：实用指南与科学工具",
-              link: "/hubermanlab/coping_with_stress_guide"
+              "text": "4. 应对压力：实用指南与科学工具",
+              "link": "/hubermanlab/coping_with_stress_guide"
             },
             {
-              text: "5. 皮质醇与肾上腺素：优化能量和免疫系统的实用指南",
-              link: "/hubermanlab/cortisol_adrenaline_energy_guide"
+              "text": "5. 皮质醇与肾上腺素：优化能量和免疫系统的实用指南",
+              "link": "/hubermanlab/cortisol_adrenaline_energy_guide"
             },
             {
-              text: "6. 适应原实用指南：科学支持的减压策略",
-              link: "/hubermanlab/stress_relief_strategies"
+              "text": "6. 适应原实用指南：科学支持的减压策略",
+              "link": "/hubermanlab/stress_relief_strategies"
             },
             {
-              text: "7. 寒冷暴露的实用行动指南：改善健康与提升表现",
-              link: "/hubermanlab/cold_exposure_action_guide"
+              "text": "7. 寒冷暴露的实用行动指南：改善健康与提升表现",
+              "link": "/hubermanlab/cold_exposure_action_guide"
             },
             {
-              text: "8. 掌心降温：提升运动表现的实证指南",
-              link: "/hubermanlab/palm_cooling_performance_guide"
+              "text": "8. 掌心降温：提升运动表现的实证指南",
+              "link": "/hubermanlab/palm_cooling_performance_guide"
             },
             {
-              text: "9. 冷暴露对免疫系统的影响：实用指南",
-              link: "/hubermanlab/cold_exposure_immune_system_guide"
+              "text": "9. 冷暴露对免疫系统的影响：实用指南",
+              "link": "/hubermanlab/cold_exposure_immune_system_guide"
             },
             {
-              text: "10. 热暴露的健康实用指南：从科学到实践",
-              link: "/hubermanlab/heat_exposure_health_guide"
+              "text": "10. 热暴露的健康实用指南：从科学到实践",
+              "link": "/hubermanlab/heat_exposure_health_guide"
             },
             {
-              text: "11. 冷热暴露的实用指南：改善代谢和健康",
-              link: "/hubermanlab/cold_heat_exposure_health_guide"
+              "text": "11. 冷热暴露的实用指南：改善代谢和健康",
+              "link": "/hubermanlab/cold_heat_exposure_health_guide"
             },
             {
-              text: "12. 疼痛管理实用指南：从医学专家角度解读",
-              link: "/hubermanlab/pain_management_practical_guide"
+              "text": "12. 疼痛管理实用指南：从医学专家角度解读",
+              "link": "/hubermanlab/pain_management_practical_guide"
             },
             {
-              text: "13. 受伤与疼痛管理实用指南：大脑如何加速恢复",
-              link: "/hubermanlab/injury_pain_management_guide"
+              "text": "13. 受伤与疼痛管理实用指南：大脑如何加速恢复",
+              "link": "/hubermanlab/injury_pain_management_guide"
             },
             {
-              text: "14. 科学实证方法缓解头痛：行动指南",
-              link: "/hubermanlab/pain_relief_science_guide"
+              "text": "14. 科学实证方法缓解头痛：行动指南",
+              "link": "/hubermanlab/pain_relief_science_guide"
             },
             {
-              text: "15. 管理侵入性思维的实用指南",
-              link: "/hubermanlab/managing_intrusive_thoughts"
+              "text": "15. 管理侵入性思维的实用指南",
+              "link": "/hubermanlab/managing_intrusive_thoughts"
             },
             {
-              text: "16. 增强免疫系统的实用行动指南",
-              link: "/hubermanlab/immune_system_boost_guide"
+              "text": "16. 增强免疫系统的实用行动指南",
+              "link": "/hubermanlab/immune_system_boost_guide"
             },
             {
-              text: "17. 强化免疫系统实用指南：阳光、温度与生活方式干预",
-              link: "/hubermanlab/boost_immune_system_guide"
+              "text": "17. 强化免疫系统实用指南：阳光、温度与生活方式干预",
+              "link": "/hubermanlab/boost_immune_system_guide"
             },
             {
-              text: "18. 有效管理压力、优化睡眠与提升专注力的科学指南",
-              link: "/hubermanlab/stress_management_sleep_focus_guide"
+              "text": "18. 有效管理压力、优化睡眠与提升专注力的科学指南",
+              "link": "/hubermanlab/stress_management_sleep_focus_guide"
             }
           ]
         },
         {
-          text: "第2章：注意力与认知即时优化",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第2章：注意力与认知即时优化",
+          "items": [
             {
-              text: "1. 视觉聚焦技术：科学支持的目标达成策略",
-              link: "/hubermanlab/visual_focus_goal_strategy"
+              "text": "1. 视觉聚焦技术：科学支持的目标达成策略",
+              "link": "/hubermanlab/visual_focus_goal_strategy"
             },
             {
-              text: "2. 专注力与注意力提升指南：确定行动建议",
-              link: "/hubermanlab/focus_attention_improvement_guide"
+              "text": "2. 专注力与注意力提升指南：确定行动建议",
+              "link": "/hubermanlab/focus_attention_improvement_guide"
             },
             {
-              text: "3. 音乐对大脑与身体的实用指南",
-              link: "/hubermanlab/music_brain_body_guide"
+              "text": "3. 音乐对大脑与身体的实用指南",
+              "link": "/hubermanlab/music_brain_body_guide"
             },
             {
-              text: "4. 情绪智能提升实用指南：从认知到行动",
-              link: "/hubermanlab/emotional_intelligence_action_guide"
+              "text": "4. 情绪智能提升实用指南：从认知到行动",
+              "link": "/hubermanlab/emotional_intelligence_action_guide"
             },
             {
-              text: "5. 管理内心对话的实用指南：从想法到行动",
-              link: "/hubermanlab/managing_inner_dialogue"
+              "text": "5. 管理内心对话的实用指南：从想法到行动",
+              "link": "/hubermanlab/managing_inner_dialogue"
             },
             {
-              text: "6. 冥想与意识探索：实用指南",
-              link: "/hubermanlab/meditation_consciousness_guide"
+              "text": "6. 冥想与意识探索：实用指南",
+              "link": "/hubermanlab/meditation_consciousness_guide"
             },
             {
-              text: "7. 冥想的科学与实践：行动指南",
-              link: "/hubermanlab/meditation_science_practice_guide"
+              "text": "7. 冥想的科学与实践：行动指南",
+              "link": "/hubermanlab/meditation_science_practice_guide"
             },
             {
-              text: "8. 锻炼意志力：来自神经科学和超级耐力运动员的实用指南",
-              link: "/hubermanlab/willpower_training_practical_guide"
+              "text": "8. 锻炼意志力：来自神经科学和超级耐力运动员的实用指南",
+              "link": "/hubermanlab/willpower_training_practical_guide"
             },
             {
-              text: "9. 提升意志力与坚韧性的实用指南",
-              link: "/hubermanlab/boost_willpower_and_resilience"
+              "text": "9. 提升意志力与坚韧性的实用指南",
+              "link": "/hubermanlab/boost_willpower_and_resilience"
             },
             {
-              text: "10. 任务切换与效率提升的实用指南",
-              link: "/hubermanlab/task_switching_efficiency_guide"
+              "text": "10. 任务切换与效率提升的实用指南",
+              "link": "/hubermanlab/task_switching_efficiency_guide"
             },
             {
-              text: "11. 【谈判与沟通艺术实用指南】",
-              link: "/hubermanlab/negotiation_communication_guide"
+              "text": "11. 【谈判与沟通艺术实用指南】",
+              "link": "/hubermanlab/negotiation_communication_guide"
             },
             {
-              text: "12. 思维模式对健康和表现的影响：实用指南",
-              link: "/hubermanlab/mindset_impact_on_health_performance"
+              "text": "12. 思维模式对健康和表现的影响：实用指南",
+              "link": "/hubermanlab/mindset_impact_on_health_performance"
             },
             {
-              text: "13. 思维拓展：医学视角下的思维与身体健康",
-              link: "/hubermanlab/mental_health_medical_perspective"
+              "text": "13. 思维拓展：医学视角下的思维与身体健康",
+              "link": "/hubermanlab/mental_health_medical_perspective"
             },
             {
-              text: "14. 成长思维与压力增强策略：实用行动指南",
-              link: "/hubermanlab/growth_mindset_stress_management"
+              "text": "14. 成长思维与压力增强策略：实用行动指南",
+              "link": "/hubermanlab/growth_mindset_stress_management"
             },
             {
-              text: "15. 情绪与关系的科学：行动指南",
-              link: "/hubermanlab/emotional_relationship_science_guide"
+              "text": "15. 情绪与关系的科学：行动指南",
+              "link": "/hubermanlab/emotional_relationship_science_guide"
             },
             {
-              text: "16. 情绪理解与管理实用指南：从神经科学角度看情绪",
-              link: "/hubermanlab/emotional_intelligence_practical_guide"
+              "text": "16. 情绪理解与管理实用指南：从神经科学角度看情绪",
+              "link": "/hubermanlab/emotional_intelligence_practical_guide"
             },
             {
-              text: "17. 科学解读：理解与应对悲伤的实用指南",
-              link: "/hubermanlab/coping_with_grief"
+              "text": "17. 科学解读：理解与应对悲伤的实用指南",
+              "link": "/hubermanlab/coping_with_grief"
             },
             {
-              text: "18. 情绪与营养关系：实用行动指南",
-              link: "/hubermanlab/emotions_nutrition_action_guide"
+              "text": "18. 情绪与营养关系：实用行动指南",
+              "link": "/hubermanlab/emotions_nutrition_action_guide"
             },
             {
-              text: "19. 实用行动指南：科学证实的心理训练与可视化技术",
-              link: "/hubermanlab/mental_training_visualization_techniques"
+              "text": "19. 实用行动指南：科学证实的心理训练与可视化技术",
+              "link": "/hubermanlab/mental_training_visualization_techniques"
             },
             {
-              text: "20. 创伤疗愈实用指南：从心理痛苦到行动方案",
-              link: "/hubermanlab/healing_from_trauma"
+              "text": "20. 创伤疗愈实用指南：从心理痛苦到行动方案",
+              "link": "/hubermanlab/healing_from_trauma"
             }
           ]
         },
         {
-          text: "第3章：生物钟同步与光照管理",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第3章：生物钟同步与光照管理",
+          "items": [
             {
-              text: "1. 光照、温度与昼夜节律：优化睡眠、学习与代谢的实用指南",
-              link: "/hubermanlab/light_temperature_circadian_sleep_guide"
+              "text": "1. 光照、温度与昼夜节律：优化睡眠、学习与代谢的实用指南",
+              "link": "/hubermanlab/light_temperature_circadian_sleep_guide"
             },
             {
-              text: "2. 时差、轮班与失眠：睡眠周期调节实战指南",
-              link: "/hubermanlab/sleep_cycle_regulation_guide"
+              "text": "2. 时差、轮班与失眠：睡眠周期调节实战指南",
+              "link": "/hubermanlab/sleep_cycle_regulation_guide"
             },
             {
-              text: "3. 时间感知精准指南：利用生物节律与神经递质优化健康与表现",
-              link: "/hubermanlab/optimizing_biological_rhythms"
+              "text": "3. 时间感知精准指南：利用生物节律与神经递质优化健康与表现",
+              "link": "/hubermanlab/optimizing_biological_rhythms"
             },
             {
-              text: "4. 优化睡眠与清醒的实用指南",
-              link: "/hubermanlab/sleep_and_wakefulness_guide"
+              "text": "4. 优化睡眠与清醒的实用指南",
+              "link": "/hubermanlab/sleep_and_wakefulness_guide"
             },
             {
-              text: "5. 光照对健康的强效影响：从视力保护到荷尔蒙平衡的实用指南",
-              link: "/hubermanlab/light_health_practical_guide"
+              "text": "5. 光照对健康的强效影响：从视力保护到荷尔蒙平衡的实用指南",
+              "link": "/hubermanlab/light_health_practical_guide"
             },
             {
-              text: "6. 光照与身体节律：优化日常生活的实用指南",
-              link: "/hubermanlab/light_and_body_rhythm"
+              "text": "6. 光照与身体节律：优化日常生活的实用指南",
+              "link": "/hubermanlab/light_and_body_rhythm"
             },
             {
-              text: "7. 光照与精神健康：最新研究实用指南",
-              link: "/hubermanlab/light_and_mental_health"
+              "text": "7. 光照与精神健康：最新研究实用指南",
+              "link": "/hubermanlab/light_and_mental_health"
             },
             {
-              text: "8. 光照、作息与健康：优化睡眠、能量和情绪的实用指南",
-              link: "/hubermanlab/light_sleep_health_guide"
+              "text": "8. 光照、作息与健康：优化睡眠、能量和情绪的实用指南",
+              "link": "/hubermanlab/light_sleep_health_guide"
             },
             {
-              text: "9. 时差倒时差与睡眠调整实用指南",
-              link: "/hubermanlab/jet_lag_sleep_guide"
+              "text": "9. 时差倒时差与睡眠调整实用指南",
+              "link": "/hubermanlab/jet_lag_sleep_guide"
             },
             {
-              text: "10. 睡眠与清醒优化：实用指南",
-              link: "/hubermanlab/sleep_wakefulness_optimization_guide"
+              "text": "10. 睡眠与清醒优化：实用指南",
+              "link": "/hubermanlab/sleep_wakefulness_optimization_guide"
             },
             {
-              text: "11. 【确定行动指南】",
-              link: "/hubermanlab/action_guide"
+              "text": "11. 【确定行动指南】",
+              "link": "/hubermanlab/action_guide"
             },
             {
-              text: "12. 自然环境对健康的实用指南",
-              link: "/hubermanlab/healthy_natural_environment_guide"
+              "text": "12. 自然环境对健康的实用指南",
+              "link": "/hubermanlab/healthy_natural_environment_guide"
             },
             {
-              text: "13. 视力健康实用指南：如何保护和增强视力",
-              link: "/hubermanlab/eye_health_protection_guide"
+              "text": "13. 视力健康实用指南：如何保护和增强视力",
+              "link": "/hubermanlab/eye_health_protection_guide"
             },
             {
-              text: "14. 保护视力与改善视力的实用指南",
-              link: "/hubermanlab/protect_improve_vision_guide"
+              "text": "14. 保护视力与改善视力的实用指南",
+              "link": "/hubermanlab/protect_improve_vision_guide"
             },
             {
-              text: "15. 视觉系统与神经科技：从基础理解到实用应用",
-              link: "/hubermanlab/visual_neural_tech_applications"
+              "text": "15. 视觉系统与神经科技：从基础理解到实用应用",
+              "link": "/hubermanlab/visual_neural_tech_applications"
             },
             {
-              text: "16. 用脑科学优化学习和创造力：实用行动指南",
-              link: "/hubermanlab/learning_optimization_practical_guide"
+              "text": "16. 用脑科学优化学习和创造力：实用行动指南",
+              "link": "/hubermanlab/learning_optimization_practical_guide"
             }
           ]
         },
         {
-          text: "第4章：睡眠科学与日循环整合",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第4章：睡眠科学与日循环整合",
+          "items": [
             {
-              text: "1. 睡眠的科学与实用指南：如何获得最佳休息",
-              link: "/hubermanlab/sleep_science_practical_guide"
+              "text": "1. 睡眠的科学与实用指南：如何获得最佳休息",
+              "link": "/hubermanlab/sleep_science_practical_guide"
             },
             {
-              text: "2. 睡眠科学实用指南：改善记忆、情绪和健康",
-              link: "/hubermanlab/sleep_science_practical_guide"
+              "text": "2. 睡眠科学实用指南：改善记忆、情绪和健康",
+              "link": "/hubermanlab/sleep_science_practical_guide"
             },
             {
-              text: "3. 睡眠周期与学习情绪调节指南",
-              link: "/hubermanlab/sleep_cycle_learning_emotion_guide"
+              "text": "3. 睡眠周期与学习情绪调节指南",
+              "link": "/hubermanlab/sleep_cycle_learning_emotion_guide"
             },
             {
-              text: "4. 睡眠优化实用指南：来自睡眠科学家马特·沃克博士的建议",
-              link: "/hubermanlab/sleep_optimization_guide"
+              "text": "4. 睡眠优化实用指南：来自睡眠科学家马特·沃克博士的建议",
+              "link": "/hubermanlab/sleep_optimization_guide"
             },
             {
-              text: "5. 最佳睡眠优化实用指南：循证工具与实施要点",
-              link: "/hubermanlab/sleep_optimization_practical_guide"
+              "text": "5. 最佳睡眠优化实用指南：循证工具与实施要点",
+              "link": "/hubermanlab/sleep_optimization_practical_guide"
             },
             {
-              text: "6. 睡眠与情绪健康：确定行动指南",
-              link: "/hubermanlab/sleep_and_emotional_health"
+              "text": "6. 睡眠与情绪健康：确定行动指南",
+              "link": "/hubermanlab/sleep_and_emotional_health"
             },
             {
-              text: "7. 睡眠优化实用指南：强证据支持的行动建议",
-              link: "/hubermanlab/sleep_optimization_practical_guide"
+              "text": "7. 睡眠优化实用指南：强证据支持的行动建议",
+              "link": "/hubermanlab/sleep_optimization_practical_guide"
             },
             {
-              text: "8. 如何优化深度睡眠：循证行动指南",
-              link: "/hubermanlab/improve_deep_sleep_guide"
+              "text": "8. 如何优化深度睡眠：循证行动指南",
+              "link": "/hubermanlab/improve_deep_sleep_guide"
             },
             {
-              text: "9. 睡眠提升学习与创造力的实用指南",
-              link: "/hubermanlab/sleep_learning_creativity_guide"
+              "text": "9. 睡眠提升学习与创造力的实用指南",
+              "link": "/hubermanlab/sleep_learning_creativity_guide"
             },
             {
-              text: "10. 睡眠优化实用指南：调整时间与节律",
-              link: "/hubermanlab/sleep_optimization_guide"
+              "text": "10. 睡眠优化实用指南：调整时间与节律",
+              "link": "/hubermanlab/sleep_optimization_guide"
             },
             {
-              text: "11. 医学内容实用指南：冷疗、皮肤健康与睡眠优化",
-              link: "/hubermanlab/cold_therapy_skin_sleep_guide"
+              "text": "11. 医学内容实用指南：冷疗、皮肤健康与睡眠优化",
+              "link": "/hubermanlab/cold_therapy_skin_sleep_guide"
             },
             {
-              text: "12. 提升睡眠质量与梦境体验的实用指南",
-              link: "/hubermanlab/improve_sleep_quality_guide"
+              "text": "12. 提升睡眠质量与梦境体验的实用指南",
+              "link": "/hubermanlab/improve_sleep_quality_guide"
             },
             {
-              text: "13. 实用指南：改善心理健康与身体健康的行动策略",
-              link: "/hubermanlab/mental_health_action_guide"
+              "text": "13. 实用指南：改善心理健康与身体健康的行动策略",
+              "link": "/hubermanlab/mental_health_action_guide"
             }
           ]
         },
         {
-          text: "第5章：全天能量与表现管理",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第5章：全天能量与表现管理",
+          "items": [
             {
-              text: "1. 科学优化大脑功能的实用指南",
-              link: "/hubermanlab/brain_function_optimization_guide"
+              "text": "1. 科学优化大脑功能的实用指南",
+              "link": "/hubermanlab/brain_function_optimization_guide"
             },
             {
-              text: "2. 优化大脑化学物质：提升健康与表现的实用指南",
-              link: "/hubermanlab/optimize_brain_chemistry"
+              "text": "2. 优化大脑化学物质：提升健康与表现的实用指南",
+              "link": "/hubermanlab/optimize_brain_chemistry"
             },
             {
-              text: "3. 科学塑造习惯指南：如何高效建立和打破习惯",
-              link: "/hubermanlab/habit_formation_guide"
+              "text": "3. 科学塑造习惯指南：如何高效建立和打破习惯",
+              "link": "/hubermanlab/habit_formation_guide"
             },
             {
-              text: "4. 饮水健康全指南：确定行动与核心解析",
-              link: "/hubermanlab/water_health_guide"
+              "text": "4. 饮水健康全指南：确定行动与核心解析",
+              "link": "/hubermanlab/water_health_guide"
             },
             {
-              text: "5. 咖啡因使用指南：优化身心表现与健康",
-              link: "/hubermanlab/caffeine_usage_guide"
+              "text": "5. 咖啡因使用指南：优化身心表现与健康",
+              "link": "/hubermanlab/caffeine_usage_guide"
             },
             {
-              text: "6. 科学咖啡指南：优化摄入，最大化益处",
-              link: "/hubermanlab/science_coffee_guide"
+              "text": "6. 科学咖啡指南：优化摄入，最大化益处",
+              "link": "/hubermanlab/science_coffee_guide"
             },
             {
-              text: "7. 深度工作的科学：提升专注力与生产力的实用指南",
-              link: "/hubermanlab/deep_work_focus_guide"
+              "text": "7. 深度工作的科学：提升专注力与生产力的实用指南",
+              "link": "/hubermanlab/deep_work_focus_guide"
             },
             {
-              text: "8. 行动导向的决策与社交指南：从激素与状态研究中获得的实用洞见",
-              link: "/hubermanlab/action_oriented_decision_making_guide"
+              "text": "8. 行动导向的决策与社交指南：从激素与状态研究中获得的实用洞见",
+              "link": "/hubermanlab/action_oriented_decision_making_guide"
             },
             {
-              text: "9. 大脑奖励回路如何驱动你的选择",
-              link: "/hubermanlab/brain_reward_drives_choices"
+              "text": "9. 大脑奖励回路如何驱动你的选择",
+              "link": "/hubermanlab/brain_reward_drives_choices"
             },
             {
-              text: "10. 多巴胺系统优化指南：提升动机、专注力与满足感",
-              link: "/hubermanlab/dopamine_optimization_guide"
+              "text": "10. 多巴胺系统优化指南：提升动机、专注力与满足感",
+              "link": "/hubermanlab/dopamine_optimization_guide"
             },
             {
-              text: "11. 多巴胺与持续动力：科学行动指南",
-              link: "/hubermanlab/dopamine_action_guide"
+              "text": "11. 多巴胺与持续动力：科学行动指南",
+              "link": "/hubermanlab/dopamine_action_guide"
             },
             {
-              text: "12. 医学内容实用转化：驾驭动机与潜能的科学",
-              link: "/hubermanlab/medical_science_practical_transformation"
+              "text": "12. 医学内容实用转化：驾驭动机与潜能的科学",
+              "link": "/hubermanlab/medical_science_practical_transformation"
             },
             {
-              text: "13. 大脑健康实用指南：从 Huberman Lab 播客提炼的行动策略",
-              link: "/hubermanlab/brain_health_action_guide"
+              "text": "13. 大脑健康实用指南：从 Huberman Lab 播客提炼的行动策略",
+              "link": "/hubermanlab/brain_health_action_guide"
             },
             {
-              text: "14. 【确定行动指南】：大脑和身体健康优化策略",
-              link: "/hubermanlab/brain_body_health_optimization"
+              "text": "14. 【确定行动指南】：大脑和身体健康优化策略",
+              "link": "/hubermanlab/brain_body_health_optimization"
             },
             {
-              text: "15. 身心实践的关键行动指南：聆听身体的智慧，培养自我照顾",
-              link: "/hubermanlab/body_wisdom_self_care_guide"
+              "text": "15. 身心实践的关键行动指南：聆听身体的智慧，培养自我照顾",
+              "link": "/hubermanlab/body_wisdom_self_care_guide"
             },
             {
-              text: "16. 金钱心理学：实用指南",
-              link: "/hubermanlab/money_psychology_practical_guide"
+              "text": "16. 金钱心理学：实用指南",
+              "link": "/hubermanlab/money_psychology_practical_guide"
             }
           ]
         },
         {
-          text: "第6章：科学健身与恢复周期",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第6章：科学健身与恢复周期",
+          "items": [
             {
-              text: "1. 基础健身方案：科学有效的时间平衡指南",
-              link: "/hubermanlab/basic_fitness_plan"
+              "text": "1. 基础健身方案：科学有效的时间平衡指南",
+              "link": "/hubermanlab/basic_fitness_plan"
             },
             {
-              text: "2. 全面健身基础：行动导向的实用指南",
-              link: "/hubermanlab/comprehensive_fitness_guide"
+              "text": "2. 全面健身基础：行动导向的实用指南",
+              "link": "/hubermanlab/comprehensive_fitness_guide"
             },
             {
-              text: "3. 运动训练实用指南：强化肌肉、预防伤害与长期健康",
-              link: "/hubermanlab/exercise_training_practical_guide"
+              "text": "3. 运动训练实用指南：强化肌肉、预防伤害与长期健康",
+              "link": "/hubermanlab/exercise_training_practical_guide"
             },
             {
-              text: "4. 实用指南：肌肉增长、力量提升与耐力训练的科学方法",
-              link: "/hubermanlab/muscle_training_scientific_guide"
+              "text": "4. 实用指南：肌肉增长、力量提升与耐力训练的科学方法",
+              "link": "/hubermanlab/muscle_training_scientific_guide"
             },
             {
-              text: "5. 健身全面评估指南：如何判断你的真实健康水平",
-              link: "/hubermanlab/fitness_assessment_guide"
+              "text": "5. 健身全面评估指南：如何判断你的真实健康水平",
+              "link": "/hubermanlab/fitness_assessment_guide"
             },
             {
-              text: "6. 实用健身方案设计指南：针对不同目标的训练策略",
-              link: "/hubermanlab/fitness_training_strategy_guide"
+              "text": "6. 实用健身方案设计指南：针对不同目标的训练策略",
+              "link": "/hubermanlab/fitness_training_strategy_guide"
             },
             {
-              text: "7. 【实用行动指南】力量训练与耐力发展的科学方法",
-              link: "/hubermanlab/strength_and_endurance_training_guide"
+              "text": "7. 【实用行动指南】力量训练与耐力发展的科学方法",
+              "link": "/hubermanlab/strength_and_endurance_training_guide"
             },
             {
-              text: "8. 力量与肌肉增长训练：实用指南",
-              link: "/hubermanlab/strength_muscle_growth_guide"
+              "text": "8. 力量与肌肉增长训练：实用指南",
+              "link": "/hubermanlab/strength_muscle_growth_guide"
             },
             {
-              text: "9. 肌肉健康与训练的实用指南",
-              link: "/hubermanlab/muscle_training_guide"
+              "text": "9. 肌肉健康与训练的实用指南",
+              "link": "/hubermanlab/muscle_training_guide"
             },
             {
-              text: "10. 肌肉健康：长寿的核心器官",
-              link: "/hubermanlab/muscle_health_longevity_key"
+              "text": "10. 肌肉健康：长寿的核心器官",
+              "link": "/hubermanlab/muscle_health_longevity_key"
             },
             {
-              text: "11. 力量训练与激素优化实用指南",
-              link: "/hubermanlab/strength_training_hormone_guide"
+              "text": "11. 力量训练与激素优化实用指南",
+              "link": "/hubermanlab/strength_training_hormone_guide"
             },
             {
-              text: "12. 性激素优化实用指南：基于证据的行动建议",
-              link: "/hubermanlab/hormone_optimization_guide"
+              "text": "12. 性激素优化实用指南：基于证据的行动建议",
+              "link": "/hubermanlab/hormone_optimization_guide"
             },
             {
-              text: "13. 提升心肺健康与最大摄氧量(VO2 max)的实用指南",
-              link: "/hubermanlab/cardio_fitness_training_guide"
+              "text": "13. 提升心肺健康与最大摄氧量(VO2 max)的实用指南",
+              "link": "/hubermanlab/cardio_fitness_training_guide"
             },
             {
-              text: "14. 科学指南：提升身体与大脑耐力的4种方法",
-              link: "/hubermanlab/brain_endurance_boosting_methods"
+              "text": "14. 科学指南：提升身体与大脑耐力的4种方法",
+              "link": "/hubermanlab/brain_endurance_boosting_methods"
             },
             {
-              text: "15. 提升耐力与促进脂肪燃烧的实用指南",
-              link: "/hubermanlab/endurance_fat_burning_guide"
+              "text": "15. 提升耐力与促进脂肪燃烧的实用指南",
+              "link": "/hubermanlab/endurance_fat_burning_guide"
             },
             {
-              text: "16. 健身训练实用指南：循证策略和行动方案",
-              link: "/hubermanlab/fitness_training_practical_guide"
+              "text": "16. 健身训练实用指南：循证策略和行动方案",
+              "link": "/hubermanlab/fitness_training_practical_guide"
             },
             {
-              text: "17. 提高灵活性的实用指南：基于研究的有效拉伸方法",
-              link: "/hubermanlab/flexibility_stretching_guide"
+              "text": "17. 提高灵活性的实用指南：基于研究的有效拉伸方法",
+              "link": "/hubermanlab/flexibility_stretching_guide"
             },
             {
-              text: "18. 跑动与跳跃的实用指南：提升速度、灵活性与长寿",
-              link: "/hubermanlab/running_jumping_practical_guide"
+              "text": "18. 跑动与跳跃的实用指南：提升速度、灵活性与长寿",
+              "link": "/hubermanlab/running_jumping_practical_guide"
             },
             {
-              text: "19. 改善运动能力与姿势的实用指南",
-              link: "/hubermanlab/improve_movement_and_posture"
+              "text": "19. 改善运动能力与姿势的实用指南",
+              "link": "/hubermanlab/improve_movement_and_posture"
             },
             {
-              text: "20. 运动增强大脑健康与认知表现：实用指南",
-              link: "/hubermanlab/exercise_for_brain_health"
+              "text": "20. 运动增强大脑健康与认知表现：实用指南",
+              "link": "/hubermanlab/exercise_for_brain_health"
             },
             {
-              text: "21. 强壮无痛的背部：循证实践指南",
-              link: "/hubermanlab/strong_pain_free_back"
+              "text": "21. 强壮无痛的背部：循证实践指南",
+              "link": "/hubermanlab/strong_pain_free_back"
             },
             {
-              text: "22. 强化和保护脊椎的实用行动指南",
-              link: "/hubermanlab/spine_protection_action_guide"
+              "text": "22. 强化和保护脊椎的实用行动指南",
+              "link": "/hubermanlab/spine_protection_action_guide"
             },
             {
-              text: "23. 恢复优化指南：将科学转化为实际行动",
-              link: "/hubermanlab/recovery_optimization_guide"
+              "text": "23. 恢复优化指南：将科学转化为实际行动",
+              "link": "/hubermanlab/recovery_optimization_guide"
             }
           ]
         },
         {
-          text: "第7章：营养与进食策略",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第7章：营养与进食策略",
+          "items": [
             {
-              text: "1. 时间限制进食的实用指南：如何优化饮食时间改善健康",
-              link: "/hubermanlab/time_restricted_eating_guide"
+              "text": "1. 时间限制进食的实用指南：如何优化饮食时间改善健康",
+              "link": "/hubermanlab/time_restricted_eating_guide"
             },
             {
-              text: "2. 时间限制饮食指南：改善健康与代谢的实用方案",
-              link: "/hubermanlab/time_restricted_eating_guide"
+              "text": "2. 时间限制饮食指南：改善健康与代谢的实用方案",
+              "link": "/hubermanlab/time_restricted_eating_guide"
             },
             {
-              text: "3. 确定行动指南：循证健康营养与训练策略",
-              link: "/hubermanlab/evidence_based_health_strategies"
+              "text": "3. 确定行动指南：循证健康营养与训练策略",
+              "link": "/hubermanlab/evidence_based_health_strategies"
             },
             {
-              text: "4. 科学饮食指南：健康、减脂与增肌的实用策略",
-              link: "/hubermanlab/healthy_eating_strategies"
+              "text": "4. 科学饮食指南：健康、减脂与增肌的实用策略",
+              "link": "/hubermanlab/healthy_eating_strategies"
             },
             {
-              text: "5. 科学指南：控制饥饿感与健康饮食的实用策略",
-              link: "/hubermanlab/control_hunger_healthy_eating"
+              "text": "5. 科学指南：控制饥饿感与健康饮食的实用策略",
+              "link": "/hubermanlab/control_hunger_healthy_eating"
             },
             {
-              text: "6. 控制饥饿与饱腹感的科学指南",
-              link: "/hubermanlab/hunger_control_guide"
+              "text": "6. 控制饥饿与饱腹感的科学指南",
+              "link": "/hubermanlab/hunger_control_guide"
             },
             {
-              text: "7. 确定行动指南：改善代谢健康的核心策略",
-              link: "/hubermanlab/metabolism_improvement_strategies"
+              "text": "7. 确定行动指南：改善代谢健康的核心策略",
+              "link": "/hubermanlab/metabolism_improvement_strategies"
             },
             {
-              text: "8. 科学方法控制糖分摄入与代谢：实用指南",
-              link: "/hubermanlab/controlling_sugar_intake_metabolism"
+              "text": "8. 科学方法控制糖分摄入与代谢：实用指南",
+              "link": "/hubermanlab/controlling_sugar_intake_metabolism"
             },
             {
-              text: "9. 味觉和糖瘾的科学：实用行动指南",
-              link: "/hubermanlab/taste_and_sugar_addiction_guide"
+              "text": "9. 味觉和糖瘾的科学：实用行动指南",
+              "link": "/hubermanlab/taste_and_sugar_addiction_guide"
             },
             {
-              text: "10. 【高糖饮食的健康风险与实用改善方案】",
-              link: "/hubermanlab/high_sugar_diet_risks_solutions"
+              "text": "10. 【高糖饮食的健康风险与实用改善方案】",
+              "link": "/hubermanlab/high_sugar_diet_risks_solutions"
             },
             {
-              text: "11. 饮水健康全指南：确定行动与核心解析",
-              link: "/hubermanlab/water_health_guide"
+              "text": "11. 饮水健康全指南：确定行动与核心解析",
+              "link": "/hubermanlab/water_health_guide"
             },
             {
-              text: "12. 强证据支持的健康行动指南：改善肠道，大脑和身体健康",
-              link: "/hubermanlab/gut_brain_health_guide"
+              "text": "12. 强证据支持的健康行动指南：改善肠道，大脑和身体健康",
+              "link": "/hubermanlab/gut_brain_health_guide"
             },
             {
-              text: "13. 肠道健康优化实用指南：发酵食品与膳食纤维的力量",
-              link: "/hubermanlab/gut_health_optimization_guide"
+              "text": "13. 肠道健康优化实用指南：发酵食品与膳食纤维的力量",
+              "link": "/hubermanlab/gut_health_optimization_guide"
             },
             {
-              text: "14. 肠道-大脑健康优化指南：基于哈伯曼实验室播客的实用建议",
-              link: "/hubermanlab/gut_brain_health_optimization_guide"
+              "text": "14. 肠道-大脑健康优化指南：基于哈伯曼实验室播客的实用建议",
+              "link": "/hubermanlab/gut_brain_health_optimization_guide"
             },
             {
-              text: "15. 肠道感知系统：实用指南",
-              link: "/hubermanlab/intestinal_sensing_guide"
+              "text": "15. 肠道感知系统：实用指南",
+              "link": "/hubermanlab/intestinal_sensing_guide"
             },
             {
-              text: "16. 大脑健康与认知表现的营养策略",
-              link: "/hubermanlab/brain_nutrition_cognitive_performance"
+              "text": "16. 大脑健康与认知表现的营养策略",
+              "link": "/hubermanlab/brain_nutrition_cognitive_performance"
             },
             {
-              text: "17. 营养与补充剂优化指南：从播客深度解析到行动策略",
-              link: "/hubermanlab/nutrition_supplement_optimization_guide"
+              "text": "17. 营养与补充剂优化指南：从播客深度解析到行动策略",
+              "link": "/hubermanlab/nutrition_supplement_optimization_guide"
             },
             {
-              text: "18. 补充剂合理使用指南：从科学到实践",
-              link: "/hubermanlab/supplement_usage_guide"
+              "text": "18. 补充剂合理使用指南：从科学到实践",
+              "link": "/hubermanlab/supplement_usage_guide"
             },
             {
-              text: "19. 食物如何影响大脑：让精神健康从营养开始改变",
-              link: "/hubermanlab/brain_nutrition_mental_health"
+              "text": "19. 食物如何影响大脑：让精神健康从营养开始改变",
+              "link": "/hubermanlab/brain_nutrition_mental_health"
             },
             {
-              text: "20. 健康饮食与进食障碍的实用指南",
-              link: "/hubermanlab/healthy_eating_guide"
+              "text": "20. 健康饮食与进食障碍的实用指南",
+              "link": "/hubermanlab/healthy_eating_guide"
             },
             {
-              text: "21. 酒精对健康的影响：实用行动指南",
-              link: "/hubermanlab/alcohol_health_impact_guide"
+              "text": "21. 酒精对健康的影响：实用行动指南",
+              "link": "/hubermanlab/alcohol_health_impact_guide"
             },
             {
-              text: "22. 饮用水中的氟化物：科学事实与实用建议",
-              link: "/hubermanlab/drinking_water_fluoride_guide"
+              "text": "22. 饮用水中的氟化物：科学事实与实用建议",
+              "link": "/hubermanlab/drinking_water_fluoride_guide"
             },
             {
-              text: "23. 情绪与营养关系：实用行动指南",
-              link: "/hubermanlab/emotions_nutrition_action_guide"
+              "text": "23. 情绪与营养关系：实用行动指南",
+              "link": "/hubermanlab/emotions_nutrition_action_guide"
             }
           ]
         },
         {
-          text: "第8章：心理与认知周期",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第8章：心理与认知周期",
+          "items": [
             {
-              text: "1. 优化大脑塑性与学习的实用指南",
-              link: "/hubermanlab/brain_plasticity_learning_guide"
+              "text": "1. 优化大脑塑性与学习的实用指南",
+              "link": "/hubermanlab/brain_plasticity_learning_guide"
             },
             {
-              text: "2. 技能快速掌握：医学视角下的行动指南",
-              link: "/hubermanlab/rapid_medical_skill_acquisition"
+              "text": "2. 技能快速掌握：医学视角下的行动指南",
+              "link": "/hubermanlab/rapid_medical_skill_acquisition"
             },
             {
-              text: "3. 提高专注力的实用指南：科学证实的方法",
-              link: "/hubermanlab/focus_improvement_guide"
+              "text": "3. 提高专注力的实用指南：科学证实的方法",
+              "link": "/hubermanlab/focus_improvement_guide"
             },
             {
-              text: "4. 优化多巴胺，战胜拖延症",
-              link: "/hubermanlab/optimize_dopamine_beat_procrastination"
+              "text": "4. 优化多巴胺，战胜拖延症",
+              "link": "/hubermanlab/optimize_dopamine_beat_procrastination"
             },
             {
-              text: "5. 多巴胺与动机管理：从理论到实践指南",
-              link: "/hubermanlab/dopamine_motivation_management"
+              "text": "5. 多巴胺与动机管理：从理论到实践指南",
+              "link": "/hubermanlab/dopamine_motivation_management"
             },
             {
-              text: "6. 目标设定与实现的实用指南",
-              link: "/hubermanlab/goal_setting_practical_guide"
+              "text": "6. 目标设定与实现的实用指南",
+              "link": "/hubermanlab/goal_setting_practical_guide"
             },
             {
-              text: "7. 行为科学与目标设置：实用指南",
-              link: "/hubermanlab/goal_setting_practical_guide"
+              "text": "7. 行为科学与目标设置：实用指南",
+              "link": "/hubermanlab/goal_setting_practical_guide"
             },
             {
-              text: "8. 目标设定与执行的神经科学实战指南",
-              link: "/hubermanlab/goal_setting_neural_guide"
+              "text": "8. 目标设定与执行的神经科学实战指南",
+              "link": "/hubermanlab/goal_setting_neural_guide"
             },
             {
-              text: "9. 实用行动指南：神经科学视角下的身心健康",
-              link: "/hubermanlab/mind_body_wellness_guide"
+              "text": "9. 实用行动指南：神经科学视角下的身心健康",
+              "link": "/hubermanlab/mind_body_wellness_guide"
             },
             {
-              text: "10. 大脑管理与人生导航：从神经科学角度提升自我",
-              link: "/hubermanlab/brain_management_life_navigation"
+              "text": "10. 大脑管理与人生导航：从神经科学角度提升自我",
+              "link": "/hubermanlab/brain_management_life_navigation"
             },
             {
-              text: "11. 创伤日记疗法：改善心理和身体健康的实证方案",
-              link: "/hubermanlab/healing_through_writing"
+              "text": "11. 创伤日记疗法：改善心理和身体健康的实证方案",
+              "link": "/hubermanlab/healing_through_writing"
             },
             {
-              text: "12. 营养支持脑部健康与脑损伤恢复的实用指南",
-              link: "/hubermanlab/brain_health_recovery_guide"
+              "text": "12. 营养支持脑部健康与脑损伤恢复的实用指南",
+              "link": "/hubermanlab/brain_health_recovery_guide"
             },
             {
-              text: "13. 血管加压素与自闭症：社交功能的新视角",
-              link: "/hubermanlab/vasopressin_and_autism_perspective"
+              "text": "13. 血管加压素与自闭症：社交功能的新视角",
+              "link": "/hubermanlab/vasopressin_and_autism_perspective"
             }
           ]
         },
         {
-          text: "第9章：神经可塑性与长期学习",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第9章：神经可塑性与长期学习",
+          "items": [
             {
-              text: "1. 大脑潜能激发指南：从神经科学到行动策略",
-              link: "/hubermanlab/brain_potential_activation_guide"
+              "text": "1. 大脑潜能激发指南：从神经科学到行动策略",
+              "link": "/hubermanlab/brain_potential_activation_guide"
             },
             {
-              text: "2. 优化大脑可塑性：通过错误、动作和平衡加速学习",
-              link: "/hubermanlab/brain_plasticity_learning_optimization"
+              "text": "2. 优化大脑可塑性：通过错误、动作和平衡加速学习",
+              "link": "/hubermanlab/brain_plasticity_learning_optimization"
             },
             {
-              text: "3. 学习与神经可塑性：错误、平衡与动作的关键作用",
-              link: "/hubermanlab/learning_through_neural_plasticity"
+              "text": "3. 学习与神经可塑性：错误、平衡与动作的关键作用",
+              "link": "/hubermanlab/learning_through_neural_plasticity"
             },
             {
-              text: "4. 大脑可塑性与成长型思维：提升表现的实用指南",
-              link: "/hubermanlab/brain_plasticity_growth_mindset_guide"
+              "text": "4. 大脑可塑性与成长型思维：提升表现的实用指南",
+              "link": "/hubermanlab/brain_plasticity_growth_mindset_guide"
             },
             {
-              text: "5. 神经可塑性优化指南：大脑变化的科学与实践",
-              link: "/hubermanlab/neuroplasticity_optimization_guide"
+              "text": "5. 神经可塑性优化指南：大脑变化的科学与实践",
+              "link": "/hubermanlab/neuroplasticity_optimization_guide"
             },
             {
-              text: "6. 大脑可塑性实践指南：科学提升注意力与学习效率",
-              link: "/hubermanlab/brain_plasticity_learning_guide"
+              "text": "6. 大脑可塑性实践指南：科学提升注意力与学习效率",
+              "link": "/hubermanlab/brain_plasticity_learning_guide"
             },
             {
-              text: "7. 大脑记忆与认知增强的实用指南",
-              link: "/hubermanlab/memory_enhancement_practical_guide"
+              "text": "7. 大脑记忆与认知增强的实用指南",
+              "link": "/hubermanlab/memory_enhancement_practical_guide"
             },
             {
-              text: "8. 优化大脑学习与认知功能的实用指南",
-              link: "/hubermanlab/brain_learning_optimization_guide"
+              "text": "8. 优化大脑学习与认知功能的实用指南",
+              "link": "/hubermanlab/brain_learning_optimization_guide"
             },
             {
-              text: "9. 优化认知功能与大脑健康：实用指南",
-              link: "/hubermanlab/brain_health_practical_guide"
+              "text": "9. 优化认知功能与大脑健康：实用指南",
+              "link": "/hubermanlab/brain_health_practical_guide"
             },
             {
-              text: "10. 有效学习的实用指南：科学支持的学习策略",
-              link: "/hubermanlab/effective_learning_strategies"
+              "text": "10. 有效学习的实用指南：科学支持的学习策略",
+              "link": "/hubermanlab/effective_learning_strategies"
             },
             {
-              text: "11. 优化记忆的实用指南：科学证实的记忆增强方法",
-              link: "/hubermanlab/memory_optimization_practical_guide"
+              "text": "11. 优化记忆的实用指南：科学证实的记忆增强方法",
+              "link": "/hubermanlab/memory_optimization_practical_guide"
             },
             {
-              text: "12. 提升记忆力与专注力的科学行动指南",
-              link: "/hubermanlab/memory_focus_science_guide"
+              "text": "12. 提升记忆力与专注力的科学行动指南",
+              "link": "/hubermanlab/memory_focus_science_guide"
             },
             {
-              text: "13. 创意过程的实用指南：从对话中提炼的关键行动建议",
-              link: "/hubermanlab/creative_process_practical_guide"
+              "text": "13. 创意过程的实用指南：从对话中提炼的关键行动建议",
+              "link": "/hubermanlab/creative_process_practical_guide"
             },
             {
-              text: "14. 情绪与学习的互动：从科学到实践行动指南",
-              link: "/hubermanlab/emotion_learning_interaction_guide"
+              "text": "14. 情绪与学习的互动：从科学到实践行动指南",
+              "link": "/hubermanlab/emotion_learning_interaction_guide"
             },
             {
-              text: "15. 语言学习和语言障碍实用指南",
-              link: "/hubermanlab/language_learning_disability_guide"
+              "text": "15. 语言学习和语言障碍实用指南",
+              "link": "/hubermanlab/language_learning_disability_guide"
             },
             {
-              text: "16. 跨代遗传与环境影响：基因如何传递记忆",
-              link: "/hubermanlab/transgenerational_genetic_memory"
+              "text": "16. 跨代遗传与环境影响：基因如何传递记忆",
+              "link": "/hubermanlab/transgenerational_genetic_memory"
             }
           ]
         },
         {
-          text: "第10章：健康延寿系统",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第10章：健康延寿系统",
+          "items": [
             {
-              text: "1. 最有效延长寿命和提升生活质量的行动指南",
-              link: "/hubermanlab/health_longevity_action_guide"
+              "text": "1. 最有效延长寿命和提升生活质量的行动指南",
+              "link": "/hubermanlab/health_longevity_action_guide"
             },
             {
-              text: "2. 长寿补充剂实用指南：科学证据与实际建议",
-              link: "/hubermanlab/longevity_supplement_practical_guide"
+              "text": "2. 长寿补充剂实用指南：科学证据与实际建议",
+              "link": "/hubermanlab/longevity_supplement_practical_guide"
             },
             {
-              text: "3. 🔍 NAD 与长寿：实用指南",
-              link: "/hubermanlab/nad_longevity_guide"
+              "text": "3. 🔍 NAD 与长寿：实用指南",
+              "link": "/hubermanlab/nad_longevity_guide"
             },
             {
-              text: "4. 实用医学指南：哈伯曼实验室播客关键行动要点",
-              link: "/hubermanlab/practical_medical_guidance"
+              "text": "4. 实用医学指南：哈伯曼实验室播客关键行动要点",
+              "link": "/hubermanlab/practical_medical_guidance"
             },
             {
-              text: "5. 长寿与健康生活实用指南：从医学对话到行动方案",
-              link: "/hubermanlab/longevity_health_practical_guide"
+              "text": "5. 长寿与健康生活实用指南：从医学对话到行动方案",
+              "link": "/hubermanlab/longevity_health_practical_guide"
             },
             {
-              text: "6. 衰老放缓与逆转：科学支持的行动指南",
-              link: "/hubermanlab/aging_reversal_scientific_guide"
+              "text": "6. 衰老放缓与逆转：科学支持的行动指南",
+              "link": "/hubermanlab/aging_reversal_scientific_guide"
             },
             {
-              text: "7. 科学化脂肪燃烧指南：从神经系统到实用策略",
-              link: "/hubermanlab/fat_burning_science_guide"
+              "text": "7. 科学化脂肪燃烧指南：从神经系统到实用策略",
+              "link": "/hubermanlab/fat_burning_science_guide"
             },
             {
-              text: "8. 大脑健康与神经增强：从神经外科手术到脑机接口的实用见解",
-              link: "/hubermanlab/brain_health_neural_enhancement"
+              "text": "8. 大脑健康与神经增强：从神经外科手术到脑机接口的实用见解",
+              "link": "/hubermanlab/brain_health_neural_enhancement"
             },
             {
-              text: "9. 社交互动与大脑健康：实用指南",
-              link: "/hubermanlab/social_interaction_brain_health"
+              "text": "9. 社交互动与大脑健康：实用指南",
+              "link": "/hubermanlab/social_interaction_brain_health"
             },
             {
-              text: "10. 中风的行动指南：预防、康复和大脑健康",
-              link: "/hubermanlab/stroke_prevention_and_recovery"
+              "text": "10. 中风的行动指南：预防、康复和大脑健康",
+              "link": "/hubermanlab/stroke_prevention_and_recovery"
             },
             {
-              text: "11. 身体健康与生活质量优化指南：从睡眠到训练的实用行动",
-              link: "/hubermanlab/healthy_lifestyle_optimization_guide"
+              "text": "11. 身体健康与生活质量优化指南：从睡眠到训练的实用行动",
+              "link": "/hubermanlab/healthy_lifestyle_optimization_guide"
             },
             {
-              text: "12. 视力健康实用指南：确保清晰视界的行动方案",
-              link: "/hubermanlab/eye_health_action_guide"
+              "text": "12. 视力健康实用指南：确保清晰视界的行动方案",
+              "link": "/hubermanlab/eye_health_action_guide"
             },
             {
-              text: "13. 口腔健康：关键行动指南",
-              link: "/hubermanlab/oral_health_key_actions"
+              "text": "13. 口腔健康：关键行动指南",
+              "link": "/hubermanlab/oral_health_key_actions"
             },
             {
-              text: "14. 健康头发维持与再生实用指南：循证方法",
-              link: "/hubermanlab/hair_growth_practical_guide"
+              "text": "14. 健康头发维持与再生实用指南：循证方法",
+              "link": "/hubermanlab/hair_growth_practical_guide"
             },
             {
-              text: "15. 皮肤健康与保护实用指南",
-              link: "/hubermanlab/skin_health_protection_guide"
+              "text": "15. 皮肤健康与保护实用指南",
+              "link": "/hubermanlab/skin_health_protection_guide"
             },
             {
-              text: "16. 皮肤健康与护理实用指南：从科学到行动",
-              link: "/hubermanlab/skin_care_practical_guide"
+              "text": "16. 皮肤健康与护理实用指南：从科学到行动",
+              "link": "/hubermanlab/skin_care_practical_guide"
             },
             {
-              text: "17. 微塑料与健康：科学证据与实用对策",
-              link: "/hubermanlab/microplastic_health_evidence_solutions"
+              "text": "17. 微塑料与健康：科学证据与实用对策",
+              "link": "/hubermanlab/microplastic_health_evidence_solutions"
             },
             {
-              text: "18. 确定行动指南：保护你的激素健康与生育能力",
-              link: "/hubermanlab/protecting_hormonal_health"
+              "text": "18. 确定行动指南：保护你的激素健康与生育能力",
+              "link": "/hubermanlab/protecting_hormonal_health"
             },
             {
-              text: "19. 激素健康优化实用指南：从生活方式到补充剂",
-              link: "/hubermanlab/hormone_health_optimization_guide"
+              "text": "19. 激素健康优化实用指南：从生活方式到补充剂",
+              "link": "/hubermanlab/hormone_health_optimization_guide"
             },
             {
-              text: "20. 激素与性发育：实用行动指南",
-              link: "/hubermanlab/hormonal_and_sexual_development_guide"
+              "text": "20. 激素与性发育：实用行动指南",
+              "link": "/hubermanlab/hormonal_and_sexual_development_guide"
             },
             {
-              text: "21. 肽疗法与激素疗法实用指南：健康、表现与长寿",
-              link: "/hubermanlab/peptide_hormone_therapy_guide"
+              "text": "21. 肽疗法与激素疗法实用指南：健康、表现与长寿",
+              "link": "/hubermanlab/peptide_hormone_therapy_guide"
             },
             {
-              text: "22. 甲状腺激素与生长激素优化指南：提升代谢健康的实用策略",
-              link: "/hubermanlab/thyroid_growth_hormone_optimization"
+              "text": "22. 甲状腺激素与生长激素优化指南：提升代谢健康的实用策略",
+              "link": "/hubermanlab/thyroid_growth_hormone_optimization"
             },
             {
-              text: "23. 男性激素优化实用指南",
-              link: "/hubermanlab/hormone_optimization_for_men"
+              "text": "23. 男性激素优化实用指南",
+              "link": "/hubermanlab/hormone_optimization_for_men"
             },
             {
-              text: "24. 提升男性性健康的实用指南",
-              link: "/hubermanlab/men_health_improvement_guide"
+              "text": "24. 提升男性性健康的实用指南",
+              "link": "/hubermanlab/men_health_improvement_guide"
             },
             {
-              text: "25. 冷暖交替对生殖健康的影响：实用指南",
-              link: "/hubermanlab/temperature_impact_on_reproductive_health"
+              "text": "25. 冷暖交替对生殖健康的影响：实用指南",
+              "link": "/hubermanlab/temperature_impact_on_reproductive_health"
             },
             {
-              text: "26. 女性荷尔蒙健康优化指南：从科学到实践",
-              link: "/hubermanlab/female_hormone_health_guide"
+              "text": "26. 女性荷尔蒙健康优化指南：从科学到实践",
+              "link": "/hubermanlab/female_hormone_health_guide"
             },
             {
-              text: "27. 女性荷尔蒙健康与生育能力实用指南",
-              link: "/hubermanlab/fertility_hormone_guide"
+              "text": "27. 女性荷尔蒙健康与生育能力实用指南",
+              "link": "/hubermanlab/fertility_hormone_guide"
             },
             {
-              text: "28. 优化生育力的实用指南：从生物学机制到具体行动",
-              link: "/hubermanlab/fertility_optimization_practical_guide"
+              "text": "28. 优化生育力的实用指南：从生物学机制到具体行动",
+              "link": "/hubermanlab/fertility_optimization_practical_guide"
             },
             {
-              text: "29. 性健康与盆底功能的实用指南",
-              link: "/hubermanlab/pelvic_health_practical_guide"
+              "text": "29. 性健康与盆底功能的实用指南",
+              "link": "/hubermanlab/pelvic_health_practical_guide"
             },
             {
-              text: "30. 预防和应对感冒流感的行动指南",
-              link: "/hubermanlab/cold_flu_prevention_guide"
+              "text": "30. 预防和应对感冒流感的行动指南",
+              "link": "/hubermanlab/cold_flu_prevention_guide"
             },
             {
-              text: "31. 冬季呼吸道疾病防护实用指南",
-              link: "/hubermanlab/winter_respiratory_disease_protection"
+              "text": "31. 冬季呼吸道疾病防护实用指南",
+              "link": "/hubermanlab/winter_respiratory_disease_protection"
             },
             {
-              text: "32. 强化免疫系统实用指南：阳光、温度与生活方式干预",
-              link: "/hubermanlab/boost_immune_system_guide"
+              "text": "32. 强化免疫系统实用指南：阳光、温度与生活方式干预",
+              "link": "/hubermanlab/boost_immune_system_guide"
             },
             {
-              text: "33. 革命性细胞科学研究：医学突破与健康应用实用指南",
-              link: "/hubermanlab/revolutionary_cell_research_guide"
+              "text": "33. 革命性细胞科学研究：医学突破与健康应用实用指南",
+              "link": "/hubermanlab/revolutionary_cell_research_guide"
             },
             {
-              text: "34. 医学实用指南：从播客研究中提取关键行动建议",
-              link: "/hubermanlab/medical_practice_guide"
+              "text": "34. 医学实用指南：从播客研究中提取关键行动建议",
+              "link": "/hubermanlab/medical_practice_guide"
             },
             {
-              text: "35. 人工智能与医疗保健的实用指南",
-              link: "/hubermanlab/ai_healthcare_guide"
+              "text": "35. 人工智能与医疗保健的实用指南",
+              "link": "/hubermanlab/ai_healthcare_guide"
             },
             {
-              text: "36. 安慰剂效应的力量：如何利用信念改善健康",
-              link: "/hubermanlab/power_of_placebo_effect"
+              "text": "36. 安慰剂效应的力量：如何利用信念改善健康",
+              "link": "/hubermanlab/power_of_placebo_effect"
             },
             {
-              text: "37. 实用医学指南：从Huberman's Lab播客中获取优质行动建议",
-              link: "/hubermanlab/practical_medical_advice"
+              "text": "37. 实用医学指南：从Huberman's Lab播客中获取优质行动建议",
+              "link": "/hubermanlab/practical_medical_advice"
             },
             {
-              text: "38. 【确定行动指南】",
-              link: "/hubermanlab/action_guide"
+              "text": "38. 【确定行动指南】",
+              "link": "/hubermanlab/action_guide"
             },
             {
-              text: "39. 从生活幸福到健康长寿：实用指南",
-              link: "/hubermanlab/happy_life_longevity_guide"
+              "text": "39. 从生活幸福到健康长寿：实用指南",
+              "link": "/hubermanlab/happy_life_longevity_guide"
             },
             {
-              text: "40. 实用健康指南：从里克·鲁宾的习惯中获取最大收益",
-              link: "/hubermanlab/health_habits_maximum_benefits"
+              "text": "40. 实用健康指南：从里克·鲁宾的习惯中获取最大收益",
+              "link": "/hubermanlab/health_habits_maximum_benefits"
             }
           ]
         },
         {
-          text: "第11章：特殊状况长期管理",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第11章：特殊状况长期管理",
+          "items": [
             {
-              text: "1. ADHD管理实用指南：强化注意力的关键策略",
-              link: "/hubermanlab/adhd_attention_management_strategies"
+              "text": "1. ADHD管理实用指南：强化注意力的关键策略",
+              "link": "/hubermanlab/adhd_attention_management_strategies"
             },
             {
-              text: "2. 注意力缺陷多动障碍(ADHD)药物治疗实用指南",
-              link: "/hubermanlab/adhd_medication_treatment_guide"
+              "text": "2. 注意力缺陷多动障碍(ADHD)药物治疗实用指南",
+              "link": "/hubermanlab/adhd_medication_treatment_guide"
             },
             {
-              text: "3. 智能手机对青少年心理健康的影响：行动指南",
-              link: "/hubermanlab/smartphone_impact_youth_mental_health"
+              "text": "3. 智能手机对青少年心理健康的影响：行动指南",
+              "link": "/hubermanlab/smartphone_impact_youth_mental_health"
             },
             {
-              text: "4. 抑郁症管理：实用指南",
-              link: "/hubermanlab/depression_management_guide"
+              "text": "4. 抑郁症管理：实用指南",
+              "link": "/hubermanlab/depression_management_guide"
             },
             {
-              text: "5. 氯胺酮治疗抑郁症：循证实用指南",
-              link: "/hubermanlab/ketamine_depression_treatment_guide"
+              "text": "5. 氯胺酮治疗抑郁症：循证实用指南",
+              "link": "/hubermanlab/ketamine_depression_treatment_guide"
             },
             {
-              text: "6. PTSD治疗与管理：实用指南",
-              link: "/hubermanlab/ptsd_treatment_management_guide"
+              "text": "6. PTSD治疗与管理：实用指南",
+              "link": "/hubermanlab/ptsd_treatment_management_guide"
             },
             {
-              text: "7. 创伤恢复与心理健康实用指南：从军人经验中汲取的洞见",
-              link: "/hubermanlab/recovery_from_trauma_guide"
+              "text": "7. 创伤恢复与心理健康实用指南：从军人经验中汲取的洞见",
+              "link": "/hubermanlab/recovery_from_trauma_guide"
             },
             {
-              text: "8. MDMA治疗PTSD：实用指南与机制解析",
-              link: "/hubermanlab/mdma_ptsd_treatment_guide"
+              "text": "8. MDMA治疗PTSD：实用指南与机制解析",
+              "link": "/hubermanlab/mdma_ptsd_treatment_guide"
             },
             {
-              text: "9. 高冲突人格：识别与应对策略",
-              link: "/hubermanlab/high_conflict_personality_strategies"
+              "text": "9. 高冲突人格：识别与应对策略",
+              "link": "/hubermanlab/high_conflict_personality_strategies"
             },
             {
-              text: "10. 精神健康与心灵探索：精神活性物质治疗的科学指南",
-              link: "/hubermanlab/mental_health_substance_guide"
+              "text": "10. 精神健康与心灵探索：精神活性物质治疗的科学指南",
+              "link": "/hubermanlab/mental_health_substance_guide"
             },
             {
-              text: "11. 西洛西宾（psilocybin）的治疗潜力与实用指南",
-              link: "/hubermanlab/psychedelic_therapy_guide"
+              "text": "11. 西洛西宾（psilocybin）的治疗潜力与实用指南",
+              "link": "/hubermanlab/psychedelic_therapy_guide"
             },
             {
-              text: "12. 精神心理用途的迷幻药物：实用指南",
-              link: "/hubermanlab/psychedelic_drug_usage_guide"
+              "text": "12. 精神心理用途的迷幻药物：实用指南",
+              "link": "/hubermanlab/psychedelic_drug_usage_guide"
             },
             {
-              text: "13. 大麻的实用指南：科学、风险和使用建议",
-              link: "/hubermanlab/cannabis_usage_guide"
+              "text": "13. 大麻的实用指南：科学、风险和使用建议",
+              "link": "/hubermanlab/cannabis_usage_guide"
             },
             {
-              text: "14. 大麻对大脑和身体的影响：实用指南",
-              link: "/hubermanlab/cannabis_effects_on_body_brain"
+              "text": "14. 大麻对大脑和身体的影响：实用指南",
+              "link": "/hubermanlab/cannabis_effects_on_body_brain"
             },
             {
-              text: "15. 阿片类物质卡痛（Kratom）安全指南：证据与行动建议",
-              link: "/hubermanlab/kratom_safety_guide"
+              "text": "15. 阿片类物质卡痛（Kratom）安全指南：证据与行动建议",
+              "link": "/hubermanlab/kratom_safety_guide"
             },
             {
-              text: "16. 肽类治疗：实用指南与科学解析",
-              link: "/hubermanlab/peptide_therapy_guide"
+              "text": "16. 肽类治疗：实用指南与科学解析",
+              "link": "/hubermanlab/peptide_therapy_guide"
             },
             {
-              text: "17. 临床催眠术：医学健康管理的实用指南",
-              link: "/hubermanlab/clinical_hypnosis_practical_guide"
+              "text": "17. 临床催眠术：医学健康管理的实用指南",
+              "link": "/hubermanlab/clinical_hypnosis_practical_guide"
             },
             {
-              text: "18. 青少年尼古丁和大麻使用：行动指南",
-              link: "/hubermanlab/youth_nicotine_cannabis_guide"
+              "text": "18. 青少年尼古丁和大麻使用：行动指南",
+              "link": "/hubermanlab/youth_nicotine_cannabis_guide"
             },
             {
-              text: "19. 女性健康与训练实用指南：营养、力量与荷尔蒙平衡",
-              link: "/hubermanlab/women_training_health_guide"
+              "text": "19. 女性健康与训练实用指南：营养、力量与荷尔蒙平衡",
+              "link": "/hubermanlab/women_training_health_guide"
             },
             {
-              text: "20. 更年期实用指南：最大化健康与活力的行动方案",
-              link: "/hubermanlab/menopause_health_guide"
+              "text": "20. 更年期实用指南：最大化健康与活力的行动方案",
+              "link": "/hubermanlab/menopause_health_guide"
             },
             {
-              text: "21. 骨折恢复与运动伤病管理实用指南",
-              link: "/hubermanlab/fracture_recovery_sports_injury_guide"
+              "text": "21. 骨折恢复与运动伤病管理实用指南",
+              "link": "/hubermanlab/fracture_recovery_sports_injury_guide"
             },
             {
-              text: "22. 伤痛康复与神经可塑性实用指南",
-              link: "/hubermanlab/pain_recovery_neuroplasticity_guide"
+              "text": "22. 伤痛康复与神经可塑性实用指南",
+              "link": "/hubermanlab/pain_recovery_neuroplasticity_guide"
             },
             {
-              text: "23. 疼痛管理实用指南：从医学专家角度解读",
-              link: "/hubermanlab/pain_management_practical_guide"
+              "text": "23. 疼痛管理实用指南：从医学专家角度解读",
+              "link": "/hubermanlab/pain_management_practical_guide"
             },
             {
-              text: "24. 科学实证方法缓解头痛：行动指南",
-              link: "/hubermanlab/pain_relief_science_guide"
+              "text": "24. 科学实证方法缓解头痛：行动指南",
+              "link": "/hubermanlab/pain_relief_science_guide"
             },
             {
-              text: "25. 气味与健康的实用指南：嗅觉如何影响我们的生活",
-              link: "/hubermanlab/scent_health_practical_guide"
+              "text": "25. 气味与健康的实用指南：嗅觉如何影响我们的生活",
+              "link": "/hubermanlab/scent_health_practical_guide"
             },
             {
-              text: "26. 中风的行动指南：预防、康复和大脑健康",
-              link: "/hubermanlab/stroke_prevention_and_recovery"
+              "text": "26. 中风的行动指南：预防、康复和大脑健康",
+              "link": "/hubermanlab/stroke_prevention_and_recovery"
             }
           ]
         },
         {
-          text: "第12章：心理韧性与生活质量",
-          collapsed: true,
-          items: [
+          "collapsed": true,
+          "text": "第12章：心理韧性与生活质量",
+          "items": [
             {
-              text: "1. 如何培养心理韧性与能量管理的实用指南",
-              link: "/hubermanlab/mental_resilience_energy_guide"
+              "text": "1. 如何培养心理韧性与能量管理的实用指南",
+              "link": "/hubermanlab/mental_resilience_energy_guide"
             },
             {
-              text: "2. 实用行动指南：《艺术学习与生活》的核心洞见",
-              link: "/hubermanlab/art_learning_life_insights"
+              "text": "2. 实用行动指南：《艺术学习与生活》的核心洞见",
+              "link": "/hubermanlab/art_learning_life_insights"
             },
             {
-              text: "3. 理解和评估心理健康的实用指南",
-              link: "/hubermanlab/mental_health_practical_guide"
+              "text": "3. 理解和评估心理健康的实用指南",
+              "link": "/hubermanlab/mental_health_practical_guide"
             },
             {
-              text: "4. 心理健康自我照顾实用指南",
-              link: "/hubermanlab/mental_health_self_care_guide"
+              "text": "4. 心理健康自我照顾实用指南",
+              "link": "/hubermanlab/mental_health_self_care_guide"
             },
             {
-              text: "5. 构建心理健康实用指南：了解驱动力与自我觉察",
-              link: "/hubermanlab/mental_health_practical_guide"
+              "text": "5. 构建心理健康实用指南：了解驱动力与自我觉察",
+              "link": "/hubermanlab/mental_health_practical_guide"
             },
             {
-              text: "6. 内心家庭系统疗法（IFS）的实用指南：从情绪困扰到内在和谐",
-              link: "/hubermanlab/ifs_guide_to_inner_harmony"
+              "text": "6. 内心家庭系统疗法（IFS）的实用指南：从情绪困扰到内在和谐",
+              "link": "/hubermanlab/ifs_guide_to_inner_harmony"
             },
             {
-              text: "7. 动机与奖励系统优化指南：提升驱动力的实用策略",
-              link: "/hubermanlab/motivation_reward_system_optimization"
+              "text": "7. 动机与奖励系统优化指南：提升驱动力的实用策略",
+              "link": "/hubermanlab/motivation_reward_system_optimization"
             },
             {
-              text: "8. 面向未来的思维：从短期专注到长远行动的转变",
-              link: "/hubermanlab/future_thinking_mindset_shift"
+              "text": "8. 面向未来的思维：从短期专注到长远行动的转变",
+              "link": "/hubermanlab/future_thinking_mindset_shift"
             },
             {
-              text: "9. 对抗生活中的愤世嫉俗：从信任到健康的实用指南",
-              link: "/hubermanlab/fighting_cynicism_practical_guide"
+              "text": "9. 对抗生活中的愤世嫉俗：从信任到健康的实用指南",
+              "link": "/hubermanlab/fighting_cynicism_practical_guide"
             },
             {
-              text: "10. 健康关系的基础：从自我了解到有效链接",
-              link: "/hubermanlab/self_awareness_to_healthy_connections"
+              "text": "10. 健康关系的基础：从自我了解到有效链接",
+              "link": "/hubermanlab/self_awareness_to_healthy_connections"
             },
             {
-              text: "11. 培养健康亲子关系的实用指南",
-              link: "/hubermanlab/healthy_parenting_guide"
+              "text": "11. 培养健康亲子关系的实用指南",
+              "link": "/hubermanlab/healthy_parenting_guide"
             },
             {
-              text: "12. 育儿与情绪调节的实用指南：从挫折到能力培养",
-              link: "/hubermanlab/parenting_emotion_regulation_guide"
+              "text": "12. 育儿与情绪调节的实用指南：从挫折到能力培养",
+              "link": "/hubermanlab/parenting_emotion_regulation_guide"
             },
             {
-              text: "13. 公共健康关键措施：确切行动指南",
-              link: "/hubermanlab/public_health_action_guide"
+              "text": "13. 公共健康关键措施：确切行动指南",
+              "link": "/hubermanlab/public_health_action_guide"
             },
             {
-              text: "14. 成人玩耍指南：从科学证据到实用行动",
-              link: "/hubermanlab/adult_play_guide"
+              "text": "14. 成人玩耍指南：从科学证据到实用行动",
+              "link": "/hubermanlab/adult_play_guide"
             },
             {
-              text: "15. 科学支持的幸福增强策略：强证据行动指南",
-              link: "/hubermanlab/happiness_enhancement_strategies"
+              "text": "15. 科学支持的幸福增强策略：强证据行动指南",
+              "link": "/hubermanlab/happiness_enhancement_strategies"
             },
             {
-              text: "16. 科学验证的幸福行动指南：从情绪体验到生活满足感",
-              link: "/hubermanlab/happiness_actions_research_guide"
+              "text": "16. 科学验证的幸福行动指南：从情绪体验到生活满足感",
+              "link": "/hubermanlab/happiness_actions_research_guide"
             },
             {
-              text: "17. 深度理解自我与意义：从心理学视角转化为实践指南",
-              link: "/hubermanlab/finding_meaning_through_self_reflection"
+              "text": "17. 深度理解自我与意义：从心理学视角转化为实践指南",
+              "link": "/hubermanlab/finding_meaning_through_self_reflection"
             }
           ]
         }

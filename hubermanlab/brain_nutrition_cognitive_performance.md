@@ -1,7 +1,8 @@
 # 大脑健康与认知表现的营养策略
 
-原始文件：Nutrients for Brain Health & Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/15048
+原文标题：Nutrients for Brain Health & Performance
+
+原文链接：https://www.hubermanlab.com/episode/nutrients-for-brain-health-and-performance
 
 ## 确定行动指南
 

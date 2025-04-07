@@ -1,7 +1,8 @@
 # 咖啡因使用指南：优化身心表现与健康
 
-原始文件：Using Caffeine to Optimize Mental & Physical Performance.md
-原文链接：https://podwise.ai/dashboard/episodes/64194
+原文标题：Using Caffeine to Optimize Mental & Physical Performance
+
+原文链接：https://www.hubermanlab.com/episode/using-caffeine-to-optimize-mental-and-physical-performance
 
 ## 确定行动指南
 

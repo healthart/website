@@ -1,7 +1,8 @@
 # 确定行动指南：保护你的激素健康与生育能力
 
-原始文件：Dr. Shanna Swan- How to Safeguard Your Hormone Health & Fertility.md
-原文链接：https://podwise.ai/dashboard/episodes/2244829
+原文标题：Dr. Shanna Swan- How to Safeguard Your Hormone Health & Fertility
+
+原文链接：https://www.hubermanlab.com/episode/dr-shanna-swan-how-to-safeguard-your-hormone-health-fertility
 
 根据Dr. Shanna Swan的研究，环境中的内分泌干扰物正显著影响我们的生殖健康。以下是基于强有力证据的实用建议：
 

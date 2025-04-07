@@ -1,7 +1,8 @@
 # 口腔健康：关键行动指南
 
-原始文件：How to Improve Oral Health & Its Critical Role in Brain & Body Health.md
-原文链接：https://podwise.ai/dashboard/episodes/270400
+原文标题：How to Improve Oral Health & Its Critical Role in Brain & Body Health
+
+原文链接：https://www.hubermanlab.com/episode/how-to-improve-oral-health-its-critical-role-in-brain-body-health
 
 ## 确定行动指南
 

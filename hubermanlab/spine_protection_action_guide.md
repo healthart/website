@@ -1,7 +1,8 @@
 # 强化和保护脊椎的实用行动指南
 
-原始文件：Protocols to Strengthen & Pain Proof Your Back.md
-原文链接：https://podwise.ai/dashboard/episodes/1155740
+原文标题：Protocols to Strengthen & Pain Proof Your Back
+
+原文链接：https://www.hubermanlab.com/episode/protocols-to-strengthen-pain-proof-your-back
 
 ## 确定行动指南
 

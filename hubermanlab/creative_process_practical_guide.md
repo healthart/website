@@ -1,7 +1,8 @@
 # 创意过程的实用指南：从对话中提炼的关键行动建议
 
-原始文件：Rick Rubin- How to Access Your Creativity.md
-原文链接：https://podwise.ai/dashboard/episodes/71348
+原文标题：Rick Rubin- How to Access Your Creativity
+
+原文链接：https://www.hubermanlab.com/episode/rick-rubin-how-to-access-your-creativity
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 精神心理用途的迷幻药物：实用指南
 
-原始文件：Dr. Matthew Johnson- Psychedelics for Treating Mental Disorders.md
-原文链接：https://podwise.ai/dashboard/episodes/46031
+原文标题：Dr. Matthew Johnson- Psychedelics for Treating Mental Disorders
+
+原文链接：https://www.youtube.com/watch?v=GzvzWO0NU50
 
 ## 确定行动指南
 

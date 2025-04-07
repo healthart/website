@@ -1,7 +1,8 @@
 # 确定行动指南：改善代谢健康的核心策略
 
-原始文件：Dr. Casey Means- Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation.md
-原文链接：https://podwise.ai/dashboard/episodes/1180499
+原文标题：Dr. Casey Means- Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation
+
+原文链接：https://www.hubermanlab.com/episode/dr-casey-means-transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation
 
 ## 日常运动：优化葡萄糖代谢的关键
 

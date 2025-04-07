@@ -1,7 +1,8 @@
 # 冬季呼吸道疾病防护实用指南
 
-原始文件：AMA #13- Winter Months & Sickness, Wim Hof Breathing & Stressors.md
-原文链接：https://podwise.ai/dashboard/episodes/99744
+原文标题：AMA #13- Winter Months & Sickness, Wim Hof Breathing & Stressors
+
+原文链接：https://www.hubermanlab.com/episode/ama-13-winter-months-sickness-wim-hof-breathing-stressors
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 西洛西宾（psilocybin）的治疗潜力与实用指南
 
-原始文件：How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks.md
-原文链接：https://podwise.ai/dashboard/episodes/525
+原文标题：How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks
+
+原文链接：https://www.hubermanlab.com/episode/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-and-its-risks
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 甲状腺激素与生长激素优化指南：提升代谢健康的实用策略
 
-原始文件：Essentials- How to Control Your Metabolism by Thyroid & Growth Hormone.md
-原文链接：https://podwise.ai/dashboard/episodes/3209474
+原文标题：Essentials- How to Control Your Metabolism by Thyroid & Growth Hormone
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone
 
 ## 确定行动指南
 

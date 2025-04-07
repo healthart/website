@@ -1,7 +1,8 @@
 # 创伤疗愈实用指南：从心理痛苦到行动方案
 
-原始文件：Dr. Paul Conti- Therapy, Treating Trauma & Other Life Challenges.md
-原文链接：https://podwise.ai/dashboard/episodes/71387
+原文标题：Dr. Paul Conti- Therapy, Treating Trauma & Other Life Challenges
+
+原文链接：https://www.hubermanlab.com/episode/dr-paul-conti-therapy-treating-trauma-and-other-life-challenges
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 情绪与学习的互动：从科学到实践行动指南
 
-原始文件：Dr. Immordino-Yang- How Emotions & Social Factors Impact Learning.md
-原文链接：https://podwise.ai/dashboard/episodes/3845
+原文标题：Dr. Immordino-Yang- How Emotions & Social Factors Impact Learning
+
+原文链接：https://www.hubermanlab.com/episode/dr-immordino-yang-how-emotions-and-social-factors-impact-learning
 
 ## 确定行动指南
 

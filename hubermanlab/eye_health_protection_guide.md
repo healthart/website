@@ -1,7 +1,8 @@
 # 视力健康实用指南：如何保护和增强视力
 
-原始文件：The Science of Vision, Eye Health & Seeing Better.md
-原文链接：https://podwise.ai/dashboard/episodes/46045
+原文标题：The Science of Vision, Eye Health & Seeing Better
+
+原文链接：https://www.hubermanlab.com/episode/the-science-of-vision-eye-health-and-seeing-better
 
 ## 确定行动指南
 

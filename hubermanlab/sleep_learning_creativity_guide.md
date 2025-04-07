@@ -1,7 +1,8 @@
 # 睡眠提升学习与创造力的实用指南
 
-原始文件：GUEST SERIES - Dr. Matt Walker- Using Sleep to Improve Learning, Creativity & Memory.md
-原文链接：https://podwise.ai/dashboard/episodes/1136844
+原文标题：GUEST SERIES - Dr. Matt Walker- Using Sleep to Improve Learning, Creativity & Memory
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory
 
 ## 确定行动指南
 

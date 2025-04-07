@@ -1,7 +1,8 @@
 # 睡眠与情绪健康：确定行动指南
 
-原始文件：GUEST SERIES - Dr. Matt Walker- Improve Sleep to Boost Mood & Emotional Regulation.md
-原文链接：https://podwise.ai/dashboard/episodes/1165181
+原文标题：GUEST SERIES - Dr. Matt Walker- Improve Sleep to Boost Mood & Emotional Regulation
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation
 
 ## 核心行动建议
 

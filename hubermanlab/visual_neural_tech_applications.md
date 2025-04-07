@@ -1,7 +1,8 @@
 # 视觉系统与神经科技：从基础理解到实用应用
 
-原始文件：Dr. E.J. Chichilnisky- How the Brain Works, Curing Blindness & How to Navigate a Career Path.md
-原文链接：https://podwise.ai/dashboard/episodes/775590
+原文标题：Dr. E.J. Chichilnisky- How the Brain Works, Curing Blindness & How to Navigate a Career Path
+
+原文链接：https://www.hubermanlab.com/episode/dr-ej-chichilnisky-how-the-brain-works-curing-blindness-how-to-navigate-a-career-path
 
 阅读完这篇关于视觉科学和神经科技的播客内容后，我整理出以下实用指南，按照科学证据强度将内容转化为实际可行的洞见。
 

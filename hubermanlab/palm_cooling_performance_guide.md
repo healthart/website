@@ -1,7 +1,8 @@
 # 掌心降温：提升运动表现的实证指南
 
-原始文件：Supercharge Exercise Performance & Recovery with Cooling - Huberman Lab Essentials.md
-原文链接：https://podwise.ai/dashboard/episodes/3418788
+原文标题：Supercharge Exercise Performance & Recovery with Cooling - Huberman Lab Essentials
+
+原文链接：https://www.hubermanlab.com/episode/essentials-supercharge-exercise-performance-recovery-with-cooling
 
 ## 确定行动指南
 

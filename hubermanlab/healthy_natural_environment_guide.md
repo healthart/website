@@ -1,7 +1,8 @@
 # 自然环境对健康的实用指南
 
-原始文件：AMA #10- Benefits of Nature & “Grounding, Hearing Loss Research & Avoiding Altitude Sickness.md
-原文链接：https://podwise.ai/dashboard/episodes/5692
+原文标题：AMA #10- Benefits of Nature & “Grounding, Hearing Loss Research & Avoiding Altitude Sickness
+
+原文链接：https://www.hubermanlab.com/episode/ama-10-benefits-of-nature-grounding-hearing-loss-research-avoiding-altitude-sickness
 
 ## 确定行动指南
 

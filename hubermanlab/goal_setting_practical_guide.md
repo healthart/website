@@ -1,7 +1,8 @@
 # 行为科学与目标设置：实用指南
 
-原始文件：Dr. Maya Shankar- How to Shape Your Identity & Goals.md
-原文链接：https://podwise.ai/dashboard/episodes/1903
+原文标题：Dr. Maya Shankar- How to Shape Your Identity & Goals
+
+原文链接：https://www.hubermanlab.com/episode/dr-maya-shankar-how-to-shape-your-identity-and-goals
 
 ## 确定行动指南
 

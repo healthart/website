@@ -1,7 +1,8 @@
 # 公共健康关键措施：确切行动指南
 
-原始文件：U.S. Surgeon General Dr. Vivek Murthy- Efforts & Challenges in Promoting Public Health.md
-原文链接：https://podwise.ai/dashboard/episodes/12997
+原文标题：U.S. Surgeon General Dr. Vivek Murthy- Efforts & Challenges in Promoting Public Health
+
+原文链接：https://www.hubermanlab.com/episode/us-surgeon-general-dr-vivek-murthy-efforts-challenges-in-promoting-public-health
 
 ## 确定行动指南
 

@@ -1,7 +1,8 @@
 # 深度理解自我与意义：从心理学视角转化为实践指南
 
-原始文件：Dr. James Hollis- How to Find Your True Purpose & Create Your Best Life.md
-原文链接：https://podwise.ai/dashboard/episodes/1203835
+原文标题：Dr. James Hollis- How to Find Your True Purpose & Create Your Best Life
+
+原文链接：https://www.hubermanlab.com/episode/dr-james-hollis-how-to-find-your-true-purpose-create-your-best-life
 
 ## 确定行动指南
 

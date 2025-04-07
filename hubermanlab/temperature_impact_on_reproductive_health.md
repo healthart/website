@@ -1,7 +1,8 @@
 # 冷暖交替对生殖健康的影响：实用指南
 
-原始文件：Dr. Lex Fridman- Navigating Conflict, Finding Purpose & Maintaining Drive.md
-原文链接：https://podwise.ai/dashboard/episodes/71358
+原文标题：Dr. Lex Fridman- Navigating Conflict, Finding Purpose & Maintaining Drive
+
+原文链接：https://www.hubermanlab.com/episode/dr-lex-fridman-navigating-conflict-finding-purpose-and-maintaining-drive
 
 ## 确定行动指南
 

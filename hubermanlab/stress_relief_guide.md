@@ -1,7 +1,8 @@
 # 压力管理实用指南：从即时缓解到长期健康
 
-原始文件：Essentials- Tools for Managing Stress & Anxiety.md
-原文链接：https://podwise.ai/dashboard/episodes/2731061
+原文标题：Essentials- Tools for Managing Stress & Anxiety
+
+原文链接：https://www.hubermanlab.com/episode/essentials-tools-for-managing-stress-anxiety
 
 ## 【确定行动指南】
 

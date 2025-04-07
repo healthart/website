@@ -1,7 +1,8 @@
 # 营养支持脑部健康与脑损伤恢复的实用指南
 
-原始文件：Perform with Dr. Andy Galpin- Nutrition to Support Brain Health & Offset Brain Injuries.md
-原文链接：https://podwise.ai/dashboard/episodes/1646849
+原文标题：Perform with Dr. Andy Galpin- Nutrition to Support Brain Health & Offset Brain Injuries
+
+原文链接：https://www.youtube.com/watch?v=np82Y6aEW0E
 
 ## 确定行动指南
 

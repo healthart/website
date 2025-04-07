@@ -1,7 +1,8 @@
 # 健身训练实用指南：循证策略和行动方案
 
-原始文件：Science-Supported Tools to Accelerate Your Fitness Goals.md
-原文链接：https://podwise.ai/dashboard/episodes/1312
+原文标题：Science-Supported Tools to Accelerate Your Fitness Goals
+
+原文链接：https://www.hubermanlab.com/episode/science-supported-tools-to-accelerate-your-fitness-goals
 
 ## 确定行动指南
 

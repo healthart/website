@@ -1,7 +1,8 @@
 # 育儿与情绪调节的实用指南：从挫折到能力培养
 
-原始文件：Dr. Becky Kennedy- Overcoming Guilt & Building Tenacity in Kids & Adults.md
-原文链接：https://podwise.ai/dashboard/episodes/2707100
+原文标题：Dr. Becky Kennedy- Overcoming Guilt & Building Tenacity in Kids & Adults
+
+原文链接：https://www.hubermanlab.com/episode/dr-becky-kennedy-overcoming-guilt-building-tenacity-in-kids-adults
 
 根据Dr. Becky Kennedy的专业洞见，以下是关于儿童情绪发展和亲子关系的关键行动指南。
 

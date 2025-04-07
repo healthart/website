@@ -1,7 +1,8 @@
 # 肌肉健康：长寿的核心器官
 
-原始文件：Dr. Gabrielle Lyon- How to Exercise & Eat for Optimal Health & Longevity.md
-原文链接：https://podwise.ai/dashboard/episodes/1433284
+原文标题：Dr. Gabrielle Lyon- How to Exercise & Eat for Optimal Health & Longevity
+
+原文链接：https://www.hubermanlab.com/episode/dr-gabrielle-lyon-how-to-exercise-eat-for-optimal-health-longevity
 
 根据这期播客的内容，我整理出了以下实用指南，帮助你通过优化肌肉健康来提升整体健康和长寿潜力。
 

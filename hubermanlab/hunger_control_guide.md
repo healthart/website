@@ -1,7 +1,8 @@
 # 控制饥饿与饱腹感的科学指南
 
-原始文件：Essentials- How to Control Hunger, Eating & Satiety.md
-原文链接：https://podwise.ai/dashboard/episodes/3124742
+原文标题：Essentials- How to Control Hunger, Eating & Satiety
+
+原文链接：https://www.hubermanlab.com/episode/essentials-how-to-control-hunger-eating-satiety
 
 ## 确定行动指南
 

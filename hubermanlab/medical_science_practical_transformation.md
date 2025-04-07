@@ -1,7 +1,8 @@
 # 医学内容实用转化：驾驭动机与潜能的科学
 
-原始文件：Dr. Adam Grant- How to Unlock Your Potential, Motivation & Unique Abilities.md
-原文链接：https://podwise.ai/dashboard/episodes/86544
+原文标题：Dr. Adam Grant- How to Unlock Your Potential, Motivation & Unique Abilities
+
+原文链接：https://www.hubermanlab.com/episode/dr-adam-grant-how-to-unlock-your-potential-motivation-unique-abilities
 
 这期播客汇集了大量关于个人发展、动机与心理健康的实用见解。从播客内容中，我提炼出以下基于科学的行动指南，帮助你更好地理解和应用这些概念。
 

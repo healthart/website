@@ -1,7 +1,8 @@
 # 科学解读：理解与应对悲伤的实用指南
 
-原始文件：The Science & Process of Healing from Grief.md
-原文链接：https://podwise.ai/dashboard/episodes/8447
+原文标题：The Science & Process of Healing from Grief
+
+原文链接：https://www.hubermanlab.com/episode/the-science-and-process-of-healing-from-grief
 
 在面对失去时，科学理解可以帮助我们更有效地走过悲伤。这篇播客深入探讨了悲伤的神经科学基础，揭示了为什么悲伤感觉如此强烈，以及如何更健康地应对它。以下是关键洞见和实用建议：
 

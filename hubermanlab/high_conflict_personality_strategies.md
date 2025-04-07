@@ -1,7 +1,8 @@
 # 高冲突人格：识别与应对策略
 
-原始文件：Bill Eddy- How to Deal With High Conflict People.md
-原文链接：https://podwise.ai/dashboard/episodes/2203174
+原文标题：Bill Eddy- How to Deal With High Conflict People
+
+原文链接：https://www.hubermanlab.com/episode/bill-eddy-how-to-deal-with-high-conflict-people
 
 ## 核心行动指南
 

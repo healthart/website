@@ -1,7 +1,8 @@
 # 【谈判与沟通艺术实用指南】
 
-原始文件：Chris Voss- How to Succeed at Hard Conversations.md
-原文链接：https://podwise.ai/dashboard/episodes/18307
+原文标题：Chris Voss- How to Succeed at Hard Conversations
+
+原文链接：https://www.hubermanlab.com/episode/chris-voss-how-to-succeed-at-hard-conversations
 
 ## 一、确定行动指南
 

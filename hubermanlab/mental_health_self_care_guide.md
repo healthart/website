@@ -1,7 +1,8 @@
 # 心理健康自我照顾实用指南
 
-原始文件：GUEST SERIES - Dr. Paul Conti- Tools and Protocols for Mental Health.md
-原文链接：https://podwise.ai/dashboard/episodes/14407
+原文标题：GUEST SERIES - Dr. Paul Conti- Tools and Protocols for Mental Health
+
+原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health
 
 ## 确定行动指南
 

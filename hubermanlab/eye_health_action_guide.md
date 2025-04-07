@@ -1,7 +1,8 @@
 # 视力健康实用指南：确保清晰视界的行动方案
 
-原始文件：Dr. Jeffrey Goldberg- How to Improve Your Eye Health & Offset Vision Loss.md
-原文链接：https://podwise.ai/dashboard/episodes/3504
+原文标题：Dr. Jeffrey Goldberg- How to Improve Your Eye Health & Offset Vision Loss
+
+原文链接：https://www.hubermanlab.com/episode/dr-jeffrey-goldberg-how-to-improve-your-eye-health-and-offset-vision-loss
 
 ## 确定行动指南
 

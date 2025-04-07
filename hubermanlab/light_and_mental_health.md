@@ -1,7 +1,8 @@
 # 光照与精神健康：最新研究实用指南
 
-原始文件：Journal Club with Dr. Peter Attia - Effects of Light & Dark on Mental Health & Treatments for Cancer.md
-原文链接：https://podwise.ai/dashboard/episodes/198597
+原文标题：Journal Club with Dr. Peter Attia - Effects of Light & Dark on Mental Health & Treatments for Cancer
+
+原文链接：https://www.hubermanlab.com/episode/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer
 
 ## 确定行动指南
 

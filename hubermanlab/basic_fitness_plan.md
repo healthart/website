@@ -1,7 +1,8 @@
 # 基础健身方案：科学有效的时间平衡指南
 
-原始文件：AMA #17- Making Time for Fitness, Top Sleep Tools & Best Learning Strategies.md
-原文链接：https://podwise.ai/dashboard/episodes/1163417
+原文标题：AMA #17- Making Time for Fitness, Top Sleep Tools & Best Learning Strategies
+
+原文链接：https://www.hubermanlab.com/episode/ama-17-making-time-for-fitness-top-sleep-tools-best-learning-strategies
 
 ## 确定行动指南
 

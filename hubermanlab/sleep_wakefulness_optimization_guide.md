@@ -1,7 +1,8 @@
 # 睡眠与清醒优化：实用指南
 
-原始文件：Essentials- Master Your Sleep & Be More Alert When Awake.md
-原文链接：https://podwise.ai/dashboard/episodes/2343686
+原文标题：Essentials- Master Your Sleep & Be More Alert When Awake
+
+原文链接：https://www.hubermanlab.com/episode/essentials-master-your-sleep-be-more-alert-when-awake
 
 ## 确定行动指南
 

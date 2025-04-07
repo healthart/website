@@ -1,7 +1,8 @@
 # 优化生育力的实用指南：从生物学机制到具体行动
 
-原始文件：How to Optimize Fertility in Males & Females.md
-原文链接：https://podwise.ai/dashboard/episodes/71346
+原文标题：How to Optimize Fertility in Males & Females
+
+原文链接：https://www.hubermanlab.com/episode/how-to-optimize-fertility-in-males-and-females
 
 ## 确定行动指南
 
