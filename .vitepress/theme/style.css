@@ -234,7 +234,6 @@
 .VPHomeHero .main .heading .text {
   margin-top: 1.5rem;
   font-size: 3rem;
-
 }
 
 .VPHomeHero .main > .tagline {
@@ -305,6 +304,14 @@
 }
 
 @media (max-width: 640px) {
+  .VPHomeHero .main > .tagline {
+    font-size: 1rem;
+  }
+
+  .VPHomeHero .main .heading .text {
+    font-size: 2.5rem;
+  }
+
   .Layout .VPContent {
     padding: 0 12px;
   }
@@ -314,7 +321,7 @@
   }
   
   .VPFeature > .box > .title {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
   }
 }
 
