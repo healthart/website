@@ -18,8 +18,13 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/healthart/website' }
     ],
+
+    editLink: {
+      pattern: 'https://github.com/healthart/website/edit/main/:path',
+      text: '在Github上编辑该页面'
+    },
 
     sidebar: {
       '/hubermanlab/': [
