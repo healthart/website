@@ -303,28 +303,6 @@
   font-size: 1.5rem;
 }
 
-@media (max-width: 640px) {
-  .VPHomeHero .main > .tagline {
-    font-size: 1rem;
-  }
-
-  .VPHomeHero .main .heading .text {
-    font-size: 2.5rem;
-  }
-
-  .Layout .VPContent {
-    padding: 0 12px;
-  }
-
-  .Layout .VPContent .VPDoc {
-    padding: 32px 0 96px;
-  }
-  
-  .VPFeature > .box > .title {
-    font-size: 1.25rem;
-  }
-}
-
 .VPFeature > .box > .details {
   font-size: 1rem;
   font-weight: 300;
@@ -358,6 +336,47 @@
     max-width: 720px !important;
   }
 }
+
+@media (max-width: 640px) {
+  .VPHomeHero .main > .tagline {
+    font-size: 1rem;
+  }
+
+  .VPHomeHero .main .heading .text {
+    font-size: 2.5rem;
+  }
+
+  .Layout .VPContent {
+    padding: 0 12px;
+  }
+
+  .Layout .VPContent .VPDoc {
+    padding: 32px 0 96px;
+  }
+  
+  .VPFeature > .box > .title {
+    font-size: 1.25rem;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1440px) {
+  .VPSidebar {
+    width: var(--vp-sidebar-width);
+  }
+}
+
+@media (min-width: 1440px) {
+  .Layout .VPSidebar {
+    width: var(--vp-sidebar-width);
+  }
+}
+
+@media (min-width: 1720px) {
+  .Layout .VPSidebar {
+    width: calc((100% -(var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px);
+  }
+}
+
 
 .VPPage {
   display: flex;
