@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair
 
+<YouTube videoId="6ZrlsVx85ek" />
+
 基于 Huberman Lab 播客关于头发生物学和头发脱落的专题，以下是循证有效的头发维持与再生方法。
 
 ## 确定行动指南

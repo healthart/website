@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-build-physical-endurance-and-lose-fat
 
+<YouTube videoId="oNkDA2F7CjM" />
+
 在这期播客中，运动生理学专家Andy Galpin博士深入探讨了耐力训练与脂肪燃烧的科学原理，并提供了实用的训练策略。以下是核心内容的实用总结：
 
 ## 核心概念：了解脂肪燃烧的真相

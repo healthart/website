@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-emily-balcetis-tools-for-setting-and-achieving-goals
 
+<YouTube videoId="7YGZZcXqKxE" />
+
 本文总结了《Huberman Lab》播客中关于如何利用视觉感知技术提高目标达成率的关键发现。基于NYU心理学教授Emily Balcetis的研究，这些视觉策略能显著提升动机和表现。
 
 ## 确定行动指南

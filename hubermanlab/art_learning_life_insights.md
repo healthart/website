@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/josh-waitzkin-the-art-of-learning-living-life
 
+<YouTube videoId="wAnDWfEIwoE" />
+
 通过这场精彩对话，Josh Waitzkin分享了他跨越国际象棋、武术和教练领域的独特洞察。以下是经过整理的实用行动指南，帮助你将这些高水平理念转化为日常生活中的具体实践。
 
 ## 确定行动指南

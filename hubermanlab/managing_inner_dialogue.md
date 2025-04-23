@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-ethan-kross-how-to-control-your-inner-voice-increase-your-resilience
 
+<YouTube videoId="Og56hmAspV8" />
+
 ## 确定行动指南
 
 ### 核心建议

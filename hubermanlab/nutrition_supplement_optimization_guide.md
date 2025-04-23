@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness
 
+<YouTube videoId="q37ARYnRDGc" />
+
 ## 🔍 核心建议：优先采取的行动
 
 ### 补充剂精选

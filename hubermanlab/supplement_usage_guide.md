@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/developing-a-rational-approach-to-supplementation-for-health-and-performance
 
+<YouTube videoId="tLS6t3FVOTI" />
+
 ## 确定行动指南
 
 ### 补充剂选择的核心策略

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-immordino-yang-how-emotions-and-social-factors-impact-learning
 
+<YouTube videoId="S8jWFcDGz4Y" />
+
 ## 确定行动指南
 
 ### 核心建议

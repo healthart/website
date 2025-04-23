@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-bonnie-halpern-felsher-vaping-alcohol-use-other-risky-youth-behaviors
 
+<YouTube videoId="zlc4VrDx_qk" />
+
 ## 确定行动指南
 
 ### 核心建议

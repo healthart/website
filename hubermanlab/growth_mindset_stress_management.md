@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-david-yeager-how-to-master-growth-mindset-to-improve-performance
 
+<YouTube videoId="etEJrznE-c0" />
+
 ## 确定行动指南
 
 ### 核心建议

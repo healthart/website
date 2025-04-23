@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-learn-skills-faster
 
+<YouTube videoId="xJ0IBzCjEPk" />
+
 ## 确定行动指南
 
 ### 核心建议

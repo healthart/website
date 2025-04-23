@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-sean-mackey-tools-to-reduce-manage-pain
 
+<YouTube videoId="K9lORz2_XSU" />
+
 ## 【确定行动指南】
 
 ### 核心建议

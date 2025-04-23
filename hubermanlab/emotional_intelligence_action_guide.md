@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-marc-brackett-how-to-increase-your-emotional-intelligence
 
+<YouTube videoId="kG5Qb9sr0YQ" />
+
 ## 核心行动建议
 
 ### 运用"情绪电表"进行自我觉察

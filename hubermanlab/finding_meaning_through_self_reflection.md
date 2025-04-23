@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-james-hollis-how-to-find-your-true-purpose-create-your-best-life
 
+<YouTube videoId="SyWC8ZFVxGo" />
+
 ## 确定行动指南
 
 ### 核心建议

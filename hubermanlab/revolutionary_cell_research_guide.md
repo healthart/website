@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/mark-zuckerberg-dr-priscilla-chan-curing-all-human-diseases-future-of-health-technology
 
+<YouTube videoId="1Wo6SqLNmLk" />
+
 从哈伯曼实验室与扎克伯格和陈慧娴博士的对话中，我提取了最具实用价值的医学见解和行动建议，帮助你了解细胞研究如何改变疾病治疗和健康管理。
 
 ## 确定行动指南

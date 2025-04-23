@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-use-exercise-to-improve-your-brains-health-longevity-performance
 
+<YouTube videoId="J2oqi41dCNc" />
+
 ## 确定行动指南
 
 ### 核心建议

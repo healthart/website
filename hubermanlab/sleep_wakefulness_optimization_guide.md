@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-master-your-sleep-be-more-alert-when-awake
 
+<YouTube videoId="lIo9FcrljDk" />
+
 ## 确定行动指南
 
 ### 核心建议

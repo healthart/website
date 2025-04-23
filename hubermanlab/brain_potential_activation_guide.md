@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/robert-greene-a-process-for-finding-achieving-your-unique-purpose
 
+<YouTube videoId="50BZQRT1dAg" />
+
 ## 核心行动指南
 
 ### 激发学习与成长的关键策略

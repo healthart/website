@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/nutrients-for-brain-health-and-performance
 
+<YouTube videoId="E7W4OQfJWdw" />
+
 ## 确定行动指南
 
 ### 核心建议

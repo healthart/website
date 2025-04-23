@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/healthy-eating-and-eating-disorders-anorexia-bulimia-binging
 
+<YouTube videoId="2XGREPnlI8U" />
+
 ## 确定行动指南
 
 ### 核心建议

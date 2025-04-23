@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/adhd-and-how-anyone-can-improve-their-focus
 
+<YouTube videoId="hFL6qRIJZ_Y" />
+
 ## 立即可行的行动策略（强证据支持）
 
 **限制智能手机使用时间**

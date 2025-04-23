@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/focus-toolkit-tools-to-improve-your-focus-and-concentration
 
+<YouTube videoId="yb5zpo5WDG4" />
+
 ## 确定行动指南
 
 ### 核心建议

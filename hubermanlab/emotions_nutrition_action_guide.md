@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-foods-nutrients-control-our-moods
 
+<YouTube videoId="Q4qWzbP0q7I" />
+
 ## 确定行动指南
 
 ### 核心建议

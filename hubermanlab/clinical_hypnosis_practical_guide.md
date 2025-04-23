@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-david-spiegel-using-hypnosis-to-enhance-mental-and-physical-health-and-performance
 
+<YouTube videoId="PctD-ki8dCc" />
+
 ## 核心行动指南
 
 ### 确定建议（强证据支持）

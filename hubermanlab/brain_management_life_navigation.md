@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-jordan-peterson-how-to-best-guide-your-life-decisions-path
 
+<YouTube videoId="K0hkhbGYaGQ" />
+
 这场对话展示了如何将神经科学和心理学知识转化为实用工具，帮助我们更好地管理自己的心理状态、行为和人际关系。以下是最具实用价值的见解和策略：
 
 ## 人格整合：超越简单的自我控制

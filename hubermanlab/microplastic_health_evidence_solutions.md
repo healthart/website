@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-effects-of-microplastics-on-your-health-how-to-reduce-them
 
+<YouTube videoId="vfRtLI6cJrk" />
+
 通过对Huberman博士讨论微塑料与健康关系播客的分析，我提取了关键科学发现和实用建议，帮助您了解和减少微塑料对健康的潜在影响。
 
 ## 确定行动指南

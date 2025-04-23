@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-build-strength-muscle-size-and-endurance
 
+<YouTube videoId="IAnhFUUCq6c" />
+
 ## 【确定行动指南】
 
 ### 核心建议

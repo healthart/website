@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-lose-fat-with-science-based-tools
 
+<YouTube videoId="GqPGXG5TlZw" />
+
 ## 核心行动指南
 
 ### 确定建议（强证据支持）

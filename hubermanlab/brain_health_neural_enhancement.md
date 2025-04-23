@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-matthew-macdougall-neuralink-and-technologies-to-enhance-human-brains
 
+<YouTube videoId="3ZGItIAUQmI" />
+
 基于《Huberman Lab播客》对Neuralink首席神经外科医生Matthew MacDougall博士的访谈，我整理了关于大脑健康和神经技术的关键实用信息。
 
 ## 确定行动指南

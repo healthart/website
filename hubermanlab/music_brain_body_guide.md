@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-use-music-to-boost-motivation-mood-and-improve-learning
 
+<YouTube videoId="gveDhZW-rUk" />
+
 ## 确定行动指南
 
 **核心建议：**

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/rick-rubin-how-to-access-your-creativity
 
+<YouTube videoId="ycOBZZeVeAc" />
+
 ## 确定行动指南
 
 ### 核心建议

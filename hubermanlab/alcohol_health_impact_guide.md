@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/what-alcohol-does-to-your-body-brain-health
 
+<YouTube videoId="DkS1pkKpILY" />
+
 ## 确定行动指南
 
 ### 核心建议

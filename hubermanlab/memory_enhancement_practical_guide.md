@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/asi-wind-what-magic-mind-reading-reveal-about-the-brain
 
+<YouTube videoId="kpTJqwIfHcM" />
+
 ## 确定行动指南
 
 ### 核心建议

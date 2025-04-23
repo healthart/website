@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/time-perception-and-entrainment-by-dopamine-serotonin-and-hormones
 
+<YouTube videoId="8IWDAqodDas" />
+
 ## 确定行动指南
 
 ### 核心建议

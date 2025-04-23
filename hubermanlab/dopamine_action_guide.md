@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-4-maintain-motivation-improve-rem-sleep-set-goals-manage-anxiety-more
 
+<YouTube videoId="S8nPJU9xkNw" />
+
 ## 确定行动指南
 
 ### 核心建议

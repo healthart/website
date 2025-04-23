@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-placebo-effects-work-to-change-our-biology-psychology
 
+<YouTube videoId="gdUNjPijwA8" />
+
 ## 确定行动指南
 
 ### 核心建议

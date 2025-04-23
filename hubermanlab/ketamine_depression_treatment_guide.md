@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ketamine-benefits-and-risks-for-depression-ptsd-and-neuroplasticity
 
+<YouTube videoId="Rxmv7rT9leo" />
+
 ## 核心行动建议
 
 **确定建议**（强证据支持）：

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-ellen-langer-using-your-mind-to-control-your-physical-health-longevity
 
+<YouTube videoId="QYAgf_lfio4" />
+
 ## 确定行动指南
 
 ### 核心建议

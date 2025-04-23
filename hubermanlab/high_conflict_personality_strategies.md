@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/bill-eddy-how-to-deal-with-high-conflict-people
 
+<YouTube videoId="SuR0DaYoe0Y" />
+
 ## 核心行动指南
 
 **确定行动建议：**

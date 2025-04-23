@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-adam-grant-how-to-unlock-your-potential-motivation-unique-abilities
 
+<YouTube videoId="3gtvNYa3Nd8" />
+
 这期播客汇集了大量关于个人发展、动机与心理健康的实用见解。从播客内容中，我提炼出以下基于科学的行动指南，帮助你更好地理解和应用这些概念。
 
 ## 【确定行动指南】

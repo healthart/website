@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-enhance-performance-and-learning-by-applying-a-growth-mindset
 
+<YouTube videoId="aQDOU3hPci0" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-6-eye-health-why-we-yawn-increasing-motivation
 
+<YouTube videoId="uWV9a3zEaL4" />
+
 ## 确定行动指南
 
 ### 核心建议

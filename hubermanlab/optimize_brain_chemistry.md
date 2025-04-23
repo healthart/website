@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/optimize-and-control-your-brain-chemistry-to-improve-health-and-performance
 
+<YouTube videoId="T65RDBiB5Hs" />
+
 在复杂的神经化学中，四种关键调节物质对我们的情绪、动机、专注力和整体健康有着决定性的影响。本指南提供了科学支持的方法来优化这些神经调节物，帮助你改善健康和表现。
 
 ## 核心行动指南

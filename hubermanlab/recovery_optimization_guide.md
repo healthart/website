@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals
 
+<YouTube videoId="juD99_sPWGU" />
+
 ## 确定行动指南
 
 ### 核心建议

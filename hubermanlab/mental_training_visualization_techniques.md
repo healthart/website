@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/science-based-mental-training-and-visualization-for-improved-learning
 
+<YouTube videoId="0RYyQRQFgFk" />
+
 ## 确定行动指南
 
 ### 核心建议

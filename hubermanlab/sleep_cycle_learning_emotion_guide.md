@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-understanding-and-using-dreams-to-learn-and-to-forget
 
+<YouTube videoId="hF32FvBH4gI" />
+
 ## 确定行动指南
 
 ### 核心建议

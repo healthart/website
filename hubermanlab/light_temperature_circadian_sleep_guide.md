@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/using-science-to-optimize-sleep-learning-and-metabolism
 
+<YouTube videoId="nwSkFq4tyC0" />
+
 ## 确定行动指南
 
 ### 核心建议

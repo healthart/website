@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/science-based-tools-for-increasing-happiness
 
+<YouTube videoId="LTGGyQS1fZE" />
+
 ## 【确定行动指南】
 
 ### 核心建议（强证据支持）

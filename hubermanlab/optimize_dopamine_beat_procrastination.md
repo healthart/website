@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/leverage-dopamine-to-overcome-procrastination-and-optimize-effort
 
+<YouTube videoId="K-TW2Chpz4k" />
+
 这期播客介绍了多巴胺如何影响我们的动机、专注力和拖延行为，并提供了实用策略来利用多巴胺系统优化努力和成就感。以下是关键见解和行动建议：
 
 ## 确定行动指南

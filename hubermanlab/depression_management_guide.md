@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/understanding-and-conquering-depression
 
+<YouTube videoId="Xu1FMCxoEFc" />
+
 ## 确定行动指南
 
 ### 核心建议

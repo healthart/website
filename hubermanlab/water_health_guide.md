@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-water-quality-and-intake-for-health
 
+<YouTube videoId="at37Y8rKDlA" />
+
 ## 确定行动指南
 
 ### 优先饮水建议

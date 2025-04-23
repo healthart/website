@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-justin-sonnenburg-how-to-build-maintain-and-repair-gut-health
 
+<YouTube videoId="ouCWNRvPk20" />
+
 ## 确定行动指南
 
 ### 核心建议

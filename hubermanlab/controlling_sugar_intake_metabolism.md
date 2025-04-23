@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/controlling-sugar-cravings-and-metabolism-with-science-based-tools
 
+<YouTube videoId="VAEzZeaV5zM" />
+
 ## 确定行动指南
 
 ### 核心建议

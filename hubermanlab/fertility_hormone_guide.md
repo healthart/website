@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-natalie-crawford-female-hormone-health-fertility-vitality
 
+<YouTube videoId="EhlIkzJwPlk" />
+
 ## 确定行动指南
 
 ### 核心建议

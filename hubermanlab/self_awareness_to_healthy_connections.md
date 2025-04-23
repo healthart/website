@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships
 
+<YouTube videoId="eMqWH3LYiII" />
+
 从这场深入讨论中，我提取了关于建立和维护健康关系的核心要点，并将其转化为具体可行的指南。
 
 ## 确定行动指南

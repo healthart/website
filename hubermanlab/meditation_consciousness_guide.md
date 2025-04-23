@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-sam-harris-using-meditation-to-focus-view-consciousness-and-expand-your-mind
 
+<YouTube videoId="-wIt_WsJGfw" />
+
 ## 确定行动指南
 
 ### 核心建议

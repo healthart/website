@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-how-to-improve-your-mental-health
 
+<YouTube videoId="tLRCS48Ens4" />
+
 ## 确定行动指南
 
 ### 核心建议

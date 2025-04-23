@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-8-balancing-caffeine-decision-fatigue-social-isolation
 
+<YouTube videoId="FE0lTEUa7EY" />
+
 ## 确定行动指南
 
 ### 核心建议

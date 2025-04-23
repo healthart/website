@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-ej-chichilnisky-how-the-brain-works-curing-blindness-how-to-navigate-a-career-path
 
+<YouTube videoId="oL3SkPV1_Ik" />
+
 阅读完这篇关于视觉科学和神经科技的播客内容后，我整理出以下实用指南，按照科学证据强度将内容转化为实际可行的洞见。
 
 ## 确定行动指南

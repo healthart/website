@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-alia-crum-science-of-mindsets-for-health-performance
 
+<YouTube videoId="dFR_wFN23ZY" />
+
 ## 确定行动指南
 
 ### 核心建议

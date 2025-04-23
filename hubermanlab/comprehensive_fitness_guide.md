@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/fitness-toolkit-protocol-and-tools-to-optimize-physical-health
 
+<YouTube videoId="q1Ss8sTbFBY" />
+
 ## 确定行动指南
 
 ### 核心健身策略

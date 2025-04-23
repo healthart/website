@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-victor-carrion-how-to-heal-from-post-traumatic-stress-disorder
 
+<YouTube videoId="4RFEkGKKhdE" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-shanna-swan-how-to-safeguard-your-hormone-health-fertility
 
+<YouTube videoId="i5611OvTFGM" />
+
 根据Dr. Shanna Swan的研究，环境中的内分泌干扰物正显著影响我们的生殖健康。以下是基于强有力证据的实用建议：
 
 ## 立即可采取的关键行动

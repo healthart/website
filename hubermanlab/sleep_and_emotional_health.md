@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation
 
+<YouTube videoId="S_SrHS8FvMM" />
+
 ## 核心行动建议
 
 1. **优化REM睡眠以改善情绪调节**

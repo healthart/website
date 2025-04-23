@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-zachary-knight-the-science-of-hunger-medications-to-combat-obesity
 
+<YouTube videoId="C5KpIXjpzdY" />
+
 ## 确定行动指南
 
 ### 核心建议

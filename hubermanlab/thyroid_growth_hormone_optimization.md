@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone
 
+<YouTube videoId="Nmo4bxfFzM0" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-noam-sobel-how-smells-influence-our-hormones-health-and-behavior
 
+<YouTube videoId="cS7cNaBrkxo" />
+
 ## 确定行动指南
 
 ### 核心建议

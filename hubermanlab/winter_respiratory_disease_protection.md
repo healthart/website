@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-13-winter-months-sickness-wim-hof-breathing-stressors
 
+<YouTube videoId="xTtM2AvCRyA" />
+
 ## 确定行动指南
 
 ### 核心建议

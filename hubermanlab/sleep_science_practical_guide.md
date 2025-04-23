@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-gina-poe-use-sleep-to-enhance-learning-memory-and-emotional-state
 
+<YouTube videoId="-OBCwiPPfEU" />
+
 本期播客中，神经科学家Gina Poe博士详细探讨了睡眠科学，特别关注睡眠如何影响学习、记忆和情绪处理。以下是基于强有力证据的关键行动建议：
 
 ## 确定行动指南

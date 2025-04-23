@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-protocols-to-build-strength-and-grow-muscles
 
+<YouTube videoId="CyDLbrZK75U" />
+
 这篇播客提供了关于力量训练和肌肉增长(肌肥大)的科学依据和实用建议。以下是关键要点和实用策略，帮助你优化训练效果。
 
 ## 力量与肌肥大的基本概念

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-craig-koniver-peptide-hormone-therapies-for-health-performance-longevity
 
+<YouTube videoId="wRsX_ZkzxvQ" />
+
 基于Dr. Craig Koniver与Andrew Huberman的对话，我整理了这份实用指南，帮助您了解肽类和激素疗法的核心知识与应用方式。
 
 ## 【确定行动指南】

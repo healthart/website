@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-supercharge-exercise-performance-recovery-with-cooling
 
+<YouTube videoId="5--yogtN6oM" />
+
 ## 确定行动指南
 
 ### 核心建议

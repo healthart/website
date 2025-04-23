@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-charles-zuker-the-biology-of-taste-perception-and-sugar-craving
 
+<YouTube videoId="UChhXiFPRgg" />
+
 ## 确定行动指南
 
 ### 核心建议

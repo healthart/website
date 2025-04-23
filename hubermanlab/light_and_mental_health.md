@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer
 
+<YouTube videoId="TG8VM5-CTfw" />
+
 ## 确定行动指南
 
 ### 核心建议

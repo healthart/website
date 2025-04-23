@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-robert-lustig-how-sugar-processed-foods-impact-your-health
 
+<YouTube videoId="n28W4AmvMDE" />
+
 ## 核心建议：保护肝脏、滋养肠道、支持大脑
 
 理解食物对健康的影响，远比简单计算卡路里复杂。糖（尤其是果糖）不仅会抑制线粒体功能，还会破坏肠道屏障，导致慢性炎症和代谢疾病。根据医学证据，以下是保护您代谢健康的关键行动指南：

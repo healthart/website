@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-and-its-risks
 
+<YouTube videoId="eIxVfln02Ss" />
+
 ## 确定行动指南
 
 ### 核心建议

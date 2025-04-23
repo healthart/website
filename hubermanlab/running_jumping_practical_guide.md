@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan
 
+<YouTube videoId="U3cSnzdyyXU" />
+
 基于这期播客内容，我整理出几个关键的行动指南，帮助你通过跳跃和跑动提升整体健康与运动表现。
 
 ## 确定行动指南

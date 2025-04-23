@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/using-light-sunlight-blue-light-and-red-light-to-optimize-health
 
+<YouTube videoId="UF0nqolsNZc" />
+
 ## 确定行动指南
 
 ### 核心建议

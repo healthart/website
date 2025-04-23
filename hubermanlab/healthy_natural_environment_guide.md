@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-10-benefits-of-nature-grounding-hearing-loss-research-avoiding-altitude-sickness
 
+<YouTube videoId="eJU6Df_ffAE" />
+
 ## 确定行动指南
 
 ### 核心建议

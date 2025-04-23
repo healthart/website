@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/tools-for-managing-stress-and-anxiety
 
+<YouTube videoId="ntfcfJ28eiU" />
+
 ## 核心行动指南
 
 ### 即时压力管理技巧（确定建议）

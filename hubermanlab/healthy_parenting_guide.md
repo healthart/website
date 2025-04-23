@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-becky-kennedy-protocols-for-excellent-parenting-improving-relationships-of-all-kinds
 
+<YouTube videoId="XT_6Lvkhxvo" />
+
 ## 确定行动指南
 
 **1. 采用"边界+共情"双轨方法**

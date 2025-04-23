@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-build-endurance-in-your-brain-and-body
 
+<YouTube videoId="VQLU7gpk_X8" />
+
 根据这期播客内容，我整理出了一套基于强有力证据的行动指南，帮助你提升耐力表现和长期健康。
 
 ## 确定行动指南

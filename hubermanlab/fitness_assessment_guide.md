@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness
 
+<YouTube videoId="zEYE-vcVKy8" />
+
 根据 Huberman Lab 与健身生理学专家 Andy Galpin 博士的对话，我整理了一套实用的健身评估系统，帮助你客观了解自己的真实健康状况并找出需要改进的关键领域。
 
 ## 核心发现

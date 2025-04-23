@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/jeff-cavaliere-optimize-your-exercise-program-with-science-based-tools
 
+<YouTube videoId="UNCwdFxPtE8" />
+
 这篇播客访谈中，物理治疗专家Jeff Cavaliere分享了丰富的健身知识，我将提取最实用、证据最强的内容，转化为您可立即采取的行动建议。
 
 ## 确定行动指南

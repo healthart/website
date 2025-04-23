@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-peter-attia-improve-vitality-emotional-and-physical-health-and-lifespan
 
+<YouTube videoId="ufsIA5NARIo" />
+
 ## 确定行动指南：优先采取的健康措施
 
 ### 核心建议

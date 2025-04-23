@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/jocko-willink-how-to-become-resilient-forge-your-identity-and-lead-others
 
+<YouTube videoId="__RAXBLt1iM" />
+
 ## 确定行动指南
 
 ### 能量管理强化策略

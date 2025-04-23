@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/a-science-supported-journaling-protocol-to-improve-mental-physical-health
 
+<YouTube videoId="wAZn9dF3XTo" />
+
 ## 确定行动指南
 
 ### 核心建议

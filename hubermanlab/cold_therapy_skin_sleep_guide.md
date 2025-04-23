@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more
 
+<YouTube videoId="Gf-kC30SLtc" />
+
 ## 确定行动指南
 
 ### 核心建议

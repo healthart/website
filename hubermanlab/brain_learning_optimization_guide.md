@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-terry-sejnowski-how-to-improve-at-learning-using-neuroscience-ai
 
+<YouTube videoId="etbfLTHD_VU" />
+
 ## 确定行动指南
 
 ### 核心建议

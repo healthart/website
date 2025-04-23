@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health
 
+<YouTube videoId="yOJvm_ri_hk" />
+
 ## 确定行动指南
 
 ### 核心建议

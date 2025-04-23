@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/optimize-your-learning-and-creativity-with-science-based-tools
 
+<YouTube videoId="uuP-1ioh4LY" />
+
 ## 确定行动指南
 
 ### 核心建议

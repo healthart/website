@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/optimal-protocols-for-studying-learning
 
+<YouTube videoId="ddq8JIMhz7c" />
+
 ## 【确定行动指南】
 
 以下策略有强有力的科学证据支持，可显著提高学习效果：

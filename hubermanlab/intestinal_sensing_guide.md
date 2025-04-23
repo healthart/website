@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-diego-bohorquez-the-science-of-your-gut-sense-the-gut-brain-axis
 
+<YouTube videoId="SZSRgyl7pyQ" />
+
 ## 确定行动指南
 
 ### 核心建议

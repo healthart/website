@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/journal-club-with-dr-peter-attia-metformin-for-longevity-and-the-power-of-belief-effects
 
+<YouTube videoId="z8c6EyMNd0A" />
+
 ## 确定行动指南
 
 ### 核心建议

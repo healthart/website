@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-3-adaptogens-fasting-fertility-bluetooth-emf-risks-cognitive-load-limits-more
 
+<YouTube videoId="uak_dXHh6s4" />
+
 ## 确定行动指南
 
 ### 核心建议

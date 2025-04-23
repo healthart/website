@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/tony-hawk-harnessing-passion-drive-and-persistence-for-lifelong-success
 
+<YouTube videoId="VOfwbcveP84" />
+
 ## 确定行动指南
 
 ### 核心建议

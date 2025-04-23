@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-robert-malenka-how-your-brains-reward-circuits-drive-your-choices
 
+<YouTube videoId="RI112zW8GDw" />
+
 这期播客深入探讨了大脑奖励回路的运作机制，以及它们如何影响我们的行为、成瘾倾向和社交互动。以下是基于强有力证据的关键指南，帮助你理解并优化你的奖励系统。
 
 ## 🔑 核心行动指南

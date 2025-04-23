@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/adderall-stimulants-and-modafinil-for-adhd-short-and-long-term-effects
 
+<YouTube videoId="sxgCC4H1dl8" />
+
 ## 确定行动指南
 
 ### 核心建议

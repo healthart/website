@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-eddie-chang-the-science-of-learning-and-speaking-languages
 
+<YouTube videoId="Z7MU6zrAXsM" />
+
 从医学角度来看，大脑如何处理语言以及我们如何优化语言学习和解决语言障碍是极其复杂的课题。基于Chang博士的研究，以下是帮助您理解和应用这些见解的关键行动建议。
 
 ## 确定行动指南

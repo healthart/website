@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-meditation-works-and-science-based-effective-meditations
 
+<YouTube videoId="wTBSGgbIvsY" />
+
 ## 确定行动指南
 
 ### 核心建议

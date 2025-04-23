@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-andy-galpin-optimize-your-training-program-for-fitness-and-longevity
 
+<YouTube videoId="UIy-WQCZd4M" />
+
 ## 立即可执行的核心行动建议
 
 ### 确定可实施的健身计划

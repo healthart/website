@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-9-kratom-risks-does-infrared-sauna-work-journaling-benefits
 
+<YouTube videoId="HoH93judXmE" />
+
 ## 确定行动指南
 
 ### 核心建议

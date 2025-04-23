@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/science-supported-tools-to-accelerate-your-fitness-goals
 
+<YouTube videoId="LYYyQcAJZfk" />
+
 ## 确定行动指南
 
 ### 核心建议

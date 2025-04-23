@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/coleman-ruiz-overcoming-physical-emotional-challenges
 
+<YouTube videoId="acgz0C-z-gc" />
+
 在这段深入的对话中，前特种部队成员Coleman Ruiz分享了他从童年到军事生涯再到平民生活的旅程，特别聚焦于如何应对创伤后应激障碍(PTSD)、抑郁和情绪困扰。基于这些宝贵分享和现有研究证据，我提取了以下实用指南。
 
 ## 确定行动指南

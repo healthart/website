@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ari-wallach-create-your-ideal-future-using-science-based-protocols
 
+<YouTube videoId="kgr22uMsJ5o" />
+
 长期规划并为未来做准备是人类独特的能力，但在当今快节奏的世界中，我们往往被困在"当下主义"循环中。这篇实用指南提取自Huberman与未来学家Ari Wallach的对话，提供了科学支持的方法，帮助你跳出短期思维，为自己和后代做出更明智的决策。
 
 ## 立即可行的行动指南

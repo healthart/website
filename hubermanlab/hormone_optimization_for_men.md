@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-kyle-gillett-tools-for-hormone-optimization-in-males
 
+<YouTube videoId="O640yAgq5f8" />
+
 ## 首要行动建议
 
 ### 生活方式基础（强证据支持）

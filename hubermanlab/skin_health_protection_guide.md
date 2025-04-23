@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-teo-soleymani-how-to-improve-protect-your-skin-health-appearance
 
+<YouTube videoId="wgUjIRtote8" />
+
 ## 确定行动指南
 
 ### 核心建议

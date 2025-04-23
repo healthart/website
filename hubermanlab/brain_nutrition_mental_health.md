@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-chris-palmer-diet-nutrition-for-mental-health
 
+<YouTube videoId="xjEFo3a1AnI" />
+
 根据哈佛医学院精神科医生Chris Palmer博士的研究，饮食与精神健康之间存在深刻联系，这可能为许多人提供新的治疗希望。将这些复杂的医学内容转化为实用指南：
 
 ## 【确定行动指南】

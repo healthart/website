@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/using-your-nervous-system-to-enhance-your-immune-system
 
+<YouTube videoId="poOf8b2WE2g" />
+
 ## 确定行动指南
 
 ### 核心建议

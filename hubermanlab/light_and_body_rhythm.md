@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-david-berson-your-brains-logic-and-function
 
+<YouTube videoId="oC3fhUjg30E" />
+
 ## 确定行动指南
 
 ### 核心建议

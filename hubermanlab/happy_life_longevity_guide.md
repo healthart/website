@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life
 
+<YouTube videoId="tR73Ny4Dt9s" />
+
 从这场深度对话中，我提取了关于生活质量、心理健康和长寿的实用见解，将理论转化为可行动的建议。
 
 ## 确定行动指南

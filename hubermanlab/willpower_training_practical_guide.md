@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/david-goggins-how-to-build-immense-inner-strength
 
+<YouTube videoId="nDLb8_wgX50" />
+
 ## 确定行动指南
 
 ### 核心建议

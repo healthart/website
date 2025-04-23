@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-jamil-zaki-how-to-cultivate-a-positive-growth-oriented-mindset
 
+<YouTube videoId="U2BPitASUh0" />
+
 ## 确定行动指南
 
 ### 核心建议

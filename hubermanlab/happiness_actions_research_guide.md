@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-laurie-santos-how-to-achieve-true-happiness-using-science-based-protocols
 
+<YouTube videoId="Phm-Alz1Zjo" />
+
 从耶鲁大学幸福专家劳里·桑托斯博士的研究中，我们得到了一系列基于科学的幸福策略，可以帮助你获得更持久的快乐和满足感。这些不是空洞的励志语录，而是经过严格研究验证的实用方法。
 
 ## 确定行动指南

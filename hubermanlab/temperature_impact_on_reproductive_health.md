@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-lex-fridman-navigating-conflict-finding-purpose-and-maintaining-drive
 
+<YouTube videoId="6I5I56uVvLw" />
+
 ## 确定行动指南
 
 ### 核心建议

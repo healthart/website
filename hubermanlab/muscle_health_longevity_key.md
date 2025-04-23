@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-gabrielle-lyon-how-to-exercise-eat-for-optimal-health-longevity
 
+<YouTube videoId="WFcYF_pxLgA" />
+
 根据这期播客的内容，我整理出了以下实用指南，帮助你通过优化肌肉健康来提升整体健康和长寿潜力。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-achieve-inner-peace-healing-dr-richard-schwartz
 
+<YouTube videoId="KuuoLT-fq4s" />
+
 根据Huberman Lab播客与IFS创始人Richard Schwartz博士的对话，我为您提供一份实用指南，帮助您理解并应用这种强大的心理疗法方法。
 
 ## 一、确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-susanna-soberg-how-to-use-cold-and-heat-exposure-to-improve-your-health
 
+<YouTube videoId="x3MgDtZovks" />
+
 ## 确定行动指南
 
 ### 核心建议

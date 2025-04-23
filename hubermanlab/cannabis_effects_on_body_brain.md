@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-effects-of-cannabis-marijuana-on-the-brain-and-body
 
+<YouTube videoId="gXvuJu1kt48" />
+
 ## 确定行动指南
 
 ### 核心建议

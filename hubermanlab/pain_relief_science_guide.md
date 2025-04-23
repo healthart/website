@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-stop-headaches-using-science-based-approaches
 
+<YouTube videoId="CGjdgy0cwGk" />
+
 ## 首要行动建议
 
 ### 确定有效的预防和缓解策略

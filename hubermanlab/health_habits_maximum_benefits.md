@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/rick-rubin-protocols-to-access-creative-energy-and-process
 
+<YouTube videoId="GpgqXCkRO-w" />
+
 ## 【确定行动指南】
 
 ### 核心建议：

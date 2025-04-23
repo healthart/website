@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline
 
+<YouTube videoId="wFucddupQlk" />
+
 ## 确定行动指南
 
 ### 核心建议

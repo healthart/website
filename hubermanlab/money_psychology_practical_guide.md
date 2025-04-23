@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness
 
+<YouTube videoId="z5W74QC3v2I" />
+
 ## 确定行动指南
 
 ### 核心建议

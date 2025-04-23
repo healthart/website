@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-to-learn-faster-by-using-failures-movement-balance
 
+<YouTube videoId="jwChiek_aRY" />
+
 ## 确定行动指南
 
 ### 核心建议：加速学习的实用方法

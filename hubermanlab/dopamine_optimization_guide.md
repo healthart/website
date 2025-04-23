@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction
 
+<YouTube videoId="QmOF0crdyRU" />
+
 ## 一、核心实用建议
 
 ### 立即可行的多巴胺调节策略

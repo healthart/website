@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-peter-attia-exercise-nutrition-hormones-for-vitality-and-longevity
 
+<YouTube videoId="DTCmprPCDqc" />
+
 根据与Peter Attia医生的深入对话，以下是基于强有力证据的健康优化建议，从最重要的行动开始，并附带解释其工作原理的核心见解。
 
 ## 确定行动指南

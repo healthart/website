@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/using-play-to-rewire-and-improve-your-brain
 
+<YouTube videoId="BwyZIWeBpRw" />
+
 ## 核心行动建议
 
 **确定性较高的建议：**

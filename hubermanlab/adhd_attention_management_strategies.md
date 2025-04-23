@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/improve-focus-with-behavioral-tools-medication-for-adhd-john-kruse
 
+<YouTube videoId="NtQ-kdLlQiU" />
+
 ## 确定行动指南
 
 ### 核心建议

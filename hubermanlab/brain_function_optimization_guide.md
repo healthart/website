@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-optimize-your-learning-creativity-with-science-based-tools
 
+<YouTube videoId="D97TQuy946k" />
+
 ## 确定行动指南
 
 ### 核心建议

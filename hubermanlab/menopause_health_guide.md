@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-mary-claire-haver-how-to-navigate-menopause-perimenopause-for-maximum-health-vitality
 
+<YouTube videoId="6P8hrzjnetU" />
+
 ## 核心行动建议
 
 ### 确定行动指南

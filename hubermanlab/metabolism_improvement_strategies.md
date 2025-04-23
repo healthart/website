@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-casey-means-transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation
 
+<YouTube videoId="8qaBpM73NSk" />
+
 ## 日常运动：优化葡萄糖代谢的关键
 
 - **每30分钟短暂活动**：每30分钟进行2-3分钟的轻度活动（短走、空中深蹲），可显著降低24小时血糖和胰岛素水平。研究表明，这比相同总时间的集中锻炼更有效改善代谢指标。

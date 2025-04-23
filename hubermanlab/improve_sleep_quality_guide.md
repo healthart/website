@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming
 
+<YouTube videoId="Jy4rJcYmtUM" />
+
 ## 确定行动指南
 
 ### 核心建议

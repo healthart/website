@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-12-thoughts-on-longevity-supplements-how-to-improve-memory
 
+<YouTube videoId="qJ3uV7coZbA" />
+
 ## 确定行动指南
 
 ### 核心建议

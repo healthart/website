@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/understand-and-improve-memory-using-science-based-tools
 
+<YouTube videoId="szqPAPKE5tQ" />
+
 ## 确定行动指南
 
 ### 核心建议

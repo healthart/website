@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-elissa-epel-control-stress-for-healthy-eating-metabolism-and-aging
 
+<YouTube videoId="ulHrUVV3Kq4" />
+
 ## 确定行动指南
 
 ### 核心建议

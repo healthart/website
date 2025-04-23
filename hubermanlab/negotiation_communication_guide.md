@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/chris-voss-how-to-succeed-at-hard-conversations
 
+<YouTube videoId="q8CHXefn7B4" />
+
 ## 一、确定行动指南
 
 ### 核心建议

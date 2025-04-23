@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-to-optimize-testosterone-estrogen
 
+<YouTube videoId="v4HRWgwjP_k" />
+
 ## 确定行动指南
 
 ### 核心建议

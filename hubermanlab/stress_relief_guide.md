@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-tools-for-managing-stress-anxiety
 
+<YouTube videoId="qUz93CyNIz0" />
+
 ## 【确定行动指南】
 
 ### 核心建议

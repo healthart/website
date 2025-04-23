@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-stacy-sims-female-specific-exercise-nutrition-for-health-performance-longevity
 
+<YouTube videoId="pZX8ikmWvEU" />
+
 ## 确定行动指南
 
 ### 核心建议

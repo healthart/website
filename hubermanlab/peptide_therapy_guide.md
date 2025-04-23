@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/benefits-risks-of-peptide-therapeutics-for-physical-mental-health
 
+<YouTube videoId="zU5EYw06wtw" />
+
 ## 核心行动建议
 
 **确定优选肽类**

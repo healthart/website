@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-layne-norton-tools-for-nutrition-fitness
 
+<YouTube videoId="CD0bRU1e1ZM" />
+
 ## 核心建议
 1. **摄入充足蛋白质**：每磅体重摄入约1克优质蛋白质，这适用于所有人群，不仅对增肌有益，也对整体健康和衰老过程至关重要。
    

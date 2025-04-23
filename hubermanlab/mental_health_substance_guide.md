@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-robin-carhart-harris-the-science-of-psychedelics-for-mental-health
 
+<YouTube videoId="fcxjwA4C4Cw" />
+
 ## 确定行动指南
 
 ### 核心建议

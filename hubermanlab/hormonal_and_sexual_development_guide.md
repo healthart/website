@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-hormones-shape-sexual-development
 
+<YouTube videoId="FCFQx3cA0Lg" />
+
 ## 确定行动指南
 
 ### 核心建议：

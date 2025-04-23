@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/marc-andreessen-how-risk-taking-innovation-and-artificial-intelligence-transform-human-experience
 
+<YouTube videoId="yixIc1Ai6jM" />
+
 ## 确定行动指南
 
 **核心建议：**

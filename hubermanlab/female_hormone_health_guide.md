@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-sara-gottfried-how-to-optimize-female-hormone-health-for-vitality-and-longevity
 
+<YouTube videoId="GVRDGQhoEYQ" />
+
 ## 确定行动指南
 
 ### 核心建议

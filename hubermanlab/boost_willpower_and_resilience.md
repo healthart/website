@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-increase-your-willpower-and-tenacity
 
+<YouTube videoId="cwakOgHIT0E" />
+
 ## 确定行动指南
 
 ### 核心建议

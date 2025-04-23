@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-optimize-fertility-in-males-and-females
 
+<YouTube videoId="O1YRwWmue4Y" />
+
 ## 确定行动指南
 
 ### 核心建议

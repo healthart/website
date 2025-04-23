@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-david-linden-life-death-and-the-neuroscience-of-your-unique-experience
 
+<YouTube videoId="29n0WG317tM" />
+
 ## 确定行动指南
 
 ### 核心建议

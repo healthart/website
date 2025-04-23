@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-michael-eisenberg-improving-male-sexual-health-function-fertility
 
+<YouTube videoId="pkJi9Raxikg" />
+
 ## 确定行动指南
 
 ### 核心建议

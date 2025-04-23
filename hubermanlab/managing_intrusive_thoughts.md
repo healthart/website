@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-5-intrusive-thoughts-cgms-behavioral-change-naps-nsdr
 
+<YouTube videoId="cp9GXl9Qk_s" />
+
 ## 确定行动指南
 
 ### 核心建议

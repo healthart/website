@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-hormones-for-health-and-vitality
 
+<YouTube videoId="ncSoor2Iw8k" />
+
 ## 【确定行动指南】
 
 ### 核心建议

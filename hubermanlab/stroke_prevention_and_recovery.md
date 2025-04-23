@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-gary-steinberg-how-to-improve-brain-health-offset-neurodegeneration
 
+<YouTube videoId="nqNEtdHVUjM" />
+
 ## 确定行动指南（强证据支持）
 
 ### 核心预防策略

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-optimize-your-brain-body-function-and-health
 
+<YouTube videoId="rW9QKc-iFoY" />
+
 ## 确定行动指南
 
 ### 核心建议

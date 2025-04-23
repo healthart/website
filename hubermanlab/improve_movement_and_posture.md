@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-kelly-starrett-how-to-improve-your-mobility-posture-flexibility
 
+<YouTube videoId="8N7mdkrXgbc" />
+
 以下是基于骨科医师凯利·斯塔雷特（Kelly Starrett）专业建议的核心行动指南，帮助你提高移动性、姿势和灵活性。
 
 ## 确定行动指南

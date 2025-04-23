@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-matthew-hill-how-cannabis-impacts-health-the-potential-risks
 
+<YouTube videoId="jouFvyRZntk" />
+
 ## 确定行动指南
 
 ### 核心建议

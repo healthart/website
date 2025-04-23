@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-rena-improving-sexual-and-urological-health-in-males-and-females
 
+<YouTube videoId="F54qXuTpgfM" />
+
 ## 确定行动指南
 
 ### 盆底健康的关键措施

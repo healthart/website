@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-how-to-increase-motivation-drive
 
+<YouTube videoId="OLQRAMZi--c" />
+
 ## 确定行动指南
 
 ### 核心建议

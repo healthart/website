@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-martha-beck-accessing-your-best-self-with-mind-body-practices-belief-testing-imagination
 
+<YouTube videoId="nOgypsWKjm4" />
+
 以下是根据医学内容提炼的高实用性行动建议，将帮助您连接自我本质、减轻焦虑并改善身心健康：
 
 ## 确定行动指南

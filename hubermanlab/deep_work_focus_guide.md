@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-cal-newport-how-to-enhance-focus-and-improve-productivity
 
+<YouTube videoId="p4ZfkezDTXQ" />
+
 研究表明，专注的工作环境和有意识的注意力管理对于认知表现至关重要。本次播客提供了一系列证据支持的策略，帮助你提升专注力和工作效率。
 
 ## 确定行动指南

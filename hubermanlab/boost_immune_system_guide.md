@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-prevent-treat-colds-flu?timestamp=5692
 
+<YouTube videoId="AtChcxeaukQ" />
+
 ## 确定行动指南
 
 ### 核心建议

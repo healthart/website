@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-the-science-of-emotions-relationships
 
+<YouTube videoId="qdk7XuBgSjw" />
+
 ## 确定行动指南
 
 ### 核心建议

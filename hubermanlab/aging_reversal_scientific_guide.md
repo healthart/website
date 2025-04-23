@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-david-sinclair-the-biology-of-slowing-and-reversing-aging
 
+<YouTube videoId="n9IxomBusuw" />
+
 ## 核心行动指南（高确定性建议）
 
 ### 每日跳过一餐，激活抗衰老基因

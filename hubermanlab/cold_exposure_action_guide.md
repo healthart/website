@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/using-deliberate-cold-exposure-for-health-and-performance
 
+<YouTube videoId="pq6WHJzOkno" />
+
 ## 核心行动建议
 
 ### 确定行动指南（强证据支持）

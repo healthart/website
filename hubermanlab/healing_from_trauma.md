@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-paul-conti-therapy-treating-trauma-and-other-life-challenges
 
+<YouTube videoId="IOl28gj_RXw" />
+
 ## 确定行动指南
 
 ### 核心建议

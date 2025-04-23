@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/how-to-enhance-your-gut-microbiome-for-brain-and-overall-health
 
+<YouTube videoId="15R2pMqU2ok" />
+
 ## 【确定行动指南】：强证据支持的核心建议
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-maya-shankar-how-to-shape-your-identity-and-goals
 
+<YouTube videoId="CrtR12PBKb0" />
+
 ## 确定行动指南
 
 ### 核心建议

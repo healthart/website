@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-control-pain-heal-faster-with-your-brain
 
+<YouTube videoId="SjPJn4QP0dk" />
+
 ## 确定行动指南
 
 ### 核心建议

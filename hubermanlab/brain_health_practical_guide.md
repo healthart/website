@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-mark-desposito-how-to-optimize-cognitive-function-brain-health
 
+<YouTube videoId="HYVeP4F0GNU" />
+
 ## 确定行动指南
 
 ### 核心建议

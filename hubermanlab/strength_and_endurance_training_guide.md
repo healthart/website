@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/pavel-tsatsouline-build-strength-endurance-flexibility-at-any-age
 
+<YouTube videoId="Z3OpxT65fKw" />
+
 在这期播客中，力量训练专家Pavel Tsatsouline分享了基于几十年研究和实践的训练方法，重点关注力量、耐力和灵活性的发展。以下是最具实用价值的行动建议：
 
 ## 确定行动指南

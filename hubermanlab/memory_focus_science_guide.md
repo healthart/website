@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-charan-ranganath-how-to-improve-memory-focus-using-science-protocols
 
+<YouTube videoId="jC8Pu9HBd48" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/improve-flexibility-with-research-supported-stretching-protocols
 
+<YouTube videoId="tkH2-_jMCSk" />
+
 ## 【确定行动指南】
 
 ### 核心建议：

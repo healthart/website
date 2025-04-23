@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-science-of-making-and-breaking-habits
 
+<YouTube videoId="Wcs2PFz5q6g" />
+
 想要建立新习惯或打破旧习惯，关键在于理解大脑如何形成和巩固习惯的科学原理。本文基于神经科学研究，提供实用的习惯形成和打破策略。
 
 ## 一、核心行动指南

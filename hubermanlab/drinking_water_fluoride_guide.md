@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation
 
+<YouTube videoId="j2sMqSDLd4k" />
+
 ## 确定行动指南
 
 ### 核心建议

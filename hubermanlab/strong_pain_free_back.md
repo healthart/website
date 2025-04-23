@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-stuart-mcgill-build-a-strong-pain-proof-back
 
+<YouTube videoId="mAlt_HKX4as" />
+
 ## 确定行动指南
 
 ### 核心建议

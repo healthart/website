@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-oded-rechavi-genes-and-the-inheritance-of-memories-across-generations
 
+<YouTube videoId="CDUetQMKM6g" />
+
 这期播客探讨了一个极具争议但又引人入胜的话题：我们的经历是否能通过基因传递给下一代？虽然这个领域研究仍在进行中，但已有科学证据表明特定环境因素确实能通过RNA等分子机制影响后代。以下是关键发现和实用建议：
 
 ## 确定行动指南

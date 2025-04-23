@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-science-of-mdma-and-its-therapeutic-applications
 
+<YouTube videoId="slUCmZJDXrk" />
+
 ## 确定行动指南
 
 ### 核心建议

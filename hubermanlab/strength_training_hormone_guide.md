@@ -4,6 +4,8 @@
 
 原文链接：https://www.hubermanlab.com/episode/dr-duncan-french-how-to-exercise-for-strength-gains-and-hormone-optimization
 
+<YouTube videoId="iMvtHqLmEkI" />
+
 ## 确定行动指南
 
 ### 核心建议
