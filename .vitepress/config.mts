@@ -10,6 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
+      { text: '书籍解析', link: '/books/Outlive: The Science and Art of Longevity.md' },
       { text: '关于我们', link: '/about' }
     ],
 
@@ -237,8 +238,8 @@ export default defineConfig({
               "link": "/hubermanlab/sleep_wakefulness_optimization_guide"
             },
             {
-              "text": "11. 【确定行动指南】",
-              "link": "/hubermanlab/action_guide"
+              "text": "11. 全方位健康与生产力行动框架",
+              "link": "/hubermanlab/health_and_productivity_action"
             },
             {
               "text": "12. 自然环境对健康的实用指南",
@@ -2789,6 +2790,48 @@ export default defineConfig({
               ]
             }
           ]
+        }
+      ],
+      '/books/': [
+        {
+          "text": "《超越百岁》实用行动指南",
+          "link": "/books/Outlive: The Science and Art of Longevity.md"
+        },
+        {
+          "text": "《良好的能量》代谢健康实用指南",
+          "link": "/books/Good Energy: The Surprising Connection Between Metabolism and Limitless Health.md"
+        },
+        {
+          "text": "《绝佳时间》实用行动指南：优化你的生物钟",
+          "link": "/books/Life Time: The New Science of the Body Clock, and How It Can Revolutionize Your Sleep and Health.md"
+        },
+        {
+          "text": "《你可以跑得更快》实用行动指南：马拉松训练与优化",
+          "link": "/books/Advanced Marathoning- 2nd Edition.md"
+        },
+        {
+          "text": "《战斗细胞》实用行动指南",
+          "link": "/books/Immune: A Journey into the Mysterious System That Keeps You Alive.md"
+        },
+        {
+          "text": "《肠子的小心思》实用指南",
+          "link": "/books/Darm mit Charme: Alles uber ein unterschatztes Organ.md"
+        },
+        {
+          "text": "《仿制药的真相》实用指南",
+          "link": "/books/Bottle of Lies: The Inside Story of the Generic Drug Boom.md"
+        },
+        {
+          "text": "《疗愈的饮食与断食》实用行动指南",
+          "link": "/books/Healing Diet, Healing Fast.md"
+        },
+        {
+          "text": "《成瘾的深渊》实用行动指南",
+          "link": "/books/Never Enough: The Neuroscience and Experience of Addiction.md"
+        },
+        {
+          "text": "《思维漫游》实用指南",
+          "link": "/books/Mindwandering.md"
         }
       ]
     },

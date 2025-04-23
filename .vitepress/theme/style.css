@@ -208,6 +208,20 @@
   border-bottom: none;
 }
 
+.vp-doc h1 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.vp-doc h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.vp-doc h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 
 .VPSidebarItem.level-1 .text {
   width: 100%;
