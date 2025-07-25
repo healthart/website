@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/tommywood/
 
+<YouTube videoId="zKFEUV911Zw" />
+
 ## 一、确定行动指南：预防认知衰退的核心策略
 
 1. **降低同型半胱氨酸水平至11以下**

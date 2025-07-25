@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/understanding-cardiovascular-disease/
 
+<YouTube videoId="UWQsbBZHHUU" />
+
 ## 确定行动指南
 
 以下建议基于强有力的科学证据,可以显著降低动脉粥样硬化性心血管疾病(ASCVD)风险:

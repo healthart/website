@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/longevityroundtable/
 
+<YouTube videoId="NU98SXBCjz4" />
+
 基于这场关于衰老科学的专家圆桌讨论，我将关键洞见转化为实用指南，重点关注有科学依据的观点，并区分确定性建议与探索性建议。
 
 ## 确定行动指南

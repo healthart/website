@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/kelseychittick/
 
+<YouTube videoId="zCp101ucrsM" />
+
 基于这篇有关创伤、悲伤和康复的深入访谈，我整理出以下实用指南，帮助面临突然丧亲和严重创伤的人。
 
 ## 确定行动指南

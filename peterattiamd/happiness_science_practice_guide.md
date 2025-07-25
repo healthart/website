@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/arthurbrooks/
 
+<YouTube videoId="dA5OmuP8vTQ" />
+
 Arthur Brooks（哈佛大学教授、社会科学家）在这个播客中分享了关于幸福、成功和生活满足感的重要洞见。以下是基于强有力证据的核心建议和实用策略。
 
 ## 确定行动指南

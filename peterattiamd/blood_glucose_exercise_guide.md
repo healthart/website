@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama26/
 
+<YouTube videoId="4kAmCmZKJMc" />
+
 ## 确定行动指南
 
 ### 血糖监测与管理的核心建议

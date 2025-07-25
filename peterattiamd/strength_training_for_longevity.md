@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/andygalpin2/
 
+<YouTube videoId="UA5z1lAn2mc" />
+
 根据Andy Galpin教授的研究和专业见解，以下是如何通过力量训练优化长寿的实用指南。
 
 ## 确定行动指南

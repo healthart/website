@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/andrewhuberman3/
 
+<YouTube videoId="eU7VneEQayM" />
+
 ## 确定行动指南
 
 ### 光照与心理健康的关键行动

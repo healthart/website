@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/jeffenglish/
 
+<YouTube videoId="mE5vd98mohY" />
+
 ## 确定行动指南
 
 创伤经历会影响我们的生活，但有效的应对策略可以帮助我们走向愈合。以下是强证据支持的核心建议：

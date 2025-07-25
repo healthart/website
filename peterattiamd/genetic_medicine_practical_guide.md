@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/wendychung/
 
+<YouTube videoId="qSbanRiMg1o" />
+
 根据Wendy Chung医学遗传学专家的分享，我整理出这份实用指南，帮助您理解遗传医学最实用的关键信息，并提供具体行动建议。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama28/
 
+<YouTube videoId="fbWa734PwBY" />
+
 ## 确定行动指南
 
 以下建议基于强证据支持，适用于考虑或正在接受睾酮替代疗法的男性：

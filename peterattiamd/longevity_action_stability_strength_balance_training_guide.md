@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama05/
 
+<YouTube videoId="pxmyE59AyZA" />
+
 ## 确定行动指南
 
 ### 核心训练建议

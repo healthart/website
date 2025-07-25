@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/training-for-the-centenarian-decathlon/
 
+<YouTube videoId="NivjpZ0VBro" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/derekmpmd/
 
+<YouTube videoId="JNpgqpyzW98" />
+
 ## 确定行动指南
 
 根据播客内容，以下是得到强证据支持的核心建议：

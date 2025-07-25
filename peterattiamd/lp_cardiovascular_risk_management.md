@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/benoitarsenault/
 
+<YouTube videoId="4H0mVPKsGG8" />
+
 ## 确定行动指南
 
 ### 核心建议

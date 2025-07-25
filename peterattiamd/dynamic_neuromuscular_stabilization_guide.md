@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/michaelrintala/
 
+<YouTube videoId="y6OALVlNgqI" />
+
 ## 确定行动指南
 
 以下建议基于强有力的研究证据和临床实践，可帮助预防损伤、改善姿势并增强稳定性：

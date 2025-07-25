@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/saumsutaria/
 
+<YouTube videoId="QqrpFICtqpQ" />
+
 ## 确定行动指南
 
 从这场关于美国医疗系统的深度对话中，可以提取几个对个人健康管理具有强有力证据支持的关键行动建议：

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/davidallison/
 
+<YouTube videoId="49-CvqNQ7qU" />
+
 ## 确定行动指南
 
 ### 核心治疗建议

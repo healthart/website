@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/juliawattacheril/
 
+<YouTube videoId="ZiJ2th4rKKA" />
+
 ## 确定行动指南
 
 肝脏是身体最大的内脏器官，承担着超过300种功能，从代谢到解毒，从免疫到产生凝血因子。以下是保护肝脏健康的核心策略：

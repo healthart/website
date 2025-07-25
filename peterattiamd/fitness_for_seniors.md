@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/exerciseforagingpeople/
 
+<YouTube videoId="Yz0W-P0UaKE" />
+
 ## 确定行动指南
 
 对于50岁以上想开始或重返锻炼的人，这些是基于强证据支持的核心建议：

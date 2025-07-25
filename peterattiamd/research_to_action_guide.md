@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama30/
 
+<YouTube videoId="pFJhNMIhC0c" />
+
 ## 确定行动指南
 
 ### 评估研究质量的核心步骤

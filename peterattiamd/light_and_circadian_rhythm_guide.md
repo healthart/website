@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/andrewhuberman3/
 
+<YouTube videoId="eU7VneEQayM" />
+
 根据Huberman博士讨论的研究，我整理了关于光照暴露对精神健康影响的实用指南。这项研究分析了85,000多人的数据，发现白天获取充足光照并在夜间避免光照与更好的精神健康显著相关。
 
 ## 确定行动指南

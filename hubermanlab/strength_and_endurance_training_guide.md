@@ -1,4 +1,4 @@
-# 【实用行动指南】力量训练与耐力发展的科学方法
+# 力量训练与耐力发展的科学方法
 
 原文标题：Pavel Tsatsouline- The Correct Way to Build Strength, Endurance & Flexibility at Any Age
 

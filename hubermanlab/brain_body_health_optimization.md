@@ -1,4 +1,4 @@
-# 【确定行动指南】：大脑和身体健康优化策略
+# 大脑和身体健康优化策略
 
 原文标题：LIVE EVENT Q&A- Dr. Andrew Huberman at the Chicago Theatre
 

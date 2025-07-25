@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/peter-faq/
 
+<YouTube videoId="em5xwtivnkg" />
+
 本文将Peter Attia博士讨论的医学见解转化为实用行动指南，重点关注有强证据支持的建议。
 
 ## 确定行动指南

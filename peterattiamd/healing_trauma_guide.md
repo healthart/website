@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/paulconti3/
 
+<YouTube videoId="HoGBkn_1Z14" />
+
 ## 确定行动指南
 
 ### 面对创伤的核心步骤

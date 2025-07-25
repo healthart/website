@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/qps1/
 
+<YouTube videoId="8Fe0qrMO0FY" />
+
 ## 确定行动指南
 
 ### 肌肉健康与维持

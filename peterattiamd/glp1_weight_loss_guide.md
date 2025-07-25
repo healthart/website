@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama29-glp1-agonists-the-future-of-treating-obesity/
 
+<YouTube videoId="EJHEfgfH-vw" />
+
 ## 确定行动指南
 
 1. **司美格鲁肽(Semaglutide/Ozempic)在肥胖治疗中效果显著**

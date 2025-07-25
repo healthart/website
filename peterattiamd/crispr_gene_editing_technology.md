@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/fengzhang/
 
+<YouTube videoId="aOl0IDhzLCo" />
+
 ## 确定行动指南
 
 **核心医学应用及现状：**

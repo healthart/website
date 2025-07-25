@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama15/
 
+<YouTube videoId="FHTopC261Mc" />
+
 ## 确定行动指南
 
 ### 核心建议：代谢健康监测与优化

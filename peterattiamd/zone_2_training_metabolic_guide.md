@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/inigosanmillan2/
 
+<YouTube videoId="-6PDBVRkCKc" />
+
 ## 确定行动指南
 
 ### 核心建议

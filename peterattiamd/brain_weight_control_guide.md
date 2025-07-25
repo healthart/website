@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/stephanguyenet/
 
+<YouTube videoId="9G3iLbQCIHI" />
+
 ## 确定行动指南
 
 医学神经科学研究揭示了体重调节的关键机制，可转化为以下高度确定的实践建议：

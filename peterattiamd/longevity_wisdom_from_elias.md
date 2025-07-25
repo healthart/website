@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ricelias2/
 
+<YouTube videoId="qb4_WiSFHvU" />
+
 从这位经历过"哈德逊河奇迹"的商业领袖分享中，我们可以提炼出几项有科学支持的、促进健康长寿的行动建议。
 
 ## 确定行动指南

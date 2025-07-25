@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/davidepstein/
 
+<YouTube videoId="auXfAHHNSFo" />
+
 ## 确定行动指南
 
 1. **采用"交错练习"而非"块状练习"**

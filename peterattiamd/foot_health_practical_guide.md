@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/courtneyconley/
 
+<YouTube videoId="htF_GapzU_c" />
+
 ## 确定行动指南
 
 足部作为我们与地面的第一接触点，对整体健康和运动功能至关重要。以下是经研究证实的核心建议：

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama52/
 
+<YouTube videoId="rJRhqh0ZA9Q" />
+
 ## 确定行动指南
 
 ### 更年期HRT核心建议

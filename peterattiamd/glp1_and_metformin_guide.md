@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama45/
 
+<YouTube videoId="GCCHOBLTiCk" />
+
 ## 确定行动指南
 
 ### GLP-1激动剂使用原则

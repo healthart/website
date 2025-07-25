@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/rhondapatrick2/
 
+<YouTube videoId="zkp0DRUQ33g" />
+
 ## 确定行动指南（强证据支持）
 
 1. **优先进行充分的有氧和力量训练**

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ep-300-exercise-nutrition-fasting-more/
 
+<YouTube videoId="Io5xV9rtbm4" />
+
 根据Peter Attia博士的分析，以下是各种健康干预措施的实用视角，按照证据强度从高到低排列。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/jasonfung/
 
+<YouTube videoId="OL6-x0modwY" />
+
 ## 确定行动指南
 
 这些建议基于强有力的临床证据和成功案例，适用于大多数人群，特别是有代谢问题的人：

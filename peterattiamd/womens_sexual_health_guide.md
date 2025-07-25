@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/sharonparish/
 
+<YouTube videoId="goLKqjUT93Q" />
+
 ## 确定行动指南
 
 ### 有效缓解阴道干涩不适

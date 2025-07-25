@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama08/
 
+<YouTube videoId="jJnxDiHfMgc" />
+
 ## 确定行动指南
 
 1. **炎症监测最佳实践**

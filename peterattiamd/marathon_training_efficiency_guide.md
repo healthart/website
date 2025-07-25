@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ryanhall/
 
+<YouTube videoId="0gOHy74y1hE" />
+
 ## 确定行动指南
 
 ### 核心训练策略

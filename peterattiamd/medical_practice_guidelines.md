@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/strong-convictions-loosely-held-2/
 
+<YouTube videoId="LkUPHBhM8Ow" />
+
 ## 确定行动指南（强证据支持）
 
 ### 胃肠道癌症筛查

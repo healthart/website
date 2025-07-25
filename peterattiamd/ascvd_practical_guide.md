@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama34/
 
+<YouTube videoId="IbSHHESbm5U" />
+
 ## 确定行动指南
 
 ### 核心建议（强证据支持）

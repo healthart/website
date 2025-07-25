@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/tomdayspring7/
 
+<YouTube videoId="5hiLY5oFprY" />
+
 ## 确定行动指南
 
 1. **测量ApoB水平而非仅关注LDL胆固醇**

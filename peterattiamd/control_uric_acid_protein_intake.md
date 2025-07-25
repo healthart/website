@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama62/
 
+<YouTube videoId="UD6Xa0aJ7ao" />
+
 ## 一、确定行动指南：尿酸管理
 
 1. **监测并保持尿酸在健康范围内**

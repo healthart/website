@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/johnbarry/
 
+<YouTube videoId="UDY5COg2P2c" />
+
 ## 确定行动指南
 
 1. **建立透明诚实的公共沟通机制**

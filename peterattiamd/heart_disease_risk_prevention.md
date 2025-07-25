@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/allansniderman/
 
+<YouTube videoId="W1geXgNEG_0" />
+
 ## 确定行动指南
 
 1. **将apoB检测纳入常规心血管风险评估**

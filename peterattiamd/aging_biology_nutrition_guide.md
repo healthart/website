@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/mattkaeberlein3/
 
+<YouTube videoId="4sqyGwqyAao" />
+
 ## 确定行动指南
 
 1. **优先加强肌肉锻炼**

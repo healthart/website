@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/tedschaeffer2/
 
+<YouTube videoId="poTcAm_rknw" />
+
 根据Ted Schaeffer医生的专业见解，以下是关于前列腺健康和前列腺癌的实用建议。作为男性健康的重要组成部分，前列腺问题需要被认真对待，但很多情况下可以有效管理。
 
 ## 一、前列腺健康基础知识

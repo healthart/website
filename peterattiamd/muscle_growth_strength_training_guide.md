@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/mikeisraetel/
 
+<YouTube videoId="VhkxTq-fxJc" />
+
 听完Mike Israetel博士的这段访谈，我提取了最有价值的实用信息，并将其转化为具体行动步骤。以下是基于强有力证据的关键建议，帮助您优化力量训练效果。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/altonbarron/
 
+<YouTube videoId="CtGwx2VAH_E" />
+
 以下指南基于骨科专家Alton Barron医生的专业见解，帮助您理解上肢结构、识别常见问题，以及采取适当行动保护关节健康。
 
 ## 一、肩部问题的识别与管理

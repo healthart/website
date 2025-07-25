@@ -1,4 +1,4 @@
-# 【高糖饮食的健康风险与实用改善方案】
+# 高糖饮食的健康风险与实用改善方案
 
 原文标题：Dr. Robert Lustig- How Sugar & Processed Foods Impact Your Health
 

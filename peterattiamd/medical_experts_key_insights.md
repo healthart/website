@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/qps3/
 
+<YouTube videoId="Q-niq9Orgyo" />
+
 ## 骨骼健康：从青少年到老年的骨密度管理
 
 ### 确定行动指南：

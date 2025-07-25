@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/endocrinesystem/
 
+<YouTube videoId="5oxFK6poSXM" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama69/
 
+<YouTube videoId="U04FXYTIkD0" />
+
 ## 确定行动指南
 
 1. **采用系统评估框架选择补充剂**

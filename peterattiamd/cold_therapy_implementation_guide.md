@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama47/
 
+<YouTube videoId="bBosiTzZnMM" />
+
 冷疗法（如冷水浸泡、冰浴和冷水淋浴）在运动恢复和情绪调节方面备受关注。根据播客中的科学解析，以下是基于证据的实用建议：
 
 ## 一、确定行动指南

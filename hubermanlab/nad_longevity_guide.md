@@ -1,4 +1,4 @@
-# 🔍 NAD 与长寿：实用指南
+# NAD 与长寿：实用指南
 
 原文标题：Dr. Peter Attia- Supplements for Longevity & Their Efficacy
 

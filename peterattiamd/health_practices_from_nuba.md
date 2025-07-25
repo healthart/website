@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/tomcatena/
 
+<YouTube videoId="t7X3dtD3yUc" />
+
 从Tom Catena医生在苏丹努巴山区的工作中，我们可以提炼出关于健康、疾病和生活方式的重要启示。以下是基于强证据支持的健康行动指南：
 
 ## 确定行动指南

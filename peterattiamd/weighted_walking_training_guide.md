@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/jasonmccarthy/
 
+<YouTube videoId="yaEwGqXE2Vo" />
+
 从特种部队经验中提炼出的实用负重行走(Rucking)指南，帮助你获取这种低伤害高效益的训练方式带来的多重健康益处。
 
 ## 确定行动指南

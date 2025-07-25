@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/oliverburkeman/
 
+<YouTube videoId="B0PaNe5sb4g" />
+
 这篇对话探讨了时间、压力和意义感如何影响我们的心理健康和生活质量。以下是将这些见解转化为实用健康指南的关键行动建议。
 
 ## 确定行动指南

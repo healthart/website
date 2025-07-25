@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/jamesclear/
 
+<YouTube videoId="Tn1w7Kw8x5E" />
+
 ## 确定行动指南
 
 ### 最可靠的习惯养成策略

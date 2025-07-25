@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama44/
 
+<YouTube videoId="m6Smu2SlIKk" />
+
 本指南源自Peter Attia医生12年DEXA扫描数据和不同饮食训练方案的经验，重点提供实用建议而非理论探讨。
 
 ## 确定行动指南：提升健康的核心策略

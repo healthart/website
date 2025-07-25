@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/davidnutt/
 
+<YouTube videoId="qhGDV4BvQ2M" />
+
 ## 确定行动指南
 
 1. **重新评估酒精风险与使用模式**

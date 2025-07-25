@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/johnkastelein/
 
+<YouTube videoId="Jduj5SL5FNs" />
+
 ## 确定行动指南
 
 ### 核心建议

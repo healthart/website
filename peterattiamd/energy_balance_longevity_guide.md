@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ericravussin/
 
+<YouTube videoId="UVGBfrfPq98" />
+
 以下是基于Eric Ravussin博士(代谢研究专家)深度访谈的实用建议，重点关注有科学支持的行动方案，帮助您优化能量平衡并改善健康。
 
 ## 一、确定行动指南（强证据支持）

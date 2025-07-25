@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/qps2/
 
+<YouTube videoId="HA0dRBwSQn8" />
+
 After analyzing Dr. Attia's quarterly podcast summary, I've extracted the most evidence-backed, action-oriented recommendations from these expert discussions.
 
 ## Liver Health: Protecting Your Most Resilient Organ

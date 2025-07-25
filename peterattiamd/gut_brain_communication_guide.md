@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/michaelgershon/
 
+<YouTube videoId="qqc0iEIPp8w" />
+
 ## 确定行动指南
 
 ### 保护和恢复肠道健康的核心建议

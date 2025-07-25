@@ -1,4 +1,4 @@
-# 【谈判与沟通艺术实用指南】
+# 谈判与沟通艺术实用指南
 
 原文标题：Chris Voss- How to Succeed at Hard Conversations
 

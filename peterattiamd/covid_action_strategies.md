@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/covid-19-current-state-omicron/
 
+<YouTube videoId="GklHGYY8vN8" />
+
 ## 确定行动指南
 
 基于播客中专家讨论的强证据内容，以下是您可以立即采取的高确定性行动：

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/andygalpin/
 
+<YouTube videoId="ED8pq0uBct8" />
+
 ## 确定行动指南
 
 在这期Peter Attia与肌肉生理学专家Andy Galpin的对话中，研究证据明确支持以下关键行动建议：

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/shireenrizvi/
 
+<YouTube videoId="qA2sgsxImM8" />
+
 ## 确定行动指南
 
 1. **练习"明智心智"来平衡情绪与理性**

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/specialama/
 
+<YouTube videoId="1hgQRiXymbo" />
+
 ## 确定行动指南
 
 1. **优先训练握力**：

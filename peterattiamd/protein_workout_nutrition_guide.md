@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/lucvanloon/
 
+<YouTube videoId="AVOKWvYJM-c" />
+
 在这一深入的运动和营养研究对话中，国际知名的骨骼肌代谢专家Luc van Loon教授分享了数十年研究的实用见解。以下是基于强有力证据支持的行动指南和实践建议。
 
 ## 确定行动指南：保持和发展肌肉的关键策略

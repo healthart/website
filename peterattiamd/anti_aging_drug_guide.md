@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama35/
 
+<YouTube videoId="2Wds3P1W3w8" />
+
 这份指南基于Peter Attia博士与Matt Kaeberlein博士关于三种主要抗衰老分子的深度讨论，将复杂的科学转化为实用建议。
 
 ## 确定行动指南

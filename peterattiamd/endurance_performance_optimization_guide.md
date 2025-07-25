@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/olavaleksanderbu2/
 
+<YouTube videoId="QpK3jXLwz_Y" />
+
 根据这期关于运动科学的专业讨论，以下是基于强有力证据的实用建议，帮助您提高耐力表现和训练效果。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/patrickraddenkeefe/
 
+<YouTube videoId="8uXe9QvRRqM" />
+
 这份指南基于Peter Attia医生与Patrick Radden Keefe关于阿片类药物危机的深入对话，重点提取强证据支持的医学信息，为患者、医疗专业人员和公众提供实用建议。
 
 ## 确定行动指南

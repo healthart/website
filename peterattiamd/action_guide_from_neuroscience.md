@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/andrewhuberman/
 
+<YouTube videoId="OGe1bTccCyg" />
+
 ## 1. 利用晨间光照优化生理节律
 
 1. **每天早晨在太阳角度较低时（日出后约1小时内）接触自然光线10-30分钟**

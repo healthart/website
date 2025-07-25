@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/nirbarzilai2/
 
+<YouTube videoId="Hbguf9GCdwI" />
+
 ## 确定行动指南
 
 以下建议得到强有力研究证据支持，对大多数人适用：

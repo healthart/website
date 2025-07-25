@@ -152,7 +152,7 @@ export default defineConfig({
               "link": "/hubermanlab/task_switching_efficiency_guide"
             },
             {
-              "text": "11. 【谈判与沟通艺术实用指南】",
+              "text": "11. 谈判与沟通艺术实用指南",
               "link": "/hubermanlab/negotiation_communication_guide"
             },
             {
@@ -260,6 +260,10 @@ export default defineConfig({
             {
               "text": "16. 用脑科学优化学习和创造力：实用行动指南",
               "link": "/hubermanlab/learning_optimization_practical_guide"
+            },
+            {
+              "text": "17. [NEW] 保护视力与增强视觉功能的实用指南",
+              "link": "/hubermanlab/eye_care_practical_guide"
             }
           ]
         },
@@ -378,7 +382,7 @@ export default defineConfig({
               "link": "/hubermanlab/brain_health_action_guide"
             },
             {
-              "text": "14. 【确定行动指南】：大脑和身体健康优化策略",
+              "text": "14. 大脑和身体健康优化策略",
               "link": "/hubermanlab/brain_body_health_optimization"
             },
             {
@@ -420,7 +424,7 @@ export default defineConfig({
               "link": "/hubermanlab/fitness_training_strategy_guide"
             },
             {
-              "text": "7. 【实用行动指南】力量训练与耐力发展的科学方法",
+              "text": "7. 力量训练与耐力发展的科学方法",
               "link": "/hubermanlab/strength_and_endurance_training_guide"
             },
             {
@@ -486,6 +490,14 @@ export default defineConfig({
             {
               "text": "23. 恢复优化指南：将科学转化为实际行动",
               "link": "/hubermanlab/recovery_optimization_guide"
+            },
+            {
+              "text": "24. [NEW] 肌肉增长与力量提升：科学指南",
+              "link": "/hubermanlab/muscle_growth_scientific_guide"
+            },
+            {
+              "text": "25. [NEW] 耐力训练实用指南：从科学到行动",
+              "link": "/hubermanlab/endurance_training_guide"
             }
           ]
         },
@@ -530,7 +542,7 @@ export default defineConfig({
               "link": "/hubermanlab/taste_and_sugar_addiction_guide"
             },
             {
-              "text": "10. 【高糖饮食的健康风险与实用改善方案】",
+              "text": "10. 高糖饮食的健康风险与实用改善方案",
               "link": "/hubermanlab/high_sugar_diet_risks_solutions"
             },
             {
@@ -584,6 +596,10 @@ export default defineConfig({
             {
               "text": "23. 情绪与营养关系：实用行动指南",
               "link": "/hubermanlab/emotions_nutrition_action_guide"
+            },
+            {
+              "text": "24. [NEW] 蛋白质选择实用指南：乳清蛋白、胶原蛋白与骨汤",
+              "link": "/hubermanlab/protein_choice_practical_guide"
             }
           ]
         },
@@ -712,6 +728,10 @@ export default defineConfig({
             {
               "text": "16. 跨代遗传与环境影响：基因如何传递记忆",
               "link": "/hubermanlab/transgenerational_genetic_memory"
+            },
+            {
+              "text": "17. [NEW] 技能学习的科学：高效掌握新技能的实用指南",
+              "link": "/hubermanlab/mastering_new_skills_guide"
             }
           ]
         },
@@ -728,7 +748,7 @@ export default defineConfig({
               "link": "/hubermanlab/longevity_supplement_practical_guide"
             },
             {
-              "text": "3. 🔍 NAD 与长寿：实用指南",
+              "text": "3. NAD 与长寿：实用指南",
               "link": "/hubermanlab/nad_longevity_guide"
             },
             {
@@ -868,8 +888,8 @@ export default defineConfig({
               "link": "/hubermanlab/practical_medical_advice"
             },
             {
-              "text": "38. 【确定行动指南】",
-              "link": "/hubermanlab/action_guide"
+              "text": "38. 全方位健康与生产力行动框架",
+              "link": "/hubermanlab/health_and_productivity_action"
             },
             {
               "text": "39. 从生活幸福到健康长寿：实用指南",
@@ -878,6 +898,22 @@ export default defineConfig({
             {
               "text": "40. 实用健康指南：从里克·鲁宾的习惯中获取最大收益",
               "link": "/hubermanlab/health_habits_maximum_benefits"
+            },
+            {
+              "text": "41. [NEW] 口腔健康实用指南：从牙齿护理到全身健康",
+              "link": "/hubermanlab/oral_health_practical_guide"
+            },
+            {
+              "text": "42. [NEW] 科学减脂实用指南：利用神经系统最大化脂肪燃烧",
+              "link": "/hubermanlab/fat_burning_science_guide_nervous_maximized"
+            },
+            {
+              "text": "43. [NEW] 功能医学与健康优化实用指南",
+              "link": "/hubermanlab/functional_medicine_health_optimization_guide"
+            },
+            {
+              "text": "44. [NEW] 嗅觉、味觉与化学感知：实用行动指南",
+              "link": "/hubermanlab/smell_taste_chemical_perception"
             }
           ]
         },
@@ -988,6 +1024,14 @@ export default defineConfig({
             {
               "text": "26. 中风的行动指南：预防、康复和大脑健康",
               "link": "/hubermanlab/stroke_prevention_and_recovery"
+            },
+            {
+              "text": "27. [NEW] 通过代谢和线粒体健康改善心理健康的实用指南",
+              "link": "/hubermanlab/mental_health_metabolism_guide"
+            },
+            {
+              "text": "28. [NEW] 实用指南：克服成瘾的关键行动步骤",
+              "link": "/hubermanlab/overcoming_addiction_key_steps"
             }
           ]
         },
@@ -1062,6 +1106,14 @@ export default defineConfig({
             {
               "text": "17. 深度理解自我与意义：从心理学视角转化为实践指南",
               "link": "/hubermanlab/finding_meaning_through_self_reflection"
+            },
+            {
+              "text": "18. [NEW] 关系健康实用指南：从感受识别到行为改变",
+              "link": "/hubermanlab/relationship_health_practical_guide"
+            },
+            {
+              "text": "19. [NEW] 宠物福利实用指南：基于动物行为学的科学建议",
+              "link": "/hubermanlab/pet_welfare_scientific_guide"
             }
           ]
         }

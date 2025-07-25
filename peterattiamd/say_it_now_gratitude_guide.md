@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/waltergreen/
 
+<YouTube videoId="5yQ-p-mypFk" />
+
 ## 确定行动指南
 
 以下是基于Walter Green多年实践和众多人生经验的核心建议：

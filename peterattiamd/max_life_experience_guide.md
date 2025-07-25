@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/billperkins/
 
+<YouTube videoId="eE8W1Lp_VRE" />
+
 本文从医学和生活质量角度提炼了Bill Perkins在《归零而终》中的核心理念，帮助你平衡健康、时间和财富，实现人生最大满足感。
 
 ## 确定行动指南

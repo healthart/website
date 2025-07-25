@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/samapple/
 
+<YouTube videoId="n6MjnI4vM7M" />
+
 原始文件：#187 - Sam Apple： The Warburg Effect—Otto Warburg’s cancer metabolism theory - Peter Attia (3_20_2025 9：58：27 PM).md
 
 原文链接：https://peterattiamd.com/samapple/

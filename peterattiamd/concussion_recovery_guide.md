@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/mickycollins/
 
+<YouTube videoId="CBqBNCHOe2Q" />
+
 ## 确定行动指南
 
 1. **立即停止活动并寻求专业评估**

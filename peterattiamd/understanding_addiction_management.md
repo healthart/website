@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/annalembke/
 
+<YouTube videoId="ZTxpIBk2F4c" />
+
 基于斯坦福大学成瘾医学主任Anna Lembke博士的研究，以下是管理和恢复成瘾的关键行动策略。
 
 ## 确定行动指南

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/martymakary2/
 
+<YouTube videoId="_eaVpetraXs" />
+
 ## 确定行动指南
 
 医疗错误是美国第三大死亡原因，每年约有250,000人因此丧生。以下是保护您和家人的关键措施：

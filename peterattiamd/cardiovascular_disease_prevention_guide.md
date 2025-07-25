@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama43/
 
+<YouTube videoId="MAw4KMoBTPo" />
+
 ## 确定行动指南（强证据支持）
 
 1. **降低apoB是预防心血管疾病的最关键策略**

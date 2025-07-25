@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama60/
 
+<YouTube videoId="wvuy3AOYxCA" />
+
 ## 确定行动指南（强证据支持）
 
 ### 认知健康的三大核心策略

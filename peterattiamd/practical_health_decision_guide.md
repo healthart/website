@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/annieduke/
 
+<YouTube videoId="2WRi6iZAl-I" />
+
 ## 确定行动指南
 
 1. **建立概率思维习惯**

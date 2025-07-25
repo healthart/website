@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama24/
 
+<YouTube videoId="ZapXw377t5s" />
+
 ## 确定行动指南
 
 1. **采用连续血糖监测(CGM)评估您的血糖状况**

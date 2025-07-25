@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama41/
 
+<YouTube videoId="hfl6ElrLmJE" />
+
 原始文件：#231 - AMA #41： Medicine 3.0, developments in the field of aging, healthy habits in times of stress, and more - Peter Attia (3_20_2025 9：50：20 PM).md
 
 原文链接：https://peterattiamd.com/ama41/

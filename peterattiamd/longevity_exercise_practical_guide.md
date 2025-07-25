@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/exercising-for-longevity/
 
+<YouTube videoId="BSAX0KSNS_E" />
+
 ## 确定行动指南
 
 以下是研究强有力支持、适用范围广的核心建议：

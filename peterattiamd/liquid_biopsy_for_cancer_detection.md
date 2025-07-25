@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/maxdiehn/
 
+<YouTube videoId="rOU3rEHlhDo" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/sebastianjunger2/
 
+<YouTube videoId="lekPcBKAA-0" />
+
 ## 确定行动指南
 
 1. **立即就医评估持续或反复的腹部疼痛**

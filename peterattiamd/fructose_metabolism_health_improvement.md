@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/rickjohnson/
 
+<YouTube videoId="LbSic4Oo8ME" />
+
 根据Rick Johnson医学博士的研究，果糖代谢对我们的健康有深远影响。以下是基于强有力证据的实用建议和解释。
 
 ## 确定行动指南

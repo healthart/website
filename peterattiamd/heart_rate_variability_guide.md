@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/joeljamieson/
 
+<YouTube videoId="3TClfAvj2-Q" />
+
 ## 确定行动指南
 
 ### 核心建议

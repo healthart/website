@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/arthurbrooks2/
 
+<YouTube videoId="X1GNc70-584" />
+
 ## 核心行动建议
 
 1. **区分情绪与幸福**

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ralphdefronzo/
 
+<YouTube videoId="vYQaLV3Fm00" />
+
 ## 确定行动指南
 
 **胰岛素抵抗与2型糖尿病管理的核心策略：**

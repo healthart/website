@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/michaeleaster/
 
+<YouTube videoId="OHdp75ezdyY" />
+
 Analisando este podcast com Michael Easter, autor de "The Comfort Crisis", encontrei evidências convincentes sobre como a eliminação dos desconfortos naturais da vida moderna pode estar prejudicando nossa saúde. Abaixo apresento um guia prático baseado nas partes com evidências mais sólidas.
 
 ## 1. Ações Prioritárias (Evidências Fortes)

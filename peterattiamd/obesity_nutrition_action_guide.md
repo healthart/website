@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/davidallison2/
 
+<YouTube videoId="ilMWQBb_qVY" />
+
 ## 确定行动指南
 
 1. **优化蛋白质摄入量**

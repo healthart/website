@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/stuartmcgill/
 
+<YouTube videoId="Z1_sb1auiV8" />
+
 ## 确定行动指南
 
 对于希望维护健康脊椎或应对下背痛的人，以下是基于强证据的关键建议：

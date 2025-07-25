@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/laynenorton3/
 
+<YouTube videoId="EbykBDSAwzE" />
+
 ## 确定行动指南
 
 ### 肌肉与力量训练核心策略

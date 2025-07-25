@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/joshrabinowitz/
 
+<YouTube videoId="_kezGvY5bN8" />
+
 ## 确定行动指南
 
 1. **优化代谢健康的关键策略**：

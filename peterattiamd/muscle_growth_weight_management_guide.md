@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/laynenorton2/
 
+<YouTube videoId="R-Ltg1dl2jM" />
+
 ## 确定行动指南
 
 ### 核心建议

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/mohitkhera/
 
+<YouTube videoId="GNCpG1fkMBA" />
+
 ## 确定行动指南
 
 ### 核心建议（强证据支持）

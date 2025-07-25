@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/ama32/
 
+<YouTube videoId="lZ7thIzei_k" />
+
 ## 确定行动指南
 
 ### 高效力量训练方案

@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/olavaleksanderbu/
 
+<YouTube videoId="FOhb_D-5cgw" />
+
 ## 确定行动指南
 
 1. **重视有氧能力测量与提升**

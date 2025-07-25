@@ -4,6 +4,8 @@
 
 原文链接：https://peterattiamd.com/covid-part2/
 
+<YouTube videoId="jAjKQY0_BQA" />
+
 ## 确定行动指南
 
 ### 高效防护策略
