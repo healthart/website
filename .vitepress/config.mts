@@ -1360,6 +1360,10 @@ export default defineConfig({
                 {
                   "text": "下背痛恢复指南",
                   "link": "/peterattiamd/back_pain_action_guide"
+                },
+                {
+                  "text": "[NEW] 骨骼健康行动指南：预防和改善策略",
+                  "link": "/peterattiamd/bone_health_prevention_improvement_strategies"
                 }
               ]
             },
@@ -1533,6 +1537,18 @@ export default defineConfig({
                 {
                   "text": "内分泌系统全面评估指南",
                   "link": "/peterattiamd/endocrine_hormone_guide"
+                },
+                {
+                  "text": "[NEW] 女性生育健康与不孕症：实用行动指南",
+                  "link": "/peterattiamd/womens_fertility_action_guide"
+                },
+                {
+                  "text": "[NEW] 男性生育力优化指南：从精子生成到生活方式干预",
+                  "link": "/peterattiamd/male_fertility_optimization_guide"
+                },
+                {
+                  "text": "[NEW] 绝经期与激素替代疗法(HRT)实用指南",
+                  "link": "/peterattiamd/menopausal_hormone_replacement_therapy"
                 }
               ]
             },
@@ -1576,6 +1592,10 @@ export default defineConfig({
                 {
                   "text": "神经发展差异儿童支持指南",
                   "link": "/peterattiamd/autism_adhd_anxiety_support_guide"
+                },
+                {
+                  "text": "[NEW] 医学播客实用指南：生育、荷尔蒙、抗衰老和生活质量",
+                  "link": "/peterattiamd/medical_podcast_practical_guide"
                 }
               ]
             },
@@ -1646,6 +1666,10 @@ export default defineConfig({
                 {
                   "text": "禁食锻炼实用指南",
                   "link": "/peterattiamd/fasting_exercise_practical_guide"
+                },
+                {
+                  "text": "[NEW] 禁食实用指南：健康益处、风险及实施框架",
+                  "link": "/peterattiamd/fasting_guide_benefits_risks"
                 }
               ]
             },
@@ -1744,6 +1768,10 @@ export default defineConfig({
                 {
                   "text": "长寿心肺训练系统",
                   "link": "/peterattiamd/cardio_training_for_longevity"
+                },
+                {
+                  "text": "[NEW] 有氧运动与健康管理实用指南：Peter Attia播客要点",
+                  "link": "/peterattiamd/cardio_health_management_guide"
                 }
               ]
             },
@@ -1769,6 +1797,10 @@ export default defineConfig({
                 {
                   "text": "血流限制训练实用指南",
                   "link": "/peterattiamd/bfr_training_practical_guide"
+                },
+                {
+                  "text": "[NEW] 增强肌肉力量与质量的实用指南：长寿健康的关键策略",
+                  "link": "/peterattiamd/muscle_strength_longevity_guide"
                 }
               ]
             },
@@ -1832,6 +1864,10 @@ export default defineConfig({
                 {
                   "text": "运动健康与脑保护指南",
                   "link": "/peterattiamd/exercise_health_brain_protection"
+                },
+                {
+                  "text": "[NEW] 伤病预防与康复的实用指南",
+                  "link": "/peterattiamd/injury_prevention_recovery_guide"
                 }
               ]
             }
@@ -1922,6 +1958,14 @@ export default defineConfig({
                 {
                   "text": "女性更年期HRT实用指南",
                   "link": "/peterattiamd/hormone_replacement_therapy_guide"
+                },
+                {
+                  "text": "[NEW] 脱发应对指南：从科学治疗到有效干预",
+                  "link": "/peterattiamd/hair_loss_treatment_guide"
+                },
+                {
+                  "text": "[NEW] 睾酮与前列腺癌关系：实用指南",
+                  "link": "/peterattiamd/testosterone_prostate_cancer_guide"
                 }
               ]
             },
@@ -1977,6 +2021,10 @@ export default defineConfig({
                 {
                   "text": "尼古丁作为认知增强剂与减重辅助工具的分离使用指南",
                   "link": "/peterattiamd/nicotine_guide_cognitive_benefits_safety"
+                },
+                {
+                  "text": "[NEW] 尼古丁使用的实用指南：认知、健康与使用策略",
+                  "link": "/peterattiamd/nicotine_usage_practical_guide"
                 }
               ]
             }
@@ -2029,6 +2077,10 @@ export default defineConfig({
                 {
                   "text": "睡眠优化关键行动",
                   "link": "/peterattiamd/sleep_optimization_practical_guide_2"
+                },
+                {
+                  "text": "[NEW] 改善失眠和睡眠障碍的实用指南：认知行为疗法(CBT-I)",
+                  "link": "/peterattiamd/insomnia_treatment_practical_guide"
                 }
               ]
             },
@@ -2106,6 +2158,10 @@ export default defineConfig({
                 {
                   "text": "酒精影响心率变异性与睡眠质量",
                   "link": "/peterattiamd/heart_rate_variability_alcohol_guide"
+                },
+                {
+                  "text": "[NEW] 道路安全行动指南：降低驾驶风险的实用策略",
+                  "link": "/peterattiamd/road_safety_driving_guide"
                 }
               ]
             },
@@ -2271,6 +2327,14 @@ export default defineConfig({
                 {
                   "text": "癌症早期警示",
                   "link": "/peterattiamd/health_recovery_practical_guide"
+                },
+                {
+                  "text": "[NEW] 癌症治疗与公共卫生领导力：实用行动指南",
+                  "link": "/peterattiamd/cancer_treatment_leadership_guide"
+                },
+                {
+                  "text": "[NEW] 放射治疗与低剂量辐射应用：实用指南",
+                  "link": "/peterattiamd/radiation_therapy_practical_guide"
                 }
               ]
             },
@@ -2300,6 +2364,10 @@ export default defineConfig({
                 {
                   "text": "基于阿尔茨海默病预防的强循证策略",
                   "link": "/peterattiamd/alzheimers_prevention_guide"
+                },
+                {
+                  "text": "[NEW] 大脑健康与身体优化的实用指南",
+                  "link": "/peterattiamd/brain_health_body_optimization_guide"
                 }
               ]
             },
@@ -2546,6 +2614,14 @@ export default defineConfig({
                 {
                   "text": "干预措施延长寿命指南",
                   "link": "/peterattiamd/longevity_intervention_guide"
+                },
+                {
+                  "text": "[NEW] 健康衰老的实用指南：从Kennedy博士的长寿研究中获取行动建议",
+                  "link": "/peterattiamd/healthy_aging_practical_guide"
+                },
+                {
+                  "text": "[NEW] 老年健康行动指南：延长寿命与提升生活质量的实用策略",
+                  "link": "/peterattiamd/strategies_for_improving_longevity_withResidents"
                 }
               ]
             },
@@ -2580,6 +2656,10 @@ export default defineConfig({
                 {
                   "text": "科学抗衰老完整指南",
                   "link": "/peterattiamd/staying_young_practical_guide"
+                },
+                {
+                  "text": "[NEW] 皮肤护理与面部抗衰老的实用指南",
+                  "link": "/peterattiamd/skin_care_anti_aging_guide"
                 }
               ]
             }
@@ -2669,6 +2749,10 @@ export default defineConfig({
                 {
                   "text": "创伤恢复五步法",
                   "link": "/peterattiamd/trauma_recovery_military_guide"
+                },
+                {
+                  "text": "[NEW] 疼痛管理：从科学到实践的行动指南",
+                  "link": "/peterattiamd/pain_management_action_guide"
                 }
               ]
             },
@@ -2736,6 +2820,10 @@ export default defineConfig({
                 {
                   "text": "死亡觉察驱动生活决策",
                   "link": "/peterattiamd/near_death_wisdom_practical_guide"
+                },
+                {
+                  "text": "[NEW] 临终关怀专家的生命智慧：如何活得更好的实用指南",
+                  "link": "/peterattiamd/end_of_life_wisdom_guide"
                 }
               ]
             }
@@ -2759,6 +2847,10 @@ export default defineConfig({
                 {
                   "text": "基于最新营养科学共识的健康行动框架",
                   "link": "/peterattiamd/nutrition_and_health_guide"
+                },
+                {
+                  "text": "[NEW] 医学播客精华：睡眠、疼痛、放射治疗与创伤修复的实用指南",
+                  "link": "/peterattiamd/sleep_pain_treatment_healing_guide"
                 }
               ]
             },
