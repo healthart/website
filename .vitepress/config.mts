@@ -8,15 +8,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '续写总览', link: '/continuation' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
+      { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851' },
       { text: '书籍解析', link: '/books/Outlive: The Science and Art of Longevity.md' },
       { text: '关于我们', link: '/about' }
     ],
-
-    search: {
-      provider: 'local'
-    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/healthart/website' }
@@ -105,6 +103,11 @@ export default defineConfig({
               "text": "18. 有效管理压力、优化睡眠与提升专注力的科学指南",
               "link": "/hubermanlab/stress_management_sleep_focus_guide"
             }
+            ,
+            {
+                "text": "【new】停更后新增内容（按原章节分类）",
+                "link": "/hubermanlab/new"
+              }
           ]
         },
         {
@@ -191,7 +194,8 @@ export default defineConfig({
               "text": "20. 创伤疗愈实用指南：从心理痛苦到行动方案",
               "link": "/hubermanlab/healing_from_trauma"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -265,7 +269,8 @@ export default defineConfig({
               "text": "17. [NEW] 保护视力与增强视觉功能的实用指南",
               "link": "/hubermanlab/eye_care_practical_guide"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -323,7 +328,8 @@ export default defineConfig({
               "text": "13. 实用指南：改善心理健康与身体健康的行动策略",
               "link": "/hubermanlab/mental_health_action_guide"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -499,7 +505,8 @@ export default defineConfig({
               "text": "25. [NEW] 耐力训练实用指南：从科学到行动",
               "link": "/hubermanlab/endurance_training_guide"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -601,7 +608,8 @@ export default defineConfig({
               "text": "24. [NEW] 蛋白质选择实用指南：乳清蛋白、胶原蛋白与骨汤",
               "link": "/hubermanlab/protein_choice_practical_guide"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -659,7 +667,8 @@ export default defineConfig({
               "text": "13. 血管加压素与自闭症：社交功能的新视角",
               "link": "/hubermanlab/vasopressin_and_autism_perspective"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -733,7 +742,8 @@ export default defineConfig({
               "text": "17. [NEW] 技能学习的科学：高效掌握新技能的实用指南",
               "link": "/hubermanlab/mastering_new_skills_guide"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -1033,7 +1043,8 @@ export default defineConfig({
               "text": "28. [NEW] 实用指南：克服成瘾的关键行动步骤",
               "link": "/hubermanlab/overcoming_addiction_key_steps"
             }
-          ]
+
+            ]
         },
         {
           "collapsed": true,
@@ -1117,7 +1128,7 @@ export default defineConfig({
             }
           ]
         }
-      ],
+        ],
       '/peterattiamd/': [
         {
           "text": "第1章：能量代谢系统",
@@ -1284,6 +1295,11 @@ export default defineConfig({
                 }
               ]
             }
+            ,
+            {
+                "text": "【new】停更后新增内容（按原章节分类）",
+                "link": "/peterattiamd/new"
+              }
           ]
         },
         {
@@ -1357,10 +1373,7 @@ export default defineConfig({
                   "text": "膝关节健康最佳实践",
                   "link": "/peterattiamd/orthopedic_health_guide"
                 },
-                {
-                  "text": "下背痛恢复指南",
-                  "link": "/peterattiamd/back_pain_action_guide"
-                },
+
                 {
                   "text": "[NEW] 骨骼健康行动指南：预防和改善策略",
                   "link": "/peterattiamd/bone_health_prevention_improvement_strategies"
@@ -1521,7 +1534,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第4章：神经内分泌系统",
@@ -1711,7 +1725,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第6章：运动与训练",
@@ -1871,7 +1886,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第7章：补充剂与药物",
@@ -2028,7 +2044,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第8章：环境与生活方式",
@@ -2134,10 +2151,7 @@ export default defineConfig({
             {
               "text": "F. 环境设计与习惯形成",
               "items": [
-                {
-                  "text": "环境设计习惯微型化身份认同为核心的四法则习惯形成系统",
-                  "link": "/peterattiamd/practical_habit_building_guide"
-                },
+
                 {
                   "text": "引入有益不适感锻炼健康指南",
                   "link": "/peterattiamd/physical_mental_health_guide"
@@ -2174,7 +2188,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第9章：健康监测系统",
@@ -2429,7 +2444,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第11章：医疗系统导航",
@@ -2577,7 +2593,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第13章：延长健康寿命",
@@ -2827,7 +2844,8 @@ export default defineConfig({
                 }
               ]
             }
-          ]
+
+            ]
         },
         {
           "text": "第15章：系统性健康整合",
@@ -2894,10 +2912,7 @@ export default defineConfig({
                   "text": "长寿实用策略",
                   "link": "/peterattiamd/longevity_key_strategies"
                 },
-                {
-                  "text": "长寿行动指南",
-                  "link": "/peterattiamd/longevity_action_emotional_health_priority_guide"
-                },
+
                 {
                   "text": "年龄适应型运动策略与前瞻思维培养及社交连接构建指南",
                   "link": "/peterattiamd/longevity_wisdom_from_elias"
@@ -2935,6 +2950,606 @@ export default defineConfig({
             }
           ]
         }
+        ],
+      '/diaryofaceo/': [
+        {
+          "collapsed": true,
+          "text": "第1章：身体健康与长寿",
+          "items": [
+            {
+              "text": "训练与身体功能：肌酸、减脂与补剂价值判断",
+              "link": "/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851"
+            },
+            {
+              "text": "营养与代谢健康：乳制品、糖、水果与禁食取舍",
+              "link": "/diaryofaceo/continuation_2026-06-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kssjrtdkrpredtygqvjz91ab"
+            },
+            {
+              "text": "训练与身体功能：衰老关键器官与长寿基础",
+              "link": "/diaryofaceo/continuation_2026-05-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7wvvfyr4va949s12svfs3x"
+            },
+            {
+              "text": "筛查与风险管理：脂肪肝风险与代谢干预",
+              "link": "/diaryofaceo/continuation_2026-05-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01krvdft0bae6257wqwr76mwr6"
+            },
+            {
+              "text": "睡眠优化：睡眠、体重与睡眠追踪器判断",
+              "link": "/diaryofaceo/continuation_2026-05-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7w8nwe3d62nfc72x0q1wbs"
+            },
+            {
+              "text": "训练与身体功能：女性训练方案与身体适应",
+              "link": "/diaryofaceo/continuation_2026-05-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7vsbtaf3grs244y13qqj0a"
+            },
+            {
+              "text": "药物、补剂与安全边界：多肽疗法、商业宣传与安全边界",
+              "link": "/diaryofaceo/continuation_2026-04-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kpjqr48knq71a7c2hcy9pgpy"
+            },
+            {
+              "text": "训练与身体功能：胰岛素、脂肪增长与代谢调节",
+              "link": "/diaryofaceo/continuation_2026-04-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmzrvew8tbwd8qtdh5gjqwe6"
+            },
+            {
+              "text": "训练与身体功能：漱口水、血管信号与运动收益",
+              "link": "/diaryofaceo/continuation_2026-04-03_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmzq0mk110r3j02hrvczyst0"
+            },
+            {
+              "text": "训练与身体功能：环境暴露、内脏脂肪与抗衰",
+              "link": "/diaryofaceo/continuation_2026-03-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmx2zyst1gw8403tstehw01r"
+            },
+            {
+              "text": "营养与代谢健康：蛋白摄入与减脂基础",
+              "link": "/diaryofaceo/continuation_2026-03-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk9khqh4a558whm08yyraq65"
+            },
+            {
+              "text": "药物、补剂与安全边界：逆转衰老主张与证据边界",
+              "link": "/diaryofaceo/continuation_2026-03-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmb9zwtm96x6rf03ycnbd0ct"
+            },
+            {
+              "text": "意义、信念与人生选择：阴谋叙事、隐私与证据边界",
+              "link": "/diaryofaceo/continuation_2026-03-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kjpaff6q76qyej6aykvna2we"
+            },
+            {
+              "text": "营养与代谢健康：孕期饮食、表观遗传与风险沟通",
+              "link": "/diaryofaceo/continuation_2026-02-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kjbmv2vd6tcmgxht2g1n93cg"
+            },
+            {
+              "text": "睡眠优化：肌酸、睡眠不足与补剂判断",
+              "link": "/diaryofaceo/continuation_2026-02-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh15qkhjzm6rvabjdg9wjsqa"
+            },
+            {
+              "text": "睡眠优化：夜尿、夜间性生活与睡眠健康",
+              "link": "/diaryofaceo/continuation_2026-02-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kgt2rce89c2v37mw10w32c54"
+            },
+            {
+              "text": "遗传风险与个体化决策：酒精安全剂量与身体影响",
+              "link": "/diaryofaceo/continuation_2026-02-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01keskv5tfscp49wdfcqnbxg9m"
+            },
+            {
+              "text": "筛查与风险管理：认知衰退早期风险与预防",
+              "link": "/diaryofaceo/continuation_2026-02-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kgmm9pfd45hzdgy58ktk7d62"
+            },
+            {
+              "text": "训练与身体功能：减脂保肌训练策略",
+              "link": "/diaryofaceo/continuation_2026-01-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kesksyesn2ep0n2ds5x1nyx2"
+            },
+            {
+              "text": "营养与代谢健康：肠道菌群与核心食物选择",
+              "link": "/diaryofaceo/continuation_2026-01-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kfndkzssrve1zp6kgw6rvbt6"
+            },
+            {
+              "text": "训练与身体功能：监控、隐私与海外安全",
+              "link": "/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf"
+            },
+            {
+              "text": "营养与代谢健康：饮食与抑郁风险",
+              "link": "/diaryofaceo/continuation_2026-01-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kd6ffmqya79d2bwcqc3h7jjp"
+            },
+            {
+              "text": "筛查与风险管理：胰岛素、糖与减脂策略",
+              "link": "/diaryofaceo/continuation_2026-01-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv9b5581y1cdtben58t6njb"
+            },
+            {
+              "text": "筛查与风险管理：肠漏、癌症风险与肠道修复",
+              "link": "/diaryofaceo/continuation_2026-01-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv96sqyfpgm5y6trze6v029"
+            },
+            {
+              "text": "意义、信念与人生选择：年度规划与人生优先级",
+              "link": "/diaryofaceo/continuation_2025-12-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcrj1rkr3ej70bsy4d2rfrf7"
+            },
+            {
+              "text": "训练与身体功能：痴呆风险与大脑修复策略",
+              "link": "/diaryofaceo/continuation_2025-12-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv8ksh2wfnz693rj5n6mhdf"
+            },
+            {
+              "text": "训练与身体功能：人际标签、倾听与沟通习惯",
+              "link": "/diaryofaceo/continuation_2025-12-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kb343r8b5mr5aqkk1pkc6yfg"
+            },
+            {
+              "text": "营养与代谢健康：黑眼圈、饮食与蓝光影响",
+              "link": "/diaryofaceo/continuation_2025-11-28_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kb38w2m3sexmrjk53rkh11wk"
+            },
+            {
+              "text": "筛查与风险管理：胰岛素、酮饮食与脑健康风险",
+              "link": "/diaryofaceo/continuation_2025-11-24_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kakxtj06s60qn8ysenb9zd3q"
+            },
+            {
+              "text": "心理健康与韧性：财富叙事、工作强度与现实选择",
+              "link": "/diaryofaceo/continuation_2025-11-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kae9sqy2at930dmny5vr4b4f"
+            },
+            {
+              "text": "睡眠优化：镁、睡眠习惯与心脏风险",
+              "link": "/diaryofaceo/continuation_2025-11-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ka16hd3na5gfprvprm7vz1n2"
+            },
+            {
+              "text": "筛查与风险管理：糖后刷牙与口腔护理",
+              "link": "/diaryofaceo/continuation_2025-11-07_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k9crk02j0qgrxmhstfj9tjjs"
+            },
+            {
+              "text": "营养与代谢健康：热量模型、减肥失败与饮食策略",
+              "link": "/diaryofaceo/continuation_2025-10-31_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k8vdx12yjmsg48jjg3t4pv9n"
+            },
+            {
+              "text": "心理健康与韧性：美国政治压力与社会裂缝",
+              "link": "/diaryofaceo/continuation_2025-10-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k8qqsq1h0jskzgct36sbdv6q"
+            },
+            {
+              "text": "训练与身体功能：减重、肌肉与肌酸争议",
+              "link": "/diaryofaceo/continuation_2025-10-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k8bcf2kncmjjdk7hv4z75j24"
+            },
+            {
+              "text": "社会、政治与系统风险：领导力、归属感与职业离开",
+              "link": "/diaryofaceo/continuation_2025-10-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k7vy612hrqw188w4xt2yfqm6"
+            },
+            {
+              "text": "女性健康与生殖决策：女性生育、月经与禁食风险",
+              "link": "/diaryofaceo/continuation_2025-10-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k7mchgybj4pyzpcd26317g90"
+            },
+            {
+              "text": "训练与身体功能：七天长寿训练蓝图",
+              "link": "/diaryofaceo/continuation_2025-10-10_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k757ybj3vq5h1zwg4pft3zwg"
+            },
+            {
+              "text": "训练与身体功能：丧亲、名声与人生低谷",
+              "link": "/diaryofaceo/continuation_2025-10-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k71jey0737c66p4rf4fawc91"
+            },
+            {
+              "text": "心理健康与韧性：职场真实感与自我呈现",
+              "link": "/diaryofaceo/continuation_2025-09-25_xmsftuzjjykcmqwolaqn6mdn_3767af4e_996e_11f0_ab1a_43852638d71f"
+            },
+            {
+              "text": "训练与身体功能：胰岛素、内脏脂肪与心血管风险",
+              "link": "/diaryofaceo/continuation_2025-09-22_xmsftuzjjykcmqwolaqn6mdn_6c649bdc_93c7_11f0_b457_8f2b2c1a354c"
+            },
+            {
+              "text": "筛查与风险管理：糖尿病、慢病风险与酮饮食争议",
+              "link": "/diaryofaceo/continuation_2025-09-08_xmsftuzjjykcmqwolaqn6mdn_540ab6d6_8be6_11f0_b21b_8ff4a19071e7"
+            },
+            {
+              "text": "营养与代谢健康：长寿实验、指标追踪与风险边界",
+              "link": "/diaryofaceo/continuation_2025-09-05_xmsftuzjjykcmqwolaqn6mdn_9f0c5638_87fb_11f0_955b_bf7b3a3d31bb"
+            },
+            {
+              "text": "筛查与风险管理：水断食、癌症线索与肠道菌群",
+              "link": "/diaryofaceo/continuation_2025-09-01_xmsftuzjjykcmqwolaqn6mdn_3f2622fc_84b4_11f0_b93c_fff52eaa9fc3"
+            },
+            {
+              "text": "女性健康与生殖决策：多囊卵巢综合征、绝经与顽固脂肪",
+              "link": "/diaryofaceo/continuation_2025-08-25_xmsftuzjjykcmqwolaqn6mdn_3090fbd2_7f40_11f0_ae75_cbbdc4c3aa73"
+            },
+            {
+              "text": "药物、补剂与安全边界：草药、非处方药与安全风险",
+              "link": "/diaryofaceo/continuation_2025-08-11_xmsftuzjjykcmqwolaqn6mdn_7ae938da_73a0_11f0_a8b8_ff84c60817bf"
+            },
+            {
+              "text": "营养与代谢健康：饮食干预与心理健康",
+              "link": "/diaryofaceo/continuation_2025-08-08_xmsftuzjjykcmqwolaqn6mdn_1c436866_7399_11f0_9cc1_17b269d71b03"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第2章：心理韧性与情绪调节",
+          "items": [
+            {
+              "text": "心理健康与韧性：内在多重人格状态与自我切换",
+              "link": "/diaryofaceo/continuation_2026-06-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kssm221gvkactqjst50c29wt"
+            },
+            {
+              "text": "心理健康与韧性：脆弱、自尊与勇气训练",
+              "link": "/diaryofaceo/continuation_2026-06-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksn05j9xgde05h7zhy212mjy"
+            },
+            {
+              "text": "关系、沟通与社会连接：历史视角下的社会风险预警",
+              "link": "/diaryofaceo/continuation_2026-05-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kr97ym65pryfhgrx6w8e0gne"
+            },
+            {
+              "text": "科学思维与健康决策：地缘政治转折与风险判断",
+              "link": "/diaryofaceo/continuation_2026-04-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kp9hayp5r81vssvbepe3c926"
+            },
+            {
+              "text": "心理健康与韧性：限制性信念与认知重写",
+              "link": "/diaryofaceo/continuation_2026-04-10_xmsftuzjjykcmqwolaqn6mdn_flightcast_01knskacdhyjgsteze6y0xkj2z"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：金融崩盘、饥荒与地缘风险",
+              "link": "/diaryofaceo/continuation_2026-04-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01knf6vszk1mxkzrckt9pqkszw"
+            },
+            {
+              "text": "训练与身体功能：影响力、操控与沟通边界",
+              "link": "/diaryofaceo/continuation_2026-03-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01km20wjpkvfhrvjzwtna6q1xt"
+            },
+            {
+              "text": "心理健康与韧性：自律、借口与行动自由",
+              "link": "/diaryofaceo/continuation_2026-02-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh192p9zkm5kpbg6aevr5r9a"
+            },
+            {
+              "text": "心理健康与韧性：高风险挑战与决策复盘",
+              "link": "/diaryofaceo/continuation_2026-02-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01khsjw2yd8qaem8vaydq1d64m"
+            },
+            {
+              "text": "意义、信念与人生选择：短内容成瘾与注意力控制",
+              "link": "/diaryofaceo/continuation_2026-02-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01khbxzbapj3vhx1canvaqnbpr"
+            },
+            {
+              "text": "意义、信念与人生选择：痛苦、愤怒与情绪松绑",
+              "link": "/diaryofaceo/continuation_2026-02-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh12e9mvm5jae0m8wyt473j9"
+            },
+            {
+              "text": "女性健康与生殖决策：房产、股票与提前退休判断",
+              "link": "/diaryofaceo/continuation_2026-01-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kg2r5jae6vbfeg24q5f6b1j6"
+            },
+            {
+              "text": "心理健康与韧性：未来十年压力与心理韧性",
+              "link": "/diaryofaceo/continuation_2026-01-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kew51sghj27n259tsqtc1b2f"
+            },
+            {
+              "text": "心理健康与韧性：被动收入、买房与加密投资",
+              "link": "/diaryofaceo/continuation_2026-01-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kehnk6795061vcs8dnpgqxa6"
+            },
+            {
+              "text": "心理健康与韧性：短视频、多巴胺与注意力修复",
+              "link": "/diaryofaceo/continuation_2026-01-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv98g7573ay96gjgcw1j3v0"
+            },
+            {
+              "text": "心理健康与韧性：社交心理与被讨厌的原因",
+              "link": "/diaryofaceo/continuation_2025-12-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc9g995cr5y6q7ykymq517q3"
+            },
+            {
+              "text": "心理健康与韧性：习惯系统与自律建设",
+              "link": "/diaryofaceo/continuation_2025-12-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc50jx0e8dtdvpkdeg9ktdet"
+            },
+            {
+              "text": "心理健康与韧性：焦虑预测、旧故事与情绪安全",
+              "link": "/diaryofaceo/continuation_2025-11-21_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kaggccgm6gxwtjjxesz17y05"
+            },
+            {
+              "text": "心理健康与韧性：童年创伤、抑郁与科学工具",
+              "link": "/diaryofaceo/continuation_2025-11-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k9wbde8qbanr94d6gdch73q1"
+            },
+            {
+              "text": "心理健康与韧性：大脑错觉与自我认知",
+              "link": "/diaryofaceo/continuation_2025-11-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k9agr03g0vpb87dvacd5qk1s"
+            },
+            {
+              "text": "心理健康与韧性：家居美妆暴露与毒性风险",
+              "link": "/diaryofaceo/continuation_2025-10-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k7pxbajg98gesx7fa47derhg"
+            },
+            {
+              "text": "意义、信念与人生选择：占星、科学怀疑与宇宙视角",
+              "link": "/diaryofaceo/continuation_2025-10-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k76kgjn3vwyrwy397g16sj90"
+            },
+            {
+              "text": "心理健康与韧性：财务创伤与被动收入迷思",
+              "link": "/diaryofaceo/continuation_2025-10-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k6mymxm8qks26fvwavkemkdb"
+            },
+            {
+              "text": "筛查与风险管理：糖、快感与大脑重塑",
+              "link": "/diaryofaceo/continuation_2025-10-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k6fvfrka2p03fvamregnjry2"
+            },
+            {
+              "text": "训练与身体功能：眼动疗法与创伤修复",
+              "link": "/diaryofaceo/continuation_2025-09-19_xmsftuzjjykcmqwolaqn6mdn_f092293c_94b3_11f0_a6bb_670f272418b6"
+            },
+            {
+              "text": "科学思维与健康决策：大国债务周期与衰退预警",
+              "link": "/diaryofaceo/continuation_2025-09-11_xmsftuzjjykcmqwolaqn6mdn_52b156b2_8e4a_11f0_a04a_1bf5ca5bf8bc"
+            },
+            {
+              "text": "科学思维与健康决策：人工智能岗位冲击与模拟假说",
+              "link": "/diaryofaceo/continuation_2025-09-04_xmsftuzjjykcmqwolaqn6mdn_2cd5857e_88f2_11f0_bff5_378980dce7de"
+            },
+            {
+              "text": "训练与身体功能：情报机构叙事与移居风险",
+              "link": "/diaryofaceo/continuation_2025-08-28_xmsftuzjjykcmqwolaqn6mdn_556a91fa_8366_11f0_a0e6_af01a0423cf5"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第3章：关系、亲密与沟通",
+          "items": [
+            {
+              "text": "女性健康与生殖决策：女性性健康、围绝经与激素治疗",
+              "link": "/diaryofaceo/continuation_2026-06-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvm73tkx1t1jqkd6k2kyyhjk"
+            },
+            {
+              "text": "训练与身体功能：手机成瘾、亲密关系与性健康",
+              "link": "/diaryofaceo/continuation_2026-04-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq00359jtynq0e9t9ttkg3sv"
+            },
+            {
+              "text": "训练与身体功能：离婚信号与关系修复",
+              "link": "/diaryofaceo/continuation_2026-02-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh6xsnqxnbmyjhw25pgjbhn1"
+            },
+            {
+              "text": "心理健康与韧性：煤气灯效应、沟通与离婚预警",
+              "link": "/diaryofaceo/continuation_2025-12-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcrhnbh04h1kf09hn3zg7g1y"
+            },
+            {
+              "text": "心理健康与韧性：自信训练与身体语言",
+              "link": "/diaryofaceo/continuation_2025-12-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kbmpmctrppy15sz4sqjq0n1z"
+            },
+            {
+              "text": "科学思维与健康决策：副业收入框架与现实边界",
+              "link": "/diaryofaceo/continuation_2025-12-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kb272bhzz8wvvpcvsrzxse98"
+            },
+            {
+              "text": "女性健康与生殖决策：择偶信号与第一次约会",
+              "link": "/diaryofaceo/continuation_2025-12-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kbmm0pzqb2rdw2ve4kwtzwgv"
+            },
+            {
+              "text": "关系、沟通与社会连接：承诺恐惧与长期关系建设",
+              "link": "/diaryofaceo/continuation_2025-10-24_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k88925b74zzfqkhg3bdn6epx"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第4章：事业、领导力与财富",
+          "items": [
+            {
+              "text": "心理健康与韧性：高压职业选择与外界评价",
+              "link": "/diaryofaceo/continuation_2026-05-25_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksdj6z8qn3e3a9k5vxm0td8s"
+            },
+            {
+              "text": "意义、信念与人生选择：不明飞行物叙事与证据边界",
+              "link": "/diaryofaceo/continuation_2026-05-14_xmsftuzjjykcmqwolaqn6mdn_flightcast_01krhzy6hbpb067yc206xc7erf"
+            },
+            {
+              "text": "事业、领导力与财富决策：买房、财富积累与现金流判断",
+              "link": "/diaryofaceo/continuation_2026-04-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kqdn7p374jrhzhw5atsyrecc"
+            },
+            {
+              "text": "事业、领导力与财富决策：财务安全、预算与现金流",
+              "link": "/diaryofaceo/continuation_2026-03-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh196gdnf8kxcgr6jacqmmvc"
+            },
+            {
+              "text": "事业、领导力与财富决策：绩效文化、亏损公司与管理取舍",
+              "link": "/diaryofaceo/continuation_2026-02-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kj4d989faxk1h51xggjj17hn"
+            },
+            {
+              "text": "事业、领导力与财富决策：伴侣金钱沟通与财务透明",
+              "link": "/diaryofaceo/continuation_2026-01-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kesknjmkn3fm71c53rcxpg2a"
+            },
+            {
+              "text": "科学思维与健康决策：核爆场景与安全风险判断",
+              "link": "/diaryofaceo/continuation_2026-01-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01keskjjz2qynvna25bhjwhzhe"
+            },
+            {
+              "text": "科学思维与健康决策：现代育儿与注意力风险",
+              "link": "/diaryofaceo/continuation_2025-12-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kd6dfjv7gxmsphzs6h0a3m6g"
+            },
+            {
+              "text": "心理健康与韧性：读人、撒谎线索与社交误判",
+              "link": "/diaryofaceo/continuation_2025-10-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k86dss76pyra293cppwxhan6"
+            },
+            {
+              "text": "关系、沟通与社会连接：害羞者的表达与房间影响力",
+              "link": "/diaryofaceo/continuation_2025-09-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k62207ebzjpc1pnzrx092nq4"
+            },
+            {
+              "text": "事业、领导力与财富决策：省钱、买房与银行收益判断",
+              "link": "/diaryofaceo/continuation_2025-09-15_xmsftuzjjykcmqwolaqn6mdn_a2b7b9e0_901a_11f0_b4b2_4383e554860d"
+            },
+            {
+              "text": "训练与身体功能：魅力表达与社交影响力",
+              "link": "/diaryofaceo/continuation_2025-09-12_xmsftuzjjykcmqwolaqn6mdn_2d70db88_8f3b_11f0_9644_b3343015b08c"
+            },
+            {
+              "text": "心理健康与韧性：个人主义、孤独与现代痛苦",
+              "link": "/diaryofaceo/continuation_2025-08-22_xmsftuzjjykcmqwolaqn6mdn_d2792992_73b0_11f0_84bc_13c105c3d318"
+            },
+            {
+              "text": "事业、领导力与财富决策：小额投资与财富自由",
+              "link": "/diaryofaceo/continuation_2025-08-21_xmsftuzjjykcmqwolaqn6mdn_935fa726_7de8_11f0_8947_3fb99b5feed3"
+            },
+            {
+              "text": "事业、领导力与财富决策：报价设计、创业收入与执行公式",
+              "link": "/diaryofaceo/continuation_2025-08-07_xmsftuzjjykcmqwolaqn6mdn_06d3924c_72dd_11f0_89a3_c7902f6e0f79"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第5章：人工智能、科技与未来风险",
+          "items": [
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能冲击时间表与个人准备",
+              "link": "/diaryofaceo/continuation_2026-06-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kszdq99mmz0tdaac0ewy7t03"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能安全、就业与未来二十年",
+              "link": "/diaryofaceo/continuation_2026-05-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7wfp6j4y4xyjnwbty7d743"
+            },
+            {
+              "text": "意义、信念与人生选择：外星生命叙事与科学证据边界",
+              "link": "/diaryofaceo/continuation_2026-05-21_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ks3j8kqhh9hb44tjm37pbhz3"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能、财富集中与个人位置",
+              "link": "/diaryofaceo/continuation_2026-05-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kqnhxqa2c1eygwgh1g7vpf2c"
+            },
+            {
+              "text": "意义、信念与人生选择：人类未来、火星与科学想象",
+              "link": "/diaryofaceo/continuation_2026-05-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7ty8mft987djxv13gtsasp"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能公司透明度与风险沟通",
+              "link": "/diaryofaceo/continuation_2026-03-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmk4xnrshfpake6j014g9qdq"
+            },
+            {
+              "text": "心理健康与韧性：极端探索、风险与文化边界",
+              "link": "/diaryofaceo/continuation_2026-02-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kga5ahq9wbekqma6kmy9x4zk"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能两年窗口与岗位风险",
+              "link": "/diaryofaceo/continuation_2025-12-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcpzwz40zd56n494jvehtvvk"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能失控风险与2030临界点",
+              "link": "/diaryofaceo/continuation_2025-12-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kbht2424ghn72t5dcy82cjy8"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能危机、抗议与社会行动",
+              "link": "/diaryofaceo/continuation_2025-11-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kb0gweh6zsmfcz839d99a3f4"
+            },
+            {
+              "text": "科学思维与健康决策：收入增长方法与财富习惯",
+              "link": "/diaryofaceo/continuation_2025-11-10_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k9fahwfpzr179e604gnvq6yb"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：聊天机器人、认知负担与儿童使用风险",
+              "link": "/diaryofaceo/continuation_2025-08-18_xmsftuzjjykcmqwolaqn6mdn_370f1b78_73a2_11f0_bc4f_274c6ccaf026"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能未来十五年与职业准备",
+              "link": "/diaryofaceo/continuation_2025-08-04_xmsftuzjjykcmqwolaqn6mdn_85d73314_6ef0_11f0_8df6_ff67141012a1"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第6章：社会、政治与系统风险",
+          "items": [
+            {
+              "text": "社会、政治与系统风险：美国政治与停火局势判断",
+              "link": "/diaryofaceo/continuation_2026-06-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvbbap1azyt30q74j6n4cm84"
+            },
+            {
+              "text": "社会、政治与系统风险：古文明叙事与证据边界",
+              "link": "/diaryofaceo/continuation_2026-06-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ktsq9b3v53jfegbr8ddybsmm"
+            },
+            {
+              "text": "社会、政治与系统风险：中产阶级压力与财富分配",
+              "link": "/diaryofaceo/continuation_2026-06-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kthx7wcr8tv92taf5y99fm5m"
+            },
+            {
+              "text": "人工智能、未来趋势与风险判断：人工智能经济冲击与系统风险",
+              "link": "/diaryofaceo/continuation_2026-05-28_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksnmg2epdsanf6f3eh346zaj"
+            },
+            {
+              "text": "社会、政治与系统风险：战争升级与粮食系统风险",
+              "link": "/diaryofaceo/continuation_2026-05-07_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kr007tme4vjbshmqshhy34j4"
+            },
+            {
+              "text": "社会、政治与系统风险：濒死体验与意识边界",
+              "link": "/diaryofaceo/continuation_2026-04-24_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmzrhzszvpjzybjq2ma8zsxx"
+            },
+            {
+              "text": "社会、政治与系统风险：梦境记忆与大脑健康信号",
+              "link": "/diaryofaceo/continuation_2026-04-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kpv0gh4ghgbqt7bd84webams"
+            },
+            {
+              "text": "社会、政治与系统风险：伊朗战争升级与全球风险",
+              "link": "/diaryofaceo/continuation_2026-04-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kp1xgy1n8ww1cwhyzvw5vfwh"
+            },
+            {
+              "text": "社会、政治与系统风险：政治家庭、竞选与权力叙事",
+              "link": "/diaryofaceo/continuation_2026-04-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01knq1nd4mtvq1erfzhxegakc8"
+            },
+            {
+              "text": "社会、政治与系统风险：加拿大政治与经济风险",
+              "link": "/diaryofaceo/continuation_2026-04-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kn553dyeh7m1ny416j0wgdy6"
+            },
+            {
+              "text": "社会、政治与系统风险：职业结构变化与经济周期预警",
+              "link": "/diaryofaceo/continuation_2026-03-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kkq4qf6bf92hk08c00era380"
+            },
+            {
+              "text": "社会、政治与系统风险：伊朗战争情景推演与风险判断",
+              "link": "/diaryofaceo/continuation_2026-03-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kkfsfnt057cty8kp4w71xf2z"
+            },
+            {
+              "text": "社会、政治与系统风险：核战争威胁与安全判断",
+              "link": "/diaryofaceo/continuation_2026-03-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kjvvzcw79swy24w65jzvez4k"
+            },
+            {
+              "text": "社会、政治与系统风险：西方秩序变化与政治风险",
+              "link": "/diaryofaceo/continuation_2026-01-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kfgzqfyaa7t8gc1rqsvak2g5"
+            },
+            {
+              "text": "社会、政治与系统风险：日常习惯与真实价值观",
+              "link": "/diaryofaceo/continuation_2025-08-29_xmsftuzjjykcmqwolaqn6mdn_289dae3a_8412_11f0_92ac_9bd4e8c72f76"
+            },
+            {
+              "text": "关系、沟通与社会连接：死后沟通体验与神经科学边界",
+              "link": "/diaryofaceo/continuation_2025-08-14_xmsftuzjjykcmqwolaqn6mdn_43bbb134_73a1_11f0_b79d_ff1e06710017"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "text": "第7章：意义、信念与人生选择",
+          "items": [
+            {
+              "text": "意义、信念与人生选择：基督教信仰与无神论争议",
+              "link": "/diaryofaceo/continuation_2026-06-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kt7fyycxjwmnjyvrcj3rx9vp"
+            },
+            {
+              "text": "心理健康与韧性：目标感、幸福与关键选择",
+              "link": "/diaryofaceo/continuation_2026-03-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk9q3p2xajktft3naxw83t79"
+            },
+            {
+              "text": "科学思维与健康决策：抗生素替代方案与耐药风险",
+              "link": "/diaryofaceo/continuation_2026-03-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk9js2z0s02swzez0sq5tqzx"
+            },
+            {
+              "text": "意义、信念与人生选择：基督教历史证据与信仰判断",
+              "link": "/diaryofaceo/continuation_2026-03-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk7hbk5vspawn6zgykrjt3pz"
+            },
+            {
+              "text": "心理健康与韧性：年度习惯、健康与幸福实践",
+              "link": "/diaryofaceo/continuation_2026-01-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kd6dftkwgswby6ksrn0nmk6y"
+            },
+            {
+              "text": "训练与身体功能：足部健康、鞋履与活动能力",
+              "link": "/diaryofaceo/continuation_2025-12-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcryt2qmkpg1fqz5r95q9ffa"
+            },
+            {
+              "text": "心理健康与韧性：满足感与持久幸福四支柱",
+              "link": "/diaryofaceo/continuation_2025-11-14_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k9yfbw1fd8ccqm758j3rgvpj"
+            },
+            {
+              "text": "意义、信念与人生选择：精神危机与意义缺失",
+              "link": "/diaryofaceo/continuation_2025-11-03_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k8x5mekwc7a7hptjhg8jj205"
+            },
+            {
+              "text": "心理健康与韧性：人生目的、执念与内在自由",
+              "link": "/diaryofaceo/continuation_2025-10-03_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k6mf9860r7m4m896n2qddbxz"
+            },
+            {
+              "text": "意义、信念与人生选择：宗教、无神论与人工智能隐喻",
+              "link": "/diaryofaceo/continuation_2025-09-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k638y95n9q0bz67mg6pq13m1"
+            },
+            {
+              "text": "意义、信念与人生选择：信仰缺失与现代精神危机",
+              "link": "/diaryofaceo/continuation_2025-09-18_xmsftuzjjykcmqwolaqn6mdn_f36cf826_930f_11f0_ab0d_c710702c25d6"
+            },
+            {
+              "text": "心理健康与韧性：呼吸练习与快速减压",
+              "link": "/diaryofaceo/continuation_2025-08-15_xmsftuzjjykcmqwolaqn6mdn_f2eefa1c_73a1_11f0_8bdd_43c3798bd79f"
+            }
+          ]
+        }
       ],
       '/books/': [
         {
@@ -2948,6 +3563,10 @@ export default defineConfig({
         {
           "text": "《绝佳时间》实用行动指南：优化你的生物钟",
           "link": "/books/Life Time: The New Science of the Body Clock, and How It Can Revolutionize Your Sleep and Health.md"
+        },
+        {
+          "text": "《我们为什么要睡觉》实用行动指南",
+          "link": "/books/Why We Sleep: Unlocking the Power of Sleep and Dreams.md"
         },
         {
           "text": "《你可以跑得更快》实用行动指南：马拉松训练与优化",
@@ -2968,6 +3587,14 @@ export default defineConfig({
         {
           "text": "《疗愈的饮食与断食》实用行动指南",
           "link": "/books/Healing Diet, Healing Fast.md"
+        },
+        {
+          "text": "《贪婪的多巴胺》实用行动指南",
+          "link": "/books/The Molecule of More.md"
+        },
+        {
+          "text": "《成瘾》实用行动指南",
+          "link": "/books/Dopamine Nation.md"
         },
         {
           "text": "《成瘾的深渊》实用行动指南",

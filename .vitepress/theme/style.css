@@ -171,6 +171,7 @@
 :root {
   --huberman-gradient: linear-gradient(135deg, #34c759, #32d74b);
   --attia-gradient: linear-gradient(135deg, #ff9500, #ff2d55);
+  --diary-color: #0071E6;
 }
 
 :root {
@@ -269,6 +270,10 @@
 
 .VPFeatures .items > .item:nth-child(2) .box::before {
   background: var(--attia-gradient);
+}
+
+.VPFeatures .items > .item:nth-child(3) .box::before {
+  background: var(--diary-color);
 }
 
 .VPFeature.link {
