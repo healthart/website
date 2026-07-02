@@ -8,7 +8,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '续写总览', link: '/continuation' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
       { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851' },
@@ -23,6 +22,21 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/healthart/website/edit/main/:path',
       text: '在Github上编辑该页面'
+    },
+
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: '搜索',
+            buttonAriaLabel: '搜索文档'
+          },
+          modal: {
+            noResultsText: '没有找到结果'
+          }
+        }
+      }
     },
 
     sidebar: {
@@ -103,11 +117,6 @@ export default defineConfig({
               "text": "18. 有效管理压力、优化睡眠与提升专注力的科学指南",
               "link": "/hubermanlab/stress_management_sleep_focus_guide"
             }
-            ,
-            {
-                "text": "【new】停更后新增内容（按原章节分类）",
-                "link": "/hubermanlab/new"
-              }
           ]
         },
         {
@@ -1295,11 +1304,6 @@ export default defineConfig({
                 }
               ]
             }
-            ,
-            {
-                "text": "【new】停更后新增内容（按原章节分类）",
-                "link": "/peterattiamd/new"
-              }
           ]
         },
         {
