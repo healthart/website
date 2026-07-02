@@ -25,8 +25,33 @@ export default defineConfig({
       text: '在Github上编辑该页面'
     },
 
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: '搜索',
+            buttonAriaLabel: '搜索文档'
+          },
+          modal: {
+            noResultsText: '没有找到结果'
+          }
+        }
+      }
+    },
+
     sidebar: {
       '/hubermanlab/': [
+        {
+          "collapsed": false,
+          "text": "新增内容",
+          "items": [
+            {
+              "text": "【new】停更后新增内容（按原章节分类）",
+              "link": "/hubermanlab/new"
+            }
+          ]
+        },
         {
           "collapsed": true,
           "text": "第1章：神经系统快速调节",
@@ -103,11 +128,6 @@ export default defineConfig({
               "text": "18. 有效管理压力、优化睡眠与提升专注力的科学指南",
               "link": "/hubermanlab/stress_management_sleep_focus_guide"
             }
-            ,
-            {
-                "text": "【new】停更后新增内容（按原章节分类）",
-                "link": "/hubermanlab/new"
-              }
           ]
         },
         {
@@ -1131,6 +1151,16 @@ export default defineConfig({
         ],
       '/peterattiamd/': [
         {
+          "collapsed": false,
+          "text": "新增内容",
+          "items": [
+            {
+              "text": "【new】停更后新增内容（按原章节分类）",
+              "link": "/peterattiamd/new"
+            }
+          ]
+        },
+        {
           "text": "第1章：能量代谢系统",
           "collapsed": true,
           "items": [
@@ -1295,11 +1325,6 @@ export default defineConfig({
                 }
               ]
             }
-            ,
-            {
-                "text": "【new】停更后新增内容（按原章节分类）",
-                "link": "/peterattiamd/new"
-              }
           ]
         },
         {
@@ -2952,6 +2977,16 @@ export default defineConfig({
         }
         ],
       '/diaryofaceo/': [
+        {
+          "collapsed": false,
+          "text": "新增内容",
+          "items": [
+            {
+              "text": "【new】停更后新增内容（按主题归类）",
+              "link": "/diaryofaceo/new"
+            }
+          ]
+        },
         {
           "collapsed": true,
           "text": "第1章：身体健康与长寿",
