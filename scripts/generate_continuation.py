@@ -562,10 +562,7 @@ NEW_INDEX_TITLES = {
     "diaryofaceo": "The Diary Of A CEO 新增内容（按主题归类）",
 }
 
-NEW_INDEX_SIDEBAR_PLACEMENT = {
-    "hubermanlab": HUBERMAN_SECTIONS["fast"],
-    "peterattiamd": PETER_SECTIONS["metabolic"],
-}
+NEW_INDEX_SIDEBAR_PLACEMENT: dict[str, str] = {}
 
 SECTION_ORDERS = {
     "hubermanlab": list(HUBERMAN_SECTIONS.values()),

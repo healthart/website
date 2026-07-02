@@ -8,7 +8,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '续写总览', link: '/continuation' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
       { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851' },
@@ -42,16 +41,6 @@ export default defineConfig({
 
     sidebar: {
       '/hubermanlab/': [
-        {
-          "collapsed": false,
-          "text": "新增内容",
-          "items": [
-            {
-              "text": "【new】停更后新增内容（按原章节分类）",
-              "link": "/hubermanlab/new"
-            }
-          ]
-        },
         {
           "collapsed": true,
           "text": "第1章：神经系统快速调节",
@@ -1150,16 +1139,6 @@ export default defineConfig({
         }
         ],
       '/peterattiamd/': [
-        {
-          "collapsed": false,
-          "text": "新增内容",
-          "items": [
-            {
-              "text": "【new】停更后新增内容（按原章节分类）",
-              "link": "/peterattiamd/new"
-            }
-          ]
-        },
         {
           "text": "第1章：能量代谢系统",
           "collapsed": true,
@@ -2977,16 +2956,6 @@ export default defineConfig({
         }
         ],
       '/diaryofaceo/': [
-        {
-          "collapsed": false,
-          "text": "新增内容",
-          "items": [
-            {
-              "text": "【new】停更后新增内容（按主题归类）",
-              "link": "/diaryofaceo/new"
-            }
-          ]
-        },
         {
           "collapsed": true,
           "text": "第1章：身体健康与长寿",
