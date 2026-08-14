@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Generate post-2025-08-02 Health Art continuation markdown files.
+"""Generate post-2025-08-02 Health Art continuation metadata pages.
 
-The original project has no published generator, so this script creates
-structured Health Art style drafts from public RSS metadata/show notes.
+The script uses public RSS metadata to create source records that are explicitly
+marked for later close reading. It also maps rebroadcasts and replay clips back
+to the already covered full episode instead of creating duplicate pages.
 Hand-written files copied into the target directories are preserved.
 """
 
@@ -26,8 +27,9 @@ ROOT = Path(__file__).resolve().parents[1]
 WORKSPACE = ROOT.parent
 CONTINUATION = WORKSPACE / "healthart-continuation"
 CUTOFF = dt.datetime(2025, 8, 2, tzinfo=dt.timezone.utc)
-AUTO_DRAFT_MARKER = "基于公开 RSS/show notes 自动整理。本文是 Health Art 停更后的补全文档草稿"
+AUTO_DRAFT_MARKER = "当前仅完成官方 RSS 元数据收录，状态为待精读"
 REFRESH_AUTO_DRAFTS = os.environ.get("REFRESH_AUTO_DRAFTS") == "1"
+REPLAY_STATUS = "官方重播/精选片段"
 
 FEEDS = {
     "hubermanlab": "https://feeds.megaphone.fm/hubermanlab",
@@ -39,6 +41,115 @@ SOURCE_LABELS = {
     "hubermanlab": "Huberman Lab",
     "peterattiamd": "The Peter Attia Drive",
     "diaryofaceo": "The Diary Of A CEO",
+}
+
+# These public feed events point back to a full episode that already has a page.
+# Keeping this map explicit makes replay coverage auditable and prevents a future
+# generator run from creating duplicate knowledge pages.
+REPLAY_TARGETS = {
+    "https://peterattiamd.com/strengthandmuscle": "peterattiamd/muscle_strength_longevity_guide.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssmkv070dtbqjgp6ab9adhs": "diaryofaceo/continuation_2025-11-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ka16hd3na5gfprvprm7vz1n2.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwhs6d894aagvnhbj4xweqsh": "diaryofaceo/continuation_2025-12-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc50jx0e8dtdvpkdeg9ktdet.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx15v5cb1gk9b3x7r6rq2b0j": "diaryofaceo/continuation_2026-01-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv96sqyfpgm5y6trze6v029.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxqh1b2zk8fq3z6qtwazdj22": "diaryofaceo/continuation_2025-12-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc9g995cr5y6q7ykymq517q3.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8e2sxet9exag6hbasb5qjq": "diaryofaceo/continuation_2025-09-18_xmsftuzjjykcmqwolaqn6mdn_f36cf826_930f_11f0_ab0d_c710702c25d6.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8ex4jd9b45h9eb9mr6qgq9": "diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzb7yvd53rpefm4nehjpgzg9": "diaryofaceo/continuation_2026-02-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kgmm9pfd45hzdgy58ktk7d62.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzx9ey9a36htnhjpp6971mn1": "diaryofaceo/continuation_2026-02-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01khsjw2yd8qaem8vaydq1d64m.md",
+}
+
+# Chinese display titles reviewed for the 2026-06-25 through 2026-08-13
+# update. Keys are canonical public episode URLs; no private note content is
+# embedded in the repository.
+CURRENT_TITLE_OVERRIDES = {
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvxg1g7hw6asjr6efj3dqybr": "市场崩盘预警与投资叙事：待核对的经济判断",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kw360az5eea4d3qh5c6pc2xm": "女性训练、饮食与运动适应",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwgkvp7ck70b0v0tba66ndaa": "压力如何影响线粒体与疲劳感",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwsagpxwk99wcakkxnfc5zcg": "退役身份、酒精问题与重建：Dustin Poirier 对谈",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx1x6pnn940x64g59htjvsyq": "外星生命、模拟理论与黑洞：Neil deGrasse Tyson 对谈",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx94975e6v64ds1mkx3q8c36": "AI 风险叙事：一位 OpenAI 举报者的判断",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxkgx4apaavz0qcdc1p5nr48": "癌症代谢假说与治疗主张：证据待核对",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxq966byjy31cktav204k8eq": "成功、控制感与事业选择：Alex Hormozi 对谈",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky5rewh1tjgdp1mf1jrea3fm": "伊朗战争升级预测：时效性与证据边界",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxy3assv2r56y56qw6a4tn36": "维生素 D 补充：常见说法与证据边界",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympgergg1x4wk6bc5zr26hg": "Ray Dalio 对经济周期与市场风险的判断",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympyhgy7wkdebpbjq2vrqpj": "美国梦、制度压力与政治选择：Pete Buttigieg 对谈",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kymq6p4dhxhh9ejvkvcke4q0": "Michael Saylor 对谈：官方 RSS 信息不足，主题待核",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzemw7je1gt1ej9wc74dka3m": "沉没成本、退出决策与 AI 时代的选择",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzerq8t6wksg6169fr2yc3sz": "睡眠呼吸暂停：常见漏诊与风险识别",
+    "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton": "健康饮食、减脂与增肌：饮食科学基础",
+    "https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal": "动作练习与身心连接",
+    "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett": "男性激素健康：检测、生活方式与治疗边界",
+    "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan": "养犬与冷静坚定的互动方式：Cesar Millan 对谈",
+    "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder": "强迫症的科学与治疗边界",
+    "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel": "不同年龄如何改善记忆与认知功能",
+    "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder": "双相障碍的科学与治疗边界",
+    "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood": "加速学习与提升认知能力",
+    "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris": "冥想、专注与意识：Sam Harris 对谈",
+    "https://www.hubermanlab.com/episode/your-top-health-questions-answered": "常见健康问题问答：待核对主题清单",
+    "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink": "韧性、身份与领导力：Jocko Willink 对谈",
+    "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel": "免疫系统如何工作：机制与健康边界",
+    "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance": "大脑化学、专注、动机与幸福感",
+    "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li": "用 AI 提升认知并服务人类：李飞飞对谈",
+    "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried": "女性激素健康、活力与长寿",
+    "https://peterattiamd.com/ama86": "GLP-1 受体激动剂、肌肉流失与减重期保肌",
+    "https://peterattiamd.com/gayatridevi": "阿尔茨海默病与痴呆照护：早期识别、个体化治疗与新疗法",
+    "https://peterattiamd.com/ama87": "环境污染与长寿：空气、噪声、光照和电磁场",
+    "https://peterattiamd.com/medicalbreakthroughs": "好奇心如何推动医学突破",
+    "https://peterattiamd.com/jimotvos": "NMR 血液分析：心血管风险、胰岛素抵抗与炎症评估",
+    "https://peterattiamd.com/peptides": "肽类：区分科学前景与营销炒作",
+}
+
+# Reviewed placement for the same update window. Values are keys in the
+# source-specific section dictionaries defined below.
+CURRENT_SECTION_OVERRIDES = {
+    "https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton": "nutrition",
+    "https://www.hubermanlab.com/episode/movement-practice-to-strengthen-your-mind-body-connection-ido-portal": "fitness",
+    "https://www.hubermanlab.com/episode/essentials-tools-for-hormone-optimization-in-males-kyle-gillett": "special",
+    "https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan": "quality",
+    "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-obsessive-compulsive-disorder": "special",
+    "https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel": "learning",
+    "https://www.hubermanlab.com/episode/essentials-the-science-and-treatment-of-bipolar-disorder": "special",
+    "https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood": "learning",
+    "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris": "learning",
+    "https://www.hubermanlab.com/episode/your-top-health-questions-answered": "quality",
+    "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink": "psych",
+    "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel": "special",
+    "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance": "focus",
+    "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li": "quality",
+    "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried": "special",
+    "https://peterattiamd.com/ama86": "pharma",
+    "https://peterattiamd.com/strengthandmuscle": "exercise",
+    "https://peterattiamd.com/gayatridevi": "medical",
+    "https://peterattiamd.com/ama87": "lifestyle",
+    "https://peterattiamd.com/medicalbreakthroughs": "integration",
+    "https://peterattiamd.com/jimotvos": "cardio",
+    "https://peterattiamd.com/peptides": "pharma",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvxg1g7hw6asjr6efj3dqybr": "society",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssmkv070dtbqjgp6ab9adhs": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kw360az5eea4d3qh5c6pc2xm": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwgkvp7ck70b0v0tba66ndaa": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwhs6d894aagvnhbj4xweqsh": "mental",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwsagpxwk99wcakkxnfc5zcg": "mental",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx1x6pnn940x64g59htjvsyq": "meaning",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx15v5cb1gk9b3x7r6rq2b0j": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx94975e6v64ds1mkx3q8c36": "ai",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxkgx4apaavz0qcdc1p5nr48": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxqh1b2zk8fq3z6qtwazdj22": "relationship",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxq966byjy31cktav204k8eq": "business",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky5rewh1tjgdp1mf1jrea3fm": "society",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8e2sxet9exag6hbasb5qjq": "meaning",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxy3assv2r56y56qw6a4tn36": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympgergg1x4wk6bc5zr26hg": "society",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8ex4jd9b45h9eb9mr6qgq9": "relationship",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympyhgy7wkdebpbjq2vrqpj": "society",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kymq6p4dhxhh9ejvkvcke4q0": "ai",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzb7yvd53rpefm4nehjpgzg9": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzemw7je1gt1ej9wc74dka3m": "business",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzerq8t6wksg6169fr2yc3sz": "health",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzx9ey9a36htnhjpp6971mn1": "mental",
+    # Correct the original John Kiriakou page placement when deduplicating its replay.
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kf8sbh53skdkq0mkgds0qctf": "relationship",
 }
 
 HUBERMAN_MISSING_LINKS = {
@@ -92,6 +203,24 @@ def clean_title(title: str) -> str:
     return title.strip()
 
 
+def normalize_link(link: str) -> str:
+    return (link or "").split("?")[0].rstrip("/")
+
+
+def replay_relative_path(ep: Episode) -> str | None:
+    return REPLAY_TARGETS.get(normalize_link(ep.link))
+
+
+def replay_target(ep: Episode) -> Path | None:
+    relative_path = replay_relative_path(ep)
+    if not relative_path:
+        return None
+    path = ROOT / relative_path
+    if not path.exists():
+        raise RuntimeError(f"Replay target does not exist: {relative_path}")
+    return path
+
+
 def contains_ai_topic(text: str) -> bool:
     return bool(
         re.search(
@@ -108,7 +237,7 @@ def extract_topics(description: str) -> list[str]:
         raw = match.group(1)
         for _, label in re.findall(r"\((\d{2}:\d{2}:\d{2})\)\s*([^()]+?)(?=\s*\(\d{2}:\d{2}:\d{2}\)|$)", raw):
             label = re.sub(r"\bSponsor:.*", "", label).strip(" ;,.")
-            if label and len(label) < 120 and not label.lower().startswith(("ag1", "lmnt", "betterhelp", "function")):
+            if label and len(label) < 120 and not label.lower().startswith(("sponsor", "ag1", "lmnt", "betterhelp", "function")):
                 topics.append(label)
             if len(topics) >= 8:
                 break
@@ -178,7 +307,7 @@ def existing_links() -> dict[str, Path]:
                 continue
             text = path.read_text(encoding="utf-8", errors="ignore")
             for link in re.findall(r"^原文链接：\s*(\S+)", text, flags=re.M):
-                links[link.split("?")[0].rstrip("/")] = path
+                links[normalize_link(link)] = path
     return links
 
 
@@ -401,106 +530,15 @@ DIARY_TITLE_OVERRIDES = {
 
 
 def localized_title_for_episode(ep: Episode) -> str:
+    override = CURRENT_TITLE_OVERRIDES.get(normalize_link(ep.link))
+    if override:
+        return override
     category = classify(ep.title, ep.description)
     topic_title = clean_title(ep.title)
     if ep.source == "diaryofaceo":
         replay_stripped = re.sub(r"^Most Replayed Moment:\s*", "", topic_title)
-        topic_title = DIARY_TITLE_OVERRIDES.get(topic_title) or DIARY_TITLE_OVERRIDES.get(replay_stripped) or "本期重点行动指南"
+        topic_title = DIARY_TITLE_OVERRIDES.get(topic_title) or DIARY_TITLE_OVERRIDES.get(replay_stripped) or f"主题待核：{topic_title}"
     return f"{TITLE_PREFIX[category]}：{topic_title}"
-
-
-ADVICE = {
-    "screening": [
-        "先确认自己属于普通风险还是高风险人群，再决定筛查起始时间、频率和工具。",
-        "把症状评估和常规筛查分开：有症状时应走诊断流程，而不是等待下一次筛查。",
-        "保留检查报告和随访建议，尤其是影像、病理、内镜质量指标和下一次复查时间。",
-        "与医生讨论假阳性、漏检、过度诊断和侵入性检查风险，避免只看单一指标。",
-    ],
-    "sleep": [
-        "先固定起床时间、早晨光照、咖啡因截止时间和晚间降光，而不是直接堆叠补剂。",
-        "区分入睡困难、早醒、夜间觉醒、昼夜节律问题和睡眠呼吸障碍。",
-        "记录两周睡眠日志，用趋势判断干预是否有效。",
-        "药物和补剂应有明确目标、时限和停用条件。",
-    ],
-    "fitness": [
-        "把训练目标写成可观察能力：力量、心肺、柔韧性、疼痛减少或动作质量改善。",
-        "优先做可持续的最低有效剂量，再逐步增加训练量和强度。",
-        "把热身、渐进负荷、恢复和疼痛信号纳入计划，而不是只追求单次强度。",
-        "受伤、放射痛或持续疼痛时，应先降低负荷并寻求专业评估。",
-    ],
-    "nutrition": [
-        "优先优化整体饮食结构：高纤维、足量蛋白、低加工度、稳定进食时间。",
-        "把血糖、血脂、体重、腰围、睡眠和饥饿感作为反馈，而不是只追求单一饮食标签。",
-        "对补剂、极端饮食和快速减重方案保持证据门槛。",
-        "代谢疾病、孕期、肾病或用药人群应先咨询医生或营养师。",
-    ],
-    "mental": [
-        "把心理健康干预拆成日常基础动作：睡眠、运动、社交连接、书写和专业支持。",
-        "区分普通压力、创伤反应、抑郁、焦虑和急性危机，不把所有痛苦都归为意志力不足。",
-        "出现自伤念头、严重绝望或无法保证安全时，应立即寻求紧急帮助。",
-        "把播客工具作为辅助，不替代心理治疗和精神科评估。",
-    ],
-    "pharmacology": [
-        "先定义要解决的问题，再判断药物、补剂或新疗法是否匹配。",
-        "机制合理不等于人体有效，动物研究或个案不能直接当成个人方案。",
-        "关注剂量、来源、纯度、相互作用、长期风险和停用条件。",
-        "涉及处方药、注射、激素、精神活性物质或灰色市场产品时，必须走专业医疗路径。",
-    ],
-    "genetics": [
-        "先判断检测结果是否会改变筛查、治疗、家族沟通或生活策略。",
-        "区分高外显率致病变异和概率性风险评分。",
-        "把基因结果与家族史、真实指标和临床表现一起解读。",
-        "对意义未明变异保持谨慎，不把消费者检测结果直接当诊断。",
-    ],
-    "relationship": [
-        "优先观察真实互动、回应性、冲突处理和价值观，而不是只看抽象条件清单。",
-        "用开放问题和共同活动建立信息，而不是依赖一次自我介绍。",
-        "把社会支持、朋友反馈和长期行为模式纳入判断。",
-        "涉及控制、羞辱、暴力或严重心理痛苦时，应优先考虑安全和专业支持。",
-    ],
-    "women": [
-        "把症状、周期、疼痛、激素变化和生育计划一起记录，而不是孤立看单个指标。",
-        "涉及生育、激素治疗、手术或辅助生殖时，尽早找对应专科评估。",
-        "年龄、家族史、既往手术和基础疾病会改变决策时机。",
-        "避免把社交媒体经验直接套用到个人诊疗。",
-    ],
-    "thinking": [
-        "先写出具体假设，再寻找能推翻它的证据。",
-        "区分相对风险、绝对风险、机制推理和临床结局。",
-        "为每个健康决策定义成功指标和复盘时间。",
-        "承认不确定性，不用单期节目替代系统证据。",
-    ],
-    "business": [
-        "把嘉宾经验拆成可验证假设，而不是直接复制名人路径。",
-        "先明确自己的阶段、资源、约束和风险承受力，再选择策略。",
-        "用指标跟踪现金流、分发渠道、用户反馈、团队能力和个人能量。",
-        "涉及投资、债务、股权和重大职业决策时，保留专业财务与法律判断边界。",
-    ],
-    "ai_future": [
-        "区分技术能力、商业宣传、政策风险和个人可采取行动。",
-        "先建立可迁移能力：判断力、写作、销售、产品理解、数据素养和学习速度。",
-        "把 AI 工具纳入工作流时，记录节省时间、质量变化和失败场景。",
-        "对就业、隐私、合规和安全风险保持预案，不把单一专家预测当定论。",
-    ],
-    "society": [
-        "把宏观叙事拆成影响个人生活的具体变量：收入、职业、居住、健康、安全和关系。",
-        "同时看多方观点和原始数据，避免被高情绪标题牵引。",
-        "为不可控风险建立可控缓冲：现金流、技能、社群、健康和信息来源。",
-        "政治、战争和经济判断不应用来替代个人财务、法律或安全专业建议。",
-    ],
-    "meaning": [
-        "把嘉宾观点当成反思材料，而不是直接接受成个人信念。",
-        "区分事实判断、价值判断和个人经历，避免把叙事当证据。",
-        "用写作、对话和实际行动检验哪些价值观真正改善生活。",
-        "涉及宗教、死亡、创伤或人生重大决策时，保留多元视角和专业支持边界。",
-    ],
-    "general": [
-        "先把本期主题转化为一个具体、可执行的问题。",
-        "从低风险、可持续、可测量的行动开始。",
-        "保留原文链接和发布日期，后续更新时回到来源核验。",
-        "涉及疾病、药物、筛查或治疗时寻求专业意见。",
-    ],
-}
 
 HUBERMAN_SECTIONS = {
     "fast": "第1章：神经系统快速调节",
@@ -572,24 +610,12 @@ SECTION_ORDERS = {
 
 
 def build_summary(ep: Episode) -> str:
-    category = classify(ep.title, ep.description)
-    topic_title = clean_title(ep.title)
     cn_title = localized_title_for_episode(ep)
     topics = ep.topics[:6]
-    topic_lines = "\n".join(f"- {topic}" for topic in topics) if topics else "- 本期 RSS 未提供完整时间戳；请回到原文页面补充逐字稿或章节信息。"
-    advice = ADVICE[category]
-    advice_lines = "\n\n".join(
-        f"{i}. **{label}**：{text}"
-        for i, (label, text) in enumerate(
-            [
-                ("明确问题边界", advice[0]),
-                ("优先低风险基础行动", advice[1]),
-                ("建立记录与反馈", advice[2]),
-                ("保留专业判断边界", advice[3]),
-                ("回到来源核验", "本文只基于公开 RSS/show notes 自动整理，适合作为知识库草稿；重要决策应核对原节目、指南和专业意见。"),
-            ],
-            start=1,
-        )
+    topic_lines = (
+        "\n".join(f"- {topic}" for topic in topics)
+        if topics
+        else "- 官方 RSS 未提供可稳定提取的章节信息。"
     )
     return f"""# {cn_title}
 
@@ -599,62 +625,18 @@ def build_summary(ep: Episode) -> str:
 
 发布日期：{ep.published.isoformat()}
 
-基于公开 RSS/show notes 自动整理。本文是 Health Art 停更后的补全文档草稿，不作为个人医疗建议。
+当前仅完成官方 RSS 元数据收录，状态为待精读。
 
-## 确定行动指南
+这页还没有核对完整节目、逐字稿或节目引用的研究，不能把标题、简介或嘉宾主张当成已经验证的事实，也不能据此形成医疗、投资或其他高风险建议。
 
-### 核心建议
-
-{advice_lines}
-
-### 实施要点
-
-- 将本期内容归档到 `{TITLE_PREFIX[category]}` 主题下，并保留原始节目链接。
-- 如果要转化为个人行动，先选择一个 2 周内可执行的小实验或一次专业咨询。
-- 对涉及筛查、药物、补剂、激素、精神健康或疾病治疗的部分，不自行下诊断或调整治疗。
-- 后续如果获得完整 transcript，可用本文作为骨架补充更细的证据、时间戳和引用。
-
-## 核心解析
-
-### 关键机制
-
-1. **主题框架**：本期围绕 `{topic_title}` 展开，应先理解其解决的问题、适用人群和风险边界。
-
-2. **证据层级**：播客讨论通常混合专家经验、机制研究、观察性数据和临床研究。写入知识库时，需要标注哪些是较稳健共识，哪些只是推测或早期证据。
-
-3. **行动转化**：最可靠的转化方式不是复制单个建议，而是把建议变成可记录的行为、指标或就医问题。
-
-4. **风险控制**：越是涉及高风险干预，越需要医生评估、实验室指标、随访计划和停用条件。
-
-### 共识发现
-
-- 公开 show notes 显示，本期重点不是孤立技巧，而是围绕一个健康/行为问题建立判断框架。
-- 对普通读者，更适合先吸收低风险基础行动，再判断是否需要进一步检测或专业支持。
-- 单期节目不能替代系统综述、临床指南或个体化医疗判断。
-
-### 节目重点线索
+## 节目线索
 
 {topic_lines}
 
-## 深入视角
+## 当前状态
 
-### 不确定区域
-
-- 自动整理无法确认嘉宾每一句话的语境，尤其不能替代完整 transcript。
-- RSS 摘要通常不会完整列出证据来源、研究设计和限制条件。
-- 如果节目涉及新疗法、药物、补剂或筛查技术，真实风险收益需要回到临床研究和指南。
-
-### 思维扩展
-
-- 把这类播客作为“发现问题和建立问题清单”的入口，而不是最终答案。
-- 每篇笔记最好继续补充三类信息：原始证据、适用人群、反例或禁忌。
-- 对你的个人知识库而言，最有价值的是可复查、可更新、能连接到原始来源的结构。
-
-### 个性化考量
-
-- 年龄、性别、既往病史、用药、家族史和目标不同，会改变建议的优先级。
-- 如果你想把本期内容用于个人健康决策，应先列出当前指标、症状和风险因素，再与专业人士讨论。
-- 有急性症状、自伤风险、严重疼痛、异常出血、胸痛、神经症状或癌症警讯时，不应依赖知识库笔记，应及时就医。
+- 已完成：节目身份、原文链接、发布日期与 RSS 主题线索收录。
+- 待完成：完整内容精读、关键主张核对、原始证据追溯与适用边界整理。
 """
 
 
@@ -662,7 +644,9 @@ def generate_missing(episodes: list[Episode]) -> list[Path]:
     links = existing_links()
     written: list[Path] = []
     for ep in episodes:
-        normalized_link = ep.link.rstrip("/")
+        if replay_target(ep):
+            continue
+        normalized_link = normalize_link(ep.link)
         existing_path = links.get(normalized_link)
         if existing_path:
             if not existing_path.name.startswith("continuation_"):
@@ -715,12 +699,46 @@ def collect_episode_rows(episodes: list[Episode]) -> dict[str, list[tuple[Episod
     links = existing_links()
     rows_by_source: dict[str, list[tuple[Episode, Path, str]]] = {source: [] for source in FEEDS}
     for ep in sorted(episodes, key=lambda item: item.published, reverse=True):
-        path = links.get(ep.link.rstrip("/"))
+        replay_path = replay_target(ep)
+        path = replay_path or links.get(normalize_link(ep.link))
         if not path:
             continue
-        status = "续写页面" if path.name.startswith("continuation_") else "原有页面覆盖"
+        if replay_path:
+            status = REPLAY_STATUS
+        else:
+            status = "续写页面" if path.name.startswith("continuation_") else "原有页面覆盖"
         rows_by_source[ep.source].append((ep, path, status))
     return rows_by_source
+
+
+def row_stats(rows: list[tuple[Episode, Path, str]]) -> dict[str, int]:
+    unique_paths = {path for _, path, _ in rows}
+    continuation_count = sum(path.name.startswith("continuation_") for path in unique_paths)
+    return {
+        "rss_events": len(rows),
+        "covered_pages": len(unique_paths),
+        "continuation_pages": continuation_count,
+        "existing_pages": len(unique_paths) - continuation_count,
+        "replay_events": sum(status == REPLAY_STATUS for _, _, status in rows),
+    }
+
+
+def unique_page_rows(rows: list[tuple[Episode, Path, str]]) -> list[tuple[Episode, Path, str]]:
+    """Return one row per page, preferring the full episode over a replay row."""
+    chosen: dict[Path, tuple[Episode, Path, str]] = {}
+    order: list[Path] = []
+    for row in rows:
+        _, path, status = row
+        if path not in chosen:
+            chosen[path] = row
+            order.append(path)
+        elif chosen[path][2] == REPLAY_STATUS and status != REPLAY_STATUS:
+            chosen[path] = row
+    return sorted(
+        (chosen[path] for path in order),
+        key=lambda row: row[0].published,
+        reverse=True,
+    )
 
 
 def section_rows_for_source(source: str, rows: list[tuple[Episode, Path, str]]) -> list[tuple[str, list[tuple[Episode, Path, str]]]]:
@@ -734,8 +752,7 @@ def section_rows_for_source(source: str, rows: list[tuple[Episode, Path, str]]) 
 
 
 def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) -> None:
-    continuation_count = sum(1 for _, path, _ in rows if path.name.startswith("continuation_"))
-    existing_count = len(rows) - continuation_count
+    stats = row_stats(rows)
     section_rows = section_rows_for_source(source, rows)
     framework_label = "主题框架" if source == "diaryofaceo" else "原项目章节框架"
 
@@ -748,10 +765,13 @@ def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) ->
             else f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中；每条新增内容均以 `【new】` 标注。"
         ),
         "",
+        "新生成页面只收录官方 RSS 元数据并标为 `待精读`；重播或精选片段指向已收录的完整节目，不重复建页。",
+        "",
         '<div class="continuation-stats">',
-        f'  <div><strong>{len(rows)}</strong><span>RSS 条目</span></div>',
-        f'  <div><strong>{continuation_count}</strong><span>续写页面</span></div>',
-        f'  <div><strong>{existing_count}</strong><span>原有页面覆盖</span></div>',
+        f'  <div><strong>{stats["rss_events"]}</strong><span>RSS 条目</span></div>',
+        f'  <div><strong>{stats["covered_pages"]}</strong><span>覆盖页面</span></div>',
+        f'  <div><strong>{stats["continuation_pages"]}</strong><span>续写页面</span></div>',
+        f'  <div><strong>{stats["replay_events"]}</strong><span>重播/片段</span></div>',
         "</div>",
         "",
         "## 章节速览",
@@ -791,17 +811,13 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
     for source, rows in rows_by_source.items():
         generate_source_index(source, rows)
 
+    all_rows = [row for rows in rows_by_source.values() for row in rows]
     total_rss = len(episodes)
-    total_pages = sum(len(rows) for rows in rows_by_source.values())
-    continuation_count = sum(
-        1
-        for rows in rows_by_source.values()
-        for _, path, _ in rows
-        if path.name.startswith("continuation_")
-    )
-    existing_count = total_pages - continuation_count
+    if len(all_rows) != total_rss:
+        raise RuntimeError(f"Only {len(all_rows)} of {total_rss} RSS events have a covered page")
+    stats = row_stats(all_rows)
     recent_rows = sorted(
-        [row for rows in rows_by_source.values() for row in rows],
+        all_rows,
         key=lambda item: item[0].published,
         reverse=True,
     )[:16]
@@ -809,12 +825,15 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
     lines = [
         "# 停更后续写总览",
         "",
-        "本页由 `scripts/generate_continuation.py` 根据官方公开 RSS 和本地页面自动生成，用来进入 `2025-08-02` 之后的补全文档。",
+        "本页由 `scripts/generate_continuation.py` 根据官方公开 RSS 和本地页面自动生成，用来进入 `2025-08-02` 之后的节目记录。",
+        "",
+        "新生成页面只保存节目身份、链接、日期与 RSS 主题线索，并明确标为 `待精读`。重播或精选片段继续列入 feed 覆盖，但指向已收录的完整节目。",
         "",
         '<div class="continuation-stats">',
         f'  <div><strong>{total_rss}</strong><span>RSS 条目</span></div>',
-        f'  <div><strong>{continuation_count}</strong><span>续写页面</span></div>',
-        f'  <div><strong>{existing_count}</strong><span>原有页面覆盖</span></div>',
+        f'  <div><strong>{stats["covered_pages"]}</strong><span>覆盖页面</span></div>',
+        f'  <div><strong>{stats["continuation_pages"]}</strong><span>续写页面</span></div>',
+        f'  <div><strong>{stats["replay_events"]}</strong><span>重播/片段</span></div>',
         "</div>",
         "",
         "## 分类入口",
@@ -846,7 +865,9 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
             "",
             "- Huberman Lab 与 Peter Attia 的分类页条目以 `【new】` 开头；The Diary Of A CEO 条目不显示该标签。",
             "- `续写页面` 是停更后新增整理稿；`原有页面覆盖` 表示原项目已有同原文链接页面，未重复生成。",
-            "- 为避免前端卡顿，站点不再加载整站本地搜索索引；全文检索建议使用导出的本地知识库。",
+            f"- `{REPLAY_STATUS}` 表示该条目是重播或精选片段，页面链接回到已收录的完整节目；其发布日期不会覆盖原节目日期。",
+            f"- 当前覆盖的 {stats['covered_pages']} 个页面中，{stats['continuation_pages']} 个是续写页面，{stats['existing_pages']} 个由原有页面覆盖。",
+            "- 站点已启用顶部本地搜索；更大范围的批量全文检索可使用导出的本地知识库。",
             "",
             "## 数据来源",
             "",
@@ -965,6 +986,17 @@ def target_diaryofaceo_section(ep: Episode) -> str:
 
 
 def sidebar_section_for_episode(ep: Episode) -> str:
+    override = CURRENT_SECTION_OVERRIDES.get(normalize_link(ep.link))
+    if override:
+        section_maps = {
+            "hubermanlab": HUBERMAN_SECTIONS,
+            "peterattiamd": PETER_SECTIONS,
+            "diaryofaceo": DIARY_OF_A_CEO_SECTIONS,
+        }
+        try:
+            return section_maps[ep.source][override]
+        except KeyError as error:
+            raise RuntimeError(f"Invalid section override for {ep.source}: {override}") from error
     if ep.source == "hubermanlab":
         return target_huberman_section(ep)
     if ep.source == "diaryofaceo":
@@ -1109,7 +1141,7 @@ def build_episode_sidebar_items(source: str, section_items: list[tuple[Episode, 
 
 def build_source_sidebar(source: str, rows: list[tuple[Episode, Path, str]]) -> list[dict[str, object]]:
     sidebar: list[dict[str, object]] = []
-    for section, section_items in section_rows_for_source(source, rows):
+    for section, section_items in section_rows_for_source(source, unique_page_rows(rows)):
         sidebar.append(
             {
                 "collapsed": True,
@@ -1132,9 +1164,9 @@ def replace_sidebar_block(config: str, key: str, sidebar: list[dict[str, object]
 
 
 def first_sidebar_link(source: str, rows: list[tuple[Episode, Path, str]]) -> str:
-    for _, section_items in section_rows_for_source(source, rows):
-        if section_items:
-            return page_link(section_items[0][1])
+    for _, path, status in rows:
+        if status != REPLAY_STATUS:
+            return page_link(path)
     return NEW_INDEX_LINKS[source]
 
 
@@ -1145,6 +1177,10 @@ def write_diaryofaceo_landing(episodes: list[Episode]) -> None:
     if not source_path.exists():
         raise RuntimeError(f"Could not find Diary Of A CEO landing source {source_path}")
     (ROOT / "diaryofaceo" / "index.md").write_text(source_path.read_text(encoding="utf-8"), encoding="utf-8")
+    home_path = ROOT / "index.md"
+    home = home_path.read_text(encoding="utf-8")
+    home = re.sub(r"/diaryofaceo/[a-zA-Z0-9_/-]+", first_link, home)
+    home_path.write_text(home, encoding="utf-8")
 
 
 def replace_nav_link(config: str, text: str, link: str) -> str:

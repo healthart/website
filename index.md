@@ -25,6 +25,6 @@ features:
     icon: 🔍
   - title: "The Diary Of A CEO 行动指南"
     details: "整理Steven Bartlett与企业家、科学家、心理学家和思想者的访谈，提取事业、健康、关系、AI与人生决策的行动框架。"
-    link: /diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851
+    link: /diaryofaceo/continuation_2026-08-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzerq8t6wksg6169fr2yc3sz
     icon: 🧭
 ---

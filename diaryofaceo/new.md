@@ -2,28 +2,40 @@
 
 本页把 `2025-08-02` 之后的 The Diary Of A CEO RSS 条目放入主题框架中。
 
+新生成页面只收录官方 RSS 元数据并标为 `待精读`；重播或精选片段指向已收录的完整节目，不重复建页。
+
 <div class="continuation-stats">
-  <div><strong>139</strong><span>RSS 条目</span></div>
-  <div><strong>139</strong><span>续写页面</span></div>
-  <div><strong>0</strong><span>原有页面覆盖</span></div>
+  <div><strong>162</strong><span>RSS 条目</span></div>
+  <div><strong>154</strong><span>覆盖页面</span></div>
+  <div><strong>154</strong><span>续写页面</span></div>
+  <div><strong>8</strong><span>重播/片段</span></div>
 </div>
 
 ## 章节速览
 
 | 原章节 | 条目数 |
 | --- | ---: |
-| 第1章：身体健康与长寿 | 47 |
-| 第2章：心理韧性与情绪调节 | 28 |
-| 第3章：关系、亲密与沟通 | 8 |
-| 第4章：事业、领导力与财富 | 15 |
-| 第5章：人工智能、科技与未来风险 | 13 |
-| 第6章：社会、政治与系统风险 | 16 |
-| 第7章：意义、信念与人生选择 | 12 |
+| 第1章：身体健康与长寿 | 55 |
+| 第2章：心理韧性与情绪调节 | 31 |
+| 第3章：关系、亲密与沟通 | 10 |
+| 第4章：事业、领导力与财富 | 17 |
+| 第5章：人工智能、科技与未来风险 | 16 |
+| 第6章：社会、政治与系统风险 | 19 |
+| 第7章：意义、信念与人生选择 | 14 |
 
 ## 第1章：身体健康与长寿
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-13 | [睡眠呼吸暂停：常见漏诊与风险识别](/diaryofaceo/continuation_2026-08-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzerq8t6wksg6169fr2yc3sz) | [Sleep Apnea Expert: Most People Who Have This Silent Killer Will NEVER Find Out!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzerq8t6wksg6169fr2yc3sz) | 续写页面 |
+| 2026-08-07 | [筛查与风险管理：认知衰退早期风险与预防](/diaryofaceo/continuation_2026-02-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kgmm9pfd45hzdgy58ktk7d62) | [Most Replayed Moment: Alzheimer's Starts 20 Years Before Symptoms! How To Protect Your Brain Now](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzb7yvd53rpefm4nehjpgzg9) | 官方重播/精选片段 |
+| 2026-07-27 | [维生素 D 补充：常见说法与证据边界](/diaryofaceo/continuation_2026-07-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxy3assv2r56y56qw6a4tn36) | [Vitamin D Expert: The Supplement World Is Giving The WRONG Advice!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxy3assv2r56y56qw6a4tn36) | 续写页面 |
+| 2026-07-16 | [癌症代谢假说与治疗主张：证据待核对](/diaryofaceo/continuation_2026-07-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxkgx4apaavz0qcdc1p5nr48) | [Leading Cancer Researcher: They’re Ignoring My Research, Cancer Patients Must Know This!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxkgx4apaavz0qcdc1p5nr48) | 续写页面 |
+| 2026-07-10 | [筛查与风险管理：肠漏、癌症风险与肠道修复](/diaryofaceo/continuation_2026-01-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv96sqyfpgm5y6trze6v029) | [Most Replayed Moment: Are You Really Gluten Intolerant? It Could Be This Instead!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx15v5cb1gk9b3x7r6rq2b0j) | 官方重播/精选片段 |
+| 2026-07-02 | [压力如何影响线粒体与疲劳感](/diaryofaceo/continuation_2026-07-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kwgkvp7ck70b0v0tba66ndaa) | [Dr. Martin Picard: How Stress Physically Drains Your Cells, Why You’re Tired & How to Reverse It](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwgkvp7ck70b0v0tba66ndaa) | 续写页面 |
+| 2026-06-29 | [女性训练、饮食与运动适应](/diaryofaceo/continuation_2026-06-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kw360az5eea4d3qh5c6pc2xm) | [Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kw360az5eea4d3qh5c6pc2xm) | 续写页面 |
+| 2026-06-26 | [睡眠优化：镁、睡眠习惯与心脏风险](/diaryofaceo/continuation_2025-11-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ka16hd3na5gfprvprm7vz1n2) | [Most Replayed Moment: Sleep Expert On The Truth About Melatonin And Magnesium](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssmkv070dtbqjgp6ab9adhs) | 官方重播/精选片段 |
+| 2026-06-22 | [女性健康与生殖决策：女性性健康、围绝经与激素治疗](/diaryofaceo/continuation_2026-06-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvm73tkx1t1jqkd6k2kyyhjk) | [Dr Rachel Rubin: "I'm Filled With Rage!" Your Doctor Was Never Taught About Women's Bodies!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvm73tkx1t1jqkd6k2kyyhjk) | 续写页面 |
 | 2026-06-15 | [训练与身体功能：肌酸、减脂与补剂价值判断](/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851) | [Creatine Expert: Creatine Is The Secret To Weight Loss](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kv1annh3b159tvxz55c6w851) | 续写页面 |
 | 2026-06-12 | [营养与代谢健康：乳制品、糖、水果与禁食取舍](/diaryofaceo/continuation_2026-06-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kssjrtdkrpredtygqvjz91ab) | [Most Replayed Moment: Is Milk Healthy? The Truth About Dairy, Sugar, Fruit And Fasting](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssjrtdkrpredtygqvjz91ab) | 续写页面 |
 | 2026-05-29 | [训练与身体功能：衰老关键器官与长寿基础](/diaryofaceo/continuation_2026-05-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7wvvfyr4va949s12svfs3x) | [Most Replayed Moment: The Hidden Organ That Controls Exactly How You Age!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kq7wvvfyr4va949s12svfs3x) | 续写页面 |
@@ -44,7 +56,6 @@
 | 2026-02-05 | [筛查与风险管理：认知衰退早期风险与预防](/diaryofaceo/continuation_2026-02-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kgmm9pfd45hzdgy58ktk7d62) | [Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kgmm9pfd45hzdgy58ktk7d62) | 续写页面 |
 | 2026-01-30 | [训练与身体功能：减脂保肌训练策略](/diaryofaceo/continuation_2026-01-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kesksyesn2ep0n2ds5x1nyx2) | [Most Replayed Moment: The Fastest Way To Lose Fat Without Losing Muscle! - Dr Andy Galpin](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kesksyesn2ep0n2ds5x1nyx2) | 续写页面 |
 | 2026-01-26 | [营养与代谢健康：肠道菌群与核心食物选择](/diaryofaceo/continuation_2026-01-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kfndkzssrve1zp6kgw6rvbt6) | [The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kfndkzssrve1zp6kgw6rvbt6) | 续写页面 |
-| 2026-01-19 | [训练与身体功能：监控、隐私与海外安全](/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf) | [CIA Whistleblower: They Can See All Your Messages! I Was Under Surveillance In Pakistan!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kf8sbh53skdkq0mkgds0qctf) | 续写页面 |
 | 2026-01-09 | [营养与代谢健康：饮食与抑郁风险](/diaryofaceo/continuation_2026-01-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kd6ffmqya79d2bwcqc3h7jjp) | [Most Replayed Moment: Your Food Could Be Making You Depressed! How Diet Impacts Mental Health!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kd6ffmqya79d2bwcqc3h7jjp) | 续写页面 |
 | 2026-01-08 | [筛查与风险管理：胰岛素、糖与减脂策略](/diaryofaceo/continuation_2026-01-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv9b5581y1cdtben58t6njb) | [Top Insulin Expert: Insulin Is More Dangerous Than Sugar! This Will Strip Fat Faster Than Anything!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kcv9b5581y1cdtben58t6njb) | 续写页面 |
 | 2026-01-01 | [筛查与风险管理：肠漏、癌症风险与肠道修复](/diaryofaceo/continuation_2026-01-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv96sqyfpgm5y6trze6v029) | [Leaky Gut Expert: This Gut Mistake Leads To Cancer. The Cheap Spice That Helps Repair A Damaged Gut!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kcv96sqyfpgm5y6trze6v029) | 续写页面 |
@@ -76,6 +87,9 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-14 | [心理健康与韧性：高风险挑战与决策复盘](/diaryofaceo/continuation_2026-02-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01khsjw2yd8qaem8vaydq1d64m) | [Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World's Greatest Climber](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzx9ey9a36htnhjpp6971mn1) | 官方重播/精选片段 |
+| 2026-07-06 | [退役身份、酒精问题与重建：Dustin Poirier 对谈](/diaryofaceo/continuation_2026-07-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kwsagpxwk99wcakkxnfc5zcg) | [UFC Legend Dustin Poirier: I Lost My Mind. I’ll Never Let It Happen Again.](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwsagpxwk99wcakkxnfc5zcg) | 续写页面 |
+| 2026-07-03 | [心理健康与韧性：习惯系统与自律建设](/diaryofaceo/continuation_2025-12-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc50jx0e8dtdvpkdeg9ktdet) | [Most Replayed Moment: The Mid-Year Reset - Atomic Habits Author On How To Get Back On Track](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwhs6d894aagvnhbj4xweqsh) | 官方重播/精选片段 |
 | 2026-06-19 | [心理健康与韧性：内在多重人格状态与自我切换](/diaryofaceo/continuation_2026-06-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kssm221gvkactqjst50c29wt) | [Most Replayed Moment: The 4 Personalities Living In Your Brain! How To Switch Between Them](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssm221gvkactqjst50c29wt) | 续写页面 |
 | 2026-06-05 | [心理健康与韧性：脆弱、自尊与勇气训练](/diaryofaceo/continuation_2026-06-05_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksn05j9xgde05h7zhy212mjy) | [Most Replayed Moment: Brené Brown on Vulnerability, Self Esteem and The Four Skillsets Of Courage](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ksn05j9xgde05h7zhy212mjy) | 续写页面 |
 | 2026-05-11 | [关系、沟通与社会连接：历史视角下的社会风险预警](/diaryofaceo/continuation_2026-05-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kr97ym65pryfhgrx6w8e0gne) | [Pulitzer Prize Historian: You Won't Notice Until It's Too Late!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kr97ym65pryfhgrx6w8e0gne) | 续写页面 |
@@ -109,9 +123,11 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
-| 2026-06-22 | [女性健康与生殖决策：女性性健康、围绝经与激素治疗](/diaryofaceo/continuation_2026-06-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvm73tkx1t1jqkd6k2kyyhjk) | [Dr Rachel Rubin: Women’s Sexual Health, Menopause, Hormone Replacement Therapy (HRT), and Orgasms!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvm73tkx1t1jqkd6k2kyyhjk) | 续写页面 |
+| 2026-07-31 | [训练与身体功能：监控、隐私与海外安全](/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf) | [Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8ex4jd9b45h9eb9mr6qgq9) | 官方重播/精选片段 |
+| 2026-07-17 | [心理健康与韧性：社交心理与被讨厌的原因](/diaryofaceo/continuation_2025-12-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc9g995cr5y6q7ykymq517q3) | [Most Replayed Moment: The Framework To Instantly Become Better At Conversation!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxqh1b2zk8fq3z6qtwazdj22) | 官方重播/精选片段 |
 | 2026-04-27 | [训练与身体功能：手机成瘾、亲密关系与性健康](/diaryofaceo/continuation_2026-04-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq00359jtynq0e9t9ttkg3sv) | [Sex Scientist: Phone Addiction Is Killing Your Sex Life More Than Porn!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kq00359jtynq0e9t9ttkg3sv) | 续写页面 |
 | 2026-02-12 | [训练与身体功能：离婚信号与关系修复](/diaryofaceo/continuation_2026-02-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh6xsnqxnbmyjhw25pgjbhn1) | [World No.1 Divorce Lawyer: This Is A Sign You’ll Divorce In 10 Years!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kh6xsnqxnbmyjhw25pgjbhn1) | 续写页面 |
+| 2026-01-19 | [训练与身体功能：监控、隐私与海外安全](/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf) | [CIA Whistleblower: They Can See All Your Messages! I Was Under Surveillance In Pakistan!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kf8sbh53skdkq0mkgds0qctf) | 续写页面 |
 | 2025-12-22 | [心理健康与韧性：煤气灯效应、沟通与离婚预警](/diaryofaceo/continuation_2025-12-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcrhnbh04h1kf09hn3zg7g1y) | [The Gaslighting & Conversation Expert: This Is A Sign You’ll Divorce in 10 Years!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kcrhnbh04h1kf09hn3zg7g1y) | 续写页面 |
 | 2025-12-12 | [心理健康与韧性：自信训练与身体语言](/diaryofaceo/continuation_2025-12-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kbmpmctrppy15sz4sqjq0n1z) | [Most Replayed Moment: Confidence Can Be Taught! Use These Body Language Cues To Your Advantage!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kbmpmctrppy15sz4sqjq0n1z) | 续写页面 |
 | 2025-12-08 | [科学思维与健康决策：副业收入框架与现实边界](/diaryofaceo/continuation_2025-12-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kb272bhzz8wvvpcvsrzxse98) | [Passive Income Expert: How To Make 10k Per Month In 90 Days!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kb272bhzz8wvvpcvsrzxse98) | 续写页面 |
@@ -122,6 +138,8 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-10 | [沉没成本、退出决策与 AI 时代的选择](/diaryofaceo/continuation_2026-08-10_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzemw7je1gt1ej9wc74dka3m) | [The Quitting Expert: Sunk Costs Are Keeping You TRAPPED, Quit Before AI Comes!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kzemw7je1gt1ej9wc74dka3m) | 续写页面 |
+| 2026-07-20 | [成功、控制感与事业选择：Alex Hormozi 对谈](/diaryofaceo/continuation_2026-07-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxq966byjy31cktav204k8eq) | [The Man Who Made $100M Before 32: The Secret Was To Stop Letting Them Control Me](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kxq966byjy31cktav204k8eq) | 续写页面 |
 | 2026-05-25 | [心理健康与韧性：高压职业选择与外界评价](/diaryofaceo/continuation_2026-05-25_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksdj6z8qn3e3a9k5vxm0td8s) | [Bruno Fernandes: Roy Keane Twisted My Words. They Offered Me £200M, I Said No.](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ksdj6z8qn3e3a9k5vxm0td8s) | 续写页面 |
 | 2026-05-14 | [意义、信念与人生选择：不明飞行物叙事与证据边界](/diaryofaceo/continuation_2026-05-14_xmsftuzjjykcmqwolaqn6mdn_flightcast_01krhzy6hbpb067yc206xc7erf) | [UFO Roundtable: CIA Physicist Proves Aliens Exist](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01krhzy6hbpb067yc206xc7erf) | 续写页面 |
 | 2026-04-30 | [事业、领导力与财富决策：买房、财富积累与现金流判断](/diaryofaceo/continuation_2026-04-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kqdn7p374jrhzhw5atsyrecc) | [Money Expert: Buying A House Is A Mistake! Becoming Rich is Simple But You Won’t Do It!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kqdn7p374jrhzhw5atsyrecc) | 续写页面 |
@@ -142,6 +160,9 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-06 | [Michael Saylor 对谈：官方 RSS 信息不足，主题待核](/diaryofaceo/continuation_2026-08-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kymq6p4dhxhh9ejvkvcke4q0) | [Michael Saylor: He Asked AI To Build Something That Never Existed. Here’s What Happened!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kymq6p4dhxhh9ejvkvcke4q0) | 续写页面 |
+| 2026-07-13 | [AI 风险叙事：一位 OpenAI 举报者的判断](/diaryofaceo/continuation_2026-07-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kx94975e6v64ds1mkx3q8c36) | [OpenAI Whistleblower FINALLY Speaks: “AI Has A 70% Chance Of Going Horribly Wrong!“](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx94975e6v64ds1mkx3q8c36) | 续写页面 |
+| 2026-06-11 | [社会、政治与系统风险：古文明叙事与证据边界](/diaryofaceo/continuation_2026-06-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ktsq9b3v53jfegbr8ddybsmm) | [Graham Hancock: The Case for a Lost Civilization](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ktsq9b3v53jfegbr8ddybsmm) | 续写页面 |
 | 2026-06-01 | [人工智能、未来趋势与风险判断：人工智能冲击时间表与个人准备](/diaryofaceo/continuation_2026-06-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kszdq99mmz0tdaac0ewy7t03) | [Tech Whistleblower: You Only Have 3 Years Left Before This Hits! - Mo Gawdat](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kszdq99mmz0tdaac0ewy7t03) | 续写页面 |
 | 2026-05-22 | [人工智能、未来趋势与风险判断：人工智能安全、就业与未来二十年](/diaryofaceo/continuation_2026-05-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq7wfp6j4y4xyjnwbty7d743) | [Most Replayed Moment: AI Safety Expert Predicts The Next 20 Years! Will It Really Take All Jobs?](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kq7wfp6j4y4xyjnwbty7d743) | 续写页面 |
 | 2026-05-21 | [意义、信念与人生选择：外星生命叙事与科学证据边界](/diaryofaceo/continuation_2026-05-21_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ks3j8kqhh9hb44tjm37pbhz3) | [World-Renowned Physicist: The Truth About Aliens! UFOs Are Definitely Robotic - Michio Kaku](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ks3j8kqhh9hb44tjm37pbhz3) | 续写页面 |
@@ -160,8 +181,11 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-03 | [美国梦、制度压力与政治选择：Pete Buttigieg 对谈](/diaryofaceo/continuation_2026-08-03_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kympyhgy7wkdebpbjq2vrqpj) | [Secretary Pete Buttigieg: The American Dream Is DEAD. We're Running Out Of Time To Fix It!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympyhgy7wkdebpbjq2vrqpj) | 续写页面 |
+| 2026-07-30 | [Ray Dalio 对经济周期与市场风险的判断](/diaryofaceo/continuation_2026-07-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kympgergg1x4wk6bc5zr26hg) | [Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kympgergg1x4wk6bc5zr26hg) | 续写页面 |
+| 2026-07-23 | [伊朗战争升级预测：时效性与证据边界](/diaryofaceo/continuation_2026-07-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ky5rewh1tjgdp1mf1jrea3fm) | [URGENT UPDATE - Iran War Expert: 70% Chance US Sends Troops To Iran THIS WEEK!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky5rewh1tjgdp1mf1jrea3fm) | 续写页面 |
+| 2026-06-25 | [市场崩盘预警与投资叙事：待核对的经济判断](/diaryofaceo/continuation_2026-06-25_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvxg1g7hw6asjr6efj3dqybr) | [Billionaire's WARNING: I'm SELLING. The Crash Is Already Here!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvxg1g7hw6asjr6efj3dqybr) | 续写页面 |
 | 2026-06-18 | [社会、政治与系统风险：美国政治与停火局势判断](/diaryofaceo/continuation_2026-06-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvbbap1azyt30q74j6n4cm84) | [Vice President JD Vance: No One Saw This Coming, The Ceasefire Is Real!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kvbbap1azyt30q74j6n4cm84) | 续写页面 |
-| 2026-06-11 | [社会、政治与系统风险：古文明叙事与证据边界](/diaryofaceo/continuation_2026-06-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ktsq9b3v53jfegbr8ddybsmm) | [Archaeology WARNING: They Secretly Found Antarctica 300 Years Before Us - Graham Hancock](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ktsq9b3v53jfegbr8ddybsmm) | 续写页面 |
 | 2026-06-08 | [社会、政治与系统风险：中产阶级压力与财富分配](/diaryofaceo/continuation_2026-06-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kthx7wcr8tv92taf5y99fm5m) | [Death of the Middle Class: Billionaire vs Entrepreneur DEBATE - Daniel Priestley v Nick Hanauer](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kthx7wcr8tv92taf5y99fm5m) | 续写页面 |
 | 2026-05-28 | [人工智能、未来趋势与风险判断：人工智能经济冲击与系统风险](/diaryofaceo/continuation_2026-05-28_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksnmg2epdsanf6f3eh346zaj) | [EMERGENCY DEBATE: The Economy Is About To Collapse! The 2026 AI Crisis Nobody Sees Coming](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ksnmg2epdsanf6f3eh346zaj) | 续写页面 |
 | 2026-05-07 | [社会、政治与系统风险：战争升级与粮食系统风险](/diaryofaceo/continuation_2026-05-07_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kr007tme4vjbshmqshhy34j4) | [WW3 Expert: This Could Trigger Global Starvation](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kr007tme4vjbshmqshhy34j4) | 续写页面 |
@@ -181,6 +205,8 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-07-24 | [意义、信念与人生选择：信仰缺失与现代精神危机](/diaryofaceo/continuation_2025-09-18_xmsftuzjjykcmqwolaqn6mdn_f36cf826_930f_11f0_ab0d_c710702c25d6) | [Most Replayed Moment: Matthew McConaughey - The Comfort Crisis Is Destroying Your Potential!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01ky8e2sxet9exag6hbasb5qjq) | 官方重播/精选片段 |
+| 2026-07-09 | [外星生命、模拟理论与黑洞：Neil deGrasse Tyson 对谈](/diaryofaceo/continuation_2026-07-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kx1x6pnn940x64g59htjvsyq) | [Neil deGrasse Tyson On Aliens, Simulation Theory, and What Happens Inside A Black Hole](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx1x6pnn940x64g59htjvsyq) | 续写页面 |
 | 2026-06-04 | [意义、信念与人生选择：基督教信仰与无神论争议](/diaryofaceo/continuation_2026-06-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kt7fyycxjwmnjyvrcj3rx9vp) | [Christian Apologist: The Truth About Christianity (And Why Atheism Is Fading)](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kt7fyycxjwmnjyvrcj3rx9vp) | 续写页面 |
 | 2026-03-20 | [心理健康与韧性：目标感、幸福与关键选择](/diaryofaceo/continuation_2026-03-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk9q3p2xajktft3naxw83t79) | [Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kk9q3p2xajktft3naxw83t79) | 续写页面 |
 | 2026-03-13 | [科学思维与健康决策：抗生素替代方案与耐药风险](/diaryofaceo/continuation_2026-03-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kk9js2z0s02swzez0sq5tqzx) | [Most Replayed Moment: The Antibiotic Alternative Big Pharma Doesn't Want You To Know!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kk9js2z0s02swzez0sq5tqzx) | 续写页面 |

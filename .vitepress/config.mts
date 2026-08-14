@@ -10,7 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
-      { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851' },
+      { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-08-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzerq8t6wksg6169fr2yc3sz' },
       { text: '书籍解析', link: '/books/Outlive: The Science and Art of Longevity.md' },
       { text: '关于我们', link: '/about' }
     ],
@@ -2961,6 +2961,30 @@ export default defineConfig({
           "text": "第1章：身体健康与长寿",
           "items": [
             {
+              "text": "睡眠呼吸暂停：常见漏诊与风险识别",
+              "link": "/diaryofaceo/continuation_2026-08-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzerq8t6wksg6169fr2yc3sz"
+            },
+            {
+              "text": "维生素 D 补充：常见说法与证据边界",
+              "link": "/diaryofaceo/continuation_2026-07-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxy3assv2r56y56qw6a4tn36"
+            },
+            {
+              "text": "癌症代谢假说与治疗主张：证据待核对",
+              "link": "/diaryofaceo/continuation_2026-07-16_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxkgx4apaavz0qcdc1p5nr48"
+            },
+            {
+              "text": "压力如何影响线粒体与疲劳感",
+              "link": "/diaryofaceo/continuation_2026-07-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kwgkvp7ck70b0v0tba66ndaa"
+            },
+            {
+              "text": "女性训练、饮食与运动适应",
+              "link": "/diaryofaceo/continuation_2026-06-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kw360az5eea4d3qh5c6pc2xm"
+            },
+            {
+              "text": "女性健康与生殖决策：女性性健康、围绝经与激素治疗",
+              "link": "/diaryofaceo/continuation_2026-06-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvm73tkx1t1jqkd6k2kyyhjk"
+            },
+            {
               "text": "训练与身体功能：肌酸、减脂与补剂价值判断",
               "link": "/diaryofaceo/continuation_2026-06-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kv1annh3b159tvxz55c6w851"
             },
@@ -3039,10 +3063,6 @@ export default defineConfig({
             {
               "text": "营养与代谢健康：肠道菌群与核心食物选择",
               "link": "/diaryofaceo/continuation_2026-01-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kfndkzssrve1zp6kgw6rvbt6"
-            },
-            {
-              "text": "训练与身体功能：监控、隐私与海外安全",
-              "link": "/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf"
             },
             {
               "text": "营养与代谢健康：饮食与抑郁风险",
@@ -3154,6 +3174,10 @@ export default defineConfig({
           "collapsed": true,
           "text": "第2章：心理韧性与情绪调节",
           "items": [
+            {
+              "text": "退役身份、酒精问题与重建：Dustin Poirier 对谈",
+              "link": "/diaryofaceo/continuation_2026-07-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kwsagpxwk99wcakkxnfc5zcg"
+            },
             {
               "text": "心理健康与韧性：内在多重人格状态与自我切换",
               "link": "/diaryofaceo/continuation_2026-06-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kssm221gvkactqjst50c29wt"
@@ -3273,16 +3297,16 @@ export default defineConfig({
           "text": "第3章：关系、亲密与沟通",
           "items": [
             {
-              "text": "女性健康与生殖决策：女性性健康、围绝经与激素治疗",
-              "link": "/diaryofaceo/continuation_2026-06-22_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvm73tkx1t1jqkd6k2kyyhjk"
-            },
-            {
               "text": "训练与身体功能：手机成瘾、亲密关系与性健康",
               "link": "/diaryofaceo/continuation_2026-04-27_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kq00359jtynq0e9t9ttkg3sv"
             },
             {
               "text": "训练与身体功能：离婚信号与关系修复",
               "link": "/diaryofaceo/continuation_2026-02-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh6xsnqxnbmyjhw25pgjbhn1"
+            },
+            {
+              "text": "训练与身体功能：监控、隐私与海外安全",
+              "link": "/diaryofaceo/continuation_2026-01-19_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kf8sbh53skdkq0mkgds0qctf"
             },
             {
               "text": "心理健康与韧性：煤气灯效应、沟通与离婚预警",
@@ -3310,6 +3334,14 @@ export default defineConfig({
           "collapsed": true,
           "text": "第4章：事业、领导力与财富",
           "items": [
+            {
+              "text": "沉没成本、退出决策与 AI 时代的选择",
+              "link": "/diaryofaceo/continuation_2026-08-10_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzemw7je1gt1ej9wc74dka3m"
+            },
+            {
+              "text": "成功、控制感与事业选择：Alex Hormozi 对谈",
+              "link": "/diaryofaceo/continuation_2026-07-20_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kxq966byjy31cktav204k8eq"
+            },
             {
               "text": "心理健康与韧性：高压职业选择与外界评价",
               "link": "/diaryofaceo/continuation_2026-05-25_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ksdj6z8qn3e3a9k5vxm0td8s"
@@ -3377,6 +3409,18 @@ export default defineConfig({
           "text": "第5章：人工智能、科技与未来风险",
           "items": [
             {
+              "text": "Michael Saylor 对谈：官方 RSS 信息不足，主题待核",
+              "link": "/diaryofaceo/continuation_2026-08-06_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kymq6p4dhxhh9ejvkvcke4q0"
+            },
+            {
+              "text": "AI 风险叙事：一位 OpenAI 举报者的判断",
+              "link": "/diaryofaceo/continuation_2026-07-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kx94975e6v64ds1mkx3q8c36"
+            },
+            {
+              "text": "社会、政治与系统风险：古文明叙事与证据边界",
+              "link": "/diaryofaceo/continuation_2026-06-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ktsq9b3v53jfegbr8ddybsmm"
+            },
+            {
               "text": "人工智能、未来趋势与风险判断：人工智能冲击时间表与个人准备",
               "link": "/diaryofaceo/continuation_2026-06-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kszdq99mmz0tdaac0ewy7t03"
             },
@@ -3435,12 +3479,24 @@ export default defineConfig({
           "text": "第6章：社会、政治与系统风险",
           "items": [
             {
-              "text": "社会、政治与系统风险：美国政治与停火局势判断",
-              "link": "/diaryofaceo/continuation_2026-06-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvbbap1azyt30q74j6n4cm84"
+              "text": "美国梦、制度压力与政治选择：Pete Buttigieg 对谈",
+              "link": "/diaryofaceo/continuation_2026-08-03_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kympyhgy7wkdebpbjq2vrqpj"
             },
             {
-              "text": "社会、政治与系统风险：古文明叙事与证据边界",
-              "link": "/diaryofaceo/continuation_2026-06-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ktsq9b3v53jfegbr8ddybsmm"
+              "text": "Ray Dalio 对经济周期与市场风险的判断",
+              "link": "/diaryofaceo/continuation_2026-07-30_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kympgergg1x4wk6bc5zr26hg"
+            },
+            {
+              "text": "伊朗战争升级预测：时效性与证据边界",
+              "link": "/diaryofaceo/continuation_2026-07-23_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ky5rewh1tjgdp1mf1jrea3fm"
+            },
+            {
+              "text": "市场崩盘预警与投资叙事：待核对的经济判断",
+              "link": "/diaryofaceo/continuation_2026-06-25_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvxg1g7hw6asjr6efj3dqybr"
+            },
+            {
+              "text": "社会、政治与系统风险：美国政治与停火局势判断",
+              "link": "/diaryofaceo/continuation_2026-06-18_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kvbbap1azyt30q74j6n4cm84"
             },
             {
               "text": "社会、政治与系统风险：中产阶级压力与财富分配",
@@ -3504,6 +3560,10 @@ export default defineConfig({
           "collapsed": true,
           "text": "第7章：意义、信念与人生选择",
           "items": [
+            {
+              "text": "外星生命、模拟理论与黑洞：Neil deGrasse Tyson 对谈",
+              "link": "/diaryofaceo/continuation_2026-07-09_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kx1x6pnn940x64g59htjvsyq"
+            },
             {
               "text": "意义、信念与人生选择：基督教信仰与无神论争议",
               "link": "/diaryofaceo/continuation_2026-06-04_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kt7fyycxjwmnjyvrcj3rx9vp"

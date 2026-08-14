@@ -2,29 +2,35 @@
 
 本页把 `2025-08-02` 之后的 The Peter Attia Drive RSS 条目放入原项目章节框架中；每条新增内容均以 `【new】` 标注。
 
+新生成页面只收录官方 RSS 元数据并标为 `待精读`；重播或精选片段指向已收录的完整节目，不重复建页。
+
 <div class="continuation-stats">
-  <div><strong>39</strong><span>RSS 条目</span></div>
-  <div><strong>27</strong><span>续写页面</span></div>
-  <div><strong>12</strong><span>原有页面覆盖</span></div>
+  <div><strong>46</strong><span>RSS 条目</span></div>
+  <div><strong>46</strong><span>覆盖页面</span></div>
+  <div><strong>33</strong><span>续写页面</span></div>
+  <div><strong>1</strong><span>重播/片段</span></div>
 </div>
 
 ## 章节速览
 
 | 原章节 | 条目数 |
 | --- | ---: |
-| 第3章：心血管系统 | 10 |
+| 第3章：心血管系统 | 11 |
 | 第5章：营养干预 | 1 |
-| 第6章：运动与训练 | 2 |
-| 第7章：补充剂与药物 | 1 |
-| 第8章：环境与生活方式 | 1 |
+| 第6章：运动与训练 | 3 |
+| 第7章：补充剂与药物 | 3 |
+| 第8章：环境与生活方式 | 2 |
 | 第10章：疾病预防策略 | 8 |
+| 第11章：医疗系统导航 | 1 |
 | 第12章：个性化风险评估 | 14 |
 | 第14章：心理韧性与社交健康 | 2 |
+| 第15章：系统性健康整合 | 1 |
 
 ## 第3章：心血管系统
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-03 | [【new】NMR 血液分析：心血管风险、胰岛素抵抗与炎症评估](/peterattiamd/continuation_2026-08-03_jimotvos) | [NMR blood analysis: how heart disease risk, insulin resistance, inflammation, and mortality risk can be assessed from a single blood sample](https://peterattiamd.com/jimotvos/) | 续写页面 |
 | 2026-06-08 | [【new】脑脂质、APOE 与阿尔茨海默风险：实用理解指南](/peterattiamd/brain_lipidology_alzheimers_risk_guide) | [Brain lipidology: understanding APOE, cholesterol homeostasis, Alzheimer's disease risk, and the effects of lipid-lowering therapies on brain health](https://peterattiamd.com/tomdayspring8/) | 原有页面覆盖 |
 | 2026-03-16 | [【new】Obicetrapib 与 CETP 抑制剂：心血管收益和阿尔茨海默信号的谨慎乐观](/peterattiamd/continuation_2026-03-16_obicetrapib) | [Special episode — Obicetrapib: The CETP inhibitor with cardiovascular benefits and potential Alzheimer's prevention](https://peterattiamd.com/obicetrapib/) | 续写页面 |
 | 2026-01-19 | [【new】种子油争议：把恐惧叙事放回脂肪替代和总饮食背景中](/peterattiamd/continuation_2026-01-19_laynenorton4) | [The seed oil debate: are they uniquely harmful relative to other dietary fats?](https://peterattiamd.com/laynenorton4/) | 续写页面 |
@@ -46,6 +52,7 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-07-06 | [【new】增强肌肉力量与质量的实用指南：长寿健康的关键策略](/peterattiamd/muscle_strength_longevity_guide) | [Building strength and muscle mass: how to optimize training, nutrition, and more for longevity (AMA #71 rebroadcast)](https://peterattiamd.com/strengthandmuscle/) | 官方重播/精选片段 |
 | 2026-04-27 | [【new】科学思维实用框架：在不确定中做更好的健康判断](/peterattiamd/continuation_2026-04-27_thinkingscientifically) | [Thinking scientifically: why it's hard, why it matters, and a practical toolkit](https://peterattiamd.com/thinkingscientifically/) | 续写页面 |
 | 2025-08-11 | [【new】改变习惯：提示、行为、奖励和身份如何重塑日常](/peterattiamd/continuation_2025-08-11_charlesduhigg) | [How to change your habits: why they form and how to build or break them](https://peterattiamd.com/charlesduhigg/) | 续写页面 |
 
@@ -53,12 +60,15 @@
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-10 | [【new】肽类：区分科学前景与营销炒作](/peterattiamd/continuation_2026-08-10_peptides) | [Peptides: separating scientific promise from marketing hype](https://peterattiamd.com/peptides/) | 续写页面 |
+| 2026-06-29 | [【new】GLP-1 受体激动剂、肌肉流失与减重期保肌](/peterattiamd/continuation_2026-06-29_ama86) | [AMA #86: GLP-1 RAs and muscle loss: new data, better questions, and how to preserve muscle during weight loss](https://peterattiamd.com/ama86/) | 续写页面 |
 | 2025-11-03 | [【new】女性性健康：欲望、唤起、疼痛、围绝经和满意度](/peterattiamd/continuation_2025-11-03_sallygreenwald) | [#371 – Women's sexual health: desire, arousal, and orgasms, navigating perimenopause, and enhancing satisfaction](https://peterattiamd.com/sallygreenwald/) | 续写页面 |
 
 ## 第8章：环境与生活方式
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-07-20 | [【new】环境污染与长寿：空气、噪声、光照和电磁场](/peterattiamd/continuation_2026-07-20_ama87) | [AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks](https://peterattiamd.com/ama87/) | 续写页面 |
 | 2025-11-24 | [【new】"Say It Now"行动指南：表达感激，丰富生活](/peterattiamd/say_it_now_gratitude_guide) | [The impact of gratitude, serving others, embracing mortality, and living intentionally](https://peterattiamd.com/waltergreen/) | 原有页面覆盖 |
 
 ## 第10章：疾病预防策略
@@ -73,6 +83,12 @@
 | 2025-12-15 | [【new】长寿干预 AMA：运动、ApoB、血压、筛查和可持续习惯](/peterattiamd/continuation_2025-12-15_ama78) | [AMA #78: Longevity interventions, exercise, diagnostic screening, and managing high apoB, hypertension, metabolic health, and more](https://peterattiamd.com/ama78/) | 续写页面 |
 | 2025-11-10 | [【new】膳食纤维：真实收益、被夸大的说法和实用吃法](/peterattiamd/continuation_2025-11-10_ama77) | [AMA #77: Dietary fiber and health outcomes: real benefits, overhyped claims, and practical applications](https://peterattiamd.com/ama77/) | 续写页面 |
 | 2025-10-27 | [【new】长寿基础：转化为实用行动指南](/peterattiamd/longevity_action_emotional_health_priority_guide) | [Longevity 101: a foundational guide to Peter's frameworks for longevity, and understanding CVD, cancer, neurodegenerative disease, nutrition, exercise, sleep, and more (re-broadcast)](https://peterattiamd.com/longevity101/) | 原有页面覆盖 |
+
+## 第11章：医疗系统导航
+
+| 日期 | 本地页面 | 原文 | 状态 |
+| --- | --- | --- | --- |
+| 2026-07-13 | [【new】阿尔茨海默病与痴呆照护：早期识别、个体化治疗与新疗法](/peterattiamd/continuation_2026-07-13_gayatridevi) | [The evolution of Alzheimer's disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape](https://peterattiamd.com/gayatridevi/) | 续写页面 |
 
 ## 第12章：个性化风险评估
 
@@ -99,3 +115,9 @@
 | --- | --- | --- | --- |
 | 2025-12-22 | [【new】幸福感与有意义的人生：从快乐感受转向可训练的生活结构](/peterattiamd/continuation_2025-12-22_bestofbrooks) | [Special episode: Understanding true happiness and the tools to cultivate a meaningful life—insights from past interviews with Arthur Brooks](https://peterattiamd.com/bestofbrooks/) | 续写页面 |
 | 2025-09-29 | [【new】AI 与掌握式教育：用个性化学习重构 K-12 的时间和动机](/peterattiamd/continuation_2025-09-29_joeliemandt) | [Transforming education with AI and an individualized, mastery-based education model](https://peterattiamd.com/joeliemandt/) | 续写页面 |
+
+## 第15章：系统性健康整合
+
+| 日期 | 本地页面 | 原文 | 状态 |
+| --- | --- | --- | --- |
+| 2026-07-27 | [【new】好奇心如何推动医学突破](/peterattiamd/continuation_2026-07-27_medicalbreakthroughs) | [How curiosity transforms medicine: extraordinary discoveries that changed modern healthcare](https://peterattiamd.com/medicalbreakthroughs/) | 续写页面 |
