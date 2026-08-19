@@ -4,9 +4,13 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing
 
+发布日期：2026-06-11
+
 <YouTube videoId="RTgJSQtvo88" />
 
-基于公开 show notes 和时间戳整理。本文适合作为睡眠习惯知识库素材，不替代睡眠医学诊断。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文适合作为睡眠习惯知识库素材，不替代睡眠医学诊断。
 
 ## 确定行动指南
 

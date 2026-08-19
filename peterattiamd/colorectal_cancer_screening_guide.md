@@ -4,6 +4,12 @@
 
 原文链接：https://peterattiamd.com/colorectalcancerscreening/
 
+发布日期：2026-05-11
+
+<YouTube videoId="_9mBlZXA1Lk" />
+
+> 来源状态：仅依据公开 RSS/show notes 或预览片段；不作为完整节目总结。
+
 基于公开 RSS 和 show notes 整理。筛查策略应结合当地指南、家族史和医生建议。
 
 ## 确定行动指南

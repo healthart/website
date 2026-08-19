@@ -8,7 +8,9 @@
 
 <YouTube videoId="AIlp69kfqjw" />
 
-基于公开 show notes 和时间戳整理。本文用于理解攻击性神经机制和低风险调节工具，不替代精神健康评估、家庭暴力干预或医学治疗。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文用于理解攻击性神经机制和低风险调节工具，不替代精神健康评估、家庭暴力干预或医学治疗。
 
 ## 确定行动指南
 
@@ -52,7 +54,7 @@
 
 ### 节目重点线索
 
-- 时间戳包括 aggression types、hydraulic pressure model、ventromedial hypothalamus、estrogen、testosterone、seasonality、sunlight、melatonin、cortisol、serotonin、sauna、ashwagandha、genetics、ADHD 和 acetyl-L-carnitine。
+- 节目重点包括 aggression types、hydraulic pressure model、ventromedial hypothalamus、estrogen、testosterone、seasonality、sunlight、melatonin、cortisol、serotonin、sauna、ashwagandha、genetics、ADHD 和 acetyl-L-carnitine。
 - 本期把攻击性从“性格问题”扩展为可观察、可调节、但必须保留安全底线的行为状态。
 
 ## 深入视角

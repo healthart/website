@@ -4,9 +4,13 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-psychedelics-neurostimulation-for-brain-rewiring-nolan-williams
 
+发布日期：2026-06-04
+
 <YouTube videoId="GkG1hMhIQ_Q" />
 
-基于公开 show notes 和时间戳整理。本文用于理解研究方向，不建议自行使用迷幻物质或替代正规精神科治疗。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文用于理解研究方向，不建议自行使用迷幻物质或替代正规精神科治疗。
 
 ## 确定行动指南
 

@@ -2,7 +2,7 @@
 
 本页把 `2025-08-02` 之后的 The Peter Attia Drive RSS 条目放入原项目章节框架中；每条新增内容均以 `【new】` 标注。
 
-新生成页面只收录官方 RSS 元数据并标为 `待精读`；重播或精选片段指向已收录的完整节目，不重复建页。
+RSS 只负责发现新节目；已按完整节目复核的页面会保留对应来源状态，replay 或受限来源不会冒充原始长节目。
 
 <div class="continuation-stats">
   <div><strong>46</strong><span>RSS 条目</span></div>
@@ -17,7 +17,7 @@
 | --- | ---: |
 | 第3章：心血管系统 | 11 |
 | 第5章：营养干预 | 1 |
-| 第6章：运动与训练 | 3 |
+| 第6章：运动与训练 | 4 |
 | 第7章：补充剂与药物 | 3 |
 | 第8章：环境与生活方式 | 2 |
 | 第10章：疾病预防策略 | 8 |
@@ -77,7 +77,7 @@
 | --- | --- | --- | --- |
 | 2026-06-15 | [【new】乳腺癌筛查：风险评估、影像选择与个性化策略](/peterattiamd/breast_cancer_screening_personalized_guide) | [Breast cancer screening: understanding risk, deciding when to start and how often to screen, and choosing the right imaging strategy](https://peterattiamd.com/breastcancerscreening/) | 原有页面覆盖 |
 | 2026-05-18 | [【new】基因检测实用指南：什么时候有价值，如何选择，结果怎么用](/peterattiamd/genetic_testing_decision_guide) | [Genetic testing: when it's valuable, how to choose the right test, and what to do with the results](https://peterattiamd.com/genetictesting/) | 原有页面覆盖 |
-| 2026-05-11 | [【new】结直肠癌筛查：早筛、肠镜质量与个性化策略](/peterattiamd/colorectal_cancer_screening_guide) | [Colorectal cancer screening: importance of early screening, colonoscopy as a screening and preventive tool, and how to build a personalized strategy](https://peterattiamd.com/colorectalcancerscreening/) | 原有页面覆盖 |
+| 2026-05-11 | [【new】结直肠癌筛查：早筛、肠镜质量与个性化策略](/peterattiamd/colorectal_cancer_screening_guide) | [Colorectal cancer screening: importance of early screening, colonoscopy as a screening and preventive tool, and how to build a personalized strategy](https://peterattiamd.com/colorectalcancerscreening/) | 受限来源 |
 | 2026-05-04 | [【new】家族史、心代谢风险、力量训练与认知保护：AMA #84 行动指南](/peterattiamd/family_history_metabolic_strength_dementia_ama84) | [AMA #84: Family health history, preventing heart disease, metabolic health, strength training efficiency, dementia risk reduction, NAD supplements, and hydration](https://peterattiamd.com/ama84/) | 原有页面覆盖 |
 | 2026-04-20 | [【new】前列腺癌筛查：为什么 PSA 要看趋势，而不是只看一次数字](/peterattiamd/continuation_2026-04-20_prostatecancerscreening) | [Prostate cancer screening: why current PSA guidelines are failing men and how modern tools improve early detection and save lives](https://peterattiamd.com/prostatecancerscreening/) | 续写页面 |
 | 2025-12-15 | [【new】长寿干预 AMA：运动、ApoB、血压、筛查和可持续习惯](/peterattiamd/continuation_2025-12-15_ama78) | [AMA #78: Longevity interventions, exercise, diagnostic screening, and managing high apoB, hypertension, metabolic health, and more](https://peterattiamd.com/ama78/) | 续写页面 |

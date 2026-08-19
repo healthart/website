@@ -8,7 +8,9 @@
 
 <YouTube videoId="Q2hOryHdgAk" />
 
-基于公开 show notes 和时间戳整理。本文适合作为心理健康知识库素材，不替代心理治疗、精神科评估或危机干预。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文适合作为心理健康知识库素材，不替代心理治疗、精神科评估或危机干预。
 
 ## 确定行动指南
 
@@ -52,7 +54,7 @@
 
 ### 节目重点线索
 
-- 时间戳包括 assumptions about other thoughts、eye gaze、voice vs writing、social isolation、social media、connecting with strangers、fear of strangers、social anxiety、pessimistic expectations、perceived creepiness、social gatherings 和 modeling interactions for kids。
+- 节目重点包括 assumptions about other thoughts、eye gaze、voice vs writing、social isolation、social media、connecting with strangers、fear of strangers、social anxiety、pessimistic expectations、perceived creepiness、social gatherings 和 modeling interactions for kids。
 - Nick Epley 的重点不是“变成社交达人”，而是用证据修正我们对他人想法的过度确定。
 
 ## 深入视角

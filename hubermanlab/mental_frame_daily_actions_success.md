@@ -4,7 +4,11 @@
 
 原文链接：https://www.hubermanlab.com/episode/the-mental-frame-and-specific-daily-actions-to-succeed-andy-stumpf
 
+发布日期：2026-06-15
+
 <YouTube videoId="baecUt1GaPk" />
+
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
 
 基于公开 RSS 和官网页面整理。本文适合作为心理韧性知识库素材，不替代心理治疗或危机干预。
 

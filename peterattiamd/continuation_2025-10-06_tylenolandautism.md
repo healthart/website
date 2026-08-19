@@ -6,7 +6,11 @@
 
 发布日期：2025-10-06
 
-基于公开 RSS 和 show notes 整理。本文用于科学证据解读，不替代孕期用药咨询或儿科/产科医疗建议。
+<YouTube videoId="GWVM_5knTXg" />
+
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+本文依据官方 YouTube 完整节目字幕逐条复核，并结合节目外的临床指南与研究整理。本文用于科学证据解读，不替代孕期用药咨询或儿科/产科医疗建议。
 
 ## 确定行动指南
 
@@ -47,6 +51,12 @@
 - 当前证据需要谨慎解释，不能从标题推出简单因果。
 - 孕期药物决策应同时考虑不用药的风险。
 - 科学传播应减少恐慌，增加框架和上下文。
+
+### 外部证据边界
+
+- ACOG 的临床说明认为，当前证据不支持孕期使用对乙酰氨基酚与自闭症之间存在已确立的因果联系，并仍建议在有需要时与医生讨论、适量使用；这属于群体证据和临床建议，不是对每个个体的绝对保证。
+- 观察性研究、兄弟姐妹对照和机制推测各自只能减少部分不确定性，不能替代随机试验；孕期发热、感染和疼痛本身的风险也必须纳入风险收益判断。
+- 参考： [ACOG 孕期对乙酰氨基酚说明](https://www.acog.org/clinical-information/physician-faqs/acetaminophen-in-pregnancy)、[ACOG 神经发育结局实践咨询](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2025/09/acetaminophen-use-in-pregnancy-and-neurodevelopmental-outcomes)。
 
 ## 深入视角
 

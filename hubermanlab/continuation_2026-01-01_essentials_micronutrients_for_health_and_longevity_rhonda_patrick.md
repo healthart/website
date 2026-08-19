@@ -6,7 +6,11 @@
 
 发布日期：2026-01-01
 
-基于公开 RSS/show notes 和时间戳整理。本文用于营养和长寿知识库，不替代营养治疗、抽血解读或补剂处方。
+<YouTube videoId="fh2dBmLN-ZM" />
+
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+本文依据官方 YouTube 完整节目字幕逐条复核，并结合 NIH 膳食补充剂资料整理。本文用于营养和长寿知识库，不替代营养治疗、抽血解读或补剂处方。
 
 ## 确定行动指南
 
@@ -47,6 +51,7 @@
 - 营养缺口会影响长期健康。
 - 食物结构、运动和睡眠应先于复杂补剂。
 - 检测指导比盲目堆补剂更可靠。
+- 萝卜硫素、Omega-3 和维生素 D 的机制与生物标志物信号不能直接等同于延寿或预防疾病；剂量和适应证应回到 NIH 资料及个体化评估。参考：[NIH 维生素 D 资料](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)、[NIH Omega-3 资料](https://ods.od.nih.gov/factsheets/Omega3FattyAcids%20-HealthProfessional/)。
 
 ## 深入视角
 

@@ -8,7 +8,9 @@
 
 <YouTube videoId="4y6R5boDqh4" />
 
-基于公开 show notes 和时间戳整理。本文适合作为行为改变知识库素材，不替代心理治疗、精神科评估或职业/学习咨询。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文适合作为行为改变知识库素材，不替代心理治疗、精神科评估或职业/学习咨询。
 
 ## 确定行动指南
 
@@ -52,7 +54,7 @@
 
 ### 节目重点线索
 
-- 时间戳包括 marshmallow tests、adult modeling、movement and motivation、depletion effect、willpower vs self-control、long- vs short-term outcomes、failure and exploration、mindset、why vs how、abstinence vs moderation、burnout、intrinsic motivation、distancing、music anchors、mindfulness、wabi-sabi 和 ikigai。
+- 节目重点包括 marshmallow tests、adult modeling、movement and motivation、depletion effect、willpower vs self-control、long- vs short-term outcomes、failure and exploration、mindset、why vs how、abstinence vs moderation、burnout、intrinsic motivation、distancing、music anchors、mindfulness、wabi-sabi 和 ikigai。
 - Kentaro Fujita 的框架把自控从单一“忍耐力”扩展为多工具组合：动机、认知、环境、身份和恢复。
 
 ## 深入视角

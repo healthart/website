@@ -30,6 +30,7 @@ CUTOFF = dt.datetime(2025, 8, 2, tzinfo=dt.timezone.utc)
 AUTO_DRAFT_MARKER = "当前仅完成官方 RSS 元数据收录，状态为待精读"
 REFRESH_AUTO_DRAFTS = os.environ.get("REFRESH_AUTO_DRAFTS") == "1"
 REPLAY_STATUS = "官方重播/精选片段"
+RESTRICTED_STATUS = "受限来源"
 
 FEEDS = {
     "hubermanlab": "https://feeds.megaphone.fm/hubermanlab",
@@ -703,8 +704,11 @@ def collect_episode_rows(episodes: list[Episode]) -> dict[str, list[tuple[Episod
         path = replay_path or links.get(normalize_link(ep.link))
         if not path:
             continue
-        if replay_path:
+        page_text = path.read_text(encoding="utf-8", errors="ignore")
+        if replay_path or "来源状态：仅覆盖 replay 片段" in page_text:
             status = REPLAY_STATUS
+        elif "不作为完整节目总结" in page_text or "完整节目受限" in page_text:
+            status = RESTRICTED_STATUS
         else:
             status = "续写页面" if path.name.startswith("continuation_") else "原有页面覆盖"
         rows_by_source[ep.source].append((ep, path, status))
@@ -765,7 +769,7 @@ def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) ->
             else f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中；每条新增内容均以 `【new】` 标注。"
         ),
         "",
-        "新生成页面只收录官方 RSS 元数据并标为 `待精读`；重播或精选片段指向已收录的完整节目，不重复建页。",
+        "RSS 只负责发现新节目；已按完整节目复核的页面会保留对应来源状态，replay 或受限来源不会冒充原始长节目。",
         "",
         '<div class="continuation-stats">',
         f'  <div><strong>{stats["rss_events"]}</strong><span>RSS 条目</span></div>',
@@ -827,7 +831,7 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
         "",
         "本页由 `scripts/generate_continuation.py` 根据官方公开 RSS 和本地页面自动生成，用来进入 `2025-08-02` 之后的节目记录。",
         "",
-        "新生成页面只保存节目身份、链接、日期与 RSS 主题线索，并明确标为 `待精读`。重播或精选片段继续列入 feed 覆盖，但指向已收录的完整节目。",
+        "RSS 只负责发现新节目；页面正文的复核范围以页面内来源状态为准，replay 或受限来源不会冒充原始长节目。",
         "",
         '<div class="continuation-stats">',
         f'  <div><strong>{total_rss}</strong><span>RSS 条目</span></div>',

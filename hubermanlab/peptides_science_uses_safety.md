@@ -4,9 +4,13 @@
 
 原文链接：https://www.hubermanlab.com/episode/peptides-the-science-uses-and-safety-abud-bakri
 
+发布日期：2026-06-01
+
 <YouTube videoId="_DfqnpSbMfE" />
 
-基于公开 show notes 和时间戳整理。本文只作为知识库素材，不建议自行购买、注射或使用灰色市场肽类产品。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文只作为知识库素材，不建议自行购买、注射或使用灰色市场肽类产品。
 
 ## 确定行动指南
 

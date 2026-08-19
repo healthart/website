@@ -4,9 +4,13 @@
 
 原文链接：https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief
 
+发布日期：2026-05-28
+
 <YouTube videoId="PlQyGIIAGNo" />
 
-基于公开 show notes 和时间戳整理。本文适合作为心理健康知识库素材，不替代丧亲支持、心理咨询或精神科治疗。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文适合作为心理健康知识库素材，不替代丧亲支持、心理咨询或精神科治疗。
 
 ## 确定行动指南
 

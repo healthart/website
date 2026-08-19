@@ -8,7 +8,9 @@
 
 <YouTube videoId="MOPqSEK6GvA" />
 
-基于公开 show notes 和时间戳整理。本文用于理解语言、发声和神经接口，不替代神经外科、言语治疗或临床诊断。
+> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+
+基于公开 show notes 整理。本文用于理解语言、发声和神经接口，不替代神经外科、言语治疗或临床诊断。
 
 ## 确定行动指南
 
@@ -51,7 +53,7 @@
 
 ### 节目重点线索
 
-- 时间戳包括 speech vs language、pragmatics、semantics、syntax、larynx、vocal folds、BRAVO trial、electrode array、AI autocorrect、Neuralink、augmentation ethics、avatar facial expressions、stuttering 和 auditory feedback。
+- 节目重点包括 speech vs language、pragmatics、semantics、syntax、larynx、vocal folds、BRAVO trial、electrode array、AI autocorrect、Neuralink、augmentation ethics、avatar facial expressions、stuttering 和 auditory feedback。
 - 本期把基础神经科学、临床神经外科和 AI 解码放在同一条线上：理解大脑如何说话，才能理解如何帮助失语或瘫痪患者重新表达。
 
 ## 深入视角

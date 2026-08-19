@@ -10,7 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
       { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
-      { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-08-13_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kzerq8t6wksg6169fr2yc3sz' },
+      { text: 'Diary Of A CEO', link: '/diaryofaceo/new' },
       { text: '书籍解析', link: '/books/Outlive: The Science and Art of Longevity.md' },
       { text: '关于我们', link: '/about' }
     ],
