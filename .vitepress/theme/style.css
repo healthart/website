@@ -420,3 +420,9 @@
   font-size: 1.15rem;
   font-weight: bold;
 }
+
+/* Keep weekday labels readable in the foundational fitness schedule. */
+.vp-doc._books_huberman-protocol_foundational-fitness table:first-of-type th:first-child,
+.vp-doc._books_huberman-protocol_foundational-fitness table:first-of-type td:first-child {
+  white-space: nowrap;
+}

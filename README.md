@@ -8,6 +8,8 @@ Health Art 致力于将前沿的健康科学知识转化为实用的生活指南
 
 ## 项目特点
 
+当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。图书中的 [《Huberman 基础健身 Protocol》实用行动指南](books/huberman-protocol/foundational-fitness.md) 直接进入解析正文；[汇总页](books/huberman-protocol/index.md) 保留相关综述。
+
 - 📚 基于 VitePress 构建的现代文档网站
 - 🔍 提供详细的健康科学知识
 - 🎨 清晰的内容结构和优雅的阅读体验
@@ -101,3 +103,5 @@ pm2 start ecosystem.config.js
 - 2026-06-23: 全部 113 篇 continuation 页面按原项目结构人工改写为高质量续写
 - 2026-08-14: 官方 RSS 覆盖更新至 317 条事件；新增 36 个待精读元数据页面，并将 9 条重播/精选片段映射到完整节目
 - 2026-08-19: 从已按完整节目复核的 canonical Obsidian 页面同步 292 个网站页面；明确区分原始完整节目、replay 片段、RSS-only 和受限 AMA
+
+- 2026-09-22: 新增 Huberman 基础健身 Protocol 解析、公开方案综述与资料汇总；图书列表以“《Huberman 基础健身 Protocol》实用行动指南”直接进入正文。
