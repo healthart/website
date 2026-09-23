@@ -57,3 +57,7 @@
 ### 个性化考量
 
 - 将嘉宾的激励框架转成个人计划时，先评估睡眠、经济压力、照护责任和可获得的支持；对长期失眠、抑郁或惊恐，专业评估优先于意志力训练。
+
+## 官方重播与片段
+
+- 2026-08-28：[官方精选片段](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0aaxf9nspf8ryh06snnv2jz)；片段回链本期原节目，不代表原节目重新发表。

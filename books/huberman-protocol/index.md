@@ -12,4 +12,6 @@
 
 [Huberman 的日常与训练方案](/books/huberman-protocol/overview)汇集多份公开资料，涉及光照、睡眠、训练、饮食、恢复与补剂声明，属于人物综述。
 
+[《Protocols》全书详解](/books/protocols-huberman)依据 2026 年出版的完整图书；这本书与上面的 2022 年公开训练通讯分别核对。
+
 来源核对日期表示查阅时间；原文发布日期和作者调整方案的日期分别记录。

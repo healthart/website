@@ -49,6 +49,11 @@ SOURCE_LABELS = {
 # generator run from creating duplicate knowledge pages.
 REPLAY_TARGETS = {
     "https://peterattiamd.com/strengthandmuscle": "peterattiamd/muscle_strength_longevity_guide.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1krzjxfdy091dtc2xyyrw7a": "diaryofaceo/continuation_2026-01-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kg2r5jae6vbfeg24q5f6b1j6.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0bdp5kgrfpv398m820xbkqf": "diaryofaceo/continuation_2025-08-18_xmsftuzjjykcmqwolaqn6mdn_370f1b78_73a2_11f0_bc4f_274c6ccaf026.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0ac7xp90rtaaxp6r693d8dr": "diaryofaceo/continuation_2025-11-24_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kakxtj06s60qn8ysenb9zd3q.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0aaxf9nspf8ryh06snnv2jz": "diaryofaceo/continuation_2026-01-15_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kew51sghj27n259tsqtc1b2f.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m08555edjdxy5e3vgd5b9bpa": "diaryofaceo/continuation_2026-08-21_睡眠质量不等于只延长睡眠KristenHolmes的31分钟重播片段.md",
     "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kssmkv070dtbqjgp6ab9adhs": "diaryofaceo/continuation_2025-11-17_xmsftuzjjykcmqwolaqn6mdn_flightcast_01ka16hd3na5gfprvprm7vz1n2.md",
     "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kwhs6d894aagvnhbj4xweqsh": "diaryofaceo/continuation_2025-12-11_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kc50jx0e8dtdvpkdeg9ktdet.md",
     "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01kx15v5cb1gk9b3x7r6rq2b0j": "diaryofaceo/continuation_2026-01-01_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kcv96sqyfpgm5y6trze6v029.md",
@@ -154,6 +159,8 @@ CURRENT_SECTION_OVERRIDES = {
 }
 
 HUBERMAN_MISSING_LINKS = {
+    "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer": "https://www.hubermanlab.com/episode/essentials-diet-and-nutrition-for-mental-health-chris-palmer",
+    "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs": "https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs",
     "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf": "https://www.hubermanlab.com/episode/the-mental-frame-and-specific-daily-actions-to-succeed-andy-stumpf",
     "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti": "https://www.hubermanlab.com/episode/tools-to-bolster-your-mental-health-and-confidence-paul-conti",
     "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway": "https://www.hubermanlab.com/episode/male-roles-obligations-and-options-for-building-a-fulfilling-life-scott-galloway",
@@ -309,6 +316,23 @@ def existing_links() -> dict[str, Path]:
             text = path.read_text(encoding="utf-8", errors="ignore")
             for link in re.findall(r"^原文链接：\s*(\S+)", text, flags=re.M):
                 links[normalize_link(link)] = path
+    return links
+
+
+def discovery_only_links() -> set[str]:
+    """Current items explicitly held for source review or excluded as paid AMA."""
+    latest = ROOT / "latest.md"
+    if not latest.exists():
+        return set()
+    links = set()
+    for line in latest.read_text(encoding="utf-8").splitlines():
+        if not re.match(r"^\| \d{4}-\d{2}-\d{2} \|", line):
+            continue
+        if "待完整来源复核" not in line and "付费 AMA，按既定范围排除" not in line:
+            continue
+        match = re.search(r"\]\((https?://[^)]+)\)", line)
+        if match:
+            links.add(normalize_link(match.group(1)))
     return links
 
 
@@ -643,11 +667,14 @@ def build_summary(ep: Episode) -> str:
 
 def generate_missing(episodes: list[Episode]) -> list[Path]:
     links = existing_links()
+    discovery_only = discovery_only_links()
     written: list[Path] = []
     for ep in episodes:
         if replay_target(ep):
             continue
         normalized_link = normalize_link(ep.link)
+        if normalized_link in discovery_only:
+            continue
         existing_path = links.get(normalized_link)
         if existing_path:
             if not existing_path.name.startswith("continuation_"):
@@ -709,6 +736,12 @@ def collect_episode_rows(episodes: list[Episode]) -> dict[str, list[tuple[Episod
             status = REPLAY_STATUS
         elif "不作为完整节目总结" in page_text or "完整节目受限" in page_text:
             status = RESTRICTED_STATUS
+        elif "来源状态：已按公开重播全文转录复核" in page_text:
+            status = "已按公开重播全文复核"
+        elif "来源状态：已按本期 Essentials 精选版完整转录复核" in page_text:
+            status = "已按本期精选版全文复核"
+        elif "来源状态：已按完整节目转录复核" in page_text:
+            status = "已按完整节目复核"
         else:
             status = "续写页面" if path.name.startswith("continuation_") else "原有页面覆盖"
         rows_by_source[ep.source].append((ep, path, status))
@@ -723,7 +756,7 @@ def row_stats(rows: list[tuple[Episode, Path, str]]) -> dict[str, int]:
         "covered_pages": len(unique_paths),
         "continuation_pages": continuation_count,
         "existing_pages": len(unique_paths) - continuation_count,
-        "replay_events": sum(status == REPLAY_STATUS for _, _, status in rows),
+        "replay_events": sum(status in {REPLAY_STATUS, "已按公开重播全文复核"} for _, _, status in rows),
     }
 
 
@@ -755,7 +788,7 @@ def section_rows_for_source(source: str, rows: list[tuple[Episode, Path, str]]) 
     return [(section, groups[section]) for section in ordered_sections]
 
 
-def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) -> None:
+def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]], rss_total: int) -> None:
     stats = row_stats(rows)
     section_rows = section_rows_for_source(source, rows)
     framework_label = "主题框架" if source == "diaryofaceo" else "原项目章节框架"
@@ -769,10 +802,10 @@ def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) ->
             else f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中；每条新增内容均以 `【new】` 标注。"
         ),
         "",
-        "RSS 只负责发现新节目；已按完整节目复核的页面会保留对应来源状态，replay 或受限来源不会冒充原始长节目。",
+        "RSS 只负责发现新节目；页面保留实际复核范围，原始节目、公开重播、精选片段和受限来源分开标识。本批逐条状态见[最新节目核对](/latest)。",
         "",
         '<div class="continuation-stats">',
-        f'  <div><strong>{stats["rss_events"]}</strong><span>RSS 条目</span></div>',
+        f'  <div><strong>{rss_total}</strong><span>RSS 条目</span></div>',
         f'  <div><strong>{stats["covered_pages"]}</strong><span>覆盖页面</span></div>',
         f'  <div><strong>{stats["continuation_pages"]}</strong><span>续写页面</span></div>',
         f'  <div><strong>{stats["replay_events"]}</strong><span>重播/片段</span></div>',
@@ -813,12 +846,15 @@ def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]]) ->
 def generate_continuation_index(episodes: list[Episode]) -> None:
     rows_by_source = collect_episode_rows(episodes)
     for source, rows in rows_by_source.items():
-        generate_source_index(source, rows)
+        generate_source_index(source, rows, sum(ep.source == source for ep in episodes))
 
     all_rows = [row for rows in rows_by_source.values() for row in rows]
     total_rss = len(episodes)
-    if len(all_rows) != total_rss:
-        raise RuntimeError(f"Only {len(all_rows)} of {total_rss} RSS events have a covered page")
+    discovery_only = discovery_only_links()
+    covered_links = {normalize_link(ep.link) for ep, _, _ in all_rows}
+    uncovered = {normalize_link(ep.link) for ep in episodes} - covered_links
+    if uncovered - discovery_only:
+        raise RuntimeError(f"RSS events missing an article or review status: {sorted(uncovered - discovery_only)}")
     stats = row_stats(all_rows)
     recent_rows = sorted(
         all_rows,
@@ -831,7 +867,7 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
         "",
         "本页由 `scripts/generate_continuation.py` 根据官方公开 RSS 和本地页面自动生成，用来进入 `2025-08-02` 之后的节目记录。",
         "",
-        "RSS 只负责发现新节目；页面正文的复核范围以页面内来源状态为准，replay 或受限来源不会冒充原始长节目。",
+        "RSS 只负责发现新节目；页面正文的复核范围以页面内来源状态为准。本批逐条状态及付费排除条目见[最新节目核对](/latest)；已可合并的精选片段链接回原节目，不增加去重页面数。",
         "",
         '<div class="continuation-stats">',
         f'  <div><strong>{total_rss}</strong><span>RSS 条目</span></div>',
@@ -869,7 +905,7 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
             "",
             "- Huberman Lab 与 Peter Attia 的分类页条目以 `【new】` 开头；The Diary Of A CEO 条目不显示该标签。",
             "- `续写页面` 是停更后新增整理稿；`原有页面覆盖` 表示原项目已有同原文链接页面，未重复生成。",
-            f"- `{REPLAY_STATUS}` 表示该条目是重播或精选片段，页面链接回到已收录的完整节目；其发布日期不会覆盖原节目日期。",
+            f"- `{REPLAY_STATUS}` 表示该条目是重播或精选片段。已有原节目可安全合并时链接回原节目，否则单独标明片段或公开重播；其发布日期不会覆盖原节目日期。",
             f"- 当前覆盖的 {stats['covered_pages']} 个页面中，{stats['continuation_pages']} 个是续写页面，{stats['existing_pages']} 个由原有页面覆盖。",
             "- 站点已启用顶部本地搜索；更大范围的批量全文检索可使用导出的本地知识库。",
             "",
@@ -1183,8 +1219,16 @@ def write_diaryofaceo_landing(episodes: list[Episode]) -> None:
     (ROOT / "diaryofaceo" / "index.md").write_text(source_path.read_text(encoding="utf-8"), encoding="utf-8")
     home_path = ROOT / "index.md"
     home = home_path.read_text(encoding="utf-8")
-    home = re.sub(r"/diaryofaceo/[a-zA-Z0-9_/-]+", first_link, home)
+    home = replace_home_diaryofaceo_link(home, first_link)
     home_path.write_text(home, encoding="utf-8")
+
+
+def replace_home_diaryofaceo_link(home: str, link: str) -> str:
+    pattern = re.compile(r"(?m)^([ \t]*link:[ \t]*)/diaryofaceo/[^\r\n]+$")
+    updated, count = pattern.subn(lambda match: match.group(1) + link, home)
+    if count != 1:
+        raise RuntimeError(f"Expected one Diary Of A CEO home link, found {count}")
+    return updated
 
 
 def replace_nav_link(config: str, text: str, link: str) -> str:

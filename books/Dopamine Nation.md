@@ -1,5 +1,8 @@
 # 《成瘾》实用行动指南：在高刺激时代重建快乐-痛苦平衡
 
+> 核对状态（2026-09-23）：这是既有书籍提纲，尚未按原书章节逐项核对。文中的具体数值、研究解释和健康建议仍待核实，不能作为已完成的原书解析。
+
+
 原书标题：Dopamine Nation: Finding Balance in the Age of Indulgence
 
 原书作者：Anna Lembke

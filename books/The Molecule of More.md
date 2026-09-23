@@ -1,5 +1,8 @@
 # 《贪婪的多巴胺》实用行动指南：把欲望系统变成长期行动力
 
+> 核对状态（2026-09-23）：这是既有书籍提纲，尚未按原书章节逐项核对。文中的具体数值、研究解释和健康建议仍待核实，不能作为已完成的原书解析。
+
+
 原书标题：The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity-and Will Determine the Fate of the Human Race
 
 原书作者：Daniel Z. Lieberman, Michael E. Long

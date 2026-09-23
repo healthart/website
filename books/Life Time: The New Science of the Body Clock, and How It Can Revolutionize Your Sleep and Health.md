@@ -1,5 +1,8 @@
 # 《绝佳时间》实用行动指南：优化你的生物钟
 
+> 核对状态（2026-09-23）：这是既有书籍提纲，尚未按原书章节逐项核对。文中的具体数值、研究解释和健康建议仍待核实，不能作为已完成的原书解析。
+
+
 原书标题：Life Time: The New Science of the Body Clock, and How It Can Revolutionize Your Sleep and Health
 
 原书作者：Russell Foster

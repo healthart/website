@@ -1,4 +1,4 @@
-# 女性健康与生殖决策：房产、股票与提前退休判断
+# 租房还是买房：住房成本、股票投资与提前退休
 
 原文标题：Early Retirement Expert: A House Vs Stocks, Here's The Truth!
 
@@ -58,3 +58,7 @@
 ### 个性化考量
 
 - 重大购房或退休决策应结合伴侣、照护、职业和健康风险，并在必要时寻求合规专业意见。
+
+## 官方重播与片段
+
+- 2026-09-18：[官方精选片段](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1krzjxfdy091dtc2xyyrw7a)；片段回链本期原节目，不代表原节目重新发表。
