@@ -58,3 +58,7 @@
 ### 个性化考量
 
 - 有 ADHD、焦虑或睡眠问题的孩子应优先评估整体环境，不用“脑腐”标签代替专业判断。
+
+## 官方重播与片段
+
+- 2026-09-11：[官方精选片段](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0bdp5kgrfpv398m820xbkqf)；片段回链本期原节目，不代表原节目重新发表。

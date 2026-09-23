@@ -26,6 +26,13 @@ def episode(**overrides):
 
 
 class GenerateContinuationTests(unittest.TestCase):
+    def test_home_diaryofaceo_link_replacement_is_idempotent_with_chinese_slug(self):
+        target = "/diaryofaceo/continuation_2026-09-21_RickRubin谈创作"
+        home = """features:\n  - title: Diary Of A CEO\n    link: /diaryofaceo/continuation_2026-09-21_旧标题旧标题\n"""
+        updated = GENERATOR.replace_home_diaryofaceo_link(home, target)
+        self.assertIn(f"    link: {target}\n", updated)
+        self.assertEqual(GENERATOR.replace_home_diaryofaceo_link(updated, target), updated)
+
     def test_metadata_page_keeps_evidence_boundary(self):
         text = GENERATOR.build_summary(episode())
 
@@ -55,12 +62,55 @@ class GenerateContinuationTests(unittest.TestCase):
 
         self.assertEqual(title, "肽类：区分科学前景与营销炒作")
 
-    def test_replay_map_has_nine_existing_targets(self):
-        self.assertEqual(len(GENERATOR.REPLAY_TARGETS), 9)
+    def test_replay_map_has_fourteen_existing_targets(self):
+        self.assertEqual(len(GENERATOR.REPLAY_TARGETS), 14)
         for link, relative_path in GENERATOR.REPLAY_TARGETS.items():
             replay = episode(link=f"{link}/" if "peterattiamd.com" in link else link)
             self.assertEqual(GENERATOR.replay_relative_path(replay), relative_path)
             self.assertTrue((GENERATOR.ROOT / relative_path).is_file())
+
+    def test_huberman_rss_missing_links_use_official_episode_urls(self):
+        self.assertEqual(
+            GENERATOR.HUBERMAN_MISSING_LINKS[
+                "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
+            ],
+            "https://www.hubermanlab.com/episode/essentials-diet-and-nutrition-for-mental-health-chris-palmer",
+        )
+        self.assertEqual(
+            GENERATOR.HUBERMAN_MISSING_LINKS[
+                "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs"
+            ],
+            "https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs",
+        )
+
+    def test_discovery_only_items_are_held_out_of_generated_articles(self):
+        held = GENERATOR.discovery_only_links()
+        self.assertEqual(len(held), 2)
+        self.assertIn("https://peterattiamd.com/ama89", held)
+        self.assertIn("https://peterattiamd.com/ama88", held)
+        self.assertNotIn("https://peterattiamd.com/bloodpressure", held)
+
+    def test_new_source_statuses_keep_review_scope(self):
+        cases = [
+            ("peterattiamd", "https://peterattiamd.com/bloodpressure/", "已按公开重播全文复核"),
+            ("diaryofaceo", "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m08555edjdxy5e3vgd5b9bpa", GENERATOR.REPLAY_STATUS),
+            ("hubermanlab", "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin", "已按本期精选版全文复核"),
+        ]
+        for source, link, expected in cases:
+            with self.subTest(link=link):
+                rows = GENERATOR.collect_episode_rows([episode(source=source, link=link)])
+                self.assertEqual(rows[source][0][2], expected)
+
+    def test_new_full_episode_status_survives_index_regeneration(self):
+        target = GENERATOR.ROOT / "hubermanlab/continuation_2026-09-21_肠道健康与减重从纤维到药物和内镜治疗.md"
+        rows = GENERATOR.collect_episode_rows([
+            episode(
+                link="https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
+                published=dt.date(2026, 9, 21),
+            )
+        ])
+        self.assertEqual(rows["hubermanlab"][0][1], target)
+        self.assertEqual(rows["hubermanlab"][0][2], "已按完整节目复核")
 
     def test_reviewed_section_overrides_are_valid(self):
         section_maps = {

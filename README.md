@@ -1,14 +1,14 @@
 # Health Art
 
-Health Art 致力于将前沿的健康科学知识转化为实用的生活指南。
+Health Art 整理三档播客、图书和公开健康方案，按实际来源范围写成中文解析。
 
-我们深入研究并提炼来自 Huberman Lab、Peter Attia 等世界顶级健康专家的研究成果和建议。
+播客的完整节目、Essentials 精选版、公开重播及付费预览分别标注；书籍旧稿与已按全书复核的解析也分别标注。
 
-为中文读者提供科学、实用的健康优化方案。
+本地内容不等于已经推送或公开发布。
 
 ## 项目特点
 
-当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。图书中的 [《Huberman 基础健身 Protocol》实用行动指南](books/huberman-protocol/foundational-fitness.md) 直接进入解析正文；[汇总页](books/huberman-protocol/index.md) 保留相关综述。
+当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。[图书目录](books/index.md)区分《Protocols》全书解析、13 篇待按原书复核的旧稿和 [Huberman 基础健身 Protocol](books/huberman-protocol/foundational-fitness.md) 官方方案解析；[最新节目清单](latest.md)逐条列出近期播客的复核状态。
 
 - 📚 基于 VitePress 构建的现代文档网站
 - 🔍 提供详细的健康科学知识
@@ -42,16 +42,15 @@ pnpm run preview
 
 网站以 `2025-08-02` 为断点，持续用三个官方公开 RSS 发现节目；正文以已经复核的本地 HealthArt 来源笔记为准：
 
-- Huberman Lab：109 条目标节目，更新至 2026-08-13
-- The Peter Attia Drive：41 条目标节目，更新至 2026-08-10（其中 12 篇付费 AMA 本轮不改写）
-- The Diary Of A CEO：154 条目标节目，更新至 2026-08-14
-- 合计：304 条目标节目；本轮实际同步 292 页，保留 12 篇受限 AMA 原文页面不动
+- 截至 2026-09-23，三档官方节目均核对到 2026-09-21；本批新增 33 条节目记录。
+- 本批 25 期节目已按当期可获得的完整转录或字幕复核（其中 5 期为 Essentials 精选版）；Kristen Holmes 的原始长访谈另按公开全文补核，本批精选重播回链该页；还有 1 期 Peter Attia 公开重播按本次公开全文复核、4 条其他精选片段回链原节目，2 期付费 AMA 按既定范围排除。
+- 停更后累计 350 条 RSS 事件，其中 348 条有对应页面，去重后为 336 篇覆盖页面、315 篇续写页面及 52 条重播／片段事件。每条本批记录的状态见 [`latest.md`](latest.md)。
 
-本轮同步的 292 页中，245 页按原始完整节目复核，37 页只覆盖完整 replay 片段，另有 9 页 RSS/show notes replay 和 1 页 Peter 公开预览受限；它们都在页面内明确标注范围，不把片段或预览写成原始长节目总结。当前共有 288 个 continuation 页面，另有 21 个 feed 条目由原有页面覆盖。
+2026-08-19 那轮同步的 292 页中，245 页按原始完整节目复核，37 页只覆盖完整 replay 片段，另有 9 页 RSS/show notes replay 和 1 页 Peter 公开预览受限；它们都在页面内明确标注范围，不把片段或预览写成原始长节目总结。截至本批更新，累计 315 个 continuation 页面，另有 21 个既有页面覆盖；重播回链不增加去重页面数。
 
-三个来源的分类索引分别保存在 `hubermanlab/new.md`、`peterattiamd/new.md` 和 `diaryofaceo/new.md`。站点不单列“新增内容”导航；The Diary Of A CEO 页面按主题进入侧边栏，其他新增页面可通过顶部本地搜索找到。更大范围的批量检索可使用本地知识库导出。
+三个来源的分类索引分别保存在 `hubermanlab/new.md`、`peterattiamd/new.md` 和 `diaryofaceo/new.md`。站点顶部设有“最新节目”入口，本批页面均可从逐条状态清单进入；The Diary Of A CEO 页面也按主题进入侧边栏。更大范围的批量检索可使用本地知识库导出。
 
-本轮 2026-08-19 的网站正文从 canonical Obsidian 同步，保持原项目的三段式架构（确定行动指南、核心解析、深入视角），不写入完整转录或节目时间戳。健康干预、药物、补剂、筛查和风险主张仍在正文中保留适用边界；12 篇付费 AMA 只保留已有页面，未冒充完整节目复核。
+播客正文从 canonical Obsidian 来源笔记同步，保持原项目的三段式架构（确定行动指南、核心解析、深入视角），不写入完整转录。健康干预、药物、补剂、筛查和风险主张在正文中保留适用边界；付费 AMA 不冒充完整节目复核。
 
 更新脚本：
 
@@ -82,6 +81,8 @@ health-art/
 ├── .vitepress/        # VitePress 配置
 ├── hubermanlab/       # Huberman Lab 相关内容
 ├── peterattiamd/      # Peter Attia MD 相关内容
+├── diaryofaceo/       # The Diary Of A CEO 相关内容
+├── books/             # 图书与公开方案
 ├── scripts/           # 续写生成脚本
 ├── public/            # 静态资源
 └── index.md           # 首页

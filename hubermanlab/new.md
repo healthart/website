@@ -2,12 +2,12 @@
 
 本页把 `2025-08-02` 之后的 Huberman Lab RSS 条目放入原项目章节框架中；每条新增内容均以 `【new】` 标注。
 
-RSS 只负责发现新节目；已按完整节目复核的页面会保留对应来源状态，replay 或受限来源不会冒充原始长节目。
+RSS 只负责发现新节目；页面保留实际复核范围，原始节目、公开重播、精选片段和受限来源分开标识。本批逐条状态见[最新节目核对](/latest)。
 
 <div class="continuation-stats">
-  <div><strong>109</strong><span>RSS 条目</span></div>
-  <div><strong>109</strong><span>覆盖页面</span></div>
-  <div><strong>101</strong><span>续写页面</span></div>
+  <div><strong>120</strong><span>RSS 条目</span></div>
+  <div><strong>120</strong><span>覆盖页面</span></div>
+  <div><strong>112</strong><span>续写页面</span></div>
   <div><strong>0</strong><span>重播/片段</span></div>
 </div>
 
@@ -18,14 +18,14 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 | 第1章：神经系统快速调节 | 4 |
 | 第2章：注意力与认知即时优化 | 6 |
 | 第3章：生物钟同步与光照管理 | 4 |
-| 第4章：睡眠科学与日循环整合 | 1 |
+| 第4章：睡眠科学与日循环整合 | 2 |
 | 第6章：科学健身与恢复周期 | 11 |
-| 第7章：营养与进食策略 | 11 |
-| 第8章：心理与认知周期 | 17 |
-| 第9章：神经可塑性与长期学习 | 15 |
-| 第10章：健康延寿系统 | 6 |
+| 第7章：营养与进食策略 | 13 |
+| 第8章：心理与认知周期 | 18 |
+| 第9章：神经可塑性与长期学习 | 16 |
+| 第10章：健康延寿系统 | 7 |
 | 第11章：特殊状况长期管理 | 15 |
-| 第12章：心理韧性与生活质量 | 20 |
+| 第12章：心理韧性与生活质量 | 24 |
 
 ## 第1章：神经系统快速调节
 
@@ -60,6 +60,7 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-09-03 | [【new】睡眠如何整理记忆与情绪：不同阶段、规律作息与研究边界](/hubermanlab/continuation_2026-09-03_睡眠如何整理记忆与情绪不同阶段规律作息与研究边界) | [https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe](https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe) | 已按本期精选版全文复核 |
 | 2026-06-11 | [【new】睡眠工具箱：优化睡眠与清醒节律的实用指南](/hubermanlab/sleep_toolkit_sleep_wake_timing) | [Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing](https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing) | 原有页面覆盖 |
 
 ## 第6章：科学健身与恢复周期
@@ -82,6 +83,8 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-09-21 | [【new】肠道健康与减重：从纤维到药物和内镜治疗](/hubermanlab/continuation_2026-09-21_肠道健康与减重从纤维到药物和内镜治疗) | [https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson](https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson) | 已按完整节目复核 |
+| 2026-08-27 | [【new】饮食与精神健康：Chris Palmer 的临床观察及代谢假说](/hubermanlab/continuation_2026-08-27_饮食与精神健康ChrisPalmer的临床观察及代谢假说) | [https://www.hubermanlab.com/episode/essentials-diet-and-nutrition-for-mental-health-chris-palmer](https://www.hubermanlab.com/episode/essentials-diet-and-nutrition-for-mental-health-chris-palmer) | 已按本期精选版全文复核 |
 | 2026-06-25 | [【new】健康饮食、减脂与增肌：饮食科学基础](/hubermanlab/continuation_2026-06-25_essentials_the_science_of_eating_for_health_fat_loss_and_lean_muscle_layne_norton) | [The Science of Eating for Health, Fat Loss & Lean Muscle](https://www.hubermanlab.com/episode/essentials-the-science-of-eating-for-health-fat-loss-and-lean-muscle-layne-norton) | 续写页面 |
 | 2026-06-08 | [【new】饮食改善睡眠与代谢健康：实用行动指南](/hubermanlab/eating_for_better_sleep_metabolic_health) | [Eating for Better Sleep & Foods that Improve Metabolic Health](https://www.hubermanlab.com/episode/eating-for-better-sleep-and-foods-that-improve-metabolic-health-marie-pierre-st-onge) | 原有页面覆盖 |
 | 2026-04-30 | [【new】控制糖渴望与代谢：从味觉、肠道信号到睡眠和饮食结构](/hubermanlab/continuation_2026-04-30_essentials_control_sugar_cravings_and_metabolism_with_science_based_tools) | [Control Sugar Cravings & Metabolism with Science-Based Tools](https://www.hubermanlab.com/episode/essentials-control-sugar-cravings-and-metabolism-with-science-based-tools) | 续写页面 |
@@ -98,6 +101,7 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-24 | [【new】动力不足不等于懒：冷漠症、努力成本与行动启动](/hubermanlab/continuation_2026-08-24_动力不足不等于懒冷漠症努力成本与行动启动) | [How to Improve Motivation & Overcome Procrastination](https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain) | 已按完整节目复核 |
 | 2026-07-30 | [【new】韧性、身份与领导力：Jocko Willink 对谈](/hubermanlab/continuation_2026-07-30_essentials_how_to_become_resilient_forge_your_identity_and_lead_others_jocko_willink) | [How to Become Resilient, Forge Your Identity & Lead Others](https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink) | 续写页面 |
 | 2026-05-28 | [【new】悲伤疗愈的科学过程：从依恋到重新定位](/hubermanlab/grief_healing_process_essentials) | [The Science & Process of Healing from Grief](https://www.hubermanlab.com/episode/essentials-the-science-and-process-of-healing-from-grief) | 原有页面覆盖 |
 | 2026-05-18 | [【new】社交焦虑与连接感：用小互动校准对他人的错误预测](/hubermanlab/continuation_2026-05-18_how_to_overcome_social_anxiety_nick_epley) | [How to Overcome Social Anxiety](https://www.hubermanlab.com/episode/how-to-overcome-social-anxiety-nick-epley) | 续写页面 |
@@ -120,6 +124,8 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-08-31 | [【new】“两小时学习”与 AI 学校：基础知识训练和效果证据要分开](/hubermanlab/continuation_2026-08-31_两小时学习与AI学校基础知识训练和效果证据要分开) | [How to Accelerate Learning & Improve Education](https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt) | 已按完整节目复核 |
+| 2026-08-17 | [【new】情绪不是一张脸：情境、身体感觉与调节策略](/hubermanlab/continuation_2026-08-17_情绪不是一张脸情境身体感觉与调节策略) | [Neuroscience of Emotions & Tools for Improving Emotion Regulation](https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs) | 已按完整节目复核 |
 | 2026-07-23 | [【new】冥想、专注与意识：Sam Harris 对谈](/hubermanlab/continuation_2026-07-23_essentials_using_meditation_to_focus_view_consciousness_and_expand_your_mind_sam_harris) | [Using Meditation to Focus, View Consciousness & Expand Your Mind](https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris) | 续写页面 |
 | 2026-07-20 | [【new】加速学习与提升认知能力](/hubermanlab/continuation_2026-07-20_accelerate_learning_and_increase_cognitive_capacity_tommy_wood) | [Accelerate Learning & Increase Cognitive Capacity](https://www.hubermanlab.com/episode/accelerate-learning-and-increase-cognitive-capacity-tommy-wood) | 续写页面 |
 | 2026-07-13 | [【new】不同年龄如何改善记忆与认知功能](/hubermanlab/continuation_2026-07-13_how_to_improve_your_memory_and_cognitive_function_at_any_age_alan_castel) | [How to Improve Your Memory & Cognitive Function at Any Age](https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel) | 续写页面 |
@@ -139,6 +145,7 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-09-07 | [【new】线粒体不只是供能：丙酮酸去向、细胞生长与疾病](/hubermanlab/continuation_2026-09-07_线粒体不只是供能丙酮酸去向细胞生长与疾病) | [How Mitochondria Control Your Metabolism](https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter) | 已按完整节目复核 |
 | 2026-03-23 | [【new】活力与健康协议：把训练、营养、补剂和安全边界组合成系统](/hubermanlab/continuation_2026-03-23_the_best_vitality_and_health_protocols_rhonda_patrick) | [The Best Vitality & Health Protocols](https://www.hubermanlab.com/episode/the-best-vitality-and-health-protocols-rhonda-patrick) | 续写页面 |
 | 2026-02-23 | [【new】衰老大脑与身体活力：年轻血液因子、器官年龄和生活方式边界](/hubermanlab/continuation_2026-02-23_restore_youthfulness_and_vitality_to_the_aging_brain_and_body_tony_wyss_coray) | [Restore Youthfulness & Vitality to the Aging Brain & Body](https://www.hubermanlab.com/episode/restore-youthfulness-and-vitality-to-the-aging-brain-and-body-tony-wyss-coray) | 续写页面 |
 | 2025-12-25 | [【new】优化激素健康与活力：检测、生活方式、TRT、PCOS 和肽类边界](/hubermanlab/continuation_2025-12-25_essentials_how_to_optimize_your_hormones_for_health_and_vitality_kyle_gillett) | [How to Optimize Your Hormones for Health & Vitality](https://www.hubermanlab.com/episode/essentials-how-to-optimize-your-hormones-for-health-and-vitality-kyle-gillett) | 续写页面 |
@@ -170,6 +177,10 @@ RSS 只负责发现新节目；已按完整节目复核的页面会保留对应�
 
 | 日期 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- |
+| 2026-09-17 | [【new】全面评估体能：Andy Galpin 的九类能力与测试方法](/hubermanlab/continuation_2026-09-17_全面评估体能AndyGalpin的九类能力与测试方法) | [https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin](https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin) | 已按本期精选版全文复核 |
+| 2026-09-14 | [【new】幸福不是持续愉快：享受、满足、意义与关系的取舍](/hubermanlab/continuation_2026-09-14_幸福不是持续愉快享受满足意义与关系的取舍) | [The Art of True Happiness](https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks) | 已按完整节目复核 |
+| 2026-09-10 | [【new】后天经验如何影响后代：小 RNA 遗传的线虫证据与人体边界](/hubermanlab/continuation_2026-09-10_后天经验如何影响后代小RNA遗传的线虫证据与人体边界) | [https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi](https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi) | 已按本期精选版全文复核 |
+| 2026-08-20 | [【new】创造力的工作过程：Rick Rubin 谈试验、专注与完成作品](/hubermanlab/continuation_2026-08-20_创造力的工作过程RickRubin谈试验专注与完成作品) | [https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin](https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin) | 已按本期精选版全文复核 |
 | 2026-08-10 | [【new】用 AI 提升认知并服务人类：李飞飞对谈](/hubermanlab/continuation_2026-08-10_using_ai_to_increase_your_intelligence_and_enrich_humanity_fei_fei_li) | [Using AI to Increase Your Intelligence & Enrich Humanity](https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li) | 续写页面 |
 | 2026-07-27 | [【new】常见健康问题问答：待核对主题清单](/hubermanlab/continuation_2026-07-27_your_top_health_questions_answered) | [Your Top Health Questions Answered](https://www.hubermanlab.com/episode/your-top-health-questions-answered) | 续写页面 |
 | 2026-07-06 | [【new】养犬与冷静坚定的互动方式：Cesar Millan 对谈](/hubermanlab/continuation_2026-07-06_raising_a_dog_and_mastering_calm_assertive_energy_cesar_millan) | [Raising a Dog & Mastering Calm Assertive Energy](https://www.hubermanlab.com/episode/raising-a-dog-and-mastering-calm-assertive-energy-cesar-millan) | 续写页面 |
