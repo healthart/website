@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: "图书与公开方案"
-    details: "查看书籍旧稿的核对状态，以及已依据官方原文复核的 Huberman 基础健身方案。"
+    details: "阅读《Protocols》与《超越百岁》的 24 章图解、完整方案解析，以及其他书籍和公开方案。"
     link: /books/
     icon: 📚
   - title: "最新节目核对"

@@ -426,3 +426,22 @@
 .vp-doc._books_huberman-protocol_foundational-fitness table:first-of-type td:first-child {
   white-space: nowrap;
 }
+
+/* Book figures keep their labels legible at the full article width. */
+.book-illustrated .vp-doc img {
+  width: 100%;
+  height: auto;
+  margin: 28px auto;
+}
+
+.book-illustrated .vp-doc img[src*="cover-"] {
+  max-width: 280px;
+}
+
+.book-illustrated .vp-doc h2 {
+  margin-top: 48px;
+}
+
+.book-illustrated .vp-doc h3 {
+  margin-top: 40px;
+}

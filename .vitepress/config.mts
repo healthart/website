@@ -3671,11 +3671,11 @@ export default defineConfig({
           link: '/books/huberman-protocol/foundational-fitness'
         },
         {
-          text: '《Protocols》全书详解',
+          text: '《Protocols》7 章图解与 47 条方案',
           link: '/books/protocols-huberman'
         },
         {
-          "text": "《超越百岁》实用行动指南（待核对）",
+          "text": "《超越百岁》17 章图解",
           "link": "/books/Outlive: The Science and Art of Longevity.md"
         },
         {

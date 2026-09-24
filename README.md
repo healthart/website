@@ -8,7 +8,7 @@ Health Art 整理三档播客、图书和公开健康方案，按实际来源范
 
 ## 项目特点
 
-当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。[图书目录](books/index.md)区分《Protocols》全书解析、13 篇待按原书复核的旧稿和 [Huberman 基础健身 Protocol](books/huberman-protocol/foundational-fitness.md) 官方方案解析；[最新节目清单](latest.md)逐条列出近期播客的复核状态。
+当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。[图书目录](books/index.md)提供《Protocols》7 章图解与原有 47 条方案、《超越百岁》17 章中文电子书导读、12 篇待按原书复核的旧稿和 [Huberman 基础健身 Protocol](books/huberman-protocol/foundational-fitness.md) 官方方案解析；[最新节目清单](latest.md)逐条列出近期播客的复核状态。两本书共 24 张章节图，来源范围在各页说明。
 
 - 📚 基于 VitePress 构建的现代文档网站
 - 🔍 提供详细的健康科学知识
