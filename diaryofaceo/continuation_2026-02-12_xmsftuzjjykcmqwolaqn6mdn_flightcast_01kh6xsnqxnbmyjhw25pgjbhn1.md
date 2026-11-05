@@ -1,4 +1,4 @@
-# 训练与身体功能：离婚信号与关系修复
+# 离婚信号与关系修复
 
 原文标题：World No.1 Divorce Lawyer: This Is A Sign You’ll Divorce In 10 Years!
 
@@ -6,9 +6,9 @@
 
 发布日期：2026-02-12
 
-<YouTube videoId="Uvy5mcLiWW0" />
+转录来源：[查看转录或字幕](https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KJG33RBN2KGYY9AKZ8XV27E0/no_apple_doac_james_sexton_audio_new_24fps/transcoded-01KJG3A0XA5C3CDN5NZQ842156-01KJG3A0XAAP0RAF1FW3J6X5PQ_transcription.json)
 
-> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+> 来源状态：已按完整节目转录复核；官方 RSS transcript；完整节目；官方 RSS transcript；核对日期 2026-08-19。
 
 本文依据官方 RSS transcript 逐条复核；节目观点与外部证据分开呈现，健康相关内容不替代医疗、心理或法律意见。
 
@@ -58,3 +58,9 @@
 ### 个性化考量
 
 - 有暴力、跟踪或经济控制时不要单独 confrontation；联系当地服务并保护隐私。
+
+
+
+## 官方重播与片段
+
+- 2026-10-30：官方精选重播《Most Replayed Moment: Why You Need A Prenup And How To Avoid Divorce!》；[事件](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m4bfebpek1ckakz2bypshpk1)、[本期字幕](https://rss.flightcast.com/transcripts/01M4BFEBPEK1CKAKZ2BYPSHPK1.vtt)。逐段核对官方 VTT 全部 479 条字幕，00:00:04.290—00:28:11.700；官方 RSS 音频时长 00:28:16；片头、片尾与赞助广告不作为知识结论；字幕末尾较 RSS 时长早 4.300 秒，该尾段没有对应字幕，未推断其内容；本次仅核对重播片段并确认回链，不新增一篇原始长节目全文复核。

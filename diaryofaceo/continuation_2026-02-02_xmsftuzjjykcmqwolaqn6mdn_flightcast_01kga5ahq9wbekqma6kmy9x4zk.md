@@ -6,9 +6,9 @@
 
 发布日期：2026-02-02
 
-<YouTube videoId="sR7S2Q3c04g" />
+转录来源：[查看转录或字幕](https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KH97CS00V6YCCVE1QA2RPMSR/doac_paul_rosolie_audio_new/transcoded-01KH97D2M27WQTXPJFDTA7QBXA-01KH97D2M280XB8RF9D4SNB2T8_transcription.json)
 
-> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+> 来源状态：已按完整节目转录复核；官方 RSS transcript；完整节目；官方 RSS transcript；核对日期 2026-08-19。
 
 本文依据官方 RSS transcript 逐条复核；节目观点与外部证据分开呈现，不把嘉宾经验改写成普遍规律。
 
@@ -58,3 +58,9 @@
 ### 个性化考量
 
 - 有创伤、恐惧或冲动风险的人不应把节目当作暴露训练；高风险活动先接受专业指导。
+
+
+
+## 官方重播与片段
+
+- 2026-10-02：官方精选重播《Most Replayed Moment: I Met An Uncontacted Tribe! The Secret World Hidden In The Amazon Rainforest - Paul Rosolie》；[事件](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1kxmj387senm7yabk32ga4w)、[本期字幕](https://rss.flightcast.com/transcripts/01M1KXMJ387SENM7YABK32GA4W.vtt)。逐段核对官方 VTT 全部 689 条字幕，00:00:04.118—00:40:04.658；官方 RSS 音频时长 00:40:09；片头、片尾与赞助广告不作为知识结论；字幕末尾较 RSS 时长早 4.342 秒，该尾段没有对应字幕，未推断其内容；本次仅核对重播片段并确认回链，不新增一篇原始长节目全文复核。

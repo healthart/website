@@ -336,14 +336,14 @@
   background-color: var(--vp-c-brand-soft);
 }
 
-.main {
+.VPHomeHero .main {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
 }
 
-.main .heading {
+.VPHomeHero .main .heading {
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -33,6 +33,6 @@ features:
     icon: 🔍
   - title: "The Diary Of A CEO 行动指南"
     details: "按原始访谈与精选重播分别标明来源范围，整理健康、关系、事业与科技主题。"
-    link: /diaryofaceo/continuation_2026-09-21_RickRubin谈创作先听见自己的判断再决定作品何时完成
+    link: /diaryofaceo/continuation_2026-11-05_RobertPape谈战争升级八周情景路径及其前提
     icon: 🧭
 ---

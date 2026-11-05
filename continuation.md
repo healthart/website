@@ -5,10 +5,10 @@
 RSS 只负责发现新节目；页面正文的复核范围以页面内来源状态为准。本批逐条状态及付费排除条目见[最新节目核对](/latest)；已可合并的精选片段链接回原节目，不增加去重页面数。
 
 <div class="continuation-stats">
-  <div><strong>350</strong><span>RSS 条目</span></div>
-  <div><strong>336</strong><span>覆盖页面</span></div>
-  <div><strong>315</strong><span>续写页面</span></div>
-  <div><strong>52</strong><span>重播/片段</span></div>
+  <div><strong>388</strong><span>RSS 条目</span></div>
+  <div><strong>368</strong><span>覆盖页面</span></div>
+  <div><strong>347</strong><span>续写页面</span></div>
+  <div><strong>58</strong><span>重播/片段</span></div>
 </div>
 
 ## 分类入口
@@ -21,29 +21,29 @@ RSS 只负责发现新节目；页面正文的复核范围以页面内来源状�
 
 | 日期 | 来源 | 本地页面 | 原文 | 状态 |
 | --- | --- | --- | --- | --- |
-| 2026-09-21 | Huberman Lab | [【new】肠道健康与减重：从纤维到药物和内镜治疗](/hubermanlab/continuation_2026-09-21_肠道健康与减重从纤维到药物和内镜治疗) | [https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson](https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson) | 已按完整节目复核 |
-| 2026-09-21 | The Diary Of A CEO | [Rick Rubin 谈创作：先听见自己的判断，再决定作品何时完成](/diaryofaceo/continuation_2026-09-21_RickRubin谈创作先听见自己的判断再决定作品何时完成) | [Rick Rubin: What Jay-Z Did in 30 Minutes Left Me Speechless!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m2rhng0s1mz1vd7ag18agcz7) | 已按完整节目复核 |
-| 2026-09-18 | The Diary Of A CEO | [租房还是买房：住房成本、股票投资与提前退休](/diaryofaceo/continuation_2026-01-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kg2r5jae6vbfeg24q5f6b1j6) | [Most Replayed Moment: Is Renting Keeping You Poor? What's The Actual Cost Of Home Ownership? David Bach](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1krzjxfdy091dtc2xyyrw7a) | 官方重播/精选片段 |
-| 2026-09-17 | Huberman Lab | [【new】全面评估体能：Andy Galpin 的九类能力与测试方法](/hubermanlab/continuation_2026-09-17_全面评估体能AndyGalpin的九类能力与测试方法) | [https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin](https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin) | 已按本期精选版全文复核 |
-| 2026-09-17 | The Diary Of A CEO | [四位嘉宾辩论 AI 风险：眼前的伤害与未来的失控](/diaryofaceo/continuation_2026-09-17_四位嘉宾辩论AI风险眼前的伤害与未来的失控) | [The Great AI Debate: Is Artificial Intelligence an Extinction Threat? Debating the True Risks of Advanced Models](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m2gnjs32r11mfgef3fz4mfgv) | 已按完整节目复核 |
-| 2026-09-14 | Huberman Lab | [【new】幸福不是持续愉快：享受、满足、意义与关系的取舍](/hubermanlab/continuation_2026-09-14_幸福不是持续愉快享受满足意义与关系的取舍) | [The Art of True Happiness](https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks) | 已按完整节目复核 |
-| 2026-09-14 | The Peter Attia Drive | [【new】从 LDL 到脑健康：Obicetrapib 的研究进展与证据边界](/peterattiamd/continuation_2026-09-14_从LDL到脑健康Obicetrapib的研究进展与证据边界) | [https://peterattiamd.com/michaeldavidson/](https://peterattiamd.com/michaeldavidson/) | 已按完整节目复核 |
-| 2026-09-14 | The Diary Of A CEO | [江学勤谈全球秩序：供应链脆弱性与大胆预测之间的距离](/diaryofaceo/continuation_2026-09-14_江学勤谈全球秩序供应链脆弱性与大胆预测之间的距离) | [Professor Jiang: Three Predictions On the Collapse of the World Order](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m243xan33dbkt1n5844wsmav) | 已按完整节目复核 |
-| 2026-09-11 | The Diary Of A CEO | [人工智能、未来趋势与风险判断：聊天机器人、认知负担与儿童使用风险](/diaryofaceo/continuation_2025-08-18_xmsftuzjjykcmqwolaqn6mdn_370f1b78_73a2_11f0_bc4f_274c6ccaf026) | [Most Replayed Moment: Brain Rot Experts - How To Use AI In A Healthy Way!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0bdp5kgrfpv398m820xbkqf) | 官方重播/精选片段 |
-| 2026-09-10 | Huberman Lab | [【new】后天经验如何影响后代：小 RNA 遗传的线虫证据与人体边界](/hubermanlab/continuation_2026-09-10_后天经验如何影响后代小RNA遗传的线虫证据与人体边界) | [https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi](https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi) | 已按本期精选版全文复核 |
-| 2026-09-10 | The Diary Of A CEO | [让对话继续下去：提问、轮流表达与适度深入](/diaryofaceo/continuation_2026-09-10_让对话继续下去提问轮流表达与适度深入) | [https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m23ve3xs205c0hmnre4enr58](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m23ve3xs205c0hmnre4enr58) | 已按完整节目复核 |
-| 2026-09-07 | Huberman Lab | [【new】线粒体不只是供能：丙酮酸去向、细胞生长与疾病](/hubermanlab/continuation_2026-09-07_线粒体不只是供能丙酮酸去向细胞生长与疾病) | [How Mitochondria Control Your Metabolism](https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter) | 已按完整节目复核 |
-| 2026-09-07 | The Peter Attia Drive | [【new】血压测量与管理：AMA #48 公开重播](/peterattiamd/continuation_2026-09-07_血压测量与管理AMA48公开重播) | [Blood pressure: how to measure, manage, and treat high blood pressure (AMA #48 rebroadcast)](https://peterattiamd.com/bloodpressure/) | 已按公开重播全文复核 |
-| 2026-09-07 | The Diary Of A CEO | [辨别谎言与应对操控：从可核实信息到关系边界](/diaryofaceo/continuation_2026-09-07_辨别谎言与应对操控从可核实信息到关系边界) | [https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1m9a59afbgjg3wgbmw30a0f](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1m9a59afbgjg3wgbmw30a0f) | 已按完整节目复核 |
-| 2026-09-04 | The Diary Of A CEO | [筛查与风险管理：胰岛素、酮饮食与脑健康风险](/diaryofaceo/continuation_2025-11-24_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kakxtj06s60qn8ysenb9zd3q) | [Most Replayed Moment: The First Warning Signs Of Insulin Resistance! Check Your Skin For This](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0ac7xp90rtaaxp6r693d8dr) | 官方重播/精选片段 |
-| 2026-09-03 | Huberman Lab | [【new】睡眠如何整理记忆与情绪：不同阶段、规律作息与研究边界](/hubermanlab/continuation_2026-09-03_睡眠如何整理记忆与情绪不同阶段规律作息与研究边界) | [https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe](https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe) | 已按本期精选版全文复核 |
+| 2026-11-05 | Huberman Lab | [【new】冷热暴露与代谢：冬泳研究中的做法和适用边界](/hubermanlab/continuation_2026-11-05_冷热暴露与代谢冬泳研究中的做法和适用边界) | [Cold & Heat Exposure for Metabolic Health](https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg) | 已按本期精选版全文复核 |
+| 2026-11-05 | The Diary Of A CEO | [Robert Pape 谈战争升级：一条八周情景路径及其前提](/diaryofaceo/continuation_2026-11-05_RobertPape谈战争升级八周情景路径及其前提) | [Iran War Expert: If This Escalation Continues, 2027 Will Be Devastating!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m653w8ep3y02kjrdzyycge0n) | 已按完整节目复核 |
+| 2026-11-02 | Huberman Lab | [【new】Robert Greene 谈日常体验、专注与人生方向](/hubermanlab/continuation_2026-11-02_RobertGreene谈日常体验专注与人生方向) | [Access the Sublime & Live Your Best Life](https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene) | 已按完整节目复核 |
+| 2026-11-02 | The Peter Attia Drive | [【new】随年龄调整抗阻训练：用动作选择和有效努力兼顾肌肉与关节](/peterattiamd/continuation_2026-11-02_随年龄调整抗阻训练用动作选择和有效努力兼顾肌肉与关节) | [Resistance training as we age: optimizing exercise selection and training intensity for muscle growth, function, and injury risk management](https://peterattiamd.com/jeffcavaliere/) | 已按完整节目复核 |
+| 2026-11-02 | The Diary Of A CEO | [James Talarico 谈政治改革：生活成本、AI 与信仰中的公共责任](/diaryofaceo/continuation_2026-11-02_JamesTalarico谈政治改革生活成本AI与公共责任) | [James Talarico: The Biden Administration Failed Us!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m5xrncejk9hggcqq268pck6t) | 已按完整节目复核 |
+| 2026-10-30 | The Diary Of A CEO | [离婚信号与关系修复](/diaryofaceo/continuation_2026-02-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh6xsnqxnbmyjhw25pgjbhn1) | [Most Replayed Moment: Why You Need A Prenup And How To Avoid Divorce!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m4bfebpek1ckakz2bypshpk1) | 官方重播/精选片段 |
+| 2026-10-29 | Huberman Lab | [【new】气味怎样参与社交、情绪和感知](/hubermanlab/continuation_2026-10-29_气味怎样参与社交情绪和感知) | [How Smells Influence Our Hormones, Health & Behavior](https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel) | 已按本期精选版全文复核 |
+| 2026-10-29 | The Diary Of A CEO | [Sarah Paine 谈海洋秩序、战争目标与制度风险](/diaryofaceo/continuation_2026-10-29_SarahPaine谈海洋秩序战争目标与制度风险) | [Dr. Sarah Paine: Why The World Is Turning Away From America](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m5nxr742dt1qndcdps193q51) | 已按完整节目复核 |
+| 2026-10-26 | Huberman Lab | [【new】Ross Edgley 谈极限耐力、动机切换与力量储备](/hubermanlab/continuation_2026-10-26_RossEdgley谈极限耐力动机切换与力量储备) | [Unlocking Persistent Motivation & Extreme Resilience](https://www.hubermanlab.com/episode/unlocking-persistent-motivation-and-extreme-resilience-ross-edgley) | 已按完整节目复核 |
+| 2026-10-26 | The Peter Attia Drive | [【new】情绪怎样形成：预测、身体调节与可以练习的反应](/peterattiamd/continuation_2026-10-26_情绪怎样形成预测身体调节与可以练习的反应) | [The neuroscience of emotion: challenging conventional theories of emotion, how the brain predicts and constructs our experiences, and gaining greater control over how we feel](https://peterattiamd.com/lisafeldmanbarrett/) | 已按完整节目复核 |
+| 2026-10-26 | The Diary Of A CEO | [Mark Cuban 谈创业与 AI：技能、判断和时间自主](/diaryofaceo/continuation_2026-10-26_MarkCuban谈创业AI与时间自主) | [Mark Cuban: This Is Bigger Than The Internet, But People Keep The Edge!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m53asgwhbbhqj0c8nddd61ar) | 已按完整节目复核 |
+| 2026-10-23 | The Diary Of A CEO | [人工智能、未来趋势与风险判断：人工智能公司透明度与风险沟通](/diaryofaceo/continuation_2026-03-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmk4xnrshfpake6j014g9qdq) | [Most Replayed Moment: How AI Companies Are Gaslighting You - Karen Hao](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1pecbrtp7ypxshdzjam5xac) | 官方重播/精选片段 |
+| 2026-10-22 | Huberman Lab | [【new】补剂选择：先明确目标，再看成分和证据](/hubermanlab/continuation_2026-10-22_补剂选择先明确目标再看成分和证据) | [Developing a Rational Approach to Supplementation for Health & Performance](https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance) | 已按本期精选版全文复核 |
+| 2026-10-22 | The Diary Of A CEO | [战争中的长期压力：责任、创伤与不能被工作替代的关系](/diaryofaceo/continuation_2026-10-22_战争中的长期压力责任创伤与不能被工作替代的关系) | [President Zelenskyy: Peace Is A Huge Compromise, The Horrific Atrocities Of Russian War Crimes!](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m53cgq1fy66a1wpvxbrd1zkg) | 已按完整节目复核 |
+| 2026-10-19 | Huberman Lab | [【new】Jared Diamond 谈领导者、研究方法与长期兴趣](/hubermanlab/continuation_2026-10-19_JaredDiamond谈领导者研究方法与长期兴趣) | [What Makes Great Leaders & How to Live an Extraordinary Life](https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond) | 已按完整节目复核 |
+| 2026-10-19 | The Peter Attia Drive | [【new】癌症预防与治疗的新方向：炎症、早检、免疫与再生能力](/peterattiamd/continuation_2026-10-19_癌症预防与治疗的新方向炎症早检免疫与再生能力) | [The evolving science of cancer: emerging approaches to prevention and early detection, and the advances reshaping treatment](https://peterattiamd.com/sidmukherjee3/) | 已按完整节目复核 |
 
 ## 说明
 
 - Huberman Lab 与 Peter Attia 的分类页条目以 `【new】` 开头；The Diary Of A CEO 条目不显示该标签。
 - `续写页面` 是停更后新增整理稿；`原有页面覆盖` 表示原项目已有同原文链接页面，未重复生成。
 - `官方重播/精选片段` 表示该条目是重播或精选片段。已有原节目可安全合并时链接回原节目，否则单独标明片段或公开重播；其发布日期不会覆盖原节目日期。
-- 当前覆盖的 336 个页面中，315 个是续写页面，21 个由原有页面覆盖。
+- 当前覆盖的 368 个页面中，347 个是续写页面，21 个由原有页面覆盖。
 - 站点已启用顶部本地搜索；更大范围的批量全文检索可使用导出的本地知识库。
 
 ## 数据来源

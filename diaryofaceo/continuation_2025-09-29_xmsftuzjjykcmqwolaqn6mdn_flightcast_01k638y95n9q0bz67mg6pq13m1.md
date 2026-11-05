@@ -6,9 +6,9 @@
 
 发布日期：2025-09-29
 
-<YouTube videoId="Esu8BXLBmZ4" />
+转录来源：[查看转录或字幕](https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01K69D859HKHHTFVDWE6A07VFM/DOAC_MeaningDiscussion_Audio_transcoded_01K69F6VTVCP6M66PDKYBGZ4VE_01K69F6VTV56PSN617KQBH7B5W_transcription.json)
 
-> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+> 来源状态：已按完整节目转录复核；官方 RSS transcript；完整节目；官方 RSS transcript；核对日期 2026-08-19。
 
 本文依据官方 RSS transcript 逐条复核；节目观点与外部证据分开呈现，不把嘉宾经验改写成普遍规律。
 
@@ -58,3 +58,9 @@
 ### 个性化考量
 
 - 价值观冲突影响关系时，先约定讨论边界；有宗教控制或心理危机时优先求助。
+
+
+
+## 官方重播与片段
+
+- 2026-10-16：官方精选重播《Most Replayed Moment: Christian vs Atheist - Is Faith A Human Creation?》；[事件](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1p5r2dyem65abq1yneb6fxh)、[本期字幕](https://rss.flightcast.com/transcripts/01M1P5R2DYEM65ABQ1YNEB6FXH.vtt)。逐段核对官方 VTT 全部 428 条字幕，00:00:04.098—00:28:46.280；官方 RSS 音频时长 00:28:50；片头、片尾与赞助广告不作为知识结论；字幕末尾较 RSS 时长早 3.720 秒，该尾段没有对应字幕，未推断其内容；本次仅核对重播片段并确认回链，不新增一篇原始长节目全文复核。
