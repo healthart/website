@@ -6,9 +6,9 @@
 
 发布日期：2026-06-08
 
-<YouTube videoId="uLBsHXNEwAU" />
+转录来源：[查看转录或字幕](https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KTHXEEBWWHRGDMYVBR1MSJM1/doac_daniel_priestly_x_nick_hanauer_audio-transcoded_transcription.json)
 
-> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+> 来源状态：已按完整节目转录复核；官方 RSS transcript；完整节目；官方 RSS transcript；核对日期 2026-08-19。
 
 本文依据官方 RSS transcript 逐条复核；节目观点与外部证据分开呈现，不把嘉宾预测改写成确定事实。
 
@@ -58,3 +58,9 @@
 ### 个性化考量
 
 - 家庭财务脆弱时，先建立缓冲和保险，不把宏观预测当作个人投资指令。
+
+
+
+## 官方重播与片段
+
+- 2026-10-09：官方精选重播《Most Replayed Moment: AI Is Changing How Teams Work Forever》；[事件](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1kg7rq525jtctet05g29vh6)、[本期字幕](https://rss.flightcast.com/transcripts/01M1KG7RQ525JTCTET05G29VH6.vtt)。逐段核对官方 VTT 全部 295 条字幕，00:00:06.730—00:20:36.693；官方 RSS 音频时长 00:20:41；片头、片尾与赞助广告不作为知识结论；字幕末尾较 RSS 时长早 4.307 秒，该尾段没有对应字幕，未推断其内容；本次仅核对重播片段并确认回链，不新增一篇原始长节目全文复核。

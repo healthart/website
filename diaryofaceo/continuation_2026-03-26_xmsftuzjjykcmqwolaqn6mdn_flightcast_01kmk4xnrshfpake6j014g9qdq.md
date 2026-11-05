@@ -6,9 +6,9 @@
 
 发布日期：2026-03-26
 
-<YouTube videoId="Cn8HBj8QAbk" />
+转录来源：[查看转录或字幕](https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KNKTGSFD6KVDRFZA9ZM6KP6A/doac_karenhao_audio_updated/transcoded-01KNKTSMHNH9MT8V1GTMJVA3EF-01KNKTSMHNP7RW5GT7SEJB5W8F_transcription.json)
 
-> 来源状态：已按完整节目复核；节目观点与外部证据分开呈现。
+> 来源状态：已按完整节目转录复核；官方 RSS transcript；完整节目；官方 RSS transcript；核对日期 2026-08-19。
 
 本文依据官方 RSS transcript 逐条复核；节目观点与外部证据分开呈现。本文不把嘉宾预测或个人经验改写成确定事实。
 
@@ -58,3 +58,9 @@
 ### 个性化考量
 
 - 使用 AI 工具时，个人应减少敏感数据输入并保留人工核验；组织则应让一线员工能安全上报问题。
+
+
+
+## 官方重播与片段
+
+- 2026-10-23：官方精选重播《Most Replayed Moment: How AI Companies Are Gaslighting You - Karen Hao》；[事件](https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1pecbrtp7ypxshdzjam5xac)、[本期字幕](https://rss.flightcast.com/transcripts/01M1PECBRTP7YPXSHDZJAM5XAC.vtt)。逐段核对官方 VTT 全部 316 条字幕，00:00:04.172—00:24:03.372；官方 RSS 音频时长 00:24:08；片头、片尾与赞助广告不作为知识结论；字幕末尾较 RSS 时长早 4.628 秒，该尾段没有对应字幕，未推断其内容；本次仅核对重播片段并确认回链，不新增一篇原始长节目全文复核。

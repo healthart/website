@@ -21,6 +21,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -48,6 +49,11 @@ SOURCE_LABELS = {
 # Keeping this map explicit makes replay coverage auditable and prevents a future
 # generator run from creating duplicate knowledge pages.
 REPLAY_TARGETS = {
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m4bfebpek1ckakz2bypshpk1": "diaryofaceo/continuation_2026-02-12_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kh6xsnqxnbmyjhw25pgjbhn1.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1pecbrtp7ypxshdzjam5xac": "diaryofaceo/continuation_2026-03-26_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kmk4xnrshfpake6j014g9qdq.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1p5r2dyem65abq1yneb6fxh": "diaryofaceo/continuation_2025-09-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01k638y95n9q0bz67mg6pq13m1.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1kg7rq525jtctet05g29vh6": "diaryofaceo/continuation_2026-06-08_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kthx7wcr8tv92taf5y99fm5m.md",
+    "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1kxmj387senm7yabk32ga4w": "diaryofaceo/continuation_2026-02-02_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kga5ahq9wbekqma6kmy9x4zk.md",
     "https://peterattiamd.com/strengthandmuscle": "peterattiamd/muscle_strength_longevity_guide.md",
     "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m1krzjxfdy091dtc2xyyrw7a": "diaryofaceo/continuation_2026-01-29_xmsftuzjjykcmqwolaqn6mdn_flightcast_01kg2r5jae6vbfeg24q5f6b1j6.md",
     "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m0bdp5kgrfpv398m820xbkqf": "diaryofaceo/continuation_2025-08-18_xmsftuzjjykcmqwolaqn6mdn_370f1b78_73a2_11f0_bc4f_274c6ccaf026.md",
@@ -159,6 +165,9 @@ CURRENT_SECTION_OVERRIDES = {
 }
 
 HUBERMAN_MISSING_LINKS = {
+    # The publisher's RSS uses a stale Matthew slug; the official episode index
+    # and the live episode page use Matt.
+    "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matt-macdougall",
     "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer": "https://www.hubermanlab.com/episode/essentials-diet-and-nutrition-for-mental-health-chris-palmer",
     "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs": "https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs",
     "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf": "https://www.hubermanlab.com/episode/the-mental-frame-and-specific-daily-actions-to-succeed-andy-stumpf",
@@ -277,8 +286,8 @@ def fetch_episodes() -> list[Episode]:
             title = normalize_text(item.findtext("title"))
             link = html.unescape(item.findtext("link") or "").split("?")[0]
             guid = normalize_text(item.findtext("guid"))
-            if source == "hubermanlab" and not link:
-                link = HUBERMAN_MISSING_LINKS.get(title, "")
+            if source == "hubermanlab":
+                link = HUBERMAN_MISSING_LINKS.get(title, link)
             if not link:
                 link = f"{feed_url}#{slugify(guid or title)}"
             try:
@@ -299,7 +308,7 @@ def fetch_episodes() -> list[Episode]:
                     source=source,
                     title=title,
                     link=link,
-                    published=published_dt.date(),
+                    published=published_dt.astimezone(ZoneInfo("Asia/Shanghai")).date(),
                     description=description,
                     topics=extract_topics(description),
                 )

@@ -1,7 +1,9 @@
 import datetime as dt
 import importlib.util
+import io
 import sys
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 
@@ -26,6 +28,19 @@ def episode(**overrides):
 
 
 class GenerateContinuationTests(unittest.TestCase):
+    def test_feed_date_uses_beijing_and_repairs_official_neuralink_link(self):
+        xml = b"""<rss><channel><item>
+        <title>Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall</title>
+        <link>https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall</link>
+        <pubDate>Wed, 04 Nov 2026 22:50:00 GMT</pubDate>
+        <guid>date-boundary-regression</guid><description>Public episode</description>
+        </item></channel></rss>"""
+        with patch.dict(GENERATOR.FEEDS, {"hubermanlab": "https://example.com/rss"}, clear=True):
+            with patch.object(GENERATOR.urllib.request, "urlopen", return_value=io.BytesIO(xml)):
+                result = GENERATOR.fetch_episodes()
+        self.assertEqual(result[0].published, dt.date(2026, 11, 5))
+        self.assertTrue(result[0].link.endswith("-matt-macdougall"))
+
     def test_home_diaryofaceo_link_replacement_is_idempotent_with_chinese_slug(self):
         target = "/diaryofaceo/continuation_2026-09-21_RickRubin谈创作"
         home = """features:\n  - title: Diary Of A CEO\n    link: /diaryofaceo/continuation_2026-09-21_旧标题旧标题\n"""
@@ -62,8 +77,8 @@ class GenerateContinuationTests(unittest.TestCase):
 
         self.assertEqual(title, "肽类：区分科学前景与营销炒作")
 
-    def test_replay_map_has_fourteen_existing_targets(self):
-        self.assertEqual(len(GENERATOR.REPLAY_TARGETS), 14)
+    def test_replay_map_has_nineteen_existing_targets(self):
+        self.assertEqual(len(GENERATOR.REPLAY_TARGETS), 19)
         for link, relative_path in GENERATOR.REPLAY_TARGETS.items():
             replay = episode(link=f"{link}/" if "peterattiamd.com" in link else link)
             self.assertEqual(GENERATOR.replay_relative_path(replay), relative_path)
@@ -85,13 +100,16 @@ class GenerateContinuationTests(unittest.TestCase):
 
     def test_discovery_only_items_are_held_out_of_generated_articles(self):
         held = GENERATOR.discovery_only_links()
-        self.assertEqual(len(held), 2)
+        self.assertEqual(len(held), 3)
+        self.assertIn("https://peterattiamd.com/ama90", held)
         self.assertIn("https://peterattiamd.com/ama89", held)
         self.assertIn("https://peterattiamd.com/ama88", held)
         self.assertNotIn("https://peterattiamd.com/bloodpressure", held)
 
     def test_new_source_statuses_keep_review_scope(self):
         cases = [
+            ("diaryofaceo", "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m379smdzt80qs0ef25qedahm", GENERATOR.REPLAY_STATUS),
+            ("hubermanlab", "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg", "已按本期精选版全文复核"),
             ("peterattiamd", "https://peterattiamd.com/bloodpressure/", "已按公开重播全文复核"),
             ("diaryofaceo", "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn#flightcast_01m08555edjdxy5e3vgd5b9bpa", GENERATOR.REPLAY_STATUS),
             ("hubermanlab", "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin", "已按本期精选版全文复核"),
