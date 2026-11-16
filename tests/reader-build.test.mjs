@@ -43,7 +43,10 @@ test('book graphics and the corrected bold sentence survive the build', () => {
   assert.ok(book.includes('<strong>适应信号在训练期间就会启动，之后的修复和重塑继续进行。</strong>'))
   assert.ok(!book.includes('**适应信号'))
   for (let i = 1; i <= 7; i++) assert.ok(book.includes(`fig-h0${i}.png`))
-  assert.equal((read('books/index.html').match(/class="old-book-card"/g) || []).length, 12)
+  assert.equal((read('books/index.html').match(/class="book-index-item"/g) || []).length, 12)
+  assert.ok(!read('books/index.html').includes('旧稿 · 待核对'))
+  assert.ok(!read('books/index.html').includes('class="old-book-card"'))
+  assert.ok(!read('books/index.html').includes('<ul class="book-index">'))
   assert.ok(existsSync(resolve(root, 'favicon.ico')))
 })
 test('built search index returns unique sleep pages, useful snippets and source filters', async () => {
