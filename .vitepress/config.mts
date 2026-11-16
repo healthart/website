@@ -3,6 +3,7 @@ import { sourcePresentation } from './content.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcExclude: ['修改说明.md'],
   scrollOffset: 132,
   lang: 'zh-CN',
   title: "Health Art",

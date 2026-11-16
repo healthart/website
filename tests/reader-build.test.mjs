@@ -47,6 +47,8 @@ test('book graphics and the corrected bold sentence survive the build', () => {
   assert.ok(!read('books/index.html').includes('旧稿 · 待核对'))
   assert.ok(!read('books/index.html').includes('class="old-book-card"'))
   assert.ok(!read('books/index.html').includes('<ul class="book-index">'))
+  assert.ok(!read('books/index.html').includes('书目状态'))
+  assert.ok(!read('books/index.html').includes('仍待按原书核对'))
   assert.ok(existsSync(resolve(root, 'favicon.ico')))
 })
 test('built search index returns unique sleep pages, useful snippets and source filters', async () => {
