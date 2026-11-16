@@ -6,9 +6,13 @@ Health Art 整理三档播客、图书和公开健康方案，按实际来源范
 
 本地内容不等于已经推送或公开发布。
 
+## 阅读入口
+
+[开始阅读](start.md)按主题选读；[Huberman Lab](hubermanlab/index.md)、[Peter Attia](peterattiamd/index.md)、[The Diary Of A CEO](diaryofaceo/index.md)提供各栏目的节目列表。[图书与公开方案](books/index.md)采用书目卡片。搜索按文章归并，支持来源筛选和正文摘要。
+
 ## 项目特点
 
-当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。[图书目录](books/index.md)提供《Protocols》7 章图解与原有 47 条方案、《超越百岁》17 章中文电子书导读、12 篇待按原书复核的旧稿和 [Huberman 基础健身 Protocol](books/huberman-protocol/foundational-fitness.md) 官方方案解析；[最新节目清单](latest.md)逐条列出近期播客的复核状态。两本书共 24 张章节图，来源范围在各页说明。
+当前内容规则和变更记录见 [HealthArt 综合规格](docs/healthart-spec.md)。[图书目录](books/index.md)提供《Protocols》7 章图解与原有 47 条方案、《超越百岁》17 章中文电子书导读、12 篇待按原书复核的旧稿和 [Huberman 基础健身 Protocol](books/huberman-protocol/foundational-fitness.md) 官方方案解析；[节目核对记录](latest.md)逐条列出近期播客的复核状态。两本书共 24 张章节图，来源范围在各页说明。
 
 - 📚 基于 VitePress 构建的现代文档网站
 - 🔍 提供详细的健康科学知识
@@ -46,7 +50,7 @@ pnpm run preview
 - 本批38条记录含31篇当期完整内容解析（7篇 Essentials 仅指精选版）、5条重播回链、1篇仅当期片段解析和1期付费排除，逐条状态见[最新节目核对](latest.md)。
 - 累计368篇去重覆盖页面、347篇续写页面和58条重播事件；片段、公开重播、历史预览及旧稿各自保留来源范围。
 
-三个来源的分类索引分别保存在 `hubermanlab/new.md`、`peterattiamd/new.md` 和 `diaryofaceo/new.md`。站点顶部设有“最新节目”入口，本批页面均可从逐条状态清单进入；The Diary Of A CEO 页面也按主题进入侧边栏。更大范围的批量检索可使用本地知识库导出。
+三个来源的分类索引分别保存在 `hubermanlab/new.md`、`peterattiamd/new.md` 和 `diaryofaceo/new.md`。站点顶部的三个节目栏目分别进入可搜索的栏目首页，最新解析按发布日期排列；逐条核对记录通过页脚进入。The Diary Of A CEO 页面也按主题进入侧边栏。更大范围的批量检索可使用本地知识库导出。
 
 播客正文从 canonical Obsidian 来源笔记同步，保持原项目的三段式架构（确定行动指南、核心解析、深入视角），不写入完整转录。健康干预、药物、补剂、筛查和风险主张在正文中保留适用边界；付费 AMA 不冒充完整节目复核。
 
@@ -70,7 +74,16 @@ python3 scripts/export_local_knowledge_base.py
 
 导出目录位于网站仓库同级的 `HealthArt-本地知识库`。该目录包含全部 Markdown 内容、入口索引、停更后新增索引，以及 JSON/CSV 元数据，可直接用 Obsidian、VS Code 或 Finder 本地搜索使用。
 
-健康类内容只作为知识库素材，不作为个人医疗建议。
+
+## 阅读界面验证
+
+```bash
+pnpm run build
+node --test tests/reader-*.test.mjs
+python3 -m unittest discover -s tests -v
+```
+
+构建后的入口、链接、图片和“睡眠”搜索索引由阅读测试检查。浏览器验收在 1440px、400px 和 390px 下检查入口页、节目与图书正文、搜索、主题切换及路由跳转。
 
 ## 项目结构
 

@@ -18,7 +18,7 @@ defineProps({
   },
   title: {
     type: String,
-    default: 'YouTube video player'
+    default: '节目视频播放器'
   }
 })
 </script>

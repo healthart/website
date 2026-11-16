@@ -1,17 +1,37 @@
 import { defineConfig } from 'vitepress'
+import { sourcePresentation } from './content.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  scrollOffset: 132,
+  lang: 'zh-CN',
   title: "Health Art",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  markdown: {
+    config(md) {
+      md.core.ruler.before('normalize', 'healthart-source-info', state => {
+        state.src = sourcePresentation(state.src, state.env.relativePath || '')
+      })
+    }
+  },
+  transformHtml(html) {
+    return html.replace('aria-label="mobile navigation"', 'aria-label="打开或收起导航"')
+      .replace('aria-label="extra navigation"', 'aria-label="更多选项"')
+      .replace(/(id="sidebar-aria-label"[^>]*>)\s*Sidebar Navigation\s*/, '$1栏目导航')
+  },
+  transformPageData(page) {
+    page.frontmatter.prev = false
+    page.frontmatter.next = false
+  },
   description: "播客、图书与公开健康方案的中文来源解析",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '最新节目', link: '/latest' },
-      { text: 'Huberman Lab', link: '/hubermanlab/healthy_breathing_techniques' },
-      { text: 'Peter Attia', link: '/peterattiamd/metabolic_health_optimization_guide' },
-      { text: 'Diary Of A CEO', link: '/diaryofaceo/continuation_2026-11-05_RobertPape谈战争升级八周情景路径及其前提' },
+      { text: '开始阅读', link: '/start' },
+      { text: 'Huberman Lab', link: '/hubermanlab/' },
+      { text: 'Peter Attia', link: '/peterattiamd/' },
+      { text: 'Diary Of A CEO', link: '/diaryofaceo/' },
       { text: '图书', link: '/books/' },
       { text: '关于我们', link: '/about' }
     ],
@@ -22,23 +42,18 @@ export default defineConfig({
 
     editLink: {
       pattern: 'https://github.com/healthart/website/edit/main/:path',
-      text: '在Github上编辑该页面'
+      text: '在 GitHub 上编辑此页'
     },
 
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索',
-            buttonAriaLabel: '搜索文档'
-          },
-          modal: {
-            noResultsText: '没有找到结果'
-          }
-        }
-      }
-    },
+    outline: { label: '本页内容', level: [2, 3] },
+    sidebarMenuLabel: '栏目目录',
+    returnToTopLabel: '返回顶部',
+    darkModeSwitchLabel: '显示主题',
+    darkModeSwitchTitle: '切换为深色主题',
+    lightModeSwitchTitle: '切换为浅色主题',
+    skipToContentLabel: '跳到正文',
+    docFooter: { prev: '上一篇', next: '下一篇' },
+    notFound: { title: '页面未找到', quote: '通过栏目首页或搜索查找内容。', linkLabel: '返回首页', linkText: '返回首页' },
 
     sidebar: {
       '/hubermanlab/': [
@@ -276,7 +291,7 @@ export default defineConfig({
               "link": "/hubermanlab/learning_optimization_practical_guide"
             },
             {
-              "text": "17. [NEW] 保护视力与增强视觉功能的实用指南",
+              "text": "17. 新增 · 保护视力与增强视觉功能的实用指南",
               "link": "/hubermanlab/eye_care_practical_guide"
             }
 
@@ -508,11 +523,11 @@ export default defineConfig({
               "link": "/hubermanlab/recovery_optimization_guide"
             },
             {
-              "text": "24. [NEW] 肌肉增长与力量提升：科学指南",
+              "text": "24. 新增 · 肌肉增长与力量提升：科学指南",
               "link": "/hubermanlab/muscle_growth_scientific_guide"
             },
             {
-              "text": "25. [NEW] 耐力训练实用指南：从科学到行动",
+              "text": "25. 新增 · 耐力训练实用指南：从科学到行动",
               "link": "/hubermanlab/endurance_training_guide"
             }
 
@@ -615,7 +630,7 @@ export default defineConfig({
               "link": "/hubermanlab/emotions_nutrition_action_guide"
             },
             {
-              "text": "24. [NEW] 蛋白质选择实用指南：乳清蛋白、胶原蛋白与骨汤",
+              "text": "24. 新增 · 蛋白质选择实用指南：乳清蛋白、胶原蛋白与骨汤",
               "link": "/hubermanlab/protein_choice_practical_guide"
             }
 
@@ -749,7 +764,7 @@ export default defineConfig({
               "link": "/hubermanlab/transgenerational_genetic_memory"
             },
             {
-              "text": "17. [NEW] 技能学习的科学：高效掌握新技能的实用指南",
+              "text": "17. 新增 · 技能学习的科学：高效掌握新技能的实用指南",
               "link": "/hubermanlab/mastering_new_skills_guide"
             }
 
@@ -920,19 +935,19 @@ export default defineConfig({
               "link": "/hubermanlab/health_habits_maximum_benefits"
             },
             {
-              "text": "41. [NEW] 口腔健康实用指南：从牙齿护理到全身健康",
+              "text": "41. 新增 · 口腔健康实用指南：从牙齿护理到全身健康",
               "link": "/hubermanlab/oral_health_practical_guide"
             },
             {
-              "text": "42. [NEW] 科学减脂实用指南：利用神经系统最大化脂肪燃烧",
+              "text": "42. 新增 · 科学减脂实用指南：利用神经系统最大化脂肪燃烧",
               "link": "/hubermanlab/fat_burning_science_guide_nervous_maximized"
             },
             {
-              "text": "43. [NEW] 功能医学与健康优化实用指南",
+              "text": "43. 新增 · 功能医学与健康优化实用指南",
               "link": "/hubermanlab/functional_medicine_health_optimization_guide"
             },
             {
-              "text": "44. [NEW] 嗅觉、味觉与化学感知：实用行动指南",
+              "text": "44. 新增 · 嗅觉、味觉与化学感知：实用行动指南",
               "link": "/hubermanlab/smell_taste_chemical_perception"
             }
           ]
@@ -1046,11 +1061,11 @@ export default defineConfig({
               "link": "/hubermanlab/stroke_prevention_and_recovery"
             },
             {
-              "text": "27. [NEW] 通过代谢和线粒体健康改善心理健康的实用指南",
+              "text": "27. 新增 · 通过代谢和线粒体健康改善心理健康的实用指南",
               "link": "/hubermanlab/mental_health_metabolism_guide"
             },
             {
-              "text": "28. [NEW] 实用指南：克服成瘾的关键行动步骤",
+              "text": "28. 新增 · 实用指南：克服成瘾的关键行动步骤",
               "link": "/hubermanlab/overcoming_addiction_key_steps"
             }
 
@@ -1129,11 +1144,11 @@ export default defineConfig({
               "link": "/hubermanlab/finding_meaning_through_self_reflection"
             },
             {
-              "text": "18. [NEW] 关系健康实用指南：从感受识别到行为改变",
+              "text": "18. 新增 · 关系健康实用指南：从感受识别到行为改变",
               "link": "/hubermanlab/relationship_health_practical_guide"
             },
             {
-              "text": "19. [NEW] 宠物福利实用指南：基于动物行为学的科学建议",
+              "text": "19. 新增 · 宠物福利实用指南：基于动物行为学的科学建议",
               "link": "/hubermanlab/pet_welfare_scientific_guide"
             }
           ]
@@ -1380,7 +1395,7 @@ export default defineConfig({
                 },
 
                 {
-                  "text": "[NEW] 骨骼健康行动指南：预防和改善策略",
+                  "text": "新增 · 骨骼健康行动指南：预防和改善策略",
                   "link": "/peterattiamd/bone_health_prevention_improvement_strategies"
                 }
               ]
@@ -1558,15 +1573,15 @@ export default defineConfig({
                   "link": "/peterattiamd/endocrine_hormone_guide"
                 },
                 {
-                  "text": "[NEW] 女性生育健康与不孕症：实用行动指南",
+                  "text": "新增 · 女性生育健康与不孕症：实用行动指南",
                   "link": "/peterattiamd/womens_fertility_action_guide"
                 },
                 {
-                  "text": "[NEW] 男性生育力优化指南：从精子生成到生活方式干预",
+                  "text": "新增 · 男性生育力优化指南：从精子生成到生活方式干预",
                   "link": "/peterattiamd/male_fertility_optimization_guide"
                 },
                 {
-                  "text": "[NEW] 绝经期与激素替代疗法(HRT)实用指南",
+                  "text": "新增 · 绝经期与激素替代疗法(HRT)实用指南",
                   "link": "/peterattiamd/menopausal_hormone_replacement_therapy"
                 }
               ]
@@ -1613,7 +1628,7 @@ export default defineConfig({
                   "link": "/peterattiamd/autism_adhd_anxiety_support_guide"
                 },
                 {
-                  "text": "[NEW] 医学播客实用指南：生育、荷尔蒙、抗衰老和生活质量",
+                  "text": "新增 · 医学播客实用指南：生育、荷尔蒙、抗衰老和生活质量",
                   "link": "/peterattiamd/medical_podcast_practical_guide"
                 }
               ]
@@ -1687,7 +1702,7 @@ export default defineConfig({
                   "link": "/peterattiamd/fasting_exercise_practical_guide"
                 },
                 {
-                  "text": "[NEW] 禁食实用指南：健康益处、风险及实施框架",
+                  "text": "新增 · 禁食实用指南：健康益处、风险及实施框架",
                   "link": "/peterattiamd/fasting_guide_benefits_risks"
                 }
               ]
@@ -1790,7 +1805,7 @@ export default defineConfig({
                   "link": "/peterattiamd/cardio_training_for_longevity"
                 },
                 {
-                  "text": "[NEW] 有氧运动与健康管理实用指南：Peter Attia播客要点",
+                  "text": "新增 · 有氧运动与健康管理实用指南：Peter Attia播客要点",
                   "link": "/peterattiamd/cardio_health_management_guide"
                 }
               ]
@@ -1819,7 +1834,7 @@ export default defineConfig({
                   "link": "/peterattiamd/bfr_training_practical_guide"
                 },
                 {
-                  "text": "[NEW] 增强肌肉力量与质量的实用指南：长寿健康的关键策略",
+                  "text": "新增 · 增强肌肉力量与质量的实用指南：长寿健康的关键策略",
                   "link": "/peterattiamd/muscle_strength_longevity_guide"
                 }
               ]
@@ -1886,7 +1901,7 @@ export default defineConfig({
                   "link": "/peterattiamd/exercise_health_brain_protection"
                 },
                 {
-                  "text": "[NEW] 伤病预防与康复的实用指南",
+                  "text": "新增 · 伤病预防与康复的实用指南",
                   "link": "/peterattiamd/injury_prevention_recovery_guide"
                 }
               ]
@@ -1981,11 +1996,11 @@ export default defineConfig({
                   "link": "/peterattiamd/hormone_replacement_therapy_guide"
                 },
                 {
-                  "text": "[NEW] 脱发应对指南：从科学治疗到有效干预",
+                  "text": "新增 · 脱发应对指南：从科学治疗到有效干预",
                   "link": "/peterattiamd/hair_loss_treatment_guide"
                 },
                 {
-                  "text": "[NEW] 睾酮与前列腺癌关系：实用指南",
+                  "text": "新增 · 睾酮与前列腺癌关系：实用指南",
                   "link": "/peterattiamd/testosterone_prostate_cancer_guide"
                 }
               ]
@@ -2044,7 +2059,7 @@ export default defineConfig({
                   "link": "/peterattiamd/nicotine_guide_cognitive_benefits_safety"
                 },
                 {
-                  "text": "[NEW] 尼古丁使用的实用指南：认知、健康与使用策略",
+                  "text": "新增 · 尼古丁使用的实用指南：认知、健康与使用策略",
                   "link": "/peterattiamd/nicotine_usage_practical_guide"
                 }
               ]
@@ -2101,7 +2116,7 @@ export default defineConfig({
                   "link": "/peterattiamd/sleep_optimization_practical_guide_2"
                 },
                 {
-                  "text": "[NEW] 改善失眠和睡眠障碍的实用指南：认知行为疗法(CBT-I)",
+                  "text": "新增 · 改善失眠和睡眠障碍的实用指南：认知行为疗法(CBT-I)",
                   "link": "/peterattiamd/insomnia_treatment_practical_guide"
                 }
               ]
@@ -2179,7 +2194,7 @@ export default defineConfig({
                   "link": "/peterattiamd/heart_rate_variability_alcohol_guide"
                 },
                 {
-                  "text": "[NEW] 道路安全行动指南：降低驾驶风险的实用策略",
+                  "text": "新增 · 道路安全行动指南：降低驾驶风险的实用策略",
                   "link": "/peterattiamd/road_safety_driving_guide"
                 }
               ]
@@ -2349,11 +2364,11 @@ export default defineConfig({
                   "link": "/peterattiamd/health_recovery_practical_guide"
                 },
                 {
-                  "text": "[NEW] 癌症治疗与公共卫生领导力：实用行动指南",
+                  "text": "新增 · 癌症治疗与公共卫生领导力：实用行动指南",
                   "link": "/peterattiamd/cancer_treatment_leadership_guide"
                 },
                 {
-                  "text": "[NEW] 放射治疗与低剂量辐射应用：实用指南",
+                  "text": "新增 · 放射治疗与低剂量辐射应用：实用指南",
                   "link": "/peterattiamd/radiation_therapy_practical_guide"
                 }
               ]
@@ -2386,7 +2401,7 @@ export default defineConfig({
                   "link": "/peterattiamd/alzheimers_prevention_guide"
                 },
                 {
-                  "text": "[NEW] 大脑健康与身体优化的实用指南",
+                  "text": "新增 · 大脑健康与身体优化的实用指南",
                   "link": "/peterattiamd/brain_health_body_optimization_guide"
                 }
               ]
@@ -2638,11 +2653,11 @@ export default defineConfig({
                   "link": "/peterattiamd/longevity_intervention_guide"
                 },
                 {
-                  "text": "[NEW] 健康衰老的实用指南：从Kennedy博士的长寿研究中获取行动建议",
+                  "text": "新增 · 健康衰老的实用指南：从Kennedy博士的长寿研究中获取行动建议",
                   "link": "/peterattiamd/healthy_aging_practical_guide"
                 },
                 {
-                  "text": "[NEW] 老年健康行动指南：延长寿命与提升生活质量的实用策略",
+                  "text": "新增 · 老年健康行动指南：延长寿命与提升生活质量的实用策略",
                   "link": "/peterattiamd/strategies_for_improving_longevity_withResidents"
                 }
               ]
@@ -2680,7 +2695,7 @@ export default defineConfig({
                   "link": "/peterattiamd/staying_young_practical_guide"
                 },
                 {
-                  "text": "[NEW] 皮肤护理与面部抗衰老的实用指南",
+                  "text": "新增 · 皮肤护理与面部抗衰老的实用指南",
                   "link": "/peterattiamd/skin_care_anti_aging_guide"
                 }
               ]
@@ -2773,7 +2788,7 @@ export default defineConfig({
                   "link": "/peterattiamd/trauma_recovery_military_guide"
                 },
                 {
-                  "text": "[NEW] 疼痛管理：从科学到实践的行动指南",
+                  "text": "新增 · 疼痛管理：从科学到实践的行动指南",
                   "link": "/peterattiamd/pain_management_action_guide"
                 }
               ]
@@ -2844,7 +2859,7 @@ export default defineConfig({
                   "link": "/peterattiamd/near_death_wisdom_practical_guide"
                 },
                 {
-                  "text": "[NEW] 临终关怀专家的生命智慧：如何活得更好的实用指南",
+                  "text": "新增 · 临终关怀专家的生命智慧：如何活得更好的实用指南",
                   "link": "/peterattiamd/end_of_life_wisdom_guide"
                 }
               ]
@@ -2872,7 +2887,7 @@ export default defineConfig({
                   "link": "/peterattiamd/nutrition_and_health_guide"
                 },
                 {
-                  "text": "[NEW] 医学播客精华：睡眠、疼痛、放射治疗与创伤修复的实用指南",
+                  "text": "新增 · 医学播客精华：睡眠、疼痛、放射治疗与创伤修复的实用指南",
                   "link": "/peterattiamd/sleep_pain_treatment_healing_guide"
                 }
               ]
@@ -3721,72 +3736,69 @@ export default defineConfig({
         }
       ],
       '/books/': [
-        { text: '图书目录与核对状态', link: '/books/' },
+        { text: '图书与公开方案', link: '/books/' },
         {
-          text: '《Huberman 基础健身 Protocol》实用行动指南',
+          text: '基础健身 Protocol',
           link: '/books/huberman-protocol/foundational-fitness'
         },
         {
-          text: '《Protocols》7 章图解与 47 条方案',
+          text: 'Protocols · 7 章图解',
           link: '/books/protocols-huberman'
         },
         {
-          "text": "《超越百岁》17 章图解",
+          "text": "超越百岁 · 17 章图解",
           "link": "/books/Outlive: The Science and Art of Longevity.md"
         },
         {
-          "text": "《良好的能量》代谢健康实用指南（待核对）",
+          "text": "良好的能量 · 旧稿",
           "link": "/books/Good Energy: The Surprising Connection Between Metabolism and Limitless Health.md"
         },
         {
-          "text": "《绝佳时间》实用行动指南：优化你的生物钟（待核对）",
+          "text": "绝佳时间 · 旧稿",
           "link": "/books/Life Time: The New Science of the Body Clock, and How It Can Revolutionize Your Sleep and Health.md"
         },
         {
-          "text": "《我们为什么要睡觉》实用行动指南（待核对）",
+          "text": "我们为什么要睡觉 · 旧稿",
           "link": "/books/Why We Sleep: Unlocking the Power of Sleep and Dreams.md"
         },
         {
-          "text": "《高级马拉松训练》实用指南（待核对）",
+          "text": "高级马拉松训练 · 旧稿",
           "link": "/books/Advanced Marathoning- 2nd Edition.md"
         },
         {
-          "text": "《战斗细胞》实用行动指南（待核对）",
+          "text": "战斗细胞 · 旧稿",
           "link": "/books/Immune: A Journey into the Mysterious System That Keeps You Alive.md"
         },
         {
-          "text": "《肠子的小心思》实用指南（待核对）",
+          "text": "肠子的小心思 · 旧稿",
           "link": "/books/Darm mit Charme: Alles uber ein unterschatztes Organ.md"
         },
         {
-          "text": "《仿制药的真相》实用指南（待核对）",
+          "text": "仿制药的真相 · 旧稿",
           "link": "/books/Bottle of Lies: The Inside Story of the Generic Drug Boom.md"
         },
         {
-          "text": "《疗愈的饮食与断食》实用行动指南（待核对）",
+          "text": "疗愈的饮食与断食 · 旧稿",
           "link": "/books/Healing Diet, Healing Fast.md"
         },
         {
-          "text": "《贪婪的多巴胺》实用行动指南（待核对）",
+          "text": "贪婪的多巴胺 · 旧稿",
           "link": "/books/The Molecule of More.md"
         },
         {
-          "text": "《成瘾》实用行动指南（待核对）",
+          "text": "成瘾 · 旧稿",
           "link": "/books/Dopamine Nation.md"
         },
         {
-          "text": "《成瘾的深渊》实用行动指南（待核对）",
+          "text": "成瘾的深渊 · 旧稿",
           "link": "/books/Never Enough: The Neuroscience and Experience of Addiction.md"
         },
         {
-          "text": "《思维漫游》实用指南（待核对）",
+          "text": "思维漫游 · 旧稿",
           "link": "/books/Mindwandering.md"
         }
       ]
     },
 
-    footer: {
-      copyright: 'Copyright © 2025 Health Art. All rights reserved'
-    }
   }
 })

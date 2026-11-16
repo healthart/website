@@ -19,7 +19,7 @@ export default {
 
     const initWaline = () => {
       if (walineInstance) {
-        walineInstance.update()
+        walineInstance.update({ path: route.path })
         return
       }
       
@@ -28,6 +28,7 @@ export default {
         serverURL: 'https://waline-weld-iota.vercel.app', // 替换为你的 Waline 服务端地址
         path: route.path,
         lang: 'zh-CN',
+        locale: { placeholder: '写下评论或补充来源', submit: '提交评论', sofa: '暂无评论', comment: '评论' },
         login: 'disable',
         dark: isDark.value,
         // 以下是可选配置项
@@ -51,10 +52,8 @@ export default {
 
     watch(
       () => route.path,
-      () => {
-        // 路由变化时更新评论
-        setTimeout(initWaline, 100)
-      }
+      () => initWaline(),
+      { flush: 'post' }
     )
 
     // 监听主题变化

@@ -3,6 +3,7 @@ import importlib.util
 import io
 import sys
 import unittest
+import tempfile
 from unittest.mock import patch
 from pathlib import Path
 
@@ -28,6 +29,30 @@ def episode(**overrides):
 
 
 class GenerateContinuationTests(unittest.TestCase):
+    def test_catalogue_landing_survives_content_generation(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "diaryofaceo").mkdir()
+            landing = root / "diaryofaceo" / "index.md"
+            content = '# 栏目首页\n<SourceCatalog source="diaryofaceo" />\n'
+            landing.write_text(content, encoding="utf-8")
+            with patch.object(GENERATOR, "ROOT", root):
+                GENERATOR.write_diaryofaceo_landing([])
+            self.assertEqual(landing.read_text(encoding="utf-8"), content)
+
+    def test_paid_exclusions_are_read_from_card_page_source(self):
+        links = GENERATOR.discovery_only_links()
+        self.assertTrue(any("ama90" in link for link in links))
+        self.assertTrue(any("ama89" in link for link in links))
+        self.assertTrue(any("ama88" in link for link in links))
+
+    def test_sidebar_refresh_removes_old_and_chinese_generated_labels(self):
+        config = '[{"text": "【new】旧标签", "link": "/a"}, {"text": "新增 · 新标签", "link": "/b"}, {"text": "保留主题", "link": "/c"}]'
+        updated = GENERATOR.remove_new_sidebar_items(config)
+        self.assertNotIn('"link": "/a"', updated)
+        self.assertNotIn('"link": "/b"', updated)
+        self.assertIn('"link": "/c"', updated)
+
     def test_feed_date_uses_beijing_and_repairs_official_neuralink_link(self):
         xml = b"""<rss><channel><item>
         <title>Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall</title>

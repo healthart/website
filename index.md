@@ -1,38 +1,39 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
 hero:
   name: "Health Art"
   text: "健康行动指南"
   tagline: "按来源核对播客、图书与公开健康方案"
   actions:
     - theme: brand
-      text: "立即开始"
-      link: /hubermanlab/healthy_breathing_techniques
+      text: "开始阅读"
+      link: /start
     - theme: alt
-      text: "了解更多"
-      link: /about
-
+      text: "浏览图书图解"
+      link: /books/
 features:
+  - title: "Huberman Lab"
+    details: "从睡眠、训练到情绪与学习，阅读节目中的具体建议和科学解析。"
+    link: /hubermanlab/
+    icon: "01"
+  - title: "Peter Attia"
+    details: "围绕长寿、运动、代谢与疾病风险，阅读访谈和实用指南。"
+    link: /peterattiamd/
+    icon: "02"
+  - title: "The Diary Of A CEO"
+    details: "从健康、专注与关系读起，也可浏览访谈中的事业与社会话题。"
+    link: /diaryofaceo/
+    icon: "03"
   - title: "图书与公开方案"
-    details: "阅读《Protocols》与《超越百岁》的 24 章图解、完整方案解析，以及其他书籍和公开方案。"
+    details: "《Protocols》《超越百岁》逐章图解，以及书籍提纲和基础健身方案。"
     link: /books/
-    icon: 📚
-  - title: "最新节目核对"
-    details: "查看三档节目最新记录及每期实际核对范围：完整节目、公开重播、精选片段与付费排除。"
-    link: /latest
-    icon: 🗓️
-  - title: "Huberman Lab 健康行动指南"
-    details: "按完整节目或 Essentials 精选版的实际复核范围，阅读睡眠、训练、情绪等主题解析。"
-    link: /hubermanlab/healthy_breathing_techniques
-    icon: ⚡
-  - title: "Peter Attia 健康行动指南"
-    details: "区分完整访谈、公开重播与付费预览，阅读长寿医学和风险管理解析。"
-    link: /peterattiamd/metabolic_health_optimization_guide
-    icon: 🔍
-  - title: "The Diary Of A CEO 行动指南"
-    details: "按原始访谈与精选重播分别标明来源范围，整理健康、关系、事业与科技主题。"
-    link: /diaryofaceo/continuation_2026-11-05_RobertPape谈战争升级八周情景路径及其前提
-    icon: 🧭
+    icon: "04"
+  - title: "按主题开始"
+    details: "从睡眠、运动和压力管理选择阅读入口，了解文章各部分的用途。"
+    link: /start
+    icon: "05"
+  - title: "关于 Health Art"
+    details: "了解收录内容、来源核对方式，以及反馈和联系方式。"
+    link: /about
+    icon: "06"
 ---

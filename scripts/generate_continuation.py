@@ -729,7 +729,7 @@ def markdown_cell(value: str) -> str:
 
 def local_title_for_source(source: str, path: Path) -> str:
     title = title_from_file(path)
-    return title if source == "diaryofaceo" else f"【new】{title}"
+    return title if source == "diaryofaceo" else f"新增 · {title}"
 
 
 def collect_episode_rows(episodes: list[Episode]) -> dict[str, list[tuple[Episode, Path, str]]]:
@@ -808,7 +808,7 @@ def generate_source_index(source: str, rows: list[tuple[Episode, Path, str]], rs
         (
             f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中。"
             if source == "diaryofaceo"
-            else f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中；每条新增内容均以 `【new】` 标注。"
+            else f"本页把 `2025-08-02` 之后的 {SOURCE_LABELS[source]} RSS 条目放入{framework_label}中；每条新增内容均以 `新增 ·` 标注。"
         ),
         "",
         "RSS 只负责发现新节目；页面保留实际复核范围，原始节目、公开重播、精选片段和受限来源分开标识。本批逐条状态见[最新节目核对](/latest)。",
@@ -912,7 +912,7 @@ def generate_continuation_index(episodes: list[Episode]) -> None:
             "",
             "## 说明",
             "",
-            "- Huberman Lab 与 Peter Attia 的分类页条目以 `【new】` 开头；The Diary Of A CEO 条目不显示该标签。",
+            "- Huberman Lab 与 Peter Attia 的分类页条目以 `新增 ·` 开头；The Diary Of A CEO 条目不显示该标签。",
             "- `续写页面` 是停更后新增整理稿；`原有页面覆盖` 表示原项目已有同原文链接页面，未重复生成。",
             f"- `{REPLAY_STATUS}` 表示该条目是重播或精选片段。已有原节目可安全合并时链接回原节目，否则单独标明片段或公开重播；其发布日期不会覆盖原节目日期。",
             f"- 当前覆盖的 {stats['covered_pages']} 个页面中，{stats['continuation_pages']} 个是续写页面，{stats['existing_pages']} 个由原有页面覆盖。",
@@ -1126,10 +1126,10 @@ def remove_sidebar_items_by_links(config: str, links: set[str]) -> str:
 
 
 def remove_new_sidebar_items(config: str) -> str:
-    marker = '"text": "【new】'
-    while marker in config:
-        start, end = find_object_bounds_for_marker(config, marker)
-        config = remove_object_at(config, start, end)
+    for marker in ('"text": "【new】', '"text": "新增 · '):
+        while marker in config:
+            start, end = find_object_bounds_for_marker(config, marker)
+            config = remove_object_at(config, start, end)
     return config
 
 
@@ -1155,7 +1155,7 @@ def find_section_items_bounds(config: str, section_text: str) -> tuple[int, int]
 
 
 def build_new_sidebar_item(source: str) -> dict[str, str]:
-    return {"text": "【new】停更后新增内容（按原章节分类）", "link": NEW_INDEX_LINKS[source]}
+    return {"text": "新增 · 停更后新增内容（按原章节分类）", "link": NEW_INDEX_LINKS[source]}
 
 
 def new_sidebar_groups() -> dict[str, list[dict[str, str]]]:
@@ -1220,16 +1220,16 @@ def first_sidebar_link(source: str, rows: list[tuple[Episode, Path, str]]) -> st
 
 
 def write_diaryofaceo_landing(episodes: list[Episode]) -> None:
-    rows = collect_episode_rows(episodes)["diaryofaceo"]
-    first_link = first_sidebar_link("diaryofaceo", rows)
-    source_path = ROOT / (first_link.lstrip("/") + ".md")
-    if not source_path.exists():
-        raise RuntimeError(f"Could not find Diary Of A CEO landing source {source_path}")
-    (ROOT / "diaryofaceo" / "index.md").write_text(source_path.read_text(encoding="utf-8"), encoding="utf-8")
-    home_path = ROOT / "index.md"
-    home = home_path.read_text(encoding="utf-8")
-    home = replace_home_diaryofaceo_link(home, first_link)
-    home_path.write_text(home, encoding="utf-8")
+    # The editorial landing is a stable catalogue, not a copy of the newest episode.
+    # Its data loader picks up new articles automatically.
+    landing = ROOT / "diaryofaceo" / "index.md"
+    if landing.exists() and '<SourceCatalog source="diaryofaceo"' in landing.read_text(encoding="utf-8"):
+        return
+    landing.write_text(
+        '---\nsidebar: false\naside: false\ncomments: false\n---\n'
+        '# The Diary Of A CEO\n\n'
+        '<SourceCatalog source="diaryofaceo" />\n', encoding="utf-8"
+    )
 
 
 def replace_home_diaryofaceo_link(home: str, link: str) -> str:
@@ -1257,7 +1257,7 @@ def update_sidebar(episodes: list[Episode]) -> None:
         config = insert_items_into_section(config, section_text, items)
     diary_sidebar = build_source_sidebar("diaryofaceo", rows_by_source["diaryofaceo"])
     config = replace_sidebar_block(config, "/diaryofaceo/", diary_sidebar)
-    config = replace_nav_link(config, "Diary Of A CEO", first_sidebar_link("diaryofaceo", rows_by_source["diaryofaceo"]))
+    config = replace_nav_link(config, "Diary Of A CEO", "/diaryofaceo/")
     config = cleanup_empty_array_slots(config)
     config_path.write_text(config, encoding="utf-8")
 
