@@ -1,17 +1,19 @@
-# 最新节目核对
+---
+sidebar: false
+aside: false
+comments: false
+---
+# 节目核对记录
 
-截至2026-11-05（北京时间），已重新读取三个官方公开 RSS 并核对节目页：Huberman Lab 至2026-11-05，The Peter Attia Drive 至2026-11-02，The Diary Of A CEO 至2026-11-05。相较上次9月21日截止点，本批发现38条记录：31期按当次发行的完整转录复核，其中7期是 Essentials 精选版；5条重播回链原节目，1条只覆盖本期精选片段，1期付费 AMA 受限排除。
+记录截至 **2026-11-05** 的来源核对：Huberman Lab 至 11 月 5 日、Peter Attia 至 11 月 2 日、The Diary Of A CEO 至 11 月 5 日。
 
-完整转录复核保留节目观点与证据的区别；第三方自动文本未逐字回听。Essentials 仅代表当期精选版，重播片段不计为原始长访谈的全文复核。
+本批 38 条记录包含 31 期完整当期内容（含 7 期 Essentials 精选版）、5 条重播回链、1 期精选片段和 1 期付费 AMA；另保留 2 条既往付费记录。各条标明实际核对范围。
 
-## 本批解析
+浏览解析：[Huberman Lab](/hubermanlab/) · [Peter Attia](/peterattiamd/) · [The Diary Of A CEO](/diaryofaceo/)
 
-- [冷热暴露与代谢：冬泳研究中的做法和适用边界](/hubermanlab/continuation_2026-11-05_冷热暴露与代谢冬泳研究中的做法和适用边界)
-- [随年龄调整抗阻训练：用动作选择和有效努力兼顾肌肉与关节](/peterattiamd/continuation_2026-11-02_随年龄调整抗阻训练用动作选择和有效努力兼顾肌肉与关节)
-- [Robert Pape 谈战争升级：一条八周情景路径及其前提](/diaryofaceo/continuation_2026-11-05_RobertPape谈战争升级八周情景路径及其前提)
+<ReviewRecords />
 
-## 本轮官方节目清单
-
+<!-- 原始记录供发现脚本读取；页面由 ReviewRecords 按卡片呈现。
 | 发布日期（北京时间） | 来源 | 官方节目 | 处理状态 |
 | --- | --- | --- | --- |
 | 2026-11-05 | Huberman Lab | [Essentials: Cold & Heat Exposure for Metabolic Health \| Dr. Susanna Søberg](https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg) | [已按本期 Essentials 精选版全文复核](/hubermanlab/continuation_2026-11-05_冷热暴露与代谢冬泳研究中的做法和适用边界) |
@@ -61,3 +63,5 @@
 | --- | --- | --- | --- |
 | 2026-09-21 | The Peter Attia Drive | [#408 AMA #89：甲状腺健康](https://peterattiamd.com/ama89/) | 付费 AMA，按既定范围排除（受限来源） |
 | 2026-08-24 | The Peter Attia Drive | [#405 AMA #88：代谢与肝脏健康](https://peterattiamd.com/ama88/) | 付费 AMA，按既定范围排除（受限来源） |
+
+-->

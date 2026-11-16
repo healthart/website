@@ -1,53 +1,44 @@
-// https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
-import { useData, type Theme } from 'vitepress'
+import { h, onMounted, nextTick, watch } from 'vue'
+import { useData, useRoute, type Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import Waline from './components/Waline.vue'
-import CustomSidebarLink from './components/CustomSidebarLink.vue'
 import YouTube from './components/YouTube.vue'
+import ReaderSearch from './components/ReaderSearch.vue'
+import SiteFooter from './components/SiteFooter.vue'
+import SourceCatalog from './components/SourceCatalog.vue'
+import ReviewRecords from './components/ReviewRecords.vue'
+import BookShelf from './components/BookShelf.vue'
 import './style.css'
 
 export default {
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      'doc-after': () => h(Waline),
-      'sidebar-nav-before': () => h(CustomSidebarLink)
-    })
+  Layout: {
+    setup() {
+      const { frontmatter } = useData()
+      return () => h(DefaultTheme.Layout, null, {
+        'nav-bar-content-before': () => h(ReaderSearch),
+        'doc-after': () => frontmatter.value.comments === false ? null : h(Waline),
+        'layout-bottom': () => h(SiteFooter)
+      })
+    }
   },
   setup() {
-    if (typeof window === 'undefined') return
-    if (window.location.pathname !== '/diaryofaceo/' && window.location.pathname !== '/diaryofaceo') return
-
-    const { site } = useData()
-    const navItems = site.value.themeConfig?.nav || []
-    const diaryItem = navItems.find((item: { text?: string; link?: string }) => item.text === 'Diary Of A CEO')
-    if (diaryItem?.link) window.location.replace(diaryItem.link + window.location.search + window.location.hash)
+    const route = useRoute()
+    // These two accessibility labels are hardcoded in VitePress 1.6.
+    const localize = async () => {
+      await nextTick()
+      document.querySelector('.VPNavBarHamburger')?.setAttribute('aria-label', '打开或收起导航')
+      document.querySelector('.VPNavBarExtra button')?.setAttribute('aria-label', '更多选项')
+      const sidebarLabel = document.querySelector('#sidebar-aria-label')
+      if (sidebarLabel) sidebarLabel.textContent = '栏目导航'
+    }
+    onMounted(localize)
+    watch(() => route.path, localize)
   },
-  enhanceApp({ app, router, siteData }) {
-    // 覆盖默认的 VPLink 组件
-    app.component('VPLink', CustomSidebarLink)
-    app.component('Waline', Waline)
+  enhanceApp({ app }) {
     app.component('YouTube', YouTube)
-
-    const redirectDiaryRoot = (to: string) => {
-      if (typeof window === 'undefined') return false
-      const targetUrl = new URL(to, window.location.origin)
-      if (targetUrl.pathname !== '/diaryofaceo/' && targetUrl.pathname !== '/diaryofaceo') return false
-
-      const navItems = siteData.value.themeConfig?.nav || []
-      const diaryItem = navItems.find((item: { text?: string; link?: string }) => item.text === 'Diary Of A CEO')
-      const target = diaryItem?.link
-      if (!target || target === targetUrl.pathname) return false
-
-      window.location.replace(target + targetUrl.search + targetUrl.hash)
-      return true
-    }
-
-    const previousBeforeRouteChange = router.onBeforeRouteChange
-    router.onBeforeRouteChange = async (to) => {
-      if (redirectDiaryRoot(to)) return false
-      return previousBeforeRouteChange?.(to)
-    }
+    app.component('SourceCatalog', SourceCatalog)
+    app.component('ReviewRecords', ReviewRecords)
+    app.component('BookShelf', BookShelf)
   }
 } satisfies Theme
